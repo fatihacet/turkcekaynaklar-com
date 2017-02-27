@@ -1,8 +1,10 @@
 ## Türkçe Kaynaklar Listesi
 
-> Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
+Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
-> [Katkı çağrısı](/Katki-Cagrisi.md)
+> [KATKI ÇAĞRISI](/Katki-Cagrisi.md)
+>
+> Not: Buradaki listeyi en kısa zamanda [http://turkcekaynaklar.com](http://turkcekaynaklar.com)'da yayınlamak için çalışmalarım devam ediyor.
 
 
 ### CSS
