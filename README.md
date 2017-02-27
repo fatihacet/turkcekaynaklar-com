@@ -1,4 +1,4 @@
-## Türkçe Kaynaklar Listesi
+## Türkçe Kaynaklar Listesi [![Build Status](https://img.shields.io/travis/fatihacet/turkcekaynaklar-com.svg?style=flat-square)](https://travis-ci.org/fatihacet/turkcekaynaklar-com)
 
 Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
@@ -12,12 +12,14 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Django](#django)
 - [Docker](#docker)
 - [Flux](#flux)
-- [GulpJS](#gulpjs)
+- [gulp](#gulp)
 - [Java](#java)
+- [Node.js](#node-js)
 - [Rails](#rails)
 - [React](#react)
 - [React Native](#react-native)
-- [Vue JS](#vue-js)
+- [Swift](#swift)
+- [Vue.js](#vuejs)
 - [YouTube Kanalları](#youtube-kanalları)
 - [NodeJS](#node-js)
 - [Flask](#flask)
@@ -25,6 +27,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [MongoDB](#mongodb)
 - [Network](#network)
 - [JavaScript](#javascript)
+=======
+
 
 
 ### CSS
@@ -50,11 +54,17 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Flux
 - [Karikatürler üzerinden Flux](https://medium.com/@keremciu/karikat%C3%BCrler-%C3%BCzerinden-flux-3e8ad03db2c4) - [Kerem Sevencan](https://twitter.com/keremciu)
 
-### GulpJS
+
+### gulp
 - [Ben galp Gulp!](https://medium.com/@keremciu/ben-galp-gulp-1-15340198e866) - [Kerem Sevencan](https://twitter.com/keremciu)
+
 
 ### Java
 - [Java için birçok güzel yazı barındıran bir blog](http://www.kurumsaljava.com/) - [Özcan Acar](http://ozcanacar.com/)
+
+
+### Node.js
+- [Node JS Baslangic Egitimleri](http://blog.ilkerguller.com/search/label/node.js%20dersi) - [Ilker Guller](https://twitter.com/the_bluescreen)
 
 
 ### Rails
@@ -71,10 +81,14 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [React Native Türkçe](https://ysfzrn.gitbooks.io/react-native-turkce/) - [Yusuf Zeren](https://twitter.com/yosooff)
 - [React Native Uygulamaları](http://berkay.beyaz.us/category/react-native/) - [Berkay Beyaz](https://twitter.com/berkaybeyaz6)
 
+### Swift
+- [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye/archive) - [Ozgur Sahin](https://github.com/ozgurshn) & Huseyin Bagana
 
-### Vue JS
+
+### Vue.js
 - [VueJS Türkçe Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) - [Fatih Acet](https://twitter.com/fatihacet)
 - [Nedir Bu Vuejs](https://www.youtube.com/playlist?list=PLhLbfczNPVOKsDy-qb22aO-WxZUijmwTR) - Omer Şensoy
+
 
 ### Node JS
 - [Node JS Baslangic Egitimleri](http://blog.ilkerguller.com/search/label/node.js%20dersi) - [Ilker Guller](https://twitter.com/the_bluescreen)
@@ -98,6 +112,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### JavaScript
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html)
+=======
+
 
 ### YouTube Kanalları
 - [Doğukan Güven Nomak](https://www.youtube.com/channel/UCbu25feEIe6fY9fZx8BCMSA)
