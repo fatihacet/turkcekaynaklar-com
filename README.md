@@ -20,6 +20,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Vue JS](#vue-js)
 - [YouTube Kanalları](#youtube-kanalları)
 - [NodeJS](#node-js)
+- [Flask](#flask)
+- [Python](#python)
+- [MongoDB](#mongodb)
+- [Network](#network)
+- [JavaScript](#javascript)
 
 
 ### CSS
@@ -31,7 +36,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Django
 - [Django 101](https://www.youtube.com/watch?v=L-26ZJ3s6Mc&index=1&list=PLJeh-dT_Z82vvyYXmp1auK6A6e3aDlgCG&t=8s) - [Tolgahan Üzün](https://twitter.com/tlghnzn)
+- [Django Markdown Editör Kurulumu](https://aligoren.com/django-markdown-editor-kurulumu)
+- [Django RSS Feed Ekleme](https://aligoren.com/django-rss-feed-ekleme)
 
+### Flask
+- [Flask ve VueJS Kullanımı](https://aligoren.com/flask-ve-vuejs-kullanimi)
+- [Flask ile JSON Çıktı Almak](https://aligoren.com/flask-ile-json-cikti-almak)
 
 ### Docker
 - [Docker İpuçları](http://www.gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-1/) - [Gökhan Şengün](https://twitter.com/gokhansengun)
@@ -68,6 +78,26 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Node JS
 - [Node JS Baslangic Egitimleri](http://blog.ilkerguller.com/search/label/node.js%20dersi) - [Ilker Guller](https://twitter.com/the_bluescreen)
+- [NodeJS'de json-server ile REST API Geliştirme](https://aligoren.com/nodejsde-json-server-ile-rest-api-gelistirme)
+
+### Python
+- [Python ve NGram Algoritması](https://aligoren.com/python-ve-ngram-algoritmasi)
+- [Python'da Struct Kullanımı](https://aligoren.com/pythonda-struct-kullanimi)
+- [Python'da Zincirleme Metodlar](https://aligoren.com/pythonda-zincirleme-metodlar)
+- [Python ile Ağ Üzerinde İzleme Yapma](https://aligoren.com/python-ile-ag-uzerinde-izleme-yapma)
+- [sys.argv Yerine Click Kullanın](https://aligoren.com/python-sys-argv-yerine-click-kullanin)
+
+### MongoDB
+- [Atıştırmalık MongoDB Yazısı](https://aligoren.com/atistirmalik-mongodb-yazisi)
+- [Atıştırmalık MongoDB Yazısı 2](https://aligoren.com/atistirmalik-mongodb-yazisi-2)
+- [MongoDB Data Directory Not Found Hatası](https://aligoren.com/mongodb-data-directory-not-found)
+
+### Network
+- [DHCP Server ile IP Nasıl Dağıtılır?](https://dilekuzulmez.blogspot.com.tr/2017/02/dhcp-server-ile-ip-nasil-dagitilir.html)
+- [Ubuntu'da DNS Server Kurulumu](https://dilekuzulmez.blogspot.com.tr/2016/11/ubuntuda-dns-server-kurulumu.html)
+
+### JavaScript
+- [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html)
 
 ### YouTube Kanalları
 - [Doğukan Güven Nomak](https://www.youtube.com/channel/UCbu25feEIe6fY9fZx8BCMSA)
