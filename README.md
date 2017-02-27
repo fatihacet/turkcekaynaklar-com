@@ -23,6 +23,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### React
 - [React JS Eğitimi](https://www.youtube.com/playlist?list=PLC9XHh8X_kVJueSCNIp5ta_PcfOHpFKmO) - [Üstün Özgür](https://twitter.com/UstunOzgur)
 
+### Flux
+- [Karikatürler üzerinden Flux](https://medium.com/@keremciu/karikat%C3%BCrler-%C3%BCzerinden-flux-3e8ad03db2c4) - [Kerem Sevencan](https://twitter.com/keremciu)
+
 
 ### React Native
 - [React Native Türkçe](https://ysfzrn.gitbooks.io/react-native-turkce/) - [Yusuf Zeren](https://twitter.com/yosooff)
