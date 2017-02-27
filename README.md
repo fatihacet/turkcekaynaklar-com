@@ -30,6 +30,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Vue JS
 - [VueJS Türkçe Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) - [Fatih Acet](https://twitter.com/fatihacet)
+- [Nedir Bu Vuejs](https://www.youtube.com/playlist?list=PLhLbfczNPVOKsDy-qb22aO-WxZUijmwTR) - Omer Şensoy
 
 
 ### YouTube Kanalları
@@ -38,3 +39,4 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Adem İlter](https://www.youtube.com/user/ademilter)
 - [Uğur Özyılmazel](https://www.youtube.com/user/ugurozyilmazel)
 - [Abdullah Uğraşkan](https://www.youtube.com/user/apoStyLEE)
+- [Ömer Şensoy](https://www.youtube.com/user/omrse/feed)
