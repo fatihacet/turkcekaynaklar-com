@@ -2,7 +2,7 @@
 
 > Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
-> [Katkı çağrısı](/katkida-bulunmak.md)
+> [Katkı çağrısı](/Katki-Cagrisi.md)
 
 
 ### CSS
