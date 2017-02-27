@@ -37,3 +37,4 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Fatih Acet](https://www.youtube.com/channel/UCvANtNYHe556zUWm6VzJenQ)
 - [Adem İlter](https://www.youtube.com/user/ademilter)
 - [Uğur Özyılmazel](https://www.youtube.com/user/ugurozyilmazel)
+- [Abdullah Uğraşkan](https://www.youtube.com/user/apoStyLEE)
