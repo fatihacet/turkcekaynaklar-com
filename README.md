@@ -13,6 +13,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Docker](#docker)
 - [Flux](#flux)
 - [gulp](#gulp)
+- [Haskell](#haskell)
 - [Java](#java)
 - [Node.js](#node-js)
 - [Rails](#rails)
@@ -46,6 +47,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### gulp
 - [Ben galp Gulp!](https://medium.com/@keremciu/ben-galp-gulp-1-15340198e866) - [Kerem Sevencan](https://twitter.com/keremciu)
+
+
+### Haskell
+- [Zor Yoldan Haskell](http://github.com/joom/zor-yoldan-haskell) - [Cumhur Korkut](http://github.com/joom)
 
 
 ### Java
