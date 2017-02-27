@@ -46,6 +46,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Rails
 - [Haydi Rails Yazalım](https://www.youtube.com/watch?v=wjEVDmHxrTk&list=PLR-hVfRDr2Mp8cDcbWZ6TX2YVTM0vECz2) - [Anıl İyidoğan](https://twitter.com/lifeis00FF00)
+- [Ruby on Rails ile kapsamlı bir web projesi geliştirmek](https://mertbulan.com/2016/10/08/ruby-on-rails-ile-kapsamli-bir-web-projesi-gelistirmek/) - [Mert Bulan](http://twitter.com/mertbulan)
+- [Ruby on Rails İpuçları](https://www.youtube.com/playlist?list=PLRFrHX5qAOJXUVVU0gBv03fQSespreX3E) - [Mert Bulan](http://twitter.com/mertbulan)
 
 
 ### React
