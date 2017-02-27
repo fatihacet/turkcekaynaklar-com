@@ -18,7 +18,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Rails](#rails)
 - [React](#react)
 - [React Native](#react-native)
-- [Vue.js](#vue-js)
+- [Swift](#swift)
+- [Vue.js](#vuejs)
 - [YouTube Kanalları](#youtube-kanalları)
 
 ---
@@ -68,6 +69,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### React Native
 - [React Native Türkçe](https://ysfzrn.gitbooks.io/react-native-turkce/) - [Yusuf Zeren](https://twitter.com/yosooff)
 - [React Native Uygulamaları](http://berkay.beyaz.us/category/react-native/) - [Berkay Beyaz](https://twitter.com/berkaybeyaz6)
+
+### Swift
+- [Swift Türkiye] (https://medium.com/swift-t%C3%BCrkiye/archive) - [Ozgur Sahin](https://github.com/ozgurshn) & Huseyin Bagana
 
 
 ### Vue.js
