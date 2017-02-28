@@ -28,8 +28,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Ruby](#ruby)
 - [Swift](#swift)
 - [Vue.js](#vuejs)
-- [YouTube Kanalları](#youtube-kanalları)
-- [Faydalı Linkler](#faydalı-linkler)
+- Diğer Kaynaklar
+  - [Faydalı Linkler](#faydalı-linkler)
+  - [Podcast Yayınları](#podcast-yayınları)
+  - [YouTube Kanalları](#youtube-kanalları)
 
 
 ---
@@ -120,6 +122,20 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Vue.js
 - [VueJS Türkçe Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) - [Fatih Acet](https://twitter.com/fatihacet)
 - [Nedir Bu Vuejs](https://www.youtube.com/playlist?list=PLhLbfczNPVOKsDy-qb22aO-WxZUijmwTR) - Omer Şensoy
+
+
+## Diğer Kaynaklar
+
+
+### Faydalı Linkler
+- [Çalışma Masam](https://calismamasam.com) - [Tolga Gezginiş](https://twitter.com/tgezginis)
+- [Anlamsal Sürümleme](http://semver.org/lang/tr/)
+
+
+### Podcast Yayınları
+- [devPod](http://devpod.org/)
+- [Yakut](http://yakutrb.com/)
+- [Codefiction](http://www.codefiction.tech/)
 
 
 ### YouTube Kanalları
