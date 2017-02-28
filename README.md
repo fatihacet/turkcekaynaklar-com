@@ -23,6 +23,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift](#swift)
 - [Vue.js](#vuejs)
 - [YouTube Kanalları](#youtube-kanalları)
+- [Podcast Yayınları](#podcast-yayınları)
 - [Faydalı Linkler](#faydalı-linkler)
 
 
@@ -99,6 +100,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Ömer Şensoy](https://www.youtube.com/user/omrse/feed)
 - [Devnot TV](https://www.youtube.com/channel/UCgKcX7YBsGbdLrZQyOKMLQA)
 - [Yalin Kod](https://www.youtube.com/channel/UCiziEYDqww4rn3wn7otqHQQ)
+
+### Podcast Yayınları
+- [devPod](http://devpod.org/)
+- [Yakut](http://yakutrb.com/)
+- [Codefiction](http://www.codefiction.tech/)
 
 
 ### Faydalı Linkler
