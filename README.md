@@ -28,8 +28,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Ruby](#ruby)
 - [Swift](#swift)
 - [Vue.js](#vuejs)
-- [YouTube Kanalları](#youtube-kanalları)
-- [Faydalı Linkler](#faydalı-linkler)
+- Diğer Kaynaklar
+  - [Faydalı Linkler](#faydalı-linkler)
+  - [Podcast Yayınları](#podcast-yayınları)
+  - [YouTube Kanalları](#youtube-kanalları)
 
 
 ---
@@ -122,6 +124,23 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Nedir Bu Vuejs](https://www.youtube.com/playlist?list=PLhLbfczNPVOKsDy-qb22aO-WxZUijmwTR) - Omer Şensoy
 
 
+----
+
+
+## Diğer Kaynaklar
+
+
+### Faydalı Linkler
+- [Çalışma Masam](https://calismamasam.com) - [Tolga Gezginiş](https://twitter.com/tgezginis)
+- [Anlamsal Sürümleme](http://semver.org/lang/tr/)
+
+
+### Podcast Yayınları
+- [devPod](http://devpod.org/)
+- [Yakut](http://yakutrb.com/)
+- [Codefiction](http://www.codefiction.tech/)
+
+
 ### YouTube Kanalları
 - [Doğukan Güven Nomak](https://www.youtube.com/channel/UCbu25feEIe6fY9fZx8BCMSA)
 - [Fatih Acet](https://www.youtube.com/channel/UCvANtNYHe556zUWm6VzJenQ)
@@ -133,8 +152,3 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Devnot TV](https://www.youtube.com/channel/UCgKcX7YBsGbdLrZQyOKMLQA)
 - [Yalin Kod](https://www.youtube.com/channel/UCiziEYDqww4rn3wn7otqHQQ)
 - [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
-
-
-### Faydalı Linkler
-- [Çalışma Masam](https://calismamasam.com) - [Tolga Gezginiş](https://twitter.com/tgezginis)
-- [Anlamsal Sürümleme](http://semver.org/lang/tr/)
