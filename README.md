@@ -16,6 +16,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Gulp](#gulp)
 - [Haskell](#haskell)
 - [Java](#java)
+- [Laravel](#laravel)
 - [Node.js](#nodejs)
 - [PHP](#php)
 - [Rails](#rails)
@@ -61,6 +62,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Java
 - [Java için birçok güzel yazı barındıran bir blog](http://www.kurumsaljava.com/) - [Özcan Acar](http://ozcanacar.com/)
 
+### Laravel
+- [Laravel Nedir?](https://www.sinaneldem.com.tr/laravel-framework-nedir-ve-ozellikleri-nelerdir) - [Sinan Eldem](https://twitter.com/sineld)
+- [Laravel Türkçe](http://www.laravel.gen.tr/) - [Laravel Türkiye](https://twitter.com/laraveltr)
+- [Laravel Türkiye Forum](http://forum.laravel.gen.tr/)
 
 ### Node.js
 - [Node JS Baslangic Egitimleri](http://blog.ilkerguller.com/search/label/node.js%20dersi) - [Ilker Guller](https://twitter.com/the_bluescreen)
