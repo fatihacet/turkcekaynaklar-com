@@ -12,7 +12,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Django](#django)
 - [Docker](#docker)
 - [Flux](#flux)
-- [gulp](#gulp)
+- [Gulp](#gulp)
 - [Haskell](#haskell)
 - [Java](#java)
 - [Node.js](#nodejs)
@@ -37,7 +37,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Django 101](https://www.youtube.com/watch?v=L-26ZJ3s6Mc&index=1&list=PLJeh-dT_Z82vvyYXmp1auK6A6e3aDlgCG&t=8s) - [Tolgahan Üzün](https://twitter.com/tlghnzn)
 - [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/)
 
-    
+
 
 ### Docker
 - [Docker İpuçları](http://www.gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-1/) - [Gökhan Şengün](https://twitter.com/gokhansengun)
@@ -47,7 +47,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Karikatürler üzerinden Flux](https://medium.com/@keremciu/karikat%C3%BCrler-%C3%BCzerinden-flux-3e8ad03db2c4) - [Kerem Sevencan](https://twitter.com/keremciu)
 
 
-### gulp
+### Gulp
 - [Ben galp Gulp!](https://medium.com/@keremciu/ben-galp-gulp-1-15340198e866) - [Kerem Sevencan](https://twitter.com/keremciu)
 
 
@@ -76,6 +76,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### React Native
 - [React Native Türkçe](https://ysfzrn.gitbooks.io/react-native-turkce/) - [Yusuf Zeren](https://twitter.com/yosooff)
 - [React Native Uygulamaları](http://berkay.beyaz.us/category/react-native/) - [Berkay Beyaz](https://twitter.com/berkaybeyaz6)
+
 
 ### Swift
 - [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye/archive) - [Ozgur Sahin](https://github.com/ozgurshn) & Huseyin Bagana
