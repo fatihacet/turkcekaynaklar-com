@@ -2,9 +2,10 @@
 
 Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
-> [KATKI ÇAĞRISI](/Katki-Cagrisi.md)
->
-> Not: Buradaki listeyi en kısa zamanda [http://turkcekaynaklar.com](http://turkcekaynaklar.com)'da yayınlamak için çalışmalarım devam ediyor.
+### [http://turkcekaynaklar.com](http://turkcekaynaklar.com)
+### [KATKI ÇAĞRISI](/Katki-Cagrisi.md)
+
+---
 
 
 ### Konu başlıkları
@@ -23,6 +24,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Vue.js](#vuejs)
 - [YouTube Kanalları](#youtube-kanalları)
 
+
 ---
 
 
@@ -36,7 +38,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Django
 - [Django 101](https://www.youtube.com/watch?v=L-26ZJ3s6Mc&index=1&list=PLJeh-dT_Z82vvyYXmp1auK6A6e3aDlgCG&t=8s) - [Tolgahan Üzün](https://twitter.com/tlghnzn)
 - [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/)
-
 
 
 ### Docker
