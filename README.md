@@ -23,7 +23,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift](#swift)
 - [Vue.js](#vuejs)
 - [YouTube Kanalları](#youtube-kanalları)
-- [Faydalı Linkler](#faydali-linkler)
+- [Faydalı Linkler](#faydalı-linkler)
 
 
 ---
