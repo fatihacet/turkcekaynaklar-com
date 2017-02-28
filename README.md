@@ -35,7 +35,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Django
 - [Django 101](https://www.youtube.com/watch?v=L-26ZJ3s6Mc&index=1&list=PLJeh-dT_Z82vvyYXmp1auK6A6e3aDlgCG&t=8s) - [Tolgahan Üzün](https://twitter.com/tlghnzn)
+- [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/)
 
+    
 
 ### Docker
 - [Docker İpuçları](http://www.gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-1/) - [Gökhan Şengün](https://twitter.com/gokhansengun)
