@@ -13,6 +13,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Django](#django)
 - [Docker](#docker)
 - [Flux](#flux)
+- [Go](#go)
 - [Gulp](#gulp)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -49,6 +50,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Flux
 - [Karikatürler üzerinden Flux](https://medium.com/@keremciu/karikat%C3%BCrler-%C3%BCzerinden-flux-3e8ad03db2c4) - [Kerem Sevencan](https://twitter.com/keremciu)
 
+### Go
+- [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
 
 ### Gulp
 - [Ben galp Gulp!](https://medium.com/@keremciu/ben-galp-gulp-1-15340198e866) - [Kerem Sevencan](https://twitter.com/keremciu)
