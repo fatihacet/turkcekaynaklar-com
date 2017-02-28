@@ -15,7 +15,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [gulp](#gulp)
 - [Haskell](#haskell)
 - [Java](#java)
-- [Node.js](#node-js)
+- [Node.js](#nodejs)
 - [Rails](#rails)
 - [React](#react)
 - [React Native](#react-native)
