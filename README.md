@@ -94,7 +94,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### PHP
 - [PHP Dersleri](http://ibrahimcevruk.com/kat/php-dersleri) - [İbrahim Çevrük](http://ibrahimcevruk.com)
-
+- [PHP ile Nesne Yönelimli Programlama](http://www.rizagunes.com/kategori/php) - [Rıza Güneş](https://twitter.com/rgunes18)
 
 ### Rails
 - [Haydi Rails Yazalım](https://www.youtube.com/watch?v=wjEVDmHxrTk&list=PLR-hVfRDr2Mp8cDcbWZ6TX2YVTM0vECz2) - [Anıl İyidoğan](https://twitter.com/lifeis00FF00)
@@ -150,3 +150,4 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Yalin Kod](https://www.youtube.com/channel/UCiziEYDqww4rn3wn7otqHQQ)
 - [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
 - [Okan Davut](https://www.youtube.com/channel/UCD9xZqZn8YHkm-6XnmdgYGg)
+- [Rıza Güneş](https://www.youtube.com/user/rgunes18)
