@@ -136,6 +136,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Faydalı Linkler
 - [Çalışma Masam](https://calismamasam.com) - [Tolga Gezginiş](https://twitter.com/tgezginis)
 - [Anlamsal Sürümleme](http://semver.org/lang/tr/)
+- [Tasarım Desenleri](http://www.tasarimdesenleri.com)
 
 
 ### Podcast Yayınları
