@@ -10,6 +10,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Konu başlıkları
 - [Android](#android)
+- [Cpp](#cpp)
 - [CSS](#css)
 - [Django](#django)
 - [Docker](#docker)
@@ -41,6 +42,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
  - [Mobilhanem](https://www.mobilhanem.com/)
  - [Junior Android Geliştiricilere Tavsiyeler](https://github.com/muratcanbur/medium-yazilarim) - [Murat Can BUR](https://twitter.com/muratcanbur)
 
+
+### Cpp
+- [C++ Turkey User Group](https://cppturkiye.wordpress.com/)
+- [plepa.com](http://plepa.com/)
+- [cppdili](https://cppdili.blogspot.com.tr/)
 
 ### CSS
 - [CSS Anlat](https://www.youtube.com/playlist?list=PLadt0EaV4m3CV5URFStcmOMMP-G9Bf8LG) - [Adem İlter](https://twitter.com/ADEMilter)
