@@ -9,32 +9,51 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Konu başlıkları
+- [Android](#android)
+- [Cpp](#cpp)
 - [CSS](#css)
 - [Django](#django)
 - [Docker](#docker)
 - [Flux](#flux)
+- [Go](#go)
+- [Git](#git)
 - [Gulp](#gulp)
 - [Haskell](#haskell)
 - [Java](#java)
+- [JavaScript](#javascript)
+- [Laravel](#laravel)
 - [Node.js](#nodejs)
+- [PHP](#php)
 - [Rails](#rails)
 - [React](#react)
 - [React Native](#react-native)
+- [Ruby](#ruby)
 - [Swift](#swift)
 - [Vue.js](#vuejs)
-- [YouTube Kanalları](#youtube-kanalları)
-- [Faydalı Linkler](#faydalı-linkler)
+- Diğer Kaynaklar
+  - [Faydalı Linkler](#faydalı-linkler)
+  - [Podcast Yayınları](#podcast-yayınları)
+  - [YouTube Kanalları](#youtube-kanalları)
 
 
 ---
 
 
+### Android
+ - [Mobilhanem](https://www.mobilhanem.com/)
+ - [Junior Android Geliştiricilere Tavsiyeler](https://github.com/muratcanbur/medium-yazilarim) - [Murat Can BUR](https://twitter.com/muratcanbur)
+
+
+### Cpp
+- [C++ Turkey User Group](https://cppturkiye.wordpress.com/)
+- [plepa.com](http://plepa.com/)
+- [cppdili](https://cppdili.blogspot.com.tr/)
+
 ### CSS
 - [CSS Anlat](https://www.youtube.com/playlist?list=PLadt0EaV4m3CV5URFStcmOMMP-G9Bf8LG) - [Adem İlter](https://twitter.com/ADEMilter)
 - [Fatih Hayrioğlu'nun not defteri](http://fatihhayrioglu.com) - [Fatih Hayrioğlu](https://twitter.com/fatihhayri)
 - [CSS Dokümanları](http://sercaneraslan.com/css) - [Sercan Eraslan](https://twitter.com/sercan_eraslan)
-- [Bootstrap Türkçe](http://trbootstrap.com/)
-
+- [Bootstrap Türkçe](http://trbootstrap.com/) - Meftun Cincioğlu & [Bahri Bayrak](http://www.bahribayrak.com/)
 
 ### Django
 - [Django 101](https://www.youtube.com/watch?v=L-26ZJ3s6Mc&index=1&list=PLJeh-dT_Z82vvyYXmp1auK6A6e3aDlgCG&t=8s) - [Tolgahan Üzün](https://twitter.com/tlghnzn)
@@ -49,6 +68,14 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Karikatürler üzerinden Flux](https://medium.com/@keremciu/karikat%C3%BCrler-%C3%BCzerinden-flux-3e8ad03db2c4) - [Kerem Sevencan](https://twitter.com/keremciu)
 
 
+### Go
+- [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
+
+
+### Git
+- [Türkçe Git 101](https://aliozgur.gitbooks.io/git101/) - [Ali Özgür](https://twitter.com/aliozgur)
+
+
 ### Gulp
 - [Ben galp Gulp!](https://medium.com/@keremciu/ben-galp-gulp-1-15340198e866) - [Kerem Sevencan](https://twitter.com/keremciu)
 
@@ -61,9 +88,23 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java için birçok güzel yazı barındıran bir blog](http://www.kurumsaljava.com/) - [Özcan Acar](http://ozcanacar.com/)
 
 
+### JavaScript
+- [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
+
+
+### Laravel
+- [Laravel Nedir?](https://www.sinaneldem.com.tr/laravel-framework-nedir-ve-ozellikleri-nelerdir) - [Sinan Eldem](https://twitter.com/sineld)
+- [Laravel Türkçe](http://www.laravel.gen.tr/) - [Laravel Türkiye](https://twitter.com/laraveltr)
+- [Laravel Türkiye Forum](http://forum.laravel.gen.tr/)
+
+
 ### Node.js
 - [Node JS Baslangic Egitimleri](http://blog.ilkerguller.com/search/label/node.js%20dersi) - [Ilker Guller](https://twitter.com/the_bluescreen)
 
+
+### PHP
+- [PHP Dersleri](http://ibrahimcevruk.com/kat/php-dersleri) - [İbrahim Çevrük](http://ibrahimcevruk.com)
+- [PHP ile Nesne Yönelimli Programlama](http://www.rizagunes.com/kategori/php) - [Rıza Güneş](https://twitter.com/rgunes18)
 
 ### Rails
 - [Haydi Rails Yazalım](https://www.youtube.com/watch?v=wjEVDmHxrTk&list=PLR-hVfRDr2Mp8cDcbWZ6TX2YVTM0vECz2) - [Anıl İyidoğan](https://twitter.com/lifeis00FF00)
@@ -80,14 +121,34 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [React Native Uygulamaları](http://berkay.beyaz.us/category/react-native/) - [Berkay Beyaz](https://twitter.com/berkaybeyaz6)
 
 
+### Ruby
+- [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
+
+
 ### Swift
 - [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye/archive) - [Ozgur Sahin](https://github.com/ozgurshn) & Huseyin Bagana
-
+- [10 Dakikada Swift](https://learnxinyminutes.com/docs/tr-tr/swift-tr/) - [Ozgur Sahin](https://github.com/ozgurshn)
 
 ### Vue.js
 - [VueJS Türkçe Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) - [Fatih Acet](https://twitter.com/fatihacet)
 - [Nedir Bu Vuejs](https://www.youtube.com/playlist?list=PLhLbfczNPVOKsDy-qb22aO-WxZUijmwTR) - Omer Şensoy
 - [Vue.js ile Uygulama Geliştirme](http://oguzhan.in/vue-js-ile-uygulama-gelistirme/) - [Oğuzhan Aslan](https:/twitter.com/oguzhanaslan)
+
+## Diğer Kaynaklar
+
+
+### Faydalı Linkler
+- [Çalışma Masam](https://calismamasam.com) - [Tolga Gezginiş](https://twitter.com/tgezginis)
+- [Anlamsal Sürümleme](http://semver.org/lang/tr/)
+- [Tasarım Desenleri](http://www.tasarimdesenleri.com)
+- [Github Pages ile Geliştiricilere Ücretsiz Blog](http://www.mehmetemineker.com/github-pages-ile-gelistiricilere-ucretsiz-blog/) - [Mehmet Emin Eker](http://www.mehmetemineker.com)
+
+
+### Podcast Yayınları
+- [devPod](http://devpod.org/)
+- [Yakut](http://yakutrb.com/)
+- [Codefiction](http://www.codefiction.tech/)
+
 
 ### YouTube Kanalları
 - [Doğukan Güven Nomak](https://www.youtube.com/channel/UCbu25feEIe6fY9fZx8BCMSA)
@@ -100,10 +161,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Devnot TV](https://www.youtube.com/channel/UCgKcX7YBsGbdLrZQyOKMLQA)
 - [Yalin Kod](https://www.youtube.com/channel/UCiziEYDqww4rn3wn7otqHQQ)
 - [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
+- [Okan Davut](https://www.youtube.com/channel/UCD9xZqZn8YHkm-6XnmdgYGg)
+- [Rıza Güneş](https://www.youtube.com/user/rgunes18)
 
-<<<<<<< HEAD
-=======
-
-### Faydalı Linkler
-- [Çalışma Masam](https://calismamasam.com) - [Tolga Gezginiş](https://twitter.com/tgezginis)
->>>>>>> 7b2e6a1e9dd586d5719ebce9a9a23c22f397f046
