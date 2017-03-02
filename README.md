@@ -52,7 +52,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [CSS Anlat](https://www.youtube.com/playlist?list=PLadt0EaV4m3CV5URFStcmOMMP-G9Bf8LG) - [Adem İlter](https://twitter.com/ADEMilter)
 - [Fatih Hayrioğlu'nun not defteri](http://fatihhayrioglu.com) - [Fatih Hayrioğlu](https://twitter.com/fatihhayri)
 - [CSS Dokümanları](http://sercaneraslan.com/css) - [Sercan Eraslan](https://twitter.com/sercan_eraslan)
-- [Bootstrap Türkçe](http://trbootstrap.com/) - [Meftun Cincioğlu](https://tr.linkedin.com/in/meftun-cincio%C4%9Flu-b502148b) & [Bahri Bayrak](http://www.bahribayrak.com/)
+- [Bootstrap Türkçe](http://trbootstrap.com/) - [Meftun Cincioğlu](https://tr.linkedin.com/in/meftun-cincio) & [Bahri Bayrak](http://www.bahribayrak.com/)
 
 ### Django
 - [Django 101](https://www.youtube.com/watch?v=L-26ZJ3s6Mc&index=1&list=PLJeh-dT_Z82vvyYXmp1auK6A6e3aDlgCG&t=8s) - [Tolgahan Üzün](https://twitter.com/tlghnzn)
