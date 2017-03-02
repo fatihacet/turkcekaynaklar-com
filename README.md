@@ -94,3 +94,4 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Ömer Şensoy](https://www.youtube.com/user/omrse/feed)
 - [Devnot TV](https://www.youtube.com/channel/UCgKcX7YBsGbdLrZQyOKMLQA)
 - [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
+
