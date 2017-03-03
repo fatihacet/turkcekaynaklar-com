@@ -15,8 +15,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Django](#django)
 - [Docker](#docker)
 - [Flux](#flux)
-- [Go](#go)
 - [Git](#git)
+- [Go](#go)
 - [Gulp](#gulp)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -68,12 +68,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Karikatürler üzerinden Flux](https://medium.com/@keremciu/karikat%C3%BCrler-%C3%BCzerinden-flux-3e8ad03db2c4) - [Kerem Sevencan](https://twitter.com/keremciu)
 
 
-### Go
-- [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
-
-
 ### Git
 - [Türkçe Git 101](https://aliozgur.gitbooks.io/git101/) - [Ali Özgür](https://twitter.com/aliozgur)
+
+
+### Go
+- [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
 
 
 ### Gulp
@@ -124,6 +124,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Ruby
 - [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
+- [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details) - [Uğur Özyılmazel](https://twitter.com/vigobronx)
 
 
 ### Swift
