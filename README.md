@@ -91,6 +91,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### JavaScript
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
+- [Javasript console log Komutunu Özelleştirme](http://www.avarekodcu.com/konu/11/javasript-console-log-komutunu-ozellestirme-kullanma) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 
 
 ### Laravel
@@ -126,6 +127,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### React Native
 - [React Native Türkçe](https://ysfzrn.gitbooks.io/react-native-turkce/) - [Yusuf Zeren](https://twitter.com/yosooff)
 - [React Native Uygulamaları](http://berkay.beyaz.us/category/react-native/) - [Berkay Beyaz](https://twitter.com/berkaybeyaz6)
+- [React Native İle Login Uygulaması](http://www.avarekodcu.com/aramayap/etiket/react-native-login-uygulamas) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 
 
 ### Ruby
@@ -151,6 +153,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Anlamsal Sürümleme](http://semver.org/lang/tr/)
 - [Tasarım Desenleri](http://www.tasarimdesenleri.com)
 - [Github Pages ile Geliştiricilere Ücretsiz Blog](http://www.mehmetemineker.com/github-pages-ile-gelistiricilere-ucretsiz-blog/) - [Mehmet Emin Eker](http://www.mehmetemineker.com)
+- [Github Api Kullanarak İonic 2 de Basit Bir Uygulama](http://www.avarekodcu.com/konu/9/ionic-2-kurulumu-kullanimi) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 
 
 ### Podcast Yayınları
@@ -172,3 +175,4 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
 - [Okan Davut](https://www.youtube.com/channel/UCD9xZqZn8YHkm-6XnmdgYGg)
 - [Rıza Güneş](https://www.youtube.com/user/rgunes18)
+- [Avare Kodcu](https://www.youtube.com/avarekodcu)
