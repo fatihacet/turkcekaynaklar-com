@@ -124,6 +124,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Ruby
 - [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
+- [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details) - [Uğur Özyılmazel](https://twitter.com/vigobronx)
 
 
 ### Swift
