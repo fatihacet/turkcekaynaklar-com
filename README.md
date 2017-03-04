@@ -107,6 +107,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [PHP Dersleri](http://ibrahimcevruk.com/kat/php-dersleri) - [İbrahim Çevrük](http://ibrahimcevruk.com)
 - [PHP ile Nesne Yönelimli Programlama](http://www.rizagunes.com/kategori/php) - [Rıza Güneş](https://twitter.com/rgunes18)
 - [PHP Dersleri ve Uygulamaları](http://yilmazdemir.com.tr/php-dersleri) - [Yılmaz Demir](http://yilmazdemir.com.tr)
+- [PHP Serüvenleri](https://www.phpr.org) - [Musa Avcı](https://twitter.com/musa_avci)
 
 
 ### Python
