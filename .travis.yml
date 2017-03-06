@@ -1,10 +1,13 @@
 language: ruby
-
 rvm:
   - 2.2
-
 before_script:
   - gem install awesome_bot
-
 script:
-  - awesome_bot README.md -t 5 --allow-timeout --allow-dupe --allow-redirect --white-list turkcekaynaklar.com
+  - bash deploy.sh
+env:
+  global:
+  - ENCRYPTION_LABEL: 1f8e61e7676b
+addons:
+  ssh_known_hosts:
+  - gitlab.com
