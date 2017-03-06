@@ -88,6 +88,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Java
 - [Kurumsal Java](http://www.kurumsaljava.com/) - [Özcan Acar](http://ozcanacar.com/)
 - [Java'da Multithreading](https://ufukuzun.wordpress.com/tag/multithreading/) - [Ufuk Uzun](https://ufukuzun.wordpress.com/)
+- [Java için birçok güzel yazı barındıran bir blog](http://www.kurumsaljava.com/) - [Özcan Acar](http://ozcanacar.com/)
+- [Java ve ilişkili teknolojileri içeren blog](https://alicanakkus.github.io) ve [site](http://www.alicanakkus.com)
 
 ### JavaScript
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
