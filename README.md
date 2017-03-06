@@ -5,7 +5,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### [http://turkcekaynaklar.com](http://turkcekaynaklar.com)
 ### [KATKI ÇAĞRISI](/Katki-Cagrisi.md)
 
----
+-----
 
 
 ### Konu başlıkları
