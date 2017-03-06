@@ -37,7 +37,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
   - [YouTube Kanalları](#youtube-kanalları)
 
 
----
+-----
 
 
 ### Android
@@ -86,8 +86,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Java
-- [Java için birçok güzel yazı barındıran bir blog](http://www.kurumsaljava.com/) - [Özcan Acar](http://ozcanacar.com/)
-
+- [Kurumsal Java](http://www.kurumsaljava.com/) - [Özcan Acar](http://ozcanacar.com/)
+- [Java'da Multithreading](https://ufukuzun.wordpress.com/tag/multithreading/) - [Ufuk Uzun](https://ufukuzun.wordpress.com/)
 
 ### JavaScript
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
@@ -152,6 +152,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Anlamsal Sürümleme](http://semver.org/lang/tr/)
 - [Tasarım Desenleri](http://www.tasarimdesenleri.com)
 - [Github Pages ile Geliştiricilere Ücretsiz Blog](http://www.mehmetemineker.com/github-pages-ile-gelistiricilere-ucretsiz-blog/) - [Mehmet Emin Eker](http://www.mehmetemineker.com)
+- [JMeter İle Performans Testleri](http://www.gokhansengun.com/jmeter-nedir-ve-ne-ise-yarar/) - [Gökhan Şengün](http://www.gokhansengun.com/)
 
 
 ### Podcast Yayınları
