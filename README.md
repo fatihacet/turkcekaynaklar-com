@@ -15,8 +15,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Django](#django)
 - [Docker](#docker)
 - [Flux](#flux)
-- [Go](#go)
 - [Git](#git)
+- [Go](#go)
 - [Gulp](#gulp)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -24,6 +24,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Laravel](#laravel)
 - [Node.js](#nodejs)
 - [PHP](#php)
+- [Python](#python)
 - [Rails](#rails)
 - [React](#react)
 - [React Native](#react-native)
@@ -36,7 +37,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
   - [YouTube Kanalları](#youtube-kanalları)
 
 
----
+-----
 
 
 ### Android
@@ -68,12 +69,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Karikatürler üzerinden Flux](https://medium.com/@keremciu/karikat%C3%BCrler-%C3%BCzerinden-flux-3e8ad03db2c4) - [Kerem Sevencan](https://twitter.com/keremciu)
 
 
-### Go
-- [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
-
-
 ### Git
 - [Türkçe Git 101](https://aliozgur.gitbooks.io/git101/) - [Ali Özgür](https://twitter.com/aliozgur)
+- [Git ve GitHub Kullanımı](https://www.youtube.com/watch?v=rWG70T7fePg&list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - [Barış Aslan](https://www.youtube.com/c/Bar%C4%B1%C5%9FAslan)
+
+### Go
+- [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
 
 
 ### Gulp
@@ -85,17 +86,21 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Java
+- [Kurumsal Java](http://www.kurumsaljava.com/) - [Özcan Acar](http://ozcanacar.com/)
+- [Java'da Multithreading](https://ufukuzun.wordpress.com/tag/multithreading/) - [Ufuk Uzun](https://ufukuzun.wordpress.com/)
 - [Java için birçok güzel yazı barındıran bir blog](http://www.kurumsaljava.com/) - [Özcan Acar](http://ozcanacar.com/)
-
+- [Java ve ilişkili teknolojileri içeren blog](https://alicanakkus.github.io) ve [site](http://www.alicanakkus.com)
 
 ### JavaScript
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
+- [Javasript console log Komutunu Özelleştirme](http://www.avarekodcu.com/konu/11/javasript-console-log-komutunu-ozellestirme-kullanma) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 
 
 ### Laravel
 - [Laravel Nedir?](https://www.sinaneldem.com.tr/laravel-framework-nedir-ve-ozellikleri-nelerdir) - [Sinan Eldem](https://twitter.com/sineld)
 - [Laravel Türkçe](http://www.laravel.gen.tr/) - [Laravel Türkiye](https://twitter.com/laraveltr)
 - [Laravel Türkiye Forum](http://forum.laravel.gen.tr/)
+- [Laravel 5.4 Blog Uygulaması](https://www.youtube.com/watch?v=0N1tiGJTuGs&list=PLS-yaST2La_j2_WWCZXQcyYcBp7_7Teaz) - [Halil Coşdu](https://github.com/halilcosdu)
 
 
 ### Node.js
@@ -105,6 +110,13 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### PHP
 - [PHP Dersleri](http://ibrahimcevruk.com/kat/php-dersleri) - [İbrahim Çevrük](http://ibrahimcevruk.com)
 - [PHP ile Nesne Yönelimli Programlama](http://www.rizagunes.com/kategori/php) - [Rıza Güneş](https://twitter.com/rgunes18)
+- [PHP Dersleri ve Uygulamaları](http://yilmazdemir.com.tr/php-dersleri) - [Yılmaz Demir](http://yilmazdemir.com.tr)
+- [Videolu ve Yazılı PHP Dersleri](http://www.erbilen.net/kategori/ders/php/) - [Tayfun Erbilen](http://www.erbilen.net)
+
+
+### Python
+- [Python Dersleri](http://www.istihza.com) - [Fırat Özgül](http://www.istihza.com)
+
 
 ### Rails
 - [Haydi Rails Yazalım](https://www.youtube.com/watch?v=wjEVDmHxrTk&list=PLR-hVfRDr2Mp8cDcbWZ6TX2YVTM0vECz2) - [Anıl İyidoğan](https://twitter.com/lifeis00FF00)
@@ -119,15 +131,18 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### React Native
 - [React Native Türkçe](https://ysfzrn.gitbooks.io/react-native-turkce/) - [Yusuf Zeren](https://twitter.com/yosooff)
 - [React Native Uygulamaları](http://berkay.beyaz.us/category/react-native/) - [Berkay Beyaz](https://twitter.com/berkaybeyaz6)
+- [React Native İle Login Uygulaması](http://www.avarekodcu.com/aramayap/etiket/react-native-login-uygulamas) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 
 
 ### Ruby
 - [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
+- [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details) - [Uğur Özyılmazel](https://twitter.com/vigobronx)
 
 
 ### Swift
 - [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye/archive) - [Ozgur Sahin](https://github.com/ozgurshn) & Huseyin Bagana
 - [10 Dakikada Swift](https://learnxinyminutes.com/docs/tr-tr/swift-tr/) - [Ozgur Sahin](https://github.com/ozgurshn)
+- [Swift ve Püf Noktaları](http://kenanatmaca.com/) - [Kenan Atmaca](https://github.com/KenanAtmaca)
 
 ### Vue.js
 - [VueJS Türkçe Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) - [Fatih Acet](https://twitter.com/fatihacet)
@@ -142,6 +157,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Anlamsal Sürümleme](http://semver.org/lang/tr/)
 - [Tasarım Desenleri](http://www.tasarimdesenleri.com)
 - [Github Pages ile Geliştiricilere Ücretsiz Blog](http://www.mehmetemineker.com/github-pages-ile-gelistiricilere-ucretsiz-blog/) - [Mehmet Emin Eker](http://www.mehmetemineker.com)
+- [Haftalık Bülten: Yazılım ve Ürün Geliştirme](https://www.getrevue.co/profile/etaylan) - [Erman Taylan](http://www.ermantaylan.com/)
+- [JMeter İle Performans Testleri](http://www.gokhansengun.com/jmeter-nedir-ve-ne-ise-yarar/) - [Gökhan Şengün](http://www.gokhansengun.com/)
+- [Github Api Kullanarak İonic 2 de Basit Bir Uygulama](http://www.avarekodcu.com/konu/9/ionic-2-kurulumu-kullanimi) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 
 
 ### Podcast Yayınları
@@ -163,4 +181,5 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
 - [Okan Davut](https://www.youtube.com/channel/UCD9xZqZn8YHkm-6XnmdgYGg)
 - [Rıza Güneş](https://www.youtube.com/user/rgunes18)
-
+- [Kablosuzkedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg)
+- [Avare Kodcu](https://www.youtube.com/avarekodcu)
