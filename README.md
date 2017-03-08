@@ -22,12 +22,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Gulp](#gulp)
 - [Haskell](#haskell)
 - [HTML](#html)
-- [OSX](#osx)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [jQuery](#jquery)
 - [Laravel](#laravel)
 - [Node.js](#nodejs)
+- [OSX](#osx)
 - [PHP](#php)
 - [Python](#python)
 - [Rails](#rails)
@@ -107,10 +107,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Zor Yoldan Haskell](http://github.com/joom/zor-yoldan-haskell) - [Cumhur Korkut](http://github.com/joom)
 
 
-### OSX
-- - [OSX Püf Noktaları](http://osx.gelistiriciyiz.biz) - [OSX Tips](https://twitter.com/osx_tips_tr)
-
-### HTML osx
+### HTML
 - :movie_camera: [HTML Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Qro_C0ixzMWpCiogfXxKE) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 
 ### Java
@@ -139,6 +136,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Node JS Başlangıç Eğitimleri](http://blog.ilkerguller.com/search/label/node.js%20dersi) - [Ilker Guller](https://twitter.com/the_bluescreen)
 - :movie_camera: [Node JS](https://www.youtube.com/playlist?list=PLIM5iw4GHbNX-2wD-6hB7yJLxqWPS1byF) - Kayhan Ayar
 
+### OSX
+- [OSX Püf Noktaları](http://osx.gelistiriciyiz.biz) - [OSX Tips](https://twitter.com/osx_tips_tr)
 
 ### PHP
 - [PHP Dersleri](http://ibrahimcevruk.com/kat/php-dersleri) - [İbrahim Çevrük](http://ibrahimcevruk.com)
