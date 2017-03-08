@@ -96,6 +96,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Go
 - [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
+- [Vim ile Go Programlama Dili Geliştirme Ortamı](http://blog.oguzhan.info/?p=1248) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
 
 
 ### Gulp
@@ -184,8 +185,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Vue.js
-- [VueJS Türkçe Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) - [Fatih Acet](https://twitter.com/fatihacet)
-- [Nedir Bu Vuejs](https://www.youtube.com/playlist?list=PLhLbfczNPVOKsDy-qb22aO-WxZUijmwTR) - Omer Şensoy
+- :movie_camera: [VueJS Türkçe Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) - [Fatih Acet](https://twitter.com/fatihacet)
+- :movie_camera: [Nedir Bu Vuejs](https://www.youtube.com/playlist?list=PLhLbfczNPVOKsDy-qb22aO-WxZUijmwTR) - Omer Şensoy
 - [Vue.js ile Uygulama Geliştirme](http://oguzhan.in/vue-js-ile-uygulama-gelistirme/) - [Oğuzhan Aslan](https://twitter.com/oguzhanaslan)
 
 
@@ -200,6 +201,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Haftalık Bülten: Yazılım ve Ürün Geliştirme](https://www.getrevue.co/profile/etaylan) - [Erman Taylan](http://www.ermantaylan.com/)
 - [JMeter İle Performans Testleri](http://www.gokhansengun.com/jmeter-nedir-ve-ne-ise-yarar/) - [Gökhan Şengün](http://www.gokhansengun.com/)
 - [Github Api Kullanarak İonic 2 de Basit Bir Uygulama](http://www.avarekodcu.com/konu/9/ionic-2-kurulumu-kullanimi) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
+- [Kodedu](https://kodedu.com/) - [Rahman Usta](https://www.facebook.com/ustarahman)
+- [Kodcu.com Blog](https://blog.kodcu.com)
 
 
 ### Podcast Yayınları
