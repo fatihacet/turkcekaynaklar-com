@@ -90,6 +90,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Git
 - [Türkçe Git 101](https://aliozgur.gitbooks.io/git101/) - [Ali Özgür](https://twitter.com/aliozgur)
 - [Git ve GitHub Kullanımı](https://www.youtube.com/watch?v=rWG70T7fePg&list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - [Barış Aslan](https://www.youtube.com/c/Bar%C4%B1%C5%9FAslan)
+- [Git Püf Noktaları](http://git.gelistiriciyiz.biz) - [Vigo](https://twitter.com/vigobronx)
 
 
 ### Go
