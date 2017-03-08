@@ -94,6 +94,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Go
 - [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
+- [Vim ile Go Programlama Dili Geliştirme Ortamı](http://blog.oguzhan.info/?p=1248) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
 
 
 ### Gulp
