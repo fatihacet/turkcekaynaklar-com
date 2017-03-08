@@ -196,6 +196,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Haftalık Bülten: Yazılım ve Ürün Geliştirme](https://www.getrevue.co/profile/etaylan) - [Erman Taylan](http://www.ermantaylan.com/)
 - [JMeter İle Performans Testleri](http://www.gokhansengun.com/jmeter-nedir-ve-ne-ise-yarar/) - [Gökhan Şengün](http://www.gokhansengun.com/)
 - [Github Api Kullanarak İonic 2 de Basit Bir Uygulama](http://www.avarekodcu.com/konu/9/ionic-2-kurulumu-kullanimi) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
+- [Kodedu](https://kodedu.com/) - [Rahman Usta](https://www.facebook.com/ustarahman)
+- [Kodcu.com Blog](https://blog.kodcu.com)
 
 
 ### Podcast Yayınları
