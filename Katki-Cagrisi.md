@@ -13,5 +13,6 @@ Beraber çok geniş kapsamlı bir liste oluşturmak dileğiyle...
 - Doğru konu başlıklarının altına eklemeye
 - Konu başlığının en sonuna eklemeye
 - Listede halihazırda yer almamasına
+- Videolu içerikleri eklerken içeriklerin başına :movie_camera: emojisi eklemeye
 
 dikkat ediniz.
