@@ -11,12 +11,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Konu başlıkları
 - [Android](#android)
 - [ASP.NET](#aspnet)
-- [CodeIgniter](#codeigniter)
 - [Cpp](#cpp)
 - [CSS](#css)
-- [Django](#django)
 - [Docker](#docker)
-- [Flux](#flux)
 - [Git](#git)
 - [Go](#go)
 - [Gulp](#gulp)
@@ -24,18 +21,22 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [jQuery](#jquery)
-- [Laravel](#laravel)
+  - [Flux](#flux)
+  - [jQuery](#jquery)
+  - [React](#react)
+  - [React Native](#react-native)
+  - [Vue.js](#vuejs)
 - [Node.js](#nodejs)
+- [OSX](#osx)
 - [PHP](#php)
+  - [CodeIgniter](#codeigniter)
+  - [Laravel](#laravel)
 - [Python](#python)
-- [Rails](#rails)
-- [React](#react)
-- [React Native](#react-native)
+  - [Django](#django)
 - [Ruby](#ruby)
+  - [Rails](#rails)
 - [SQL](#sql)
 - [Swift](#swift)
-- [Vue.js](#vuejs)
 - Diğer Kaynaklar
   - [Faydalı Linkler](#faydalı-linkler)
   - [Podcast Yayınları](#podcast-yayınları)
@@ -90,6 +91,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Git
 - [Türkçe Git 101](https://aliozgur.gitbooks.io/git101/) - [Ali Özgür](https://twitter.com/aliozgur)
 - [Git ve GitHub Kullanımı](https://www.youtube.com/watch?v=rWG70T7fePg&list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - [Barış Aslan](https://www.youtube.com/c/Bar%C4%B1%C5%9FAslan)
+- [Git Püf Noktaları](http://git.gelistiriciyiz.biz) - [Vigo](https://twitter.com/vigobronx)
 
 
 ### Go
@@ -107,7 +109,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### HTML
 - :movie_camera: [HTML Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Qro_C0ixzMWpCiogfXxKE) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
-
 
 ### Java
 - [Kurumsal Java](http://www.kurumsaljava.com/) - [Özcan Acar](http://ozcanacar.com/)
@@ -136,6 +137,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Node JS Başlangıç Eğitimleri](http://blog.ilkerguller.com/search/label/node.js%20dersi) - [Ilker Guller](https://twitter.com/the_bluescreen)
 - :movie_camera: [Node JS](https://www.youtube.com/playlist?list=PLIM5iw4GHbNX-2wD-6hB7yJLxqWPS1byF) - Kayhan Ayar
 
+### OSX
+- [OSX Püf Noktaları](http://osx.gelistiriciyiz.biz) - [OSX Tips](https://twitter.com/osx_tips_tr)
 
 ### PHP
 - [PHP Dersleri](http://ibrahimcevruk.com/kat/php-dersleri) - [İbrahim Çevrük](http://ibrahimcevruk.com)
