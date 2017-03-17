@@ -150,7 +150,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [PHP Serüvenleri](https://www.phpr.org/php-dersleri/) - [Musa Avcı](https://twitter.com/musa_avci)
 - [Videolu ve Yazılı PHP Dersleri](http://www.erbilen.net/kategori/ders/php/) - [Tayfun Erbilen](http://www.erbilen.net)
 - :movie_camera: [PHP Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-K_h0rC656Why8nJPF_dIO) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
-- [ Usulüne Uygun PHP ](http://kulekci.net/php-the-right-way/) - [HAYDAR KULEKCI](http://kulekci.net/php-the-right-way/)
+- [ Usulüne Uygun PHP ](http://kulekci.net/php-the-right-way/) - [HAYDAR KULEKCI](http://kulekci.net/)
 
 
 ### Python
