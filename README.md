@@ -235,3 +235,4 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Avare Kodcu](https://www.youtube.com/avarekodcu)
 - [Python Ankara](https://www.youtube.com/channel/UC9ssnH3bE5uuZgXvESj5kUg)
 - [Arın Yazılım](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/)
+- [Data İstanbul](https://www.youtube.com/channel/UCmIscBfFWiT1avWgSCwJIeg)
