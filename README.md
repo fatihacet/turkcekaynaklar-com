@@ -41,6 +41,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
   - [Faydalı Linkler](#faydalı-linkler)
   - [Podcast Yayınları](#podcast-yayınları)
   - [YouTube Kanalları](#youtube-kanalları)
+  - [Slack Grupları](#slack-grupları)
 
 
 -----
@@ -236,3 +237,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Python Ankara](https://www.youtube.com/channel/UC9ssnH3bE5uuZgXvESj5kUg)
 - [Arın Yazılım](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/)
 - [Data İstanbul](https://www.youtube.com/channel/UCmIscBfFWiT1avWgSCwJIeg)
+
+### Slack Grupları
+ - [Frontend İstanbul](https://frontend-istanbul.slack.com)
+ - [Python İstanbul](https://pyistanbul.slack.com)
