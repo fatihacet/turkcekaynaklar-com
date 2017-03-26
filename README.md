@@ -178,6 +178,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye/archive) - [Ozgur Sahin](https://github.com/ozgurshn) & Huseyin Bagana
 - [10 Dakikada Swift](https://learnxinyminutes.com/docs/tr-tr/swift-tr/) - [Ozgur Sahin](https://github.com/ozgurshn)
 - [Swift ve Püf Noktaları](http://kenanatmaca.com/) - [Kenan Atmaca](https://github.com/KenanAtmaca)
+- :movie_camera: [Türkçe Swift Dersleri] - [Batuhan Saygılı](https://www.youtube.com/channel/UCHT7EaPiP0AItdTF7E9eTCw)
+
 
 
 ### Vue.js
