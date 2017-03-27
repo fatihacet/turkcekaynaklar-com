@@ -12,7 +12,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android](#android)
 - [ASP.NET](#aspnet)
 - [CodeIgniter](#codeigniter)
-- [Csharp](#csharp)
+- [C#](#c#)
 - [Cpp](#cpp)
 - [CSS](#css)
 - [Django](#django)
