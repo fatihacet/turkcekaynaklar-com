@@ -58,7 +58,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [ASP.NET MVC Blog Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJJqRRNYfVmXG7Lw1Ovjm0UQ) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - :movie_camera: [ASP.NET MVC Haber Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJJmyzTm77FjlCJOA11SCc_Z) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 
-### Csharp
+### C#
 - :movie_camera: [C# ile Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLjI4XZvh1FJIKMDPS2HS05uxfNHb_KTq1) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 
 
