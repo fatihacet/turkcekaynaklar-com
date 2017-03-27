@@ -42,6 +42,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
   - [Faydalı Linkler](#faydalı-linkler)
   - [Podcast Yayınları](#podcast-yayınları)
   - [YouTube Kanalları](#youtube-kanalları)
+  - [Slack Grupları](#slack-grupları)
 
 
 -----
@@ -87,7 +88,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Django
 - :movie_camera: [Django 101](https://www.youtube.com/watch?v=L-26ZJ3s6Mc&index=1&list=PLJeh-dT_Z82vvyYXmp1auK6A6e3aDlgCG&t=8s) - [Tolgahan Üzün](https://twitter.com/tlghnzn)
 - [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/)
-
+- :movie_camera: [Django ile Web Programlama](https://www.youtube.com/watch?v=uwVmWS1yJ1k&list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh) - [Barış Aslan](https://www.youtube.com/c/Bar%C4%B1%C5%9FAslan)
 
 ### Docker
 - [Docker İpuçları](http://www.gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-1/) - [Gökhan Şengün](https://twitter.com/gokhansengun)
@@ -230,11 +231,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Fatih Acet](https://www.youtube.com/channel/UCvANtNYHe556zUWm6VzJenQ)
 - [Adem İlter](https://www.youtube.com/user/ademilter)
 - [Uğur Özyılmazel](https://www.youtube.com/user/ugurozyilmazel)
-- [Bilgisayar Kavramlari (Şadi Evren Şeker)](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g)
+- [Bilgisayar Kavramları (Şadi Evren Şeker)](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g)
 - [Abdullah Uğraşkan](https://www.youtube.com/user/apoStyLEE)
 - [Ömer Şensoy](https://www.youtube.com/user/omrse/feed)
 - [Devnot TV](https://www.youtube.com/channel/UCgKcX7YBsGbdLrZQyOKMLQA)
-- [Yalin Kod](https://www.youtube.com/channel/UCiziEYDqww4rn3wn7otqHQQ)
+- [Yalın Kod](https://www.youtube.com/channel/UCiziEYDqww4rn3wn7otqHQQ)
 - [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
 - [Okan Davut](https://www.youtube.com/channel/UCD9xZqZn8YHkm-6XnmdgYGg)
 - [Rıza Güneş](https://www.youtube.com/user/rgunes18)
@@ -243,3 +244,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Python Ankara](https://www.youtube.com/channel/UC9ssnH3bE5uuZgXvESj5kUg)
 - [Arın Yazılım](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/)
 - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
+- [Data İstanbul](https://www.youtube.com/channel/UCmIscBfFWiT1avWgSCwJIeg)
+
+### Slack Grupları
+ - [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye Al](https://goo.gl/forms/IZe06LgNk6Vsega83))
+ - [Python İstanbul](https://pyistanbul.slack.com) ([Davetiye Al](https://pyistanbul.herokuapp.com/))
