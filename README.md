@@ -126,7 +126,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java'da Multithreading](https://ufukuzun.wordpress.com/tag/multithreading/) - [Ufuk Uzun](https://ufukuzun.wordpress.com/)
 - [Java ve ilişkili teknolojileri içeren blog](https://alicanakkus.github.io) ve [site](http://www.alicanakkus.com)
 - [Java ve kütüphanelerini içeren blog](http://yusufcakmak.com/category/java/)
-
+- [Java ve ilişkili kütüphanelerle alakalı blog](http://www.bahadirakin.com/category/programlama/java/) - [Bahadır Akın](http://www.bahadirakin.com/) 
 
 ### JavaScript
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
@@ -220,7 +220,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Kodcu.com Blog](https://blog.kodcu.com)
 - [Özgür Yazılımın Önemi ve GNU/Linux](https://oktayuyar.github.io/pages/linux/ozgur_yazilim.html) - [Oktay UYAR](https://oktayuyar.github.io/)
 - [Technology Radar / Teknoloji Radarı Sayı: 16](https://assets.thoughtworks.com/assets/technology-radar-vol-16-tr.pdf) - Thoughtworks'ün Technology Radar adıyla çıkarttığı e-dergi'nin Türkçe Çevirisi (PDF)
-
+- [Yazılımcının Derman Bulunmaz Halleri](http://www.yazilimcinindermanbulunmazhalleri.com/)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
@@ -247,6 +247,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Arın Yazılım](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/)
 - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - [Data İstanbul](https://www.youtube.com/channel/UCmIscBfFWiT1avWgSCwJIeg)
+- [NedirTV](https://www.youtube.com/user/nedirtvcom)
 
 ### Slack Grupları
  - [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye Al](https://goo.gl/forms/IZe06LgNk6Vsega83))
