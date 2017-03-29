@@ -196,6 +196,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye/archive) - [Ozgur Sahin](https://github.com/ozgurshn) & Huseyin Bagana
 - [10 Dakikada Swift](https://learnxinyminutes.com/docs/tr-tr/swift-tr/) - [Ozgur Sahin](https://github.com/ozgurshn)
 - [Swift ve Püf Noktaları](http://kenanatmaca.com/) - [Kenan Atmaca](https://github.com/KenanAtmaca)
+- :movie_camera: [Örneklerle Swift](https://www.youtube.com/channel/UCHT7EaPiP0AItdTF7E9eTCw/) - [Batuhan Saygılı](https://github.com/koust)
 
 
 ### Vue.js
@@ -219,6 +220,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Kodcu.com Blog](https://blog.kodcu.com)
 - [Özgür Yazılımın Önemi ve GNU/Linux](https://oktayuyar.github.io/pages/linux/ozgur_yazilim.html) - [Oktay UYAR](https://oktayuyar.github.io/)
 - [Technology Radar / Teknoloji Radarı Sayı: 16](https://assets.thoughtworks.com/assets/technology-radar-vol-16-tr.pdf) - Thoughtworks'ün Technology Radar adıyla çıkarttığı e-dergi'nin Türkçe Çevirisi (PDF)
+- [Kadın Yazılımcı](http://www.kadinyazilimci.com/)
+- [Yazılımcı Olmak İsteyenlere ve Yeni Yazılımcılara Tavsiyeler](http://ahmetcigsar.com/yazilimci-olmak-isteyenlere-ve-yeni-yazilimcilara-tavsiyeler/) 
+- [Yurtdışında Şansını Deneyenler - Coolever](http://coolever.life/blog/)
 
 
 ### Podcast Yayınları
@@ -246,6 +250,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Arın Yazılım](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/)
 - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - [Data İstanbul](https://www.youtube.com/channel/UCmIscBfFWiT1avWgSCwJIeg)
+- [Ömer Faruk Çolakoğlu](https://www.youtube.com/user/ocolakoglu)
 
 ### Slack Grupları
  - [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye Al](https://goo.gl/forms/IZe06LgNk6Vsega83))
