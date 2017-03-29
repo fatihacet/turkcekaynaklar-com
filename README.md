@@ -196,7 +196,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye/archive) - [Ozgur Sahin](https://github.com/ozgurshn) & Huseyin Bagana
 - [10 Dakikada Swift](https://learnxinyminutes.com/docs/tr-tr/swift-tr/) - [Ozgur Sahin](https://github.com/ozgurshn)
 - [Swift ve Püf Noktaları](http://kenanatmaca.com/) - [Kenan Atmaca](https://github.com/KenanAtmaca)
-- :movie_camera: [Örneklerle Swift](https://www.youtube.com/channel/UCHT7EaPiP0AItdTF7E9eTCw/) - [Batuhan Saygılı](https://github.com/koust)
+- :movie_camera: [Örneklerle Swift](https://www.youtube.com/playlist?list=PLq0d8WFoUs5c9KCFo4u53BcGeWZglZiC9) - [Batuhan Saygılı](https://github.com/koust)
 
 
 ### Vue.js
@@ -250,7 +250,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Arın Yazılım](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/)
 - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - [Data İstanbul](https://www.youtube.com/channel/UCmIscBfFWiT1avWgSCwJIeg)
-- [Ömer Faruk Çolakoğlu](https://www.youtube.com/user/ocolakoglu)
+- [Ömer Faruk Çolakoğlu](https://www.youtube.com/user/ocolakoglu/videos)
 
 ### Slack Grupları
  - [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye Al](https://goo.gl/forms/IZe06LgNk6Vsega83))
