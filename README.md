@@ -201,7 +201,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift ve Püf Noktaları](http://kenanatmaca.com/) - [Kenan Atmaca](https://github.com/KenanAtmaca)
 
 ### Vault
-- [Vault Türkçe] https://github.com/zekiunal/vault
+- [Vault Türkçe](https://github.com/zekiunal/vault)
 
 ### Vue.js
 - :movie_camera: [VueJS Türkçe Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) - [Fatih Acet](https://twitter.com/fatihacet)
@@ -225,6 +225,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Özgür Yazılımın Önemi ve GNU/Linux](https://oktayuyar.github.io/pages/linux/ozgur_yazilim.html) - [Oktay UYAR](https://oktayuyar.github.io/)
 - [Technology Radar / Teknoloji Radarı Sayı: 16](https://assets.thoughtworks.com/assets/technology-radar-vol-16-tr.pdf) - Thoughtworks'ün Technology Radar adıyla çıkarttığı e-dergi'nin Türkçe Çevirisi (PDF)
 - [Yazılımcının Derman Bulunmaz Halleri](http://www.yazilimcinindermanbulunmazhalleri.com/)
+- :movie_camera: [Chris Stephenson'un Programlama Dersleri](https://vimeo.com/chrisstephenson/videos)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
