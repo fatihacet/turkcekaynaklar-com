@@ -37,6 +37,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Ruby](#ruby)
 - [SQL](#sql)
 - [Swift](#swift)
+- [Vault](#vault)
 - [Vue.js](#vuejs)
 - Diğer Kaynaklar
   - [Faydalı Linkler](#faydalı-linkler)
@@ -199,6 +200,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [10 Dakikada Swift](https://learnxinyminutes.com/docs/tr-tr/swift-tr/) - [Ozgur Sahin](https://github.com/ozgurshn)
 - [Swift ve Püf Noktaları](http://kenanatmaca.com/) - [Kenan Atmaca](https://github.com/KenanAtmaca)
 
+### Vault
+- [Vault Türkçe] https://github.com/zekiunal/vault
 
 ### Vue.js
 - :movie_camera: [VueJS Türkçe Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) - [Fatih Acet](https://twitter.com/fatihacet)
