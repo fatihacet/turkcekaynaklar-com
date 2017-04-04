@@ -226,6 +226,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Technology Radar / Teknoloji Radarı Sayı: 16](https://assets.thoughtworks.com/assets/technology-radar-vol-16-tr.pdf) - Thoughtworks'ün Technology Radar adıyla çıkarttığı e-dergi'nin Türkçe Çevirisi (PDF)
 - [Yazılımcının Derman Bulunmaz Halleri](http://www.yazilimcinindermanbulunmazhalleri.com/)
 - :movie_camera: [Chris Stephenson'un Programlama Dersleri](https://vimeo.com/chrisstephenson/videos)
+- [Bora Kaşmer](http://www.borakasmer.com/)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
