@@ -129,6 +129,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java ve kütüphanelerini içeren blog](http://yusufcakmak.com/category/java/)
 - [Java ve ilişkili kütüphanelerle alakalı blog](http://www.bahadirakin.com/category/programlama/java/) - [Bahadır Akın](http://www.bahadirakin.com/) 
 - [JavaTurk.org](http://www.javaturk.org/) - Akın Kaldıroğlu
+- [Java Pass by Value](https://blog.kodcu.com/2012/06/java-pass-by-value/) - Nihat Koçyiğit
 
 ### JavaScript
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
