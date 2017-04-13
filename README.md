@@ -10,6 +10,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Konu başlıkları
 - [Android](#android)
+- [AngularJS](#angularjs)
 - [ASP.NET](#aspnet)
 - [CodeIgniter](#codeigniter)
 - [C#](#csharp)
@@ -53,6 +54,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
  - [Mobilhanem](https://www.mobilhanem.com/)
  - [Junior Android Geliştiricilere Tavsiyeler](https://github.com/muratcanbur/medium-yazilarim) - [Murat Can BUR](https://twitter.com/muratcanbur)
 
+### AngularJS
+- [AngularTR.com](http://angulartr.com/)
 
 ### ASP.NET
 - :movie_camera: [ASP.NET ile Basit Okul Projesi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj49bsuq6iLrg1qyZtekSCgPW) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
