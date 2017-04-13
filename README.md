@@ -140,7 +140,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
 - [Javascript console log Komutunu Özelleştirme](http://www.avarekodcu.com/konu/11/javasript-console-log-komutunu-ozellestirme-kullanma) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 - [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr/)
-
+- [Javascript'te Promise](http://www.eksiduyuru.com/duyuru/947270/javascript-te-promise)
 
 ### jQuery
 - :movie_camera: [JQuery Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Jt6F-dyl6LEHNVaudH3rk) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
