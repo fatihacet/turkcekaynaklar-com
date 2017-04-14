@@ -21,6 +21,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Flux](#flux)
 - [Git](#git)
 - [Go](#go)
+- [GraphQL](#graphql)
 - [Gulp](#gulp)
 - [Haskell](#haskell)
 - [HTML](#html)
@@ -114,6 +115,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Vim ile Go Programlama Dili Geliştirme Ortamı](http://blog.oguzhan.info/?p=1248) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
 - [Go Pointers](http://www.buraksenyurt.com/post/golang-pointers) - Burak Selim Şenyurt
 - [Go Programlama Diline Genel Bakış](http://devnot.com/2017/go-programlama-diline-genel-bakis/) - Cihan Özkan / Devnot.com
+
+### GraphQL
+- [GraphQL: Veri Erişiminde Yeni Bir Bakış Açısı](http://devnot.com/2017/graphql-veri-erisiminde-yeni-bir-bakis-acisi/) - Hüseyin Dönmez / Devnot.com
 
 ### Gulp
 - [Ben galp Gulp!](https://medium.com/@keremciu/ben-galp-gulp-1-15340198e866) - [Kerem Sevencan](https://twitter.com/keremciu)
