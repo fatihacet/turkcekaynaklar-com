@@ -245,7 +245,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Bora Kaşmer](http://www.borakasmer.com/)
 - [Açık Kaynak Lisanları](http://www.yusufaytas.com/acik-kaynak-lisanslari/) - Yusuf Aytaş
 - [Jekyll İle Github Üzerinde Ücretsiz Web Sitesi Barındırma](https://mertcangokgoz.com/category/jekyll/) - Mertcan GÖKGÖZ
-
+- [Conditional Breakpoint ile Daha Hızlı ve Etkili Debugging - Eclipse ve Chrome Örneği](http://alikemaltasci.blogspot.com.tr/2014/05/conditional-breakpoint-ile-daha-hzl-ve.html) - Ali Kemal Taşçı
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
