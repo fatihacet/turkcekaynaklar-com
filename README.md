@@ -14,6 +14,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [ASP.NET](#aspnet)
 - [CodeIgniter](#codeigniter)
 - [C#](#csharp)
+- [Clojure](#clojure)
+- [CodeIgniter](#codeigniter)
 - [Cpp](#cpp)
 - [CSS](#css)
 - [Django](#django)
@@ -68,6 +70,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [C# ile Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLjI4XZvh1FJIKMDPS2HS05uxfNHb_KTq1) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - :movie_camera: [C# Dersleri - 10 Günde CSharp (C#)](https://www.youtube.com/playlist?list=PL2atofUpdCAV_ZlpK9mz6ul-fRYx2yXDY) - [Yazılım Hocası](https://www.youtube.com/user/yazilimhocasi)
 
+
+### Clojure
+- :movie_camera: [Clojure Giriş](https://www.youtube.com/watch?v=l40q0guuXVw) - Üstün Özgür
 
 ### CodeIgniter
 - :movie_camera: [CodeIgniter Eğitim Serisi](https://www.youtube.com/watch?v=mkTNMzrN97I&list=PL_f2F0Oyaj4_xGyQlwgsd9gI1UgnTTHkC) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
