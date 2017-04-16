@@ -238,7 +238,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Yazılımcının Derman Bulunmaz Halleri](http://www.yazilimcinindermanbulunmazhalleri.com/)
 - :movie_camera: [Chris Stephenson'un Programlama Dersleri](https://vimeo.com/chrisstephenson/videos)
 - [Bora Kaşmer](http://www.borakasmer.com/)
-- [Açık Kaynak Lisansları](http://www.yusufaytas.com/acik-kaynak-lisanslari/) - Yusuf Aytaş
+- [Açık Kaynak Lisanları](http://www.yusufaytas.com/acik-kaynak-lisanslari/) - Yusuf Aytaş
+- [Jekyll İle Github Üzerinde Ücretsiz Web Sitesi Barındırma](https://mertcangokgoz.com/category/jekyll/) - Mertcan GÖKGÖZ
+
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
