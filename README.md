@@ -11,6 +11,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Konu başlıkları
 - [Android](#android)
 - [AngularJS](#angularjs)
+- [Angular(2 & 4)](#angular)
 - [ASP.NET](#aspnet)
 - [CodeIgniter](#codeigniter)
 - [C#](#csharp)
@@ -60,6 +61,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### AngularJS
 - [AngularTR.com](http://angulartr.com/)
 
+### Angular (2 & 4)
+- [yazilimgunlugu.org](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/angular-2-4-turkce/)
 ### ASP.NET
 - :movie_camera: [ASP.NET ile Basit Okul Projesi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj49bsuq6iLrg1qyZtekSCgPW) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 - :movie_camera: [ASP.NET ile Blog Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJIsS51_RkdIpX8gemXkXXhD) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
@@ -123,6 +126,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### GraphQL
 - [GraphQL: Veri Erişiminde Yeni Bir Bakış Açısı](http://devnot.com/2017/graphql-veri-erisiminde-yeni-bir-bakis-acisi/) - Hüseyin Dönmez / Devnot.com
+- [GraphQL, Relay, Apollo Stack / Veri Erişiminde yeni bir bakış açısı .](https://yazilimgunlugu.org/graphql-relay-apollo-veri-erisiminde-yeni-bir-bakis-acisi/) - Hüseyin Dönmez / yazilimgunlugu.org
 
 ### Gulp
 - [Ben galp Gulp!](https://medium.com/@keremciu/ben-galp-gulp-1-15340198e866) - [Kerem Sevencan](https://twitter.com/keremciu)
@@ -166,7 +170,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Node.js
 - [Node JS Başlangıç Eğitimleri](http://blog.ilkerguller.com/search/label/node.js%20dersi) - [Ilker Guller](https://twitter.com/the_bluescreen)
 - :movie_camera: [Node JS](https://www.youtube.com/playlist?list=PLIM5iw4GHbNX-2wD-6hB7yJLxqWPS1byF) - Kayhan Ayar
-
+- [Node JS Blog Yazilari & Eğitimleri](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/node-js/) - [yazilimgunlugu.org](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/node-js/)
 
 ### OSX
 - [OSX Püf Noktaları](http://osx.gelistiriciyiz.biz) - [OSX Tips](https://twitter.com/osx_tips_tr)
