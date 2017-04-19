@@ -11,7 +11,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Konu başlıkları
 - [Android](#android)
 - [AngularJS](#angularjs)
-- [Angular(2 & 4)](#angular)
+- [Angular](#angular)
 - [ASP.NET](#aspnet)
 - [CodeIgniter](#codeigniter)
 - [C#](#csharp)
@@ -126,7 +126,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### GraphQL
 - [GraphQL: Veri Erişiminde Yeni Bir Bakış Açısı](http://devnot.com/2017/graphql-veri-erisiminde-yeni-bir-bakis-acisi/) - Hüseyin Dönmez / Devnot.com
-- [GraphQL, Relay, Apollo Stack / Veri Erişiminde yeni bir bakış açısı .](https://yazilimgunlugu.org/graphql-relay-apollo-veri-erisiminde-yeni-bir-bakis-acisi/) - Hüseyin Dönmez / yazilimgunlugu.org
+- [GraphQL, Relay, Apollo Stack / Veri Erişiminde yeni bir bakış açısı .](https://yazilimgunlugu.org/graphql-relay-apollo-veri-erisiminde-yeni-bir-bakis-acisi/) - [Hüseyin Dönmez](yazilimgunlugu.org)
 
 ### Gulp
 - [Ben galp Gulp!](https://medium.com/@keremciu/ben-galp-gulp-1-15340198e866) - [Kerem Sevencan](https://twitter.com/keremciu)
@@ -170,7 +170,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Node.js
 - [Node JS Başlangıç Eğitimleri](http://blog.ilkerguller.com/search/label/node.js%20dersi) - [Ilker Guller](https://twitter.com/the_bluescreen)
 - :movie_camera: [Node JS](https://www.youtube.com/playlist?list=PLIM5iw4GHbNX-2wD-6hB7yJLxqWPS1byF) - Kayhan Ayar
-- [Node JS Blog Yazilari & Eğitimleri](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/node-js/) - [yazilimgunlugu.org](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/node-js/)
+- [Node JS Blog Yazilari & Eğitimleri](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/node-js/) - [yazilimgunlugu.org](https://yazilimgunlugu.org/)
 
 ### OSX
 - [OSX Püf Noktaları](http://osx.gelistiriciyiz.biz) - [OSX Tips](https://twitter.com/osx_tips_tr)
