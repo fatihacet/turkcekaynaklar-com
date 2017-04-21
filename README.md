@@ -179,7 +179,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [PHP Serüvenleri](https://www.phpr.org/php-dersleri/) - [Musa Avcı](https://twitter.com/musa_avci)
 - [Videolu ve Yazılı PHP Dersleri](http://www.erbilen.net/kategori/ders/php/) - [Tayfun Erbilen](http://www.erbilen.net)
 - :movie_camera: [PHP Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-K_h0rC656Why8nJPF_dIO) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
-- [Usulüne Uygun PHP](http://kulekci.net/php-the-right-way/) - [HAYDAR KULEKCI](http://kulekci.net/)
+- [Usulüne Uygun PHP](http://kulekci.net/php-the-right-way/) - [Haydar Külekçi](http://kulekci.net/)
 
 
 ### Python
@@ -247,6 +247,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Jekyll İle Github Üzerinde Ücretsiz Web Sitesi Barındırma](https://mertcangokgoz.com/category/jekyll/) - Mertcan GÖKGÖZ
 - [Conditional Breakpoint ile Daha Hızlı ve Etkili Debugging - Eclipse ve Chrome Örneği](http://alikemaltasci.blogspot.com.tr/2014/05/conditional-breakpoint-ile-daha-hzl-ve.html) - Ali Kemal Taşçı
 - [Hastalıklı Alan Modeli (Martin Fowler - Anemic Domain Model Türkçe Çevirisi)](http://fehmicansaglam.net/hastalikli-alan-modeli/) - [Fehmi Can Sağlam](http://twitter.com/fehmicansaglam)
+- :movie_camera: [Elasticsearch, Kibana ve Logstash Eğitimi](https://www.youtube.com/watch?v=ZLQSCfXhpIM) - [Haydar Külekçi](http://kulekci.net/)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
