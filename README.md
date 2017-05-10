@@ -249,7 +249,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Yazılımcının Derman Bulunmaz Halleri](http://www.yazilimcinindermanbulunmazhalleri.com/)
 - :movie_camera: [Chris Stephenson'un Programlama Dersleri](https://vimeo.com/chrisstephenson/videos)
 - [Bora Kaşmer](http://www.borakasmer.com/)
-- [Açık Kaynak Lisanları](http://www.yusufaytas.com/acik-kaynak-lisanslari/) - Yusuf Aytaş
+- [Açık Kaynak Lisansları](http://www.yusufaytas.com/acik-kaynak-lisanslari/) - Yusuf Aytaş
 - [Jekyll İle Github Üzerinde Ücretsiz Web Sitesi Barındırma](https://mertcangokgoz.com/category/jekyll/) - Mertcan GÖKGÖZ
 - [Conditional Breakpoint ile Daha Hızlı ve Etkili Debugging - Eclipse ve Chrome Örneği](http://alikemaltasci.blogspot.com.tr/2014/05/conditional-breakpoint-ile-daha-hzl-ve.html) - Ali Kemal Taşçı
 - [Hastalıklı Alan Modeli (Martin Fowler - Anemic Domain Model Türkçe Çevirisi)](http://fehmicansaglam.net/hastalikli-alan-modeli/) - [Fehmi Can Sağlam](http://twitter.com/fehmicansaglam)
