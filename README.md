@@ -195,7 +195,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Python
-- [Python Dersleri](http://www.istihza.com) - [Fırat Özgül](http://www.istihza.com)
+- [Python Dersleri - İstihza, Yazbel](https://belgeler.yazbel.com/python-istihza/)
+- [Python Dersleri Github - İstihza, Yazbel](https://github.com/yazbel/python-istihza)
 
 
 ### Rails
