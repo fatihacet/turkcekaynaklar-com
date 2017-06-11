@@ -291,6 +291,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Data İstanbul](https://www.youtube.com/channel/UCmIscBfFWiT1avWgSCwJIeg)
 - [NedirTV](https://www.youtube.com/user/nedirtvcom)
 - [Ekrem Karaca](https://www.youtube.com/channel/UCx8gTyAppCVGMoIOCdUZGQg/videos)
+- [VNGRS](https://www.youtube.com/channel/UC7WKjxscgH-A8LCFUrj0iQQ)
 
 ### Slack Grupları
  - [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye Al](https://goo.gl/forms/IZe06LgNk6Vsega83))
