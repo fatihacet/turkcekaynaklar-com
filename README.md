@@ -182,6 +182,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Node JS Başlangıç Eğitimleri](http://blog.ilkerguller.com/search/label/node.js%20dersi) - [Ilker Guller](https://twitter.com/the_bluescreen)
 - :movie_camera: [Node JS](https://www.youtube.com/playlist?list=PLIM5iw4GHbNX-2wD-6hB7yJLxqWPS1byF) - Kayhan Ayar
 - [Node JS Blog Yazilari & Eğitimleri](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/node-js/) - [yazilimgunlugu.org](https://yazilimgunlugu.org/)
+- [Gelecegi Yazanlar - Node.js Eğitimi(ileri seviye)](https://gelecegiyazanlar.turkcell.com.tr/konu/web-programlama/egitim/401)
 
 ### OSX
 - [OSX Püf Noktaları](http://osx.gelistiriciyiz.biz) - [OSX Tips](https://twitter.com/osx_tips_tr)
