@@ -154,6 +154,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java Pass by Value](https://blog.kodcu.com/2012/06/java-pass-by-value/) - Nihat Koçyiğit
 - [JPA 2.1 Entity Graph](https://kodedu.com/2014/09/jpa-2-1-entity-graph/) - Rahman Usta
 - [Jackson ile JSON işleme](http://tarikkobalas.blogspot.com.tr/2010/08/jackson-ile-json-isleme.html) - Tarık Kobalas
+- [Java ve Java Teknolojileri ile alakalı dersler](http://blog.burakkutbay.com/) - Burak Kutbay
 
 
 ### JavaScript
