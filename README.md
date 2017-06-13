@@ -217,6 +217,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [React Native Türkçe](https://ysfzrn.gitbooks.io/react-native-turkce/) - [Yusuf Zeren](https://twitter.com/yosooff)
 - [React Native Uygulamaları](http://berkay.beyaz.us/category/react-native/) - [Berkay Beyaz](https://twitter.com/berkaybeyaz6)
 - [React Native İle Login Uygulaması](http://www.avarekodcu.com/aramayap/etiket/react-native-login-uygulamas) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
+- [React Native Animasyonlar, Animated API](http://www.avarekodcu.com/konu/24/react-native-animasyonlar-animated-api) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 
 
 ### Ruby
