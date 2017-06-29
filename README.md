@@ -277,6 +277,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Hastalıklı Alan Modeli (Martin Fowler - Anemic Domain Model Türkçe Çevirisi)](http://fehmicansaglam.net/hastalikli-alan-modeli/) - [Fehmi Can Sağlam](http://twitter.com/fehmicansaglam)
 - :movie_camera: [Elasticsearch, Kibana ve Logstash Eğitimi](https://www.youtube.com/watch?v=ZLQSCfXhpIM) - [Haydar Külekçi](http://kulekci.net/)
 - [Scrum Görsel Kılavuzu](https://www.slideshare.net/ACMSoftware/scrum-grsel-klavuzu)
+- [On İki Faktör Uygulaması](https://12factor.net/tr/)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
