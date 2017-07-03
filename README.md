@@ -313,3 +313,4 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
  - [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye Al](https://goo.gl/forms/IZe06LgNk6Vsega83))
  - [Python İstanbul](https://pyistanbul.slack.com) ([Davetiye Al](https://pyistanbul.herokuapp.com/))
  - [Ruby Türkiye](https://rubytr.slack.com) ([Davetiye Al](http://rubytr.herokuapp.com/))
+ - [İzmir Geliştirici & Tasarımcı Topluluğu](https://www.facebook.com/izmirdev/) ([Davetiye Al](https://docs.google.com/forms/d/e/1FAIpQLSdeuvyiBvhP46os0xhPJE4mnTgtHfWpfCp-595VwbES9Qpdfg/viewform))
