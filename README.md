@@ -165,6 +165,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Javascript console log Komutunu Özelleştirme](http://www.avarekodcu.com/konu/11/javasript-console-log-komutunu-ozellestirme-kullanma) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 - [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr/)
 - [Javascript'te Promise](http://www.eksiduyuru.com/duyuru/947270/javascript-te-promise)
+- [JavaScript reduce Fonksiyonu](https://medium.com/@ibrahim.kurce/javascript-reduce-fonksiyonu-da5e09ba2e44)
 
 
 ### jQuery
