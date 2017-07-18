@@ -45,6 +45,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift](#swift)
 - [Vault](#vault)
 - [Vue.js](#vuejs)
+- [Behavior Driven Development](#behavior-driven-development)
+- [Unit Testing](#unit-testing)
+- [Machine Learning](#machine-learning)
 - Diğer Kaynaklar
   - [Faydalı Linkler](#faydalı-linkler)
   - [Podcast Yayınları](#podcast-yayınları)
@@ -166,6 +169,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Jackson ile JSON işleme](http://tarikkobalas.blogspot.com.tr/2010/08/jackson-ile-json-isleme.html) - Tarık Kobalas
 - [Java ve Java Teknolojileri ile alakalı dersler](http://blog.burakkutbay.com/) - Burak Kutbay
 - [Java Kitap](https://github.com/melihsakarya/java-kitap) - Melih Sakarya
+- [Java Blog](http://binkurt.blogspot.com.tr/) - Binnur Kurt
 
 
 ### JavaScript
@@ -261,6 +265,14 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Nedir Bu Vuejs](https://www.youtube.com/playlist?list=PLhLbfczNPVOKsDy-qb22aO-WxZUijmwTR) - Omer Şensoy
 - [Vue.js ile Uygulama Geliştirme](http://oguzhan.in/vue-js-ile-uygulama-gelistirme/) - [Oğuzhan Aslan](https://twitter.com/oguzhanaslan)
 
+### Behavior Driven Development
+- [BDD Giris](https://selimober.com/bdd-ye-giris/)
+
+### Unit Testing
+- :movie_camera: [Unit Test Yazma Sanatı](https://www.udemy.com/unit-test-yazma-sanati/)
+
+### Machine Learning
+- :movie_camera: [Makine Ögrenmesi Video Blog](https://www.youtube.com/playlist?list=PLRRY18KNZTgUQx8NT_YqCVOyb-VnB79W2)
 
 ## Diğer Kaynaklar
 
@@ -318,7 +330,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [NedirTV](https://www.youtube.com/user/nedirtvcom)
 - [Ekrem Karaca](https://www.youtube.com/channel/UCx8gTyAppCVGMoIOCdUZGQg/videos)
 - [VNGRS](https://www.youtube.com/channel/UC7WKjxscgH-A8LCFUrj0iQQ)
-
+- [TestHive](https://www.youtube.com/channel/UCvMbGj7aumypkOKXYcBtgbQ/feed)
 
 ### Slack Grupları
 - [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye Al](https://goo.gl/forms/IZe06LgNk6Vsega83))
