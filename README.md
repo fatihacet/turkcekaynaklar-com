@@ -61,7 +61,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### AngularJS
-- [AngularJS İle Çoklu Dil İçeren Uygulamalar Geliştirmek](http://bahattincinic.com/post/104997983354/angularjs-ile-%C3%A7oklu-dil-i%C3%A7eren-uygulamalar) - Bahattin Cinic 
+- 
+
 
 ### Angular
 - [yazilimgunlugu.org](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/angular-2-4-turkce/)
