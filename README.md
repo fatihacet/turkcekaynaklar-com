@@ -58,7 +58,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Android
 - [Mobilhanem](https://www.mobilhanem.com/)
 - [Junior Android Geliştiricilere Tavsiyeler](https://github.com/muratcanbur/medium-yazilarim) - [Murat Can BUR](https://twitter.com/muratcanbur)
-
+- [Android Günlüğü](http://yusufcakal.com/) - Yusuf Çakal
 
 ### AngularJS
 - 
@@ -167,7 +167,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Jackson ile JSON işleme](http://tarikkobalas.blogspot.com.tr/2010/08/jackson-ile-json-isleme.html) - Tarık Kobalas
 - [Java ve Java Teknolojileri ile alakalı dersler](http://blog.burakkutbay.com/) - Burak Kutbay
 - [Java Kitap](https://github.com/melihsakarya/java-kitap) - Melih Sakarya
-
+- [Openfire ve Smack Api Kullanımı](https://www.gitbook.com/book/yusufcakal/openfire-ve-smack-api-kullanimi/details) - Yusuf Çakal
 
 ### JavaScript
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
