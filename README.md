@@ -330,7 +330,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [NedirTV](https://www.youtube.com/user/nedirtvcom)
 - [Ekrem Karaca](https://www.youtube.com/channel/UCx8gTyAppCVGMoIOCdUZGQg/videos)
 - [VNGRS](https://www.youtube.com/channel/UC7WKjxscgH-A8LCFUrj0iQQ)
-- [TestHive](https://www.youtube.com/channel/UCvMbGj7aumypkOKXYcBtgbQ/feed)
+- [TestHive](https://www.youtube.com/channel/UCvMbGj7aumypkOKXYcBtgbQ/videos)
 
 ### Slack Grupları
 - [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye Al](https://goo.gl/forms/IZe06LgNk6Vsega83))
