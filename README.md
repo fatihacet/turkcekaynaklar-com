@@ -34,6 +34,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Laravel](#laravel)
 - [Nginx](#nginx)
 - [Node.js](#nodejs)
+- [OpenSSL](#openssl)
 - [OSX](#osx)
 - [PHP](#php)
 - [Python](#python)
