@@ -62,6 +62,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Android
 - [Mobilhanem](https://www.mobilhanem.com/)
 - [Junior Android Geliştiricilere Tavsiyeler](https://github.com/muratcanbur/medium-yazilarim) - [Murat Can BUR](https://twitter.com/muratcanbur)
+- [Android Günlüğü](http://yusufcakal.com/) - Yusuf Çakal
 
 
 ### AngularJS
@@ -162,6 +163,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Java
+
 - [Kurumsal Java](http://www.kurumsaljava.com/) - [Özcan Acar](http://ozcanacar.com/)
 - [Java'da Multithreading](https://ufukuzun.wordpress.com/yayinlarim/javada-multithreading/) - [Ufuk Uzun](https://ufukuzun.wordpress.com/)
 - [Java ve ilişkili teknolojileri içeren blog](https://alicanakkus.github.io) ve [site](http://www.alicanakkus.com)
@@ -174,7 +176,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java ve Java Teknolojileri ile alakalı dersler](http://blog.burakkutbay.com/) - Burak Kutbay
 - [Java Kitap](https://github.com/melihsakarya/java-kitap) - Melih Sakarya
 - [Java Blog](http://binkurt.blogspot.com.tr/) - Binnur Kurt
-
 
 ### JavaScript
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
@@ -225,7 +226,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Videolu ve Yazılı PHP Dersleri](http://www.erbilen.net/kategori/ders/php/) - [Tayfun Erbilen](http://www.erbilen.net)
 - :movie_camera: [PHP Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-K_h0rC656Why8nJPF_dIO) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 - [Usulüne Uygun PHP](http://kulekci.net/php-the-right-way/) - [Haydar Külekçi](http://kulekci.net/)
-
 
 ### Python
 - [Python Dersleri - İstihza, Yazbel](https://belgeler.yazbel.com/python-istihza/)
