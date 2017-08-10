@@ -274,7 +274,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Vault
-- [Vault Türkçe](https://github.com/zekiunal/vault)
+- [Vault Başlangıç Kılavuzu](https://github.com/zekiunal/vault)
 
 
 ### Vue.js
