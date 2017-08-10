@@ -38,6 +38,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Node.js](#nodejs)
 - [OpenSSL](#openssl)
 - [OSX](#osx)
+- [Packer](#packer)
 - [PHP](#php)
 - [Python](#python)
 - [Rails](#rails)
@@ -217,6 +218,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### OSX
 - [OSX Püf Noktaları](http://osx.gelistiriciyiz.biz) - [OSX Tips](https://twitter.com/osx_tips_tr)
 
+### Packer
+- [Packer Başlangıç Kılavuzu](https://github.com/zekiunal/packer)
 
 ### PHP
 - [PHP Dersleri](http://ibrahimcevruk.com/kat/php-dersleri) - [İbrahim Çevrük](http://ibrahimcevruk.com)
@@ -271,7 +274,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Vault
-- [Vault Türkçe](https://github.com/zekiunal/vault)
+- [Vault Başlangıç Kılavuzu](https://github.com/zekiunal/vault)
 
 
 ### Vue.js
