@@ -13,6 +13,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [AngularJS](#angularjs)
 - [Angular](#angular)
 - [ASP.NET](#aspnet)
+- [Behavior Driven Development](#behavior-driven-development)
 - [CodeIgniter](#codeigniter)
 - [C#](#csharp)
 - [Clojure](#clojure)
@@ -32,9 +33,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JavaScript](#javascript)
 - [jQuery](#jquery)
 - [Laravel](#laravel)
+- [Machine Learning](#machine-learning)
 - [Nginx](#nginx)
 - [Node.js](#nodejs)
+- [OpenSSL](#openssl)
 - [OSX](#osx)
+- [Packer](#packer)
 - [PHP](#php)
 - [Python](#python)
 - [Rails](#rails)
@@ -43,8 +47,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Ruby](#ruby)
 - [SQL](#sql)
 - [Swift](#swift)
+- [Unit Testing](#unit-testing)
 - [Vault](#vault)
 - [Vue.js](#vuejs)
+- [WordPress](#wordpress)
 - Diğer Kaynaklar
   - [Faydalı Linkler](#faydalı-linkler)
   - [Podcast Yayınları](#podcast-yayınları)
@@ -75,6 +81,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [ASP.NET Mvc Blog Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJJqRRNYfVmXG7Lw1Ovjm0UQ) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - :movie_camera: [ASP.NET Mvc Haber Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJJmyzTm77FjlCJOA11SCc_Z) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 
+### Behavior Driven Development
+- [BDD Giris](https://selimober.com/bdd-ye-giris/)
 
 ### Csharp
 - :movie_camera: [C# ile Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLjI4XZvh1FJIKMDPS2HS05uxfNHb_KTq1) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
@@ -106,6 +114,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [CSS Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-RyFL8mkfjYjEVCmJhWDQ3) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 - :movie_camera: [Bootstrap 4 Eğitim Serisi](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-xwLUQ0-OIA46mKwYeaxXR) - [Arın Yazılım](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/feed)
 - :movie_camera: [Pratik CSS Teknikleri Serisi](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq9GTqLreY9l5MiJJm6EOkal) - [Arın Yazılım](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/feed)
+- :movie_camera: [CSS Eğitim Seti](https://www.youtube.com/watch?v=X4KWpLHlMWI&list=PLzPtCsi6BpOu1oC8l8a36e8pqHTVNuY9F) - [Baran Somaklı](https://twitter.com/baransomakli)
 
 
 ### Django
@@ -154,6 +163,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### HTML
 - :movie_camera: [HTML Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Qro_C0ixzMWpCiogfXxKE) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 - :movie_camera: [HTML5 & CSS3 Eğitim Serisi](https://www.youtube.com/playlist?list=PLWctyKyPphPgllQpbeVEzqU721R3WFY1W) - [Yakın Kampüs](https://www.youtube.com/channel/UCrFuOhaISP4OMarjFR4dYBA)
+- :movie_camera: [HTML Eğitim Seti](https://www.youtube.com/watch?v=9jd9XqVOQUc&list=PLzPtCsi6BpOvFv-sDtRzX4P3kBAEWC0wC) - [Baran Somaklı](https://twitter.com/baransomakli)
 
 
 ### Java
@@ -170,6 +180,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java ve Java Teknolojileri ile alakalı dersler](http://blog.burakkutbay.com/) - Burak Kutbay
 - [Java Kitap](https://github.com/melihsakarya/java-kitap) - Melih Sakarya
 - [Nedir bu JAXB ?](https://medium.com/@yusuf77kenan/nedir-bu-jaxb-64b1e9409c0) - Yusuf Çakal
+- [Java Blog](http://binkurt.blogspot.com.tr/) - Binnur Kurt
 
 ### JavaScript
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
@@ -190,6 +201,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Laravel 5.4 Blog Uygulaması](https://www.youtube.com/watch?v=0N1tiGJTuGs&list=PLS-yaST2La_j2_WWCZXQcyYcBp7_7Teaz) - [Halil Coşdu](https://github.com/halilcosdu)
 
 
+### Machine Learning
+- :movie_camera: [Makine Ögrenmesi Video Blog](https://www.youtube.com/playlist?list=PLRRY18KNZTgUQx8NT_YqCVOyb-VnB79W2)
+
+
 ### Nginx
 - [Nginx Nedir?](https://medium.com/house-of-apps/nginx-nedir-1b15933beaf4) - Ahmet Deniz
 
@@ -201,10 +216,14 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Geleceği Yazanlar - Node.js Eğitimi(ileri seviye)](https://gelecegiyazanlar.turkcell.com.tr/konu/web-programlama/egitim/401)
 - :movie_camera: [Node.JS Eğitim Videoları](https://www.youtube.com/playlist?list=PLh9ECzBB8tJOkzZUbc9CngE-6XeyDFeSY) - [Şadi Evren Şeker](http://sadievrenseker.com)
 
+### OpenSSL
+- [OpenSSL CA Kılavuzu](https://github.com/zekiunal/openssl-certificate-authority-guide)
 
 ### OSX
 - [OSX Püf Noktaları](http://osx.gelistiriciyiz.biz) - [OSX Tips](https://twitter.com/osx_tips_tr)
 
+### Packer
+- [Packer Başlangıç Kılavuzu](https://github.com/zekiunal/packer)
 
 ### PHP
 - [PHP Dersleri](http://ibrahimcevruk.com/kat/php-dersleri) - [İbrahim Çevrük](http://ibrahimcevruk.com)
@@ -254,8 +273,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift ve Püf Noktaları](http://kenanatmaca.com/) - [Kenan Atmaca](https://github.com/KenanAtmaca)
 
 
+### Unit Testing
+- :movie_camera: [Unit Test Yazma Sanatı](https://www.udemy.com/unit-test-yazma-sanati/)
+
+
 ### Vault
-- [Vault Türkçe](https://github.com/zekiunal/vault)
+- [Vault Başlangıç Kılavuzu](https://github.com/zekiunal/vault)
 
 
 ### Vue.js
@@ -263,9 +286,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Nedir Bu Vuejs](https://www.youtube.com/playlist?list=PLhLbfczNPVOKsDy-qb22aO-WxZUijmwTR) - Omer Şensoy
 - [Vue.js ile Uygulama Geliştirme](http://oguzhan.in/vue-js-ile-uygulama-gelistirme/) - [Oğuzhan Aslan](https://twitter.com/oguzhanaslan)
 
+### WordPress
+- :movie_camera: [WordPress Tema Entegre Eğitim Seti](https://www.youtube.com/watch?v=_wzy8QTfdIw&list=PLzPtCsi6BpOtWhBe9HoKcMv6txGlcLzkm) - [Baran Somaklı](https://twitter.com/baransomakli)
+
 
 ## Diğer Kaynaklar
-
 
 ### Faydalı Linkler
 - [Çalışma Masam](https://calismamasam.com) - [Tolga Gezginiş](https://twitter.com/tgezginis)
@@ -321,10 +346,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [NedirTV](https://www.youtube.com/user/nedirtvcom)
 - [Ekrem Karaca](https://www.youtube.com/channel/UCx8gTyAppCVGMoIOCdUZGQg/videos)
 - [VNGRS](https://www.youtube.com/channel/UC7WKjxscgH-A8LCFUrj0iQQ)
-
+- [TestHive](https://www.youtube.com/channel/UCvMbGj7aumypkOKXYcBtgbQ/videos)
 
 ### Slack Grupları
 - [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye Al](https://goo.gl/forms/IZe06LgNk6Vsega83))
 - [Python İstanbul](https://pyistanbul.slack.com) ([Davetiye Al](https://pyistanbul.herokuapp.com/))
 - [Ruby Türkiye](https://rubytr.slack.com) ([Davetiye Al](http://rubytr.herokuapp.com/))
 - [İzmir Geliştirici & Tasarımcı Topluluğu](https://www.facebook.com/izmirdev/) ([Davetiye Al](https://docs.google.com/forms/d/e/1FAIpQLSdeuvyiBvhP46os0xhPJE4mnTgtHfWpfCp-595VwbES9Qpdfg/viewform))
+- [Az Mesai - Biraz Dev, biraz Ops](http://azmesai.net) ([Davetiye](https://leventyalcin.typeform.com/to/rSbcXD))
