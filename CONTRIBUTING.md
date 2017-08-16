@@ -1,20 +1,21 @@
 ## Katkıda bulunmadan önce
 
-Lütfen aşağıdaki seçeneklerin tamamı doğru yapılmışsa katkıda bulunun:
+Lütfen aşağıdaki maddeleri okuyup doğru olduklarından emin olduktan sonra katkıda bulununuz.
 
-- Katkı Çağrısı maddesini okudunuz mu?
-	Lütfen burayı okuyun: https://github.com/fatihacet/turkcekaynaklar-com/blob/master/Katki-Cagrisi.md
+- Katkı Çağrısını okudunuz mu? Okumadıysanız lütfen önce [burayı](https://github.com/fatihacet/turkcekaynaklar-com/blob/master/Katki-Cagrisi.md) okuyunuz.
 
-- PR atmak istediğiniz branch ('compare:' yazan alan) master'dan farklı mı?
-	lütfen master branch üzerinden PR atmayın. Bu sağlıklı değildir. Fork reponuzda yeni bir branch oluşturup değişikliklerinizi orada yapın.
+
+- Pull Request açmak için aşağıdakilerden birini yapabilirsiniz.
+	- Projeyi fork'layıp kendi projenizde değişiklikleri yapıp Pull Request açabilirsiniz.
+	- README.md dosyasını açıp, sağ üstteki kalem ikonuna tıklayıp istediğiniz değişikliği yapıp commit edebilirsiniz. Bu yöntemde GitHub sizin için bir patch branch'i oluşturup PR açmanıza izin vericektir.
 
 - Fork reponuz güncel mi?
-	Lütfen en son değişiklikleri kendi reponuza güncelledikten sonra PR atın. Attığınız commit sayısından emin misiniz?
+	Lütfen en son değişiklikleri kendi reponuza güncelleştiriniz.
 
-- Çakışma var mı?
-	Eğer 'Can’t automatically merge' yazısı ile karşılaşırsan bir çakışma ver demektir branch'inizi kontrol edin.
+- Conflict (çakışma) var mı?
+	Eğer 'Can’t automatically merge' yazısı ile karşılaşırsanız bir çakışma var demektir. Lütfen değişikliklerinizi kontrol edip, olası conflict'leri çözünüz.
 
-- Katkıda bulunacağın linkler güvenli mi?
-	Lütfen eğer güvendiğin bir site/siteler ise katkıda bulun.
+- Katkıda bulunacağınız linkler güvenli mi?
+	Lütfen sadece güvendiğiniz site veya siteleri listeye ekleyiniz.
 
-Eğer katkıda bulunmak için gerekli bilgiye sahip değilseniz [bu makaleyi](https://medium.com/@cengizhanc/github-ile-a%C3%A7%C4%B1k-kaynak-projelere-katk%C4%B1da-bulunmak-8a0d79090546) okuyabilirsiniz.
+Eğer katkıda bulunmak istiyor ama nereden ve nasıl başlayacağınızı bilmiyorsanız [bu makaleyi](https://medium.com/@cengizhanc/github-ile-a%C3%A7%C4%B1k-kaynak-projelere-katk%C4%B1da-bulunmak-8a0d79090546) okuyabilirsiniz.
