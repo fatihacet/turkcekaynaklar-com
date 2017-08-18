@@ -4,7 +4,6 @@ Lütfen aşağıdaki maddeleri okuyup doğru olduklarından emin olduktan sonra 
 
 - Katkı Çağrısını okudunuz mu? Okumadıysanız lütfen önce [burayı](https://github.com/fatihacet/turkcekaynaklar-com/blob/master/Katki-Cagrisi.md) okuyunuz.
 
-
 - Pull Request açmak için aşağıdakilerden birini yapabilirsiniz.
 	- Projeyi fork'layıp kendi projenizde değişiklikleri yapıp Pull Request açabilirsiniz.
 	- README.md dosyasını açıp, sağ üstteki kalem ikonuna tıklayıp istediğiniz değişikliği yapıp commit edebilirsiniz. Bu yöntemde GitHub sizin için bir patch branch'i oluşturup PR açmanıza izin vericektir.
@@ -13,7 +12,7 @@ Lütfen aşağıdaki maddeleri okuyup doğru olduklarından emin olduktan sonra 
 	Lütfen en son değişiklikleri kendi reponuza güncelleştiriniz.
 
 - Conflict (çakışma) var mı?
-	Eğer 'Can’t automatically merge' yazısı ile karşılaşırsanız bir çakışma var demektir. Lütfen değişikliklerinizi kontrol edip, olası conflict'leri çözünüz.
+	Eğer 'Can’t automatically merge' yazısı ile karşılaşırsanız bir conflict var demektir. Lütfen değişikliklerinizi kontrol edip, olası conflict'leri çözünüz.
 
 - Katkıda bulunacağınız linkler güvenli mi?
 	Lütfen sadece güvendiğiniz site veya siteleri listeye ekleyiniz.
