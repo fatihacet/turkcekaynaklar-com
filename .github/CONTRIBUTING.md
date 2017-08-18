@@ -4,6 +4,7 @@ Lütfen aşağıdaki maddeleri okuyup doğru olduklarından emin olduktan sonra 
 
 - Katkı Çağrısını okudunuz mu?
 <br>
+
 Okumadıysanız lütfen önce [burayı](Katki-Cagrisi.md) okuyunuz.
 
 - Pull Request açmak için aşağıdakilerden birini yapabilirsiniz:
