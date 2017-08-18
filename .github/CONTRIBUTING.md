@@ -4,19 +4,19 @@ Lütfen aşağıdaki maddeleri okuyup doğru olduklarından emin olduktan sonra 
 
 - Katkı Çağrısını okudunuz mu?
 <br>
-Okumadıysanız lütfen önce [burayı](https://github.com/fatihacet/turkcekaynaklar-com/blob/master/Katki-Cagrisi.md) okuyunuz.
+Okumadıysanız lütfen önce [burayı](Katki-Cagrisi.md) okuyunuz.
 
-- `Pull Request` açmak için aşağıdakilerden birini yapabilirsiniz:
-	- `Repository`'yi `fork`'layıp, kendi `repository`'nizde değişiklikleri yapıp, `Pull Request` açabilirsiniz.
-	- [README.md](https://github.com/fatihacet/turkcekaynaklar-com/blob/master/README.md) dosyasını açıp, sağ üstteki kalem ikonuna tıklayıp, istediğiniz değişikliği yapıp, `commit` yapabilirsiniz. Bu yöntemde GitHub sizin için bir patch `branch`'i oluşturup `Pull Request` açmanıza izin verecektir.
+- Pull Request açmak için aşağıdakilerden birini yapabilirsiniz:
+	- Repository'yi fork'layıp, kendi repository'nizde değişiklikleri yapıp, Pull Request açabilirsiniz.
+	- [README.md](README.md) dosyasını açıp, sağ üstteki kalem ikonuna tıklayıp, istediğiniz değişikliği yapıp, commit yapabilirsiniz. Bu yöntemde GitHub sizin için bir patch branch'i oluşturup Pull Request açmanıza izin verecektir.
 
-- `Fork`'ladığınız `repository` güncel mi?
+- Fork'ladığınız repository güncel mi?
 	<br>
-	Lütfen kendi `repository`nizi en son değişikliklerle güncelleyiniz.
+	Lütfen kendi repositorynizi en son değişikliklerle güncelleyiniz.
 
-- `Conflict` var mı?
+- Conflict var mı?
 	<br>
-	Eğer *"Can’t automatically merge"* yazısıyla karşılaşırsanız bir `conflict` var demektir. Lütfen değişikliklerinizi kontrol edip, var olan `conflict`'leri çözünüz.
+	Eğer *"Can’t automatically merge"* yazısıyla karşılaşırsanız bir conflict var demektir. Lütfen değişikliklerinizi kontrol edip, var olan conflict'leri çözünüz.
 
 - Eklemek istediğiniz linkler güvenli mi?
 	<br>
