@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e # Exit with nonzero exit code if anything fails
 
-awesome_bot README.md -t 5 --allow-timeout --allow-dupe --allow-redirect
+awesome_bot README.md -t 5 --allow-timeout --allow-dupe --allow-redirect --white-list vimeo
 
 if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then
   ENCRYPTED_KEY_VAR="encrypted_${ENCRYPTION_LABEL}_key"
