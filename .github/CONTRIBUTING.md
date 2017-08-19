@@ -5,11 +5,11 @@ Lütfen aşağıdaki maddeleri okuyup doğru olduklarından emin olduktan sonra 
 - Katkı Çağrısını okudunuz mu?
 <br>
 
-Okumadıysanız lütfen önce [burayı](Katki-Cagrisi.md) okuyunuz.
+Okumadıysanız lütfen önce [burayı](https://github.com/fatihacet/turkcekaynaklar-com/blob/master/Katki-Cagrisi.md) okuyunuz.
 
 - Pull Request açmak için aşağıdakilerden birini yapabilirsiniz:
 	- Repository'yi fork'layıp, kendi repository'nizde değişiklikleri yapıp, Pull Request açabilirsiniz.
-	- [README.md](README.md) dosyasını açıp, sağ üstteki kalem ikonuna tıklayıp, istediğiniz değişikliği yapıp, commit yapabilirsiniz. Bu yöntemde GitHub sizin için bir patch branch'i oluşturup Pull Request açmanıza izin verecektir.
+	- [README.md](https://github.com/fatihacet/turkcekaynaklar-com/blob/master/README.md) dosyasını açıp, sağ üstteki kalem ikonuna tıklayıp, istediğiniz değişikliği yapıp, commit yapabilirsiniz. Bu yöntemde GitHub sizin için bir patch branch'i oluşturup Pull Request açmanıza izin verecektir.
 
 - Fork'ladığınız repository güncel mi?
 	<br>
