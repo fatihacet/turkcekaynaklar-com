@@ -181,6 +181,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java ve Java Teknolojileri ile alakalı dersler](http://blog.burakkutbay.com/) - Burak Kutbay
 - [Java Kitap](https://github.com/melihsakarya/java-kitap) - Melih Sakarya
 - [Java Blog](http://binkurt.blogspot.com.tr/) - Binnur Kurt
+- [Java Blog](https://mericberber.com/javase/) - Meriç BERBER
 - [Java ve Java Teknolojileri ile alakalı çözümler](http://ofarukkurt.blogspot.com/) - Ömer Faruk Kurt
 
 ### JavaScript
