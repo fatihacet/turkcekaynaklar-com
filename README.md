@@ -217,6 +217,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Node JS Blog Yazıları & Eğitimleri](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/node-js/) - [yazilimgunlugu.org](https://yazilimgunlugu.org/)
 - [Geleceği Yazanlar - Node.js Eğitimi(ileri seviye)](https://gelecegiyazanlar.turkcell.com.tr/konu/web-programlama/egitim/401)
 - :movie_camera: [Node.JS Eğitim Videoları](https://www.youtube.com/playlist?list=PLh9ECzBB8tJOkzZUbc9CngE-6XeyDFeSY) - [Şadi Evren Şeker](http://sadievrenseker.com)
+- :movie_camera: [Node.js Eğitim Videoları](https://www.youtube.com/thelastcodebenders) - [Çağatay Çalı](https://github.com/cagataycali)
 
 ### OpenSSL
 - [OpenSSL CA Kılavuzu](https://github.com/zekiunal/openssl-certificate-authority-guide)
