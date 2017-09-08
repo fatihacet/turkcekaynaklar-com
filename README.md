@@ -20,6 +20,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [CodeIgniter](#codeigniter)
 - [Cpp](#cpp)
 - [CSS](#css)
+- [D](#d)
 - [Django](#django)
 - [Docker](#docker)
 - [Flux](#flux)
@@ -116,6 +117,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Bootstrap 4 Eğitim Serisi](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-xwLUQ0-OIA46mKwYeaxXR) - [Arın Yazılım](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/feed)
 - :movie_camera: [Pratik CSS Teknikleri Serisi](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq9GTqLreY9l5MiJJm6EOkal) - [Arın Yazılım](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/feed)
 - :movie_camera: [CSS Eğitim Seti](https://www.youtube.com/watch?v=X4KWpLHlMWI&list=PLzPtCsi6BpOu1oC8l8a36e8pqHTVNuY9F) - [Baran Somaklı](https://twitter.com/baransomakli)
+
+
+### D
+- [D Programlama Dili](http://ddili.org/ders/d/index.html)
 
 
 ### Django
