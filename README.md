@@ -189,7 +189,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java Blog](http://binkurt.blogspot.com.tr/) - Binnur Kurt
 - [Java Blog](https://mericberber.com/javase/) - Meriç BERBER
 - [Java ve Java Teknolojileri ile alakalı çözümler](http://ofarukkurt.blogspot.com/) - Ömer Faruk Kurt
-- [Java, Java Kütüphaneleri ve Java Teknolojileri](http://ilkaygunel.com) - İlkay GÜNEL 
+- [Java, Java Kütüphaneleri ve Java Teknolojileri](http://ilkaygunel.com/blog/) - İlkay GÜNEL 
 - [Java Teknolojileri İle İlgili Videolar - Youtube](https://www.youtube.com/c/ilkaygunel) - İlkay GÜNEL
 
 ### JavaScript
