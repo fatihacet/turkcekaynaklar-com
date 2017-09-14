@@ -19,6 +19,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Clojure](#clojure)
 - [CodeIgniter](#codeigniter)
 - [Cpp](#cpp)
+- [Crystal](#crystal)
 - [CSS](#css)
 - [D](#d)
 - [Django](#django)
@@ -109,6 +110,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [cppdili](https://cppdili.blogspot.com.tr/)
 - [Qt 4 ile C++ GUI Programlama](https://ufukuzun.wordpress.com/yayinlarim/qt-4-ile-c-gui-programlama/) - [Ufuk Uzun](https://ufukuzun.wordpress.com/)
 
+### Crystal
+- :movie_camera: [Adım adım Crystal](https://www.youtube.com/playlist?list=PLqgPe8mz0dh5p73VdFwAuh1MF_yQ6f9RJ)
 
 ### CSS
 - :movie_camera: [CSS Anlat](https://www.youtube.com/playlist?list=PLadt0EaV4m3CV5URFStcmOMMP-G9Bf8LG) - [Adem İlter](https://twitter.com/ADEMilter)
