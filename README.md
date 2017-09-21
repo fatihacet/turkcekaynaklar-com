@@ -23,6 +23,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [D](#d)
 - [Django](#django)
 - [Docker](#docker)
+- [Electron](#electron)
 - [Flux](#flux)
 - [Git](#git)
 - [Go](#go)
@@ -136,6 +137,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Docker
 - [Docker İpuçları](http://www.gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-1/) - [Gökhan Şengün](https://twitter.com/gokhansengun)
+
+
+### Electron
+- [Electron Kullanarak Hem Masaüstü Hem Tarayıcı Uygulaması Geliştirme](http://www.avarekodcu.com/konu/28/electron-react-webpack-ve-babel-kullanarak-hem-masaustu-hem-tarayici-uygulamasi-gelistirme) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 
 
 ### Flux
