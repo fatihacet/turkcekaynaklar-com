@@ -228,6 +228,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Nginx
 - [Nginx Nedir?](https://medium.com/house-of-apps/nginx-nedir-1b15933beaf4) - Ahmet Deniz
+- [Nginx Yapılandırma Örnekleri](https://mertcangokgoz.com/tag/nginx/) - Mertcan GÖKGÖZ
 
 
 ### Node.js
@@ -351,7 +352,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [On İki Faktör Uygulaması](https://12factor.net/tr/)
 - [Clean Code'dan Notlar](http://busrauzun.com/clean-code-kitabindan-notlar.html) - [Büşra Uzun](http://busrauzun.com/)
 - [Sıradışılıkla Kazanmak (Beating the Averages) - Paul Graham](https://ileriseviye.wordpress.com/2004/01/01/siradisilikla-kazanmak/)
-
+- [Jekyll İle Github Üzerinde Ücretsiz Web Sitesi Barındırma](https://mertcangokgoz.com/tag/jekyll/) - Mertcan GÖKGÖZ
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
