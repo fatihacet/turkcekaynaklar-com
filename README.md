@@ -301,8 +301,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Swift
-- [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye/archive) - [Özgur Şahin](https://github.com/ozgurshn) & [Hüseyin Bagana](https://medium.com/@huseyinbagana)
-- [10 Dakikada Swift](https://learnxinyminutes.com/docs/tr-tr/swift-tr/) - [Ozgur Sahin](https://github.com/ozgurshn)
+- [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye/archive) - [Özgür Şahin](https://github.com/ozgurshn) & [Hüseyin Bagana](https://medium.com/@huseyinbagana)
+- [10 Dakikada Swift](https://learnxinyminutes.com/docs/tr-tr/swift-tr/) - [Özgür Şahin](https://github.com/ozgurshn)
 - [Swift ve Püf Noktaları](http://kenanatmaca.com/) - [Kenan Atmaca](https://github.com/KenanAtmaca)
 - [Swift - Dictionary Kavramı](http://www.batuhansaka.com/swift-3-dictionary-kavrami/) - [Batuhan Saka](https://github.com/strawb3rryx7)
 - :movie_camera: [Swift/Xcode Eğitim Videoları](https://www.youtube.com/channel/UCdzM1zLR0g1aU6tqZ8xuGzA/playlists)
@@ -353,8 +353,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Clean Code'dan Notlar](http://busrauzun.com/clean-code-kitabindan-notlar.html) - [Büşra Uzun](http://busrauzun.com/)
 - [Sıradışılıkla Kazanmak (Beating the Averages) - Paul Graham](https://ileriseviye.wordpress.com/2004/01/01/siradisilikla-kazanmak/)
 - [Jekyll İle Github Üzerinde Ücretsiz Web Sitesi Barındırma](https://mertcangokgoz.com/tag/jekyll/) - Mertcan GÖKGÖZ
+- [WhatsApp Altyapısına Teknik Bir Bakış](https://cliexperiences.wordpress.com/2017/08/01/whatsapp-altyapisina-teknik-bir-bakis/)
 - [Stack ve Heap Kavramları](https://medium.com/t%C3%BCrkiye/stack-ve-heap-kavram%C4%B1-59adcb29d454) - [Yusuf Çakal](http://yusufcakal.com/)
-
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
@@ -372,7 +372,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Ömer Şensoy](https://www.youtube.com/user/omrse/feed)
 - [Devnot TV](https://www.youtube.com/channel/UCgKcX7YBsGbdLrZQyOKMLQA)
 - [Yalın Kod](https://www.youtube.com/channel/UCiziEYDqww4rn3wn7otqHQQ)
-- [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
+- [İstanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
 - [Okan Davut](https://www.youtube.com/channel/UCD9xZqZn8YHkm-6XnmdgYGg)
 - [Rıza Güneş](https://www.youtube.com/user/rgunes18)
 - [Kablosuzkedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg)
