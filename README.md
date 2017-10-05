@@ -301,8 +301,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Swift
-- [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye/archive) - [Özgur Şahin](https://github.com/ozgurshn) & [Hüseyin Bagana](https://medium.com/@huseyinbagana)
-- [10 Dakikada Swift](https://learnxinyminutes.com/docs/tr-tr/swift-tr/) - [Ozgur Sahin](https://github.com/ozgurshn)
+- [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye/archive) - [Özgür Şahin](https://github.com/ozgurshn) & [Hüseyin Bagana](https://medium.com/@huseyinbagana)
+- [10 Dakikada Swift](https://learnxinyminutes.com/docs/tr-tr/swift-tr/) - [Özgür Şahin](https://github.com/ozgurshn)
 - [Swift ve Püf Noktaları](http://kenanatmaca.com/) - [Kenan Atmaca](https://github.com/KenanAtmaca)
 - [Swift - Dictionary Kavramı](http://www.batuhansaka.com/swift-3-dictionary-kavrami/) - [Batuhan Saka](https://github.com/strawb3rryx7)
 - :movie_camera: [Swift/Xcode Eğitim Videoları](https://www.youtube.com/channel/UCdzM1zLR0g1aU6tqZ8xuGzA/playlists)
@@ -370,7 +370,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Ömer Şensoy](https://www.youtube.com/user/omrse/feed)
 - [Devnot TV](https://www.youtube.com/channel/UCgKcX7YBsGbdLrZQyOKMLQA)
 - [Yalın Kod](https://www.youtube.com/channel/UCiziEYDqww4rn3wn7otqHQQ)
-- [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
+- [İstanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
 - [Okan Davut](https://www.youtube.com/channel/UCD9xZqZn8YHkm-6XnmdgYGg)
 - [Rıza Güneş](https://www.youtube.com/user/rgunes18)
 - [Kablosuzkedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg)
