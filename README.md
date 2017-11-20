@@ -132,7 +132,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### D
 - [D Programlama Dili](http://ddili.org/ders/d/index.html)
 
-### Derin Öğrenme (Deep Learning)
+### Derin Ogrenme (Deep Learning)
 - [Türkçe Yapay Zeka Kaynakları](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
 
 
