@@ -21,6 +21,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Crystal](#crystal)
 - [CSS](#css)
 - [D](#d)
+- [Derin Öğrenme(Deep Learning)](#derin-ogrenme-deep-learning)
 - [Django](#django)
 - [Docker](#docker)
 - [Electron](#electron)
@@ -130,6 +131,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### D
 - [D Programlama Dili](http://ddili.org/ders/d/index.html)
+
+### Derin Öğrenme(Deep Learning)
+- [Türkçe Yapay Zeka Kaynakları](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
 
 
 ### Django
