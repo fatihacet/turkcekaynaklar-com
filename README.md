@@ -145,6 +145,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Electron
 - [Electron Kullanarak Hem Masaüstü Hem Tarayıcı Uygulaması Geliştirme](http://www.avarekodcu.com/konu/28/electron-react-webpack-ve-babel-kullanarak-hem-masaustu-hem-tarayici-uygulamasi-gelistirme) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
+- [Electron Uygulamasının, Dağıtma ve Güncelleme Senaryoları](http://www.avarekodcu.com/konu/29/electron-uygulamasinin-dagitma-ve-guncelleme-senaryolari) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 
 
 ### Flux
