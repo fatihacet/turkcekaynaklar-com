@@ -281,6 +281,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift ve Püf Noktaları](http://kenanatmaca.com/) - [Kenan Atmaca](https://github.com/KenanAtmaca)
 - [Swift - Dictionary Kavramı](http://www.batuhansaka.com/swift-3-dictionary-kavrami/) - [Batuhan Saka](https://github.com/strawb3rryx7)
 - :movie_camera: [Swift/Xcode Eğitim Videoları](https://www.youtube.com/channel/UCdzM1zLR0g1aU6tqZ8xuGzA/playlists)
+- [Core ML Nedir, Nasıl Kullanılır? (Nesne Algılama ⚙️)](https://medium.com/nsistanbul/core-ml-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-nesne-alg%C4%B1lama-%EF%B8%8F-3901d5d4444f)  - [Batuhan Saka] (https://medium.com/@strawb3rryx7)
+- [Swift - fileprivate ve open Erişim Belirleyicileri Nedir, Ne Yaparlar?](https://medium.com/nsistanbul/swift-fileprivate-ve-open-eri%C5%9Fim-belirleyicileri-nedir-c06fafd985f9) - [Batuhan Saka] (https://medium.com/@strawb3rryx7)
+- [Swift - Custom View parçalarını NIB/XIB ile tasarlamak.](https://medium.com/nsistanbul/swift-custom-view-par%C3%A7alar%C4%B1n%C4%B1-nib-xib-ile-tasarlamak-698035ddd896) - [Batuhan Saka] (https://medium.com/@strawb3rryx7)
+- [Swift - NotificationCenter nedir, ne için kullanılır?](https://medium.com/@strawb3rryx7/swift-notificationcenter-nedir-ne-i%C3%A7in-kullan%C4%B1l%C4%B1r-a10d4487a2ed) - [Batuhan Saka] (https://medium.com/@strawb3rryx7)
+- [Swift - SnapKit ve Auto Layout nedir, nasıl kullanılır? 📏](https://medium.com/@strawb3rryx7/snapkit-ve-auto-layout-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-c6221ae95345) - [Batuhan Saka] (https://medium.com/@strawb3rryx7)
 
 ### Unit Testing
 - :movie_camera: [Unit Test Yazma Sanatı](https://www.udemy.com/unit-test-yazma-sanati/)
