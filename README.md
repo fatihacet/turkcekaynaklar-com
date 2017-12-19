@@ -410,6 +410,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [TestHive](https://www.youtube.com/channel/UCvMbGj7aumypkOKXYcBtgbQ/videos)
 - [Emrah Yüksel](https://www.youtube.com/channel/UC2u9Gc37Rq44dB3mW4Kdi-w/videos)	
 - [Çağatay Çalı](https://www.youtube.com/channel/UCtOzMBrfPggRxgrSnWHXiUQ)	
+- [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA/videos) 
 
 
 ### Slack Grupları
