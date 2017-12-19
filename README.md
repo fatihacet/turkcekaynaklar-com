@@ -12,6 +12,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android](#android)
 - [Angular](#angular)
 - [ASP.NET](#aspnet)
+- [Bot Framework](#bot-framework)
 - [Behavior Driven Development](#behavior-driven-development)
 - [CodeIgniter](#codeigniter)
 - [C#](#csharp)
@@ -56,6 +57,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Vault](#vault)
 - [Vue.js](#vuejs)
 - [WordPress](#wordpress)
+- [Xamarin](#xamarin)
 - Diğer Kaynaklar
   - [Faydalı Linkler](#faydalı-linkler)
   - [Podcast Yayınları](#podcast-yayınları)
@@ -86,6 +88,14 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [ASP.NET Mvc Blog Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJJqRRNYfVmXG7Lw1Ovjm0UQ) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - :movie_camera: [ASP.NET Mvc Haber Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJJmyzTm77FjlCJOA11SCc_Z) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed) 
 - [ASP.NET Core El Kitabı](https://sahinyanlik.gitbooks.io/kisa-asp-net-core-kitabi/content/) - [Sahin Yanlik](http://sahinyanlik.com.tr)
+
+
+### Bot Framework
+- [Chatbot ve Bot Framework Nedir?](https://medium.com/@peacecwz/chatbot-ve-bot-framework-nedir-7558f4eacfe3) - [Barış Ceviz](https://twitter.com/peacecwz)
+- [Microsoft Bot Framework ile Hello Chatbot](https://medium.com/@peacecwz/microsoft-bot-framework-ile-hello-chatbot-cc357468ac48) - [Barış Ceviz](https://twitter.com/peacecwz)
+- [Bot Framework ile Azure Cognitive Services Kullanımı](https://medium.com/@peacecwz/bot-framework-ile-azure-cognitive-services-kullan%C4%B1m%C4%B1-e8e76871e52b) - [Barış Ceviz](https://twitter.com/peacecwz)
+- [Bot Framework ile Aşçı botunuzu yapın](https://medium.com/@peacecwz/bot-framework-ile-a%C5%9F%C3%A7%C4%B1-botunuzu-yap%C4%B1n-354eb566e57d) - [Barış Ceviz](https://twitter.com/peacecwz)
+- [Akakce.com sitesini Bot Framework ile Chatbot haline getirelim](https://medium.com/@peacecwz/akakce-com-sitesini-bot-framework-ile-chatbot-haline-getirelim-288f60320c8) - [Barış Ceviz](https://twitter.com/peacecwz)
 
 
 ### Behavior Driven Development
@@ -299,6 +309,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [React Native Uygulamaları](http://berkay.beyaz.us/category/react-native/) - [Berkay Beyaz](https://twitter.com/berkaybeyaz6)
 - [React Native İle Login Uygulaması](http://www.avarekodcu.com/aramayap/etiket/react-native-login-uygulamas) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 - [React Native Animasyonlar, Animated API](http://www.avarekodcu.com/konu/24/react-native-animasyonlar-animated-api) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
+- [React Native SQLite Kullanımı](https://medium.com/@peacecwz/react-native-sqlite-kullan%C4%B1m%C4%B1-6969e783f136) - [Barış Ceviz](https://twitter.com/peacecwz)
 
 
 ### Ruby
@@ -347,6 +358,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### WordPress
 - :movie_camera: [WordPress Tema Entegre Eğitim Seti](https://www.youtube.com/watch?v=_wzy8QTfdIw&list=PLzPtCsi6BpOtWhBe9HoKcMv6txGlcLzkm) - [Baran Somaklı](https://twitter.com/baransomakli)
+
+
+### Xamarin
+- [Xamarin Türkiye](http://www.xamarinturkiye.com/)
+- [Xamarin Uygulama Geliştirme](http://ozaksut.com/kategori/xamarin/) - [Yiğit Özaksüt](https://twitter.com/ozaksuty)
+- [Xamarin Forms Radial Progress Kullanımı](https://medium.com/@peacecwz/xamarin-forms-radial-progress-kullan%C4%B1m%C4%B1-73751aa2cffd) - [Barış Ceviz](https://twitter.com/peacecwz)
 
 
 ## Diğer Kaynaklar
