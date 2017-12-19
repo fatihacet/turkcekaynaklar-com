@@ -437,4 +437,4 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [İzmir Geliştirici & Tasarımcı Topluluğu](https://www.facebook.com/izmirdev/) ([Davetiye Al](https://docs.google.com/forms/d/e/1FAIpQLSdeuvyiBvhP46os0xhPJE4mnTgtHfWpfCp-595VwbES9Qpdfg/viewform))
 - [Az Mesai - Biraz Dev, biraz Ops](http://azmesai.net) ([Davetiye](https://leventyalcin.typeform.com/to/rSbcXD))
 - [açık kaynak](http://acikkaynak.info) ([Davetiye](https://s.acikkaynak.info))
-- [Laravel İstanbul](http://laravel.istanbul/) ([Kayıt Ol/Giriş Yap](https://laravelistanbul.slack.com))
+- [Laravel İstanbul](http://laravel.istanbul/) ([Kayıt Ol/Giriş Yap](https://laravelistanbul.slack.com/join/shared_invite/enQtMjc5MTk3MTgzODYxLWZmZjgxMWEwZmJmMWY0OTZkOGI3NGRjNzgzN2RjY2EyZjM2NDlmZWIxMTYxY2I2NDM3YmUxZGZjNDRiMTkyNTM))
