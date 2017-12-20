@@ -15,6 +15,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Bot Framework](#bot-framework)
 - [Behavior Driven Development](#behavior-driven-development)
 - [CodeIgniter](#codeigniter)
+- [C](#c)
 - [C#](#csharp)
 - [Clojure](#clojure)
 - [CodeIgniter](#codeigniter)
