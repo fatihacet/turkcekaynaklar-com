@@ -179,12 +179,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Go
 - [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
 - [Vim ile Go Programlama Dili Geliştirme Ortamı](http://blog.oguzhan.info/?p=1248) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
-- [Go Programlama Dilinde Table Driven Test](http://blog.oguzhan.info/?p=1397) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
-- [Go Programlama Dilinde Unit Test](http://blog.oguzhan.info/?p=1087) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
-- [Go Programlama Dili Üzerine](http://blog.oguzhan.info/?p=870) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
 - [Go Pointers](http://www.buraksenyurt.com/post/golang-pointers) - Burak Selim Şenyurt
 - [Go Programlama Diline Genel Bakış](http://devnot.com/2017/go-programlama-diline-genel-bakis/) - Cihan Özkan / Devnot.com
 - [Go Programlama Dili ile Web Uygulaması Geliştirme](https://github.com/astaxie/build-web-application-with-golang/tree/master/tr) - Astaxie
+- [Go Programlama Dilinde Table Driven Test](http://blog.oguzhan.info/?p=1397) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
+- [Go Programlama Dilinde Unit Test](http://blog.oguzhan.info/?p=1087) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
+- [Go Programlama Dili Üzerine](http://blog.oguzhan.info/?p=870) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
 
 
 ### GraphQL
