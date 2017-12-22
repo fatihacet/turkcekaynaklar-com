@@ -241,7 +241,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr/)
 - [Javascript'te Promise](http://www.eksiduyuru.com/duyuru/947270/javascript-te-promise)
 - [JavaScript reduce Fonksiyonu](https://medium.com/@ibrahim.kurce/javascript-reduce-fonksiyonu-da5e09ba2e44)
-
+- [JavaScript Coercion](https://medium.com/yaz%C4%B1l%C4%B1ma-dair/javascript-coercion-7f88103c1321)
+- [JavaScript Closures](https://medium.com/yaz%C4%B1l%C4%B1ma-dair/javascript-closures-8b5db7294941)
 
 ### jQuery
 - :movie_camera: [JQuery Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Jt6F-dyl6LEHNVaudH3rk) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
