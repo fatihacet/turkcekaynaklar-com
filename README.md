@@ -15,6 +15,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Bot Framework](#bot-framework)
 - [Behavior Driven Development](#behavior-driven-development)
 - [CodeIgniter](#codeigniter)
+- [C](#c)
 - [C#](#csharp)
 - [Clojure](#clojure)
 - [CodeIgniter](#codeigniter)
@@ -101,6 +102,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Behavior Driven Development
 - [BDD Giris](https://selimober.com/bdd-ye-giris/)
+
+
+### C
+- :movie_camera: [C Programlamaya Giriş](https://www.youtube.com/watch?v=FtaKEn2f2qI&list=PLfzhcDNz4tlXOvEE7z_u3gEqFO3nwIZ5i&index=1) - [Volkan Kılıç](https://www.youtube.com/channel/UC9aW-PVSy01gWDQ25ZCiNbw)
+- :movie_camera: [C ile Programlamaya Giriş](https://www.youtube.com/watch?v=gHmaZ2zeLu8&index=4&list=PLh9ECzBB8tJNzJqD64MAS0SK5IeNCKCzY) - [BilgisayarKavramlari
+](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g)
 
 
 ### Csharp
