@@ -87,7 +87,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [ASP.NET ile Basit Okul Projesi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj49bsuq6iLrg1qyZtekSCgPW) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 - :movie_camera: [ASP.NET ile Blog Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJIsS51_RkdIpX8gemXkXXhD) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - :movie_camera: [ASP.NET Mvc Blog Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJJqRRNYfVmXG7Lw1Ovjm0UQ) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
-- :movie_camera: [ASP.NET Mvc Haber Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJJmyzTm77FjlCJOA11SCc_Z) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed) 
+- :movie_camera: [ASP.NET Mvc Haber Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJJmyzTm77FjlCJOA11SCc_Z) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - [ASP.NET Core El Kitabı](https://sahinyanlik.gitbooks.io/kisa-asp-net-core-kitabi/content/) - [Sahin Yanlik](http://sahinyanlik.com.tr)
 - :movie_camera: [Açık akademi ASP.NET MVC Eğitimi](https://www.acikakademi.com/portal/egitimler/aspnet-mvc-ile-ileri-seviyede-web-programlama.aspx)
 
@@ -221,7 +221,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java'da Multithreading](https://ufukuzun.wordpress.com/yayinlarim/javada-multithreading/) - [Ufuk Uzun](https://ufukuzun.wordpress.com/)
 - [Java ve ilişkili teknolojileri içeren blog](https://alicanakkus.github.io) ve [site](http://www.alicanakkus.com)
 - [Java ve kütüphanelerini içeren blog](http://yusufcakmak.com/category/java/) - Yusuf Çakmak
-- [Java ve ilişkili kütüphanelerle alakalı blog](http://www.bahadirakin.com/category/programlama/java/) - [Bahadır Akın](http://www.bahadirakin.com/) 
+- [Java ve ilişkili kütüphanelerle alakalı blog](http://www.bahadirakin.com/category/programlama/java/) - [Bahadır Akın](http://www.bahadirakin.com/)
 - [JavaTurk.org](http://www.javaturk.org/) - Akın Kaldıroğlu
 - [Java Pass by Value](https://blog.kodcu.com/2012/06/java-pass-by-value/) - Nihat Koçyiğit
 - [JPA 2.1 Entity Graph](https://kodedu.com/2014/09/jpa-2-1-entity-graph/) - Rahman Usta
@@ -231,7 +231,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java Blog](http://binkurt.blogspot.com.tr/search/label/Java) - Binnur Kurt
 - [Java Blog](https://mericberber.com/javase/) - Meriç BERBER
 - [Java ve Java Teknolojileri ile alakalı çözümler](http://ofarukkurt.blogspot.com/) - Ömer Faruk Kurt
-- [Java, Java Kütüphaneleri ve Java Teknolojileri](http://ilkaygunel.com/blog/) - İlkay GÜNEL 
+- [Java, Java Kütüphaneleri ve Java Teknolojileri](http://ilkaygunel.com/blog/) - İlkay GÜNEL
 - [Java Teknolojileri İle İlgili Videolar - Youtube](https://www.youtube.com/c/ilkaygunel) - İlkay GÜNEL
 
 
@@ -435,9 +435,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Ekrem Karaca](https://www.youtube.com/channel/UCx8gTyAppCVGMoIOCdUZGQg/videos)
 - [VNGRS](https://www.youtube.com/channel/UC7WKjxscgH-A8LCFUrj0iQQ)
 - [TestHive](https://www.youtube.com/channel/UCvMbGj7aumypkOKXYcBtgbQ/videos)
-- [Emrah Yüksel](https://www.youtube.com/channel/UC2u9Gc37Rq44dB3mW4Kdi-w/videos)	
-- [Çağatay Çalı](https://www.youtube.com/channel/UCtOzMBrfPggRxgrSnWHXiUQ)	
-- [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA/videos) 
+- [Emrah Yüksel](https://www.youtube.com/channel/UC2u9Gc37Rq44dB3mW4Kdi-w/videos)
+- [Çağatay Çalı](https://www.youtube.com/channel/UCtOzMBrfPggRxgrSnWHXiUQ)
+- [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA/videos)
 
 
 ### Slack Grupları
@@ -447,4 +447,4 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [İzmir Geliştirici & Tasarımcı Topluluğu](https://www.facebook.com/izmirdev/) ([Davetiye Al](https://docs.google.com/forms/d/e/1FAIpQLSdeuvyiBvhP46os0xhPJE4mnTgtHfWpfCp-595VwbES9Qpdfg/viewform))
 - [Az Mesai - Biraz Dev, biraz Ops](http://azmesai.net) ([Davetiye](https://leventyalcin.typeform.com/to/rSbcXD))
 - [açık kaynak](http://acikkaynak.info) ([Davetiye](https://s.acikkaynak.info))
-- [Laravel İstanbul](http://laravel.istanbul/) ([Kayıt Ol/Giriş Yap](https://laravelistanbul.slack.com))
+- [Laravel İstanbul](http://laravel.istanbul/) ([Kayıt Ol/Giriş Yap](https://laravelistanbul.slack.com/join/shared_invite/enQtMjc5MTk3MTgzODYxLWZmZjgxMWEwZmJmMWY0OTZkOGI3NGRjNzgzN2RjY2EyZjM2NDlmZWIxMTYxY2I2NDM3YmUxZGZjNDRiMTkyNTM))
