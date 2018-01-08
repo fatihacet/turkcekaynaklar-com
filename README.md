@@ -262,6 +262,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Nginx
 - [Nginx Nedir?](https://medium.com/house-of-apps/nginx-nedir-1b15933beaf4) - Ahmet Deniz
 - [Nginx Yapılandırma Örnekleri](https://mertcangokgoz.com/tag/nginx/) - Mertcan GÖKGÖZ
+- [Nginx Üzerinde Web API Servisi Çalıştırmak](http://www.buraksenyurt.com/post/nginx-uzerinde-web-api-servisi-calistirmak) - Burak Selim Şenyurt
 
 
 ### Node.js
