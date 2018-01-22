@@ -384,8 +384,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Xamarin Uygulama Geliştirme](http://ozaksut.com/kategori/xamarin/) - [Yiğit Özaksüt](https://twitter.com/ozaksuty)
 - [Xamarin Forms Radial Progress Kullanımı](https://medium.com/@peacecwz/xamarin-forms-radial-progress-kullan%C4%B1m%C4%B1-73751aa2cffd) - [Barış Ceviz](https://twitter.com/peacecwz)
 
+
 ### Kotlin
 - [Giriş Seviyesinde Kotlin Rehberi](https://mksglu.gitbooks.io/kotlin/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
+
 
 ### GNU/Linux
 - [Arch Linux I3WM Kurulum Sonrası Yapılandırma Ayarları (GitBook)](https://www.gitbook.com/book/mksglu/arch-linux-i3wm/details) - [Mert Köseoğlu](https://twitter.com/mksglu)
@@ -421,6 +423,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [WhatsApp Altyapısına Teknik Bir Bakış](https://cliexperiences.wordpress.com/2017/08/01/whatsapp-altyapisina-teknik-bir-bakis/)
 - [Stack ve Heap Kavramları](https://medium.com/t%C3%BCrkiye/stack-ve-heap-kavram%C4%B1-59adcb29d454) - [Yusuf Çakal](http://yusufcakal.com/)
 - [Yazılım Blogları Türkiye Facebook Grubu](https://www.facebook.com/groups/yazilimbloglariturkiye/)
+
+
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
 - [Yakut](http://yakutrb.com/)
