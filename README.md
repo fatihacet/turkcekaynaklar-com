@@ -3,7 +3,7 @@
 Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### [https://turkcekaynaklar.com](https://turkcekaynaklar.com)
-### [KATKI ÇAĞRISI](/Katki-Cagrisi.md)akin@candelasegitim.com
+### [KATKI ÇAĞRISI](/Katki-Cagrisi.md)
 
 ---
 
