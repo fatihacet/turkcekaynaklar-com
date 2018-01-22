@@ -60,7 +60,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [WordPress](#wordpress)
 - [Xamarin](#xamarin)
 - [Kotlin](#kotlin)
-- [GNU/Linux](#gnu-linux)
+- [GNU/Linux](#gnulinux)
 - Diğer Kaynaklar
   - [Faydalı Linkler](#faydalı-linkler)
   - [Podcast Yayınları](#podcast-yayınları)
