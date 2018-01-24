@@ -78,7 +78,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android Uygulamaya “Facebook ile Giriş” Ekleme](https://medium.com/@yusufcakal/android-uygulamaya-facebook-ile-giri%C5%9F-ekleme-14940166eb22) - Yusuf Çakal
 - [umiitkose.com Android Blog](http://www.umiitkose.com/android) - [Ümit KÖSE](https://twitter.com/umiitkose)
 - [Android Türkçe PDF](http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf) - [Ümit KÖSE](https://twitter.com/umiitkose)
-- [Android Studio ile Uygulama Geliştirme Eğitimi](https://www.youtube.com/playlist?list=PL9qDMO9EzLX25NTHm0q7svKLx__OZY8-e)- Levent Yadırga 
+- [Android Studio ile Uygulama Geliştirme Eğitimi](https://www.youtube.com/playlist?list=PL9qDMO9EzLX25NTHm0q7svKLx__OZY8-e)- Levent Yadırga
 
 
 ### Angular
@@ -248,6 +248,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JavaScript Coercion](https://medium.com/yaz%C4%B1l%C4%B1ma-dair/javascript-coercion-7f88103c1321)
 - [JavaScript Closures](https://medium.com/yaz%C4%B1l%C4%B1ma-dair/javascript-closures-8b5db7294941)
 - [Webpack: Modül Paketleyici](https://mksglu.gitbooks.io/webpack/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
+- [Tarayıcılar JavaScript'i Nasıl Yorumlar?](https://medium.com/@oguzkilic/taray%C4%B1c%C4%B1lar-javascripti-nas%C4%B1l-yorumlar-fbdfc472f8e3) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
 
 ### jQuery
 - :movie_camera: [JQuery Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Jt6F-dyl6LEHNVaudH3rk) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
@@ -321,6 +322,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [React JS Eğitimi](https://www.youtube.com/playlist?list=PLC9XHh8X_kVJueSCNIp5ta_PcfOHpFKmO) - [Üstün Özgür](https://twitter.com/UstunOzgur)
 - :movie_camera: [React ve Redux ile Web Uygulaması Geliştirme](https://www.youtube.com/playlist?list=PL-ohrY_IyV4CUNsDxXDkdT-aAVfrTPXll) - [Alpcan Aydın](https://twitter.com/alpcanaydin)
 - [React JS Türkçe Dokümantasyon](https://github.com/omergulcicek/reactjs) - [Ömer Gülçiçek](https://twitter.com/omergulcicek)
+- [React Component'ları için Nasıl Test Yazılır? ](https://medium.com/@oguzkilic/react-componentlar%C4%B1-i%C3%A7in-nas%C4%B1l-test-yaz%C4%B1l%C4%B1r-8da7ffc5d1d5) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
+- [React Component Geliştirme Süreçleri](https://medium.com/@oguzkilic/react-component-geli%C5%9Ftirme-s%C3%BCre%C3%A7leri-38c85c55be77) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
+- [Jest ile React Component'ları için Snapshot Testleri](https://medium.com/@oguzkilic/jest-ile-component-snapshot-testing-6b652876922d) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
+- [Css in JavaScript - StyledComponents](https://medium.com/@oguzkilic/css-in-javascript-styled-components-aa06a6f54388) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
+- [React Uygulamalarında TDD](https://medium.com/@oguzkilic/react-uygulamalar%C4%B1nda-tdd-48f93335d8fb) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
+
 
 
 ### React Native
@@ -329,6 +336,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [React Native İle Login Uygulaması](http://www.avarekodcu.com/aramayap/etiket/react-native-login-uygulamas) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 - [React Native Animasyonlar, Animated API](http://www.avarekodcu.com/konu/24/react-native-animasyonlar-animated-api) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 - [React Native SQLite Kullanımı](https://medium.com/@peacecwz/react-native-sqlite-kullan%C4%B1m%C4%B1-6969e783f136) - [Barış Ceviz](https://twitter.com/peacecwz)
+- [React ile Cross Platform Düşünmek](https://medium.com/@oguzkilic/react-ile-cross-platform-d%C3%BC%C5%9F%C3%BCnmek-cba5aa7b462f) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
 
 
 ### Ruby
@@ -393,7 +401,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Arch Linux I3WM Kurulum Sonrası Yapılandırma Ayarları (GitBook)](https://www.gitbook.com/book/mksglu/arch-linux-i3wm/details) - [Mert Köseoğlu](https://twitter.com/mksglu)
 - [Linux Manjaro 17 I3WM Topluluk Sürümü Çözümleri](https://mksglu.gitbooks.io/linux-manjaro-17-i3wm-topluluk-surumu-cozumleri/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
 - [Linux Manjaro Gnome 3.22 Çözümleri](https://www.mkoseoglu.com/linux-manjaro-gnome-3-22-cozumleri) - [Mert Köseoğlu](https://twitter.com/mksglu)
- 
+
 ## Diğer Kaynaklar
 
 ### Faydalı Linkler
@@ -458,6 +466,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Çağatay Çalı](https://www.youtube.com/channel/UCtOzMBrfPggRxgrSnWHXiUQ/videos)
 - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA/videos)
 - [Ankara Cloud Meetup](https://www.youtube.com/channel/UCDRekG0W9xUd8MLCDuU2Z3Q/videos)
+- [Frontend İstanbul](https://www.youtube.com/channel/UC3fh1Y6TcRPE-W_bdxfT2cg)
 
 
 ### Slack Grupları
