@@ -421,7 +421,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Açık Kaynak Lisansları](http://www.yusufaytas.com/acik-kaynak-lisanslari/) - Yusuf Aytaş
 - [GitHub İle Açık Kaynak Projelere Katkıda Bulunmak](https://medium.com/@cengizhanc/github-ile-a%C3%A7%C4%B1k-kaynak-projelere-katk%C4%B1da-bulunmak-8a0d79090546)
 - [Conditional Breakpoint ile Daha Hızlı ve Etkili Debugging - Eclipse ve Chrome Örneği](http://alikemaltasci.blogspot.com.tr/2014/05/conditional-breakpoint-ile-daha-hzl-ve.html) - Ali Kemal Taşçı
-- [Hastalıklı Alan Modeli (Martin Fowler - Anemic Domain Model Türkçe Çevirisi)](http://fehmicansaglam.net/hastalikli-alan-modeli/) - [Fehmi Can Sağlam](http://twitter.com/fehmicansaglam)
+- [Hastalıklı Alan Modeli (Martin Fowler - Anemic Domain Model Türkçe Çevirisi)](http://fehmicansaglam.net/hastalikli-alan-modeli) - [Fehmi Can Sağlam](http://twitter.com/fehmicansaglam)
 - :movie_camera: [Elasticsearch, Kibana ve Logstash Eğitimi](https://www.youtube.com/watch?v=ZLQSCfXhpIM) - [Haydar Külekçi](http://kulekci.net/)
 - [Scrum Görsel Kılavuzu](https://www.slideshare.net/ACMSoftware/scrum-grsel-klavuzu)
 - [On İki Faktör Uygulaması](https://12factor.net/tr/)
