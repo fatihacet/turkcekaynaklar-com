@@ -279,6 +279,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Node.JS Eğitim Videoları](https://www.youtube.com/playlist?list=PLh9ECzBB8tJOkzZUbc9CngE-6XeyDFeSY) - [Şadi Evren Şeker](http://sadievrenseker.com)
 - :movie_camera: [Node.js Eğitim Videoları](https://www.youtube.com/thelastcodebenders) - [Çağatay Çalı](https://github.com/cagataycali)
 - [Node.js Eğitim Serisi](https://cagatay.me/nodejs-t%C3%BCrk%C3%A7e-e%C4%9Fitim-seti-giri%C5%9F-1-815b6fd21502) - [Çağatay Çalı](https://cagatay.me)
+- [Node JS Blog Yazıları & Eğitimleri 2](http://www.yusufsezer.com.tr/kategori/javascript/node-js/) - Yusuf Sezer
+- :movie_camera: [Node.js ile Oyun Yazmak Serisi Videoları](https://www.youtube.com/playlist?list=PLnrFXI6MYFtG4JtIC887VVx5m05ZNdxCQ) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
+- [Node.js ile Oyun Yazmak Serisi](http://www.avarekodcu.com/aramayap/kategori/7-noy) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 
 
 ### OpenSSL
