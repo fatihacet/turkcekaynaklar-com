@@ -14,6 +14,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [ASP.NET](#aspnet)
 - [Bot Framework](#bot-framework)
 - [Behavior Driven Development](#behavior-driven-development)
+- [Backbone.JS](#backbonejs)
 - [CodeIgniter](#codeigniter)
 - [C](#c)
 - [C#](#csharp)
@@ -37,7 +38,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java](#java)
 - [JavaScript](#javascript)
 - [jQuery](#jquery)
-- [Backbone.JS](#backbonejs)
 - [Laravel](#laravel)
 - [Machine Learning](#machine-learning)
 - [Nginx](#nginx)
@@ -107,6 +107,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Behavior Driven Development
 - [BDD Giris](https://selimober.com/bdd-ye-giris/)
 
+### Backbone.JS
+- :movie_camera: [Backbone.JS Eğitim Serisi](https://www.youtube.com/watch?v=ayyP6GQtk5c&list=PL99HofJTcGg-m5GMBzn2HOlaUAGK2T01E) - [Dayanç Soyadlı](https://www.youtube.com/channel/UCAW77-4MVX2AL7S40CLtO7A)
 
 ### C
 - :movie_camera: [C Programlamaya Giriş](https://www.youtube.com/watch?v=FtaKEn2f2qI&list=PLfzhcDNz4tlXOvEE7z_u3gEqFO3nwIZ5i&index=1) - [Volkan Kılıç](https://www.youtube.com/channel/UC9aW-PVSy01gWDQ25ZCiNbw)
@@ -253,9 +255,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### jQuery
 - :movie_camera: [JQuery Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Jt6F-dyl6LEHNVaudH3rk) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
-
-### Backbone.JS
-- :movie_camera: [Backbone.JS Eğitim Serisi](https://www.youtube.com/watch?v=ayyP6GQtk5c&list=PL99HofJTcGg-m5GMBzn2HOlaUAGK2T01E) - [Dayanç Soyadlı](https://www.youtube.com/channel/UCAW77-4MVX2AL7S40CLtO7A)
 
 ### Laravel
 - [Laravel Nedir?](https://www.sinaneldem.com.tr/laravel-framework-nedir-ve-ozellikleri-nelerdir) - [Sinan Eldem](https://twitter.com/sineld)
