@@ -361,7 +361,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye/archive) - [Özgür Şahin](https://github.com/ozgurshn) & [Hüseyin Bagana](https://medium.com/@huseyinbagana)
 - [10 Dakikada Swift](https://learnxinyminutes.com/docs/tr-tr/swift-tr/) - [Özgür Şahin](https://github.com/ozgurshn)
 - [Swift ve Püf Noktaları](http://kenanatmaca.com/) - [Kenan Atmaca](https://github.com/KenanAtmaca)
-- [Swift - Dictionary Kavramı](http://www.batuhansaka.com/swift-3-dictionary-kavrami/) - [Batuhan Saka](https://github.com/strawb3rryx7)
 - :movie_camera: [Swift/Xcode Eğitim Videoları](https://www.youtube.com/channel/UCdzM1zLR0g1aU6tqZ8xuGzA/playlists)
 - [Core ML Nedir, Nasıl Kullanılır? (Nesne Algılama ⚙️)](https://medium.com/nsistanbul/core-ml-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-nesne-alg%C4%B1lama-%EF%B8%8F-3901d5d4444f)  - [Batuhan Saka](https://medium.com/@strawb3rryx7)
 - [Swift - fileprivate ve open Erişim Belirleyicileri Nedir, Ne Yaparlar?](https://medium.com/nsistanbul/swift-fileprivate-ve-open-eri%C5%9Fim-belirleyicileri-nedir-c06fafd985f9) - [Batuhan Saka](https://medium.com/@strawb3rryx7)
@@ -434,6 +433,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [WhatsApp Altyapısına Teknik Bir Bakış](https://cliexperiences.wordpress.com/2017/08/01/whatsapp-altyapisina-teknik-bir-bakis/)
 - [Stack ve Heap Kavramları](https://medium.com/t%C3%BCrkiye/stack-ve-heap-kavram%C4%B1-59adcb29d454) - [Yusuf Çakal](http://yusufcakal.com/)
 - [Yazılım Blogları Türkiye Facebook Grubu](https://www.facebook.com/groups/yazilimbloglariturkiye/)
+- [Haftalık Bülten: Feyizli Linkler](https://www.getrevue.co/profile/ai) - [Adem İlter](https://twitter.com/ADEMilter/)
 
 
 ### Podcast Yayınları
