@@ -434,6 +434,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [WhatsApp Altyapısına Teknik Bir Bakış](https://cliexperiences.wordpress.com/2017/08/01/whatsapp-altyapisina-teknik-bir-bakis/)
 - [Stack ve Heap Kavramları](https://medium.com/t%C3%BCrkiye/stack-ve-heap-kavram%C4%B1-59adcb29d454) - [Yusuf Çakal](http://yusufcakal.com/)
 - [Yazılım Blogları Türkiye Facebook Grubu](https://www.facebook.com/groups/yazilimbloglariturkiye/)
+- [Haftalık Bülten: Feyizli Linkler](https://www.getrevue.co/profile/ai) - [Adem İlter](https://twitter.com/ADEMilter/)
 
 
 ### Podcast Yayınları
