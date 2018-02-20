@@ -146,9 +146,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [CSS Dokümanları](http://sercaneraslan.com/css) - [Sercan Eraslan](https://twitter.com/sercan_eraslan)
 - :movie_camera: [CSS Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-RyFL8mkfjYjEVCmJhWDQ3) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 - :movie_camera: [Bootstrap 4 Eğitim Serisi 2017](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-xwLUQ0-OIA46mKwYeaxXR) - [Arin Yazılım](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/feed)
-- :movie_camera: [Bootstrap 4 Eğitim Serisi 2018](https://youtu.be/p2UwadULtnY) - [Arin Yazılım](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/feed)
 - :movie_camera: [Pratik CSS Teknikleri Serisi](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq9GTqLreY9l5MiJJm6EOkal) - [Arin Yazılım](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/feed)
 - :movie_camera: [CSS Eğitim Seti](https://www.youtube.com/watch?v=X4KWpLHlMWI&list=PLzPtCsi6BpOu1oC8l8a36e8pqHTVNuY9F) - [Baran Somaklı](https://twitter.com/baransomakli)
+- :movie_camera: [Bootstrap 4 Eğitim Serisi 2018](https://youtu.be/p2UwadULtnY) - [Arin Yazılım](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/feed)
 
 
 ### D
