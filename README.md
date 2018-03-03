@@ -284,6 +284,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Node.js ile Oyun Yazmak Serisi](http://www.avarekodcu.com/aramayap/kategori/7-noy) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 - [Passport.js ile Node JS'de Yetkilendirme Yönetimi](http://mavidurak.github.io/passport-js-ile-node-js-de-yetkilendirme-yonetimi/) - [Furkan Başaran](http://twitter.com/frknbasaran)
 
+
 ### OpenSSL
 - [OpenSSL CA Kılavuzu](https://github.com/zekiunal/openssl-certificate-authority-guide)
 
