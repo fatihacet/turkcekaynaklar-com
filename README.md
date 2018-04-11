@@ -220,7 +220,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [HTML5 & CSS3 Eğitim Serisi](https://www.youtube.com/playlist?list=PLWctyKyPphPgllQpbeVEzqU721R3WFY1W) - [Yakın Kampüs](https://www.youtube.com/channel/UCrFuOhaISP4OMarjFR4dYBA)
 - :movie_camera: [HTML Eğitim Seti](https://www.youtube.com/watch?v=9jd9XqVOQUc&list=PLzPtCsi6BpOvFv-sDtRzX4P3kBAEWC0wC) - [Baran Somaklı](https://twitter.com/baransomakli)
 - :movie_camera: [HTML & CSS Eğitim Seti](https://www.youtube.com/watch?v=nLCveeY8CAE&list=PLkAqDZGjJrkB_a1vD4ZUIrY0IPp5LdD5S) - [Web Odası](https://www.youtube.com/channel/UCDAqxRE1wwZ-n5MRq97aEjA)
-
+- [Front-End Checklist](https://github.com/eraycetinay/Front-End-Checklist)
 
 ### Java
 
@@ -256,6 +256,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Find ve Filter Fonksiyonları](https://youtu.be/xjxGcAgJlME) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - :movie_camera: [Map & Reduce İşlemleri](https://youtu.be/eRTJKDsl79M) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - :movie_camera: [Array, Split ve Join](https://youtu.be/Ak6zxGWHyHA) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
+- [Airbnb JavaScript Kılavuzu](https://github.com/eraycetinay/javascript)
 
 ### jQuery
 - :movie_camera: [JQuery Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Jt6F-dyl6LEHNVaudH3rk) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
