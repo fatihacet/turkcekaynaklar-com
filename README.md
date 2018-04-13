@@ -221,6 +221,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [HTML Eğitim Seti](https://www.youtube.com/watch?v=9jd9XqVOQUc&list=PLzPtCsi6BpOvFv-sDtRzX4P3kBAEWC0wC) - [Baran Somaklı](https://twitter.com/baransomakli)
 - :movie_camera: [HTML & CSS Eğitim Seti](https://www.youtube.com/watch?v=nLCveeY8CAE&list=PLkAqDZGjJrkB_a1vD4ZUIrY0IPp5LdD5S) - [Web Odası](https://www.youtube.com/channel/UCDAqxRE1wwZ-n5MRq97aEjA)
 - [Front-End Checklist](https://github.com/eraycetinay/Front-End-Checklist)
+- [HEAD](https://github.com/mkg0/HEAD)
 
 ### Java
 
