@@ -261,6 +261,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Airbnb JavaScript Kılavuzu](https://github.com/eraycetinay/javascript)
 
 ### jQuery
+- [Herkesin Bilmesi Gereken jQuery İpuçları](https://github.com/lacriment/jquery-tips-everyone-should-know/blob/master/README.tr-TR.md)
 - :movie_camera: [JQuery Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Jt6F-dyl6LEHNVaudH3rk) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 
 
