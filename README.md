@@ -437,6 +437,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ## Diğer Kaynaklar
 
 ### Faydalı Linkler
+- [Jargon.ist](https://jargon.ist/)
 - [Çalışma Masam](https://calismamasam.com) - [Tolga Gezginiş](https://twitter.com/tgezginis)
 - [Anlamsal Sürümleme](http://semver.org/lang/tr/)
 - [Tasarım Desenleri](http://www.tasarimdesenleri.com)
