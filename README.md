@@ -472,6 +472,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [devPod](http://devpod.org/)
 - [Yakut](http://yakutrb.com/)
 - [Codefiction](http://www.codefiction.tech/)
+- [Giik.fm](http://www.giik.fm)
 - [Paraşüt'le Üretim Bandı](https://www.spreaker.com/show/parasutle-uretim-bandi)
 - [Remote Talks](https://www.spreaker.com/show/remote-talks)
 - [1: 0](https://www.spreaker.com/show/birsifir-podcast)
