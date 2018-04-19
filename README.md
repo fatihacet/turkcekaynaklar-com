@@ -420,6 +420,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [VueJS, Vue Router, Vuex, Firebase SPA Egitim Serisi](https://www.youtube.com/playlist?list=PLa3NvhdFWNirpx6x-LIMfTrwOfLzCkfAU) - [Fatih Acet](https://twitter.com/fatihacet)
 - :movie_camera: [Nedir Bu Vuejs](https://www.youtube.com/playlist?list=PLhLbfczNPVOKsDy-qb22aO-WxZUijmwTR) - [Ömer Şensoy](https://twitter.com/osensoy)
 - [Vuejs Dersleri](https://codermathematician.wordpress.com/2018/04/17/vue-js-dersleri/) - [Hatice Edis](https://twitter.com/coderprofessor)
+- :movie_camera: [VueJS ile Performanslı Uygulamalar Geliştirme - Giriş seviyesi](https://www.youtube.com/watch?v=9gdSKaeLc0g&t=9s) - [Murat Doğan](https://twitter.com/murat_dogan17)
 
 
 ### WordPress
