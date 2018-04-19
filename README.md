@@ -260,6 +260,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Map & Reduce İşlemleri](https://youtu.be/eRTJKDsl79M) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - :movie_camera: [Array, Split ve Join](https://youtu.be/Ak6zxGWHyHA) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - [Airbnb JavaScript Kılavuzu](https://github.com/eraycetinay/javascript)
+- [Yalın JavaScript ile sıralanabilir tablo yapımı](https://medium.com/@muratdogan/yal%C4%B1n-javascript-ile-s%C4%B1ralanabilir-tablo-yap%C4%B1m%C4%B1-9c2c3b55dc68) - [Murat Doğan](https://www.linkedin.com/in/muratdogan17/)
+- [JavaScript hap yazısı : Array.some(), Array.every() ve Array.findIndex()](https://medium.com/@muratdogan/javascript-hap-yaz%C4%B1s%C4%B1-array-some-array-every-ve-array-findindex-f59aa2d87888) - [Murat Doğan](https://www.linkedin.com/in/muratdogan17/)
+- [JavaScript hap yazısı : Ternary Operator](https://medium.com/@muratdogan/javascript-hap-yaz%C4%B1s%C4%B1-ternary-operator-2788782189fb) - [Murat Doğan](https://www.linkedin.com/in/muratdogan17/)
+- [JavaScript hap yazısı : Element.insertAdjacentHTML()](https://hurriyetlabs.com/javascript-hap-yaz%C4%B1s%C4%B1-element-insertadjacenthtml-8fe1e6511808) - [Murat Doğan](https://www.linkedin.com/in/muratdogan17/)
+- [JavaScript hap yazısı : == ve === arasındaki farklar, JavaScript’te eşitlik](https://hurriyetlabs.com/javascript-hap-yaz%C4%B1s%C4%B1-ve-aras%C4%B1ndaki-farklar-javascriptte-e%C5%9Fitlik-b7cd20f91a) - [Murat Doğan](https://www.linkedin.com/in/muratdogan17/)
+
 
 ### jQuery
 - :movie_camera: [JQuery Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Jt6F-dyl6LEHNVaudH3rk) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
@@ -360,6 +366,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [High Order Components - HOC Nedir](https://youtu.be/Gz3wmtE7C-k) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - :movie_camera: [Sıfırdan React Kurulumu - Babel Webpack Eslint (ES2015, SASS)](https://youtu.be/tL5scd-63Zc) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - [React Router Türkçe Doküman](https://github.com/omergulcicek/react-router) - [Ömer Gülçiçek](https://twitter.com/omergulcicek)
+- [React v16.2.0 ile iyileştirilen, çok kıymetli özellik: Fragments](https://hurriyetlabs.com/react-v16-2-0-ile-iyile%C5%9Ftirilen-%C3%A7ok-k%C4%B1ymetli-%C3%B6zellik-fragments-7a757094eafe) - [Murat Doğan](https://www.linkedin.com/in/muratdogan17/)
 
 
 ### React Native
