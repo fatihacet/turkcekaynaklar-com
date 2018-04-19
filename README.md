@@ -472,6 +472,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [devPod](http://devpod.org/)
 - [Yakut](http://yakutrb.com/)
 - [Codefiction](http://www.codefiction.tech/)
+- [Giik.fm](http://www.giik.fm)
 
 
 ### YouTube Kanalları
