@@ -485,6 +485,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Paraşüt'le Üretim Bandı](https://www.spreaker.com/show/parasutle-uretim-bandi)
 - [Remote Talks](https://www.spreaker.com/show/remote-talks)
 - [1: 0](https://www.spreaker.com/show/birsifir-podcast)
+- [Radyo 521](https://radyo521.com/)
 
 
 ### YouTube Kanalları
