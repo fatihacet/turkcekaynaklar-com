@@ -57,6 +57,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Titanium Mobile](#titanium-mobile)
 - [Unit Testing](#unit-testing)
 - [Vault](#vault)
+- [Vim](#vim)
 - [Vue.js](#vuejs)
 - [WordPress](#wordpress)
 - [Xamarin](#xamarin)
@@ -414,6 +415,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Vault
 - [Vault Başlangıç Kılavuzu](https://github.com/zekiunal/vault)
+
+### Vim 
+- [Vim Kısayolları](https://github.com/p1v0t/VimKisayollari)
 
 
 ### Vue.js
