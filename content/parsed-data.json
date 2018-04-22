@@ -1,0 +1,2746 @@
+{
+  "Android": {
+    "slug": "android",
+    "links": [
+      {
+        "url": "https://www.mobilhanem.com",
+        "title": "Mobilhanem",
+        "image": "https://www.mobilhanem.com/wp-content/uploads/2017/08/256_.png"
+      },
+      {
+        "url": "https://github.com/muratcanbur/medium-yazilarim",
+        "title": "Junior Android Geliştiricilere Tavsiyeler",
+        "image": "https://avatars3.githubusercontent.com/u/3374279?s=400&v=4",
+        "author": {
+          "name": "Murat Can BUR",
+          "url": "https://twitter.com/muratcanbur",
+          "avatar": "https://pbs.twimg.com/profile_images/775384386212683776/hurZtUeI_400x400.jpg"
+        }
+      },
+      {
+        "url": "http://yusufcakal.com",
+        "title": "Android Günlüğü",
+        "image": "http://yusufcakal.com/assets/images/github.png"
+      },
+      {
+        "url":
+          "https://medium.com/@yusufcakal/android-uygulamaya-facebook-ile-giri%C5%9F-ekleme-14940166eb22",
+        "title": "Android Uygulamaya “Facebook ile Giriş” Ekleme",
+        "image": "https://cdn-images-1.medium.com/max/1200/1*RecUeqIzel165Alo0J1HeQ.png"
+      },
+      {
+        "url": "http://www.umiitkose.com/android",
+        "title": "umiitkose.com Android Blog",
+        "image": "http://umiitkose.com/wp-content/uploads/2015/07/android-studio-header.png",
+        "author": {
+          "name": "Ümit KÖSE",
+          "url": "https://twitter.com/umiitkose",
+          "avatar": "https://pbs.twimg.com/profile_images/868695615039033344/xR4t0vO5_400x400.jpg"
+        }
+      },
+      {
+        "url": "http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf",
+        "title": "Android Türkçe PDF",
+        "author": {
+          "name": "Ümit KÖSE",
+          "url": "https://twitter.com/umiitkose",
+          "avatar": "https://pbs.twimg.com/profile_images/868695615039033344/xR4t0vO5_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL9qDMO9EzLX25NTHm0q7svKLx__OZY8-e",
+        "title": "Android Studio ile Uygulama Geliştirme Eğitimi",
+        "image":
+          "https://i.ytimg.com/vi/3iE_ZxBB-tc/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAsKj38k9muU_QAIHi80-p_tQjguA"
+      }
+    ]
+  },
+  "Angular": {
+    "slug": "angular",
+    "links": [
+      {
+        "url":
+          "https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/angular-2-4-turkce",
+        "title": "yazilimgunlugu.org"
+      },
+      {
+        "url": "http://ilkaygunel.com/blog/2017/angular-2-tutorials",
+        "title": "http://ilkaygunel.com/blog/2017/angular-2-tutorials"
+      }
+    ]
+  },
+  "ASP.NET": {
+    "slug": "aspnet",
+    "links": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PL_f2F0Oyaj49bsuq6iLrg1qyZtekSCgPW",
+        "title": "ASP.NET ile Basit Okul Projesi",
+        "image":
+          "https://i.ytimg.com/vi/mFWGuoKFla0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBH6yjDc-13vk1iAmA2xuE8o3T3Qg",
+        "author": {
+          "name": "Kablosuz Kedi",
+          "url": "https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp1kLatutYwxuVcM_QSfi6_l6BQDeKK36D2wgQ=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLjI4XZvh1FJIsS51_RkdIpX8gemXkXXhD",
+        "title": "ASP.NET ile Blog Sitesi",
+        "image":
+          "https://i.ytimg.com/vi/noW_z31LhOk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBNmkzNvRf8A1WP8mNN-45mUSVLDA",
+        "author": {
+          "name": "Ahmet Yasin Ak",
+          "url": "https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp1G9P2QYfQcAPBTv2lgowJmB-Oufmq8RteAYA=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLjI4XZvh1FJJqRRNYfVmXG7Lw1Ovjm0UQ",
+        "title": "ASP.NET Mvc Blog Sitesi",
+        "image":
+          "https://i.ytimg.com/vi/TDGdIeGexmk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCxzwP85fey9nEdYS2drnDq0w6T8g",
+        "author": {
+          "name": "Ahmet Yasin Ak",
+          "url": "https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp1G9P2QYfQcAPBTv2lgowJmB-Oufmq8RteAYA=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLjI4XZvh1FJJmyzTm77FjlCJOA11SCc_Z",
+        "title": "ASP.NET Mvc Haber Sitesi",
+        "image":
+          "https://i.ytimg.com/vi/cJqE3paZXNE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCro5Ywjqh0Uz695GV8lOHZTv_63A",
+        "author": {
+          "name": "Ahmet Yasin Ak",
+          "url": "https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp1G9P2QYfQcAPBTv2lgowJmB-Oufmq8RteAYA=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://sahinyanlik.gitbooks.io/kisa-asp-net-core-kitabi/content",
+        "title": "ASP.NET Core El Kitabı",
+        "author": {
+          "name": "Sahin Yanlik",
+          "url": "http://sahinyanlik.com.tr",
+          "avatar": "https://farm2.staticflickr.com/1693/24431040991_c85ba14848_c.jpg"
+        }
+      },
+      {
+        "url":
+          "https://www.acikakademi.com/portal/egitimler/aspnet-mvc-ile-ileri-seviyede-web-programlama.aspx",
+        "title": "Açık akademi ASP.NET MVC Eğitimi",
+        "image": "https://www.acikakademi.com/portal/_assets/img/logo.png"
+      }
+    ]
+  },
+  "Bot Framework": {
+    "slug": "bot-framework",
+    "links": [
+      {
+        "url": "https://medium.com/@peacecwz/chatbot-ve-bot-framework-nedir-7558f4eacfe3",
+        "title": "Chatbot ve Bot Framework Nedir?",
+        "image": "https://cdn-images-1.medium.com/max/1600/1*W3qHyw5rFu58BKfMRKv4Eg.jpeg",
+        "author": {
+          "name": "Barış Ceviz",
+          "url": "https://github.com/peacecwz",
+          "avatar": "https://avatars0.githubusercontent.com/u/6075637?s=400&v=4"
+        }
+      },
+      {
+        "url":
+          "https://medium.com/@peacecwz/microsoft-bot-framework-ile-hello-chatbot-cc357468ac48",
+        "title": "Microsoft Bot Framework ile Hello Chatbot",
+        "image": "https://cdn-images-1.medium.com/max/1200/1*W3qHyw5rFu58BKfMRKv4Eg.jpeg",
+        "author": {
+          "name": "Barış Ceviz",
+          "url": "https://github.com/peacecwz",
+          "avatar": "https://avatars0.githubusercontent.com/u/6075637?s=400&v=4"
+        }
+      },
+      {
+        "url":
+          "https://medium.com/@peacecwz/bot-framework-ile-azure-cognitive-services-kullan%C4%B1m%C4%B1-e8e76871e52b",
+        "title": "Bot Framework ile Azure Cognitive Services Kullanımı",
+        "image": "https://cdn-images-1.medium.com/max/1200/1*W3qHyw5rFu58BKfMRKv4Eg.jpeg",
+        "author": {
+          "name": "Barış Ceviz",
+          "url": "https://github.com/peacecwz",
+          "avatar": "https://avatars0.githubusercontent.com/u/6075637?s=400&v=4"
+        }
+      },
+      {
+        "url":
+          "https://medium.com/@peacecwz/bot-framework-ile-a%C5%9F%C3%A7%C4%B1-botunuzu-yap%C4%B1n-354eb566e57d",
+        "title": "Bot Framework ile Aşçı botunuzu yapın",
+        "image": "https://cdn-images-1.medium.com/max/2000/1*0Qy5XBWpyhGfSseulHn8zw.png",
+        "author": {
+          "name": "Barış Ceviz",
+          "url": "https://github.com/peacecwz",
+          "avatar": "https://avatars0.githubusercontent.com/u/6075637?s=400&v=4"
+        }
+      },
+      {
+        "url":
+          "https://medium.com/@peacecwz/akakce-com-sitesini-bot-framework-ile-chatbot-haline-getirelim-288f60320c8",
+        "title": "Akakce.com sitesini Bot Framework ile Chatbot haline getirelim",
+        "image": "https://cdn-images-1.medium.com/max/2000/1*PF25TT-YrJm3V9Hv44vPoQ.png",
+        "author": {
+          "name": "Barış Ceviz",
+          "url": "https://github.com/peacecwz",
+          "avatar": "https://avatars0.githubusercontent.com/u/6075637?s=400&v=4"
+        }
+      }
+    ]
+  },
+  "Behavior Driven Development": {
+    "slug": "behavior-driven-development",
+    "links": [
+      {
+        "url": "https://selimober.com/bdd-ye-giris",
+        "title": "BDD Giris"
+      }
+    ]
+  },
+  "C": {
+    "slug": "c",
+    "links": [
+      {
+        "url":
+          "https://www.youtube.com/watch?v=FtaKEn2f2qI&list=PLfzhcDNz4tlXOvEE7z_u3gEqFO3nwIZ5i&index=1",
+        "title": "C Programlamaya Giriş",
+        "image": "https://i.ytimg.com/vi/FtaKEn2f2qI/hqdefault.jpg",
+        "author": {
+          "name": "Volkan Kılıç",
+          "url": "https://www.youtube.com/channel/UC9aW-PVSy01gWDQ25ZCiNbw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp1o1pO60zblF6gDj3JqUoCnBLepoTUszRRHfg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url":
+          "https://www.youtube.com/watch?v=gHmaZ2zeLu8&index=4&list=PLh9ECzBB8tJNzJqD64MAS0SK5IeNCKCzY",
+        "title": "C ile Programlamaya Giriş",
+        "image": "https://i.ytimg.com/vi/gHmaZ2zeLu8/hqdefault.jpg",
+        "author": {
+          "name": "BilgisayarKavramlari",
+          "url": "https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp27CNePXoAv-izVC7xzUB6rF-xIhhe0st0JXg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      }
+    ]
+  },
+  "Csharp": {
+    "slug": "csharp",
+    "links": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLjI4XZvh1FJIKMDPS2HS05uxfNHb_KTq1",
+        "title": "C# ile Nesne Yönelimli Programlama",
+        "image":
+          "https://i.ytimg.com/vi/K47mWg4i9f8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLC8JcLJWg1HVOLPWlTMiERIggx3dA",
+        "author": {
+          "name": "Ahmet Yasin Ak",
+          "url": "https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp1G9P2QYfQcAPBTv2lgowJmB-Oufmq8RteAYA=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL2atofUpdCAV_ZlpK9mz6ul-fRYx2yXDY",
+        "title": "C# Dersleri - 10 Günde CSharp (C#)",
+        "image":
+          "https://i.ytimg.com/vi/Nyjm25_Hj-g/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBa_ry4FN7XvU7rYDoV5O4bsQgKgA",
+        "author": {
+          "name": "Yazılım Hocası",
+          "url": "https://www.youtube.com/user/yazilimhocasi",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3Hmuh-kU5xqsSXPfKjTHk4nGORc0KTy-bMqQ=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://www.acikakademi.com/portal/egitimler/csharp-uygulama-gelistirme.aspx",
+        "title": "Acik Akademi C# Derleri",
+        "image": "https://www.acikakademi.com/portal/_assets/img/logo.png"
+      }
+    ]
+  },
+  "Clojure": {
+    "slug": "clojure",
+    "links": [
+      {
+        "url": "https://www.youtube.com/watch?v=l40q0guuXVw",
+        "title": "Clojure Giriş",
+        "image": "https://i.ytimg.com/vi/l40q0guuXVw/hqdefault.jpg"
+      }
+    ]
+  },
+  "CodeIgniter": {
+    "slug": "codeigniter",
+    "links": [
+      {
+        "url":
+          "https://www.youtube.com/watch?v=mkTNMzrN97I&list=PL_f2F0Oyaj4_xGyQlwgsd9gI1UgnTTHkC",
+        "title": "CodeIgniter Eğitim Serisi",
+        "image": "https://i.ytimg.com/vi/mkTNMzrN97I/hqdefault.jpg",
+        "author": {
+          "name": "Kablosuz Kedi",
+          "url": "https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp1kLatutYwxuVcM_QSfi6_l6BQDeKK36D2wgQ=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL_f2F0Oyaj49nS8eZW1qQie6Zr4yRqDMF",
+        "title": "CodeIgniter Otel Rezervasyon Uygulaması",
+        "image":
+          "https://i.ytimg.com/vi/jRgCC89zvAk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBE6HH94aN1kjMErieip8p8SrOiSQ",
+        "author": {
+          "name": "Kablosuz Kedi",
+          "url": "https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp1kLatutYwxuVcM_QSfi6_l6BQDeKK36D2wgQ=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL_f2F0Oyaj4_-tbmkqsQy3g0IGLSsxj5I",
+        "title": "CodeIgniter Malzeme Uygulaması",
+        "image":
+          "https://i.ytimg.com/vi/G94aNKfeYvw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLADVoBAbwoAOPFIIudYY2m4GdwjuA",
+        "author": {
+          "name": "Kablosuz Kedi",
+          "url": "https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp1kLatutYwxuVcM_QSfi6_l6BQDeKK36D2wgQ=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      }
+    ]
+  },
+  "Cpp": {
+    "slug": "cpp",
+    "links": [
+      {
+        "url": "https://cppturkiye.wordpress.com",
+        "title": "C++ Turkey User Group",
+        "image":
+          "https://i2.wp.com/herbibk.com/uploads/default/optimized/1X/d3e6dcffc4d98eea1867603a49fb99042a775e20_1_690x268.png"
+      },
+      {
+        "url": "http://plepa.com",
+        "title": "plepa.com"
+      },
+      {
+        "url": "https://cppdili.blogspot.com.tr",
+        "title": "cppdili"
+      },
+      {
+        "url": "https://ufukuzun.wordpress.com/yayinlarim/qt-4-ile-c-gui-programlama",
+        "title": "Qt 4 ile C++ GUI Programlama",
+        "image": "https://ufukuzun.files.wordpress.com/2010/07/kapak.jpg?fit=440%2C330",
+        "author": {
+          "name": "Ufuk Uzun",
+          "url": "https://ufukuzun.wordpress.com",
+          "avatar": "https://s0.wp.com/i/blank.jpg"
+        }
+      }
+    ]
+  },
+  "Crystal": {
+    "slug": "crystal",
+    "links": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLqgPe8mz0dh5p73VdFwAuh1MF_yQ6f9RJ",
+        "title": "Adım adım Crystal",
+        "image":
+          "https://i.ytimg.com/vi/2oknBWRcGtE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLADwvtIdp5IoUMXmPXqFNsD7Ad0Dw"
+      }
+    ]
+  },
+  "CSS": {
+    "slug": "css",
+    "links": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLadt0EaV4m3CV5URFStcmOMMP-G9Bf8LG",
+        "title": "CSS Anlat",
+        "image":
+          "https://i.ytimg.com/vi/_FLV6X0druY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCsae3vNO5wz9Ur_HDYLQGSb__q6g",
+        "author": {
+          "name": "Adem İlter",
+          "url": "https://twitter.com/ADEMilter",
+          "avatar": "https://pbs.twimg.com/profile_images/959150465845022721/Y3crTOFR_400x400.jpg"
+        }
+      },
+      {
+        "url": "http://fatihhayrioglu.com",
+        "title": "Fatih Hayrioğlu'nun not defteri",
+        "image": "http://fatihhayrioglu.com/images/site.png",
+        "author": {
+          "name": "Fatih Hayrioğlu",
+          "url": "https://twitter.com/fatihhayri",
+          "avatar":
+            "https://pbs.twimg.com/profile_images/2286973608/x7xw0tox3ru0jjt0ih36_400x400.jpeg"
+        }
+      },
+      {
+        "url": "http://sercaneraslan.com/css",
+        "title": "CSS Dokümanları",
+        "author": {
+          "name": "Sercan Eraslan",
+          "url": "https://twitter.com/sercan_eraslan",
+          "avatar": "https://pbs.twimg.com/profile_images/870750987539161090/8C1PVAjX_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-RyFL8mkfjYjEVCmJhWDQ3",
+        "title": "CSS Eğitim Serisi",
+        "image":
+          "https://i.ytimg.com/vi/QlhJjVKASqI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCIwvCiExtPBxX562E5DvQljxSacQ",
+        "author": {
+          "name": "Kablosuz Kedi",
+          "url": "https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp1kLatutYwxuVcM_QSfi6_l6BQDeKK36D2wgQ=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-xwLUQ0-OIA46mKwYeaxXR",
+        "title": "Bootstrap 4 Eğitim Serisi",
+        "image":
+          "https://i.ytimg.com/vi/Qo3Uzem0Jv4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA03FdFrp9u2F7qnqvFcmgrytcOmA",
+        "author": {
+          "name": "Arin Yazılım",
+          "url": "https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/feed",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp0SYnMqlwrqAgqJJ5AMFSSrclesGEpl3agX9A=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL-Hkw4CrSVq9GTqLreY9l5MiJJm6EOkal",
+        "title": "Pratik CSS Teknikleri Serisi",
+        "image":
+          "https://i.ytimg.com/vi/Zi6K06bFsds/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAYR9tBRvDEUqkiHPd1NcspR8YTNQ",
+        "author": {
+          "name": "Arin Yazılım",
+          "url": "https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/feed",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp0SYnMqlwrqAgqJJ5AMFSSrclesGEpl3agX9A=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url":
+          "https://www.youtube.com/watch?v=X4KWpLHlMWI&list=PLzPtCsi6BpOu1oC8l8a36e8pqHTVNuY9F",
+        "title": "CSS Eğitim Seti",
+        "image": "https://i.ytimg.com/vi/X4KWpLHlMWI/hqdefault.jpg",
+        "author": {
+          "name": "Baran Somaklı",
+          "url": "https://twitter.com/baransomakli",
+          "avatar": "https://pbs.twimg.com/profile_images/950119512027860992/OlgqpSLL_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://youtu.be/qrCd9m1FC-Q",
+        "title": "CSS ile Konuşma Balonu Nasıl Yapılır?",
+        "image": "https://i.ytimg.com/vi/qrCd9m1FC-Q/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "http://trbootstrap.com",
+        "title": "Bootstrap v3.3.7",
+        "image": "http://trbootstrap.com/assets/img/devices.png"
+      }
+    ]
+  },
+  "D": {
+    "slug": "d",
+    "links": [
+      {
+        "url": "http://ddili.org/ders/d/index.html",
+        "title": "D Programlama Dili",
+        "image": "http://ddili.org/ders/d/cover_thumb.png"
+      }
+    ]
+  },
+  "Deep Learning": {
+    "slug": "deep-learning",
+    "links": [
+      {
+        "url": "https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari",
+        "title": "Türkçe Yapay Zeka Kaynakları",
+        "image": "https://avatars0.githubusercontent.com/u/32883077?s=400&v=4"
+      }
+    ]
+  },
+  "Django": {
+    "slug": "django",
+    "links": [
+      {
+        "url":
+          "https://www.youtube.com/watch?v=L-26ZJ3s6Mc&index=1&list=PLJeh-dT_Z82vvyYXmp1auK6A6e3aDlgCG&t=8s",
+        "title": "Django 101",
+        "image": "https://i.ytimg.com/vi/L-26ZJ3s6Mc/hqdefault.jpg",
+        "author": {
+          "name": "Tolgahan Üzün",
+          "url": "https://twitter.com/tlghnzn",
+          "avatar": "https://pbs.twimg.com/profile_banners/739394563/1398996593/1500x500"
+        }
+      },
+      {
+        "url": "https://tutorial.djangogirls.org/tr",
+        "title": "Django Girls Eğitimi",
+        "image": "https://tutorial.djangogirls.org/tr/images/application.png"
+      },
+      {
+        "url":
+          "https://www.youtube.com/watch?v=uwVmWS1yJ1k&list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh",
+        "title": "Django ile Web Programlama",
+        "image": "https://i.ytimg.com/vi/uwVmWS1yJ1k/hqdefault.jpg",
+        "author": {
+          "name": "Barış Aslan",
+          "url": "https://github.com/barissaslan",
+          "avatar": "https://avatars3.githubusercontent.com/u/16521421?s=400&v=4"
+        }
+      },
+      {
+        "url":
+          "https://www.youtube.com/watch?v=JMl_kktdjjI&index=1&list=PLPrHLaayVkhk9_NtkgHFzdCq78MXega6o",
+        "title": "Django Uygulamasını Yayına Alma",
+        "image": "https://i.ytimg.com/vi/JMl_kktdjjI/hqdefault.jpg",
+        "author": {
+          "name": "Barış Aslan",
+          "url": "https://github.com/barissaslan",
+          "avatar": "https://avatars3.githubusercontent.com/u/16521421?s=400&v=4"
+        }
+      },
+      {
+        "url": "https://gokmengorgen.net/django-notlarim",
+        "title": "Django Notlarım",
+        "image": "https://gokmengorgen.net/img/django-notlarim/django-notlarim.png",
+        "author": {
+          "name": "Gökmen Görgen",
+          "url": "https://gokmengorgen.net",
+          "avatar": "https://gokmengorgen.net/img/laughing-man.png"
+        }
+      },
+      {
+        "url":
+          "https://www.youtube.com/watch?v=l1EQ2GfxmUg&list=PLh9ECzBB8tJMkq3vJ8fwAKNlwPA8d629n",
+        "title": "Django ile Blog Oluşturmak",
+        "image": "https://i.ytimg.com/vi/l1EQ2GfxmUg/hqdefault.jpg",
+        "author": {
+          "name": "BilgisayarKavramlari",
+          "url": "https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp27CNePXoAv-izVC7xzUB6rF-xIhhe0st0JXg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      }
+    ]
+  },
+  "Docker": {
+    "slug": "docker",
+    "links": [
+      {
+        "url": "http://www.gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-1",
+        "title": "Docker İpuçları",
+        "image": "http://gokhansengun.github.io/img/avatar-icon.png",
+        "author": {
+          "name": "Gökhan Şengün",
+          "url": "https://twitter.com/gokhansengun",
+          "avatar": "https://pbs.twimg.com/profile_images/823272314942984193/NiLQ8y7D_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://medium.com/monitisemea/docker-serisi-1-1c6629499b9a",
+        "title": "Docker Serisi",
+        "image": "https://cdn-images-1.medium.com/max/1600/1*hegU4Wl5pUrE9mKrLkB-qw.png"
+      },
+      {
+        "url": "https://mksglu.gitbooks.io/php-ile-docker-gelistirelim/content",
+        "title": "Docker ve PHP",
+        "author": {
+          "name": "Mert Köseoğlu",
+          "url": "https://twitter.com/mksglu",
+          "avatar": "https://pbs.twimg.com/profile_images/900157027179274242/ByOGjFxB_400x400.jpg"
+        }
+      }
+    ]
+  },
+  "Electron": {
+    "slug": "electron",
+    "links": [
+      {
+        "url":
+          "http://www.avarekodcu.com/konu/28/electron-react-webpack-ve-babel-kullanarak-hem-masaustu-hem-tarayici-uygulamasi-gelistirme",
+        "title": "Electron Kullanarak Hem Masaüstü Hem Tarayıcı Uygulaması Geliştirme",
+        "image":
+          "https://user-images.githubusercontent.com/15075759/30511490-a7a27084-9ae2-11e7-92f6-2d7abcb9f100.jpg",
+        "author": {
+          "name": "Abdurrahman Eker",
+          "url": "https://twitter.com/abdurrahmanekr",
+          "avatar": "https://pbs.twimg.com/profile_images/986522007511674880/fn4a884i_400x400.jpg"
+        }
+      },
+      {
+        "url":
+          "http://www.avarekodcu.com/konu/29/electron-uygulamasinin-dagitma-ve-guncelleme-senaryolari",
+        "title": "Electron Uygulamasının, Dağıtma ve Güncelleme Senaryoları",
+        "image":
+          "https://user-images.githubusercontent.com/15075759/32409149-dc3efc34-c1ae-11e7-817d-2724cabb6b83.png",
+        "author": {
+          "name": "Abdurrahman Eker",
+          "url": "https://twitter.com/abdurrahmanekr",
+          "avatar": "https://pbs.twimg.com/profile_images/986522007511674880/fn4a884i_400x400.jpg"
+        }
+      }
+    ]
+  },
+  "Flux": {
+    "slug": "flux",
+    "links": [
+      {
+        "url": "https://medium.com/@keremciu/karikat%C3%BCrler-%C3%BCzerinden-flux-3e8ad03db2c4",
+        "title": "Karikatürler üzerinden Flux",
+        "image": "https://cdn-images-1.medium.com/max/2000/1*jgM9q2GM_Ll_H5VCg7Z06Q.png",
+        "author": {
+          "name": "Kerem Sevencan",
+          "url": "https://twitter.com/keremciu",
+          "avatar": "https://pbs.twimg.com/profile_images/956482507150589952/7yQ8HE0h_400x400.jpg"
+        }
+      }
+    ]
+  },
+  "Git": {
+    "slug": "git",
+    "links": [
+      {
+        "url": "https://aliozgur.gitbooks.io/git101",
+        "title": "Türkçe Git 101",
+        "author": {
+          "name": "Ali Özgür",
+          "url": "https://twitter.com/aliozgur",
+          "avatar": "https://pbs.twimg.com/profile_images/926484633465876480/R72_FqHP_400x400.jpg"
+        }
+      },
+      {
+        "url":
+          "https://www.youtube.com/watch?v=rWG70T7fePg&list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy",
+        "title": "Git ve GitHub Kullanımı",
+        "image": "https://i.ytimg.com/vi/rWG70T7fePg/hqdefault.jpg",
+        "author": {
+          "name": "Barış Aslan",
+          "url": "https://github.com/barissaslan",
+          "avatar": "https://avatars3.githubusercontent.com/u/16521421?s=400&v=4"
+        }
+      },
+      {
+        "url": "http://git.gelistiriciyiz.biz",
+        "title": "Git Püf Noktaları",
+        "image": "http://git.gelistiriciyiz.biz/public/images/cover.jpg",
+        "author": {
+          "name": "Vigo",
+          "url": "https://twitter.com/vigobronx",
+          "avatar": "https://pbs.twimg.com/profile_images/946277285673521153/PCtqNxR6_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://medium.com/@mustafazahidefe/git-notlar%C4%B1-2-git-i%CC%87nit-f54292fbf631",
+        "title": "git init",
+        "image": "https://cdn-images-1.medium.com/max/1200/1*T56fbfGXmO75IU-GTAkHfQ.png"
+      },
+      {
+        "url":
+          "https://medium.com/@noteCe/5-github-g%C3%B6rev-y%C3%B6netimi-i%CC%87ssues-ve-organizasyon-1277ef74b409",
+        "title": "Github Görev Yönetimi (Issues) ve Organizasyon",
+        "image": "https://cdn-images-1.medium.com/max/1600/1*yXd5p2yvYyVHoYXv5VZ97Q.png"
+      }
+    ]
+  },
+  "Go": {
+    "slug": "go",
+    "links": [
+      {
+        "url": "https://go-tour-turkish.appspot.com/welcome/1",
+        "title": "Go Turu"
+      },
+      {
+        "url": "http://blog.oguzhan.info/?p=1248",
+        "title": "Vim ile Go Programlama Dili Geliştirme Ortamı",
+        "image": "http://blog.oguzhan.info/wp-content/uploads/2017/01/tagbar-ss.png",
+        "author": {
+          "name": "Oğuzhan Yılmaz",
+          "url": "http://blog.oguzhan.info"
+        }
+      },
+      {
+        "url": "http://www.buraksenyurt.com/post/golang-pointers",
+        "title": "Go Pointers",
+        "image": "http://www.buraksenyurt.com/image.axd?picture=/2017/02/gopointer_5.gif"
+      },
+      {
+        "url": "http://devnot.com/2017/go-programlama-diline-genel-bakis",
+        "title": "Go Programlama Diline Genel Bakış",
+        "image": "http://www.cihanozhan.com/wp-content/uploads/compiling.png"
+      },
+      {
+        "url": "https://github.com/astaxie/build-web-application-with-golang/tree/master/tr",
+        "title": "Go Programlama Dili ile Web Uygulaması Geliştirme",
+        "image": "https://avatars2.githubusercontent.com/u/233907?s=400&v=4"
+      },
+      {
+        "url": "http://blog.oguzhan.info/?p=1397",
+        "title": "Go Programlama Dilinde Table Driven Test",
+        "image": "http://blog.oguzhan.info/wp-content/uploads/2016/11/gopher-pilot-300x189.jpg",
+        "author": {
+          "name": "Oğuzhan Yılmaz",
+          "url": "http://blog.oguzhan.info"
+        }
+      },
+      {
+        "url": "http://blog.oguzhan.info/?p=1087",
+        "title": "Go Programlama Dilinde Unit Test",
+        "image": "http://blog.oguzhan.info/wp-content/uploads/2016/11/test-first.jpg",
+        "author": {
+          "name": "Oğuzhan Yılmaz",
+          "url": "http://blog.oguzhan.info"
+        }
+      },
+      {
+        "url": "http://blog.oguzhan.info/?p=870",
+        "title": "Go Programlama Dili Üzerine",
+        "image": "http://0.gravatar.com/avatar/3a9dc8db324dc41de538f0f48e4bd45d?s=100&d=mm&r=g",
+        "author": {
+          "name": "Oğuzhan Yılmaz",
+          "url": "http://blog.oguzhan.info"
+        }
+      }
+    ]
+  },
+  "GraphQL": {
+    "slug": "graphql",
+    "links": [
+      {
+        "url": "http://devnot.com/2017/graphql-veri-erisiminde-yeni-bir-bakis-acisi",
+        "title": "GraphQL: Veri Erişiminde Yeni Bir Bakış Açısı",
+        "image": "https://i1.wp.com/cdn.auth0.com/blog/relay/relay-4.png?w=640&ssl=1"
+      },
+      {
+        "url":
+          "https://yazilimgunlugu.org/graphql-relay-apollo-veri-erisiminde-yeni-bir-bakis-acisi",
+        "title": "GraphQL, Relay, Apollo Stack / Veri Erişiminde yeni bir bakış açısı .",
+        "image": "https://yazilimgunlugu.org/wp-content/uploads/2016/06/graphql-facebook.png",
+        "author": {
+          "name": "Hüseyin Dönmez",
+          "url": "yazilimgunlugu.org",
+          "avatar": "https://s0.wp.com/i/blank.jpg"
+        }
+      },
+      {
+        "url": "http://askingedik.net/2017/06/06/graphql-sen-hayirdir",
+        "title": "GraphQL Sen Hayırdır?",
+        "image": "http://askingedik.net/public/images/ben.jpg"
+      }
+    ]
+  },
+  "Gulp": {
+    "slug": "gulp",
+    "links": [
+      {
+        "url": "https://medium.com/@keremciu/ben-galp-gulp-1-15340198e866",
+        "title": "Ben galp Gulp!",
+        "image": "https://cdn-images-1.medium.com/max/1200/1*3XM5p8BdT3qoCZRJpzq5uA.jpeg",
+        "author": {
+          "name": "Kerem Sevencan",
+          "url": "https://twitter.com/keremciu",
+          "avatar": "https://pbs.twimg.com/profile_images/956482507150589952/7yQ8HE0h_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://github.com/omergulcicek/gulp",
+        "title": "Gulp Türkçe Doküman",
+        "image": "https://avatars1.githubusercontent.com/u/13813170?s=400&v=4",
+        "author": {
+          "name": "Ömer Gülçiçek",
+          "url": "https://twitter.com/omergulcicek",
+          "avatar": "https://pbs.twimg.com/profile_images/985995507557392384/Br2fS4QH_400x400.jpg"
+        }
+      }
+    ]
+  },
+  "Haskell": {
+    "slug": "haskell",
+    "links": [
+      {
+        "url": "http://github.com/joom/zor-yoldan-haskell",
+        "title": "Zor Yoldan Haskell",
+        "image": "https://avatars2.githubusercontent.com/u/1611120?s=400&v=4",
+        "author": {
+          "name": "Cumhur Korkut",
+          "url": "http://github.com/joom",
+          "avatar": "https://avatars2.githubusercontent.com/u/1611120?s=400&v=4"
+        }
+      }
+    ]
+  },
+  "HTML": {
+    "slug": "html",
+    "links": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Qro_C0ixzMWpCiogfXxKE",
+        "title": "HTML Eğitim Serisi",
+        "image":
+          "https://i.ytimg.com/vi/qZ1kWfsHgFU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBCB-L1H57KbMgaq_MggfcrWa2IQg",
+        "author": {
+          "name": "Kablosuz Kedi",
+          "url": "https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp1kLatutYwxuVcM_QSfi6_l6BQDeKK36D2wgQ=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLWctyKyPphPgllQpbeVEzqU721R3WFY1W",
+        "title": "HTML5 & CSS3 Eğitim Serisi",
+        "image":
+          "https://i.ytimg.com/vi/9U4EnvIfz44/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCUW9n74uAfaXN5KrSupXUsMsRweg",
+        "author": {
+          "name": "Yakın Kampüs",
+          "url": "https://www.youtube.com/channel/UCrFuOhaISP4OMarjFR4dYBA",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp13V8D21opjazgMI6523ow_kuFJbDEuHspCLQ=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url":
+          "https://www.youtube.com/watch?v=9jd9XqVOQUc&list=PLzPtCsi6BpOvFv-sDtRzX4P3kBAEWC0wC",
+        "title": "HTML Eğitim Seti",
+        "image": "https://i.ytimg.com/vi/9jd9XqVOQUc/hqdefault.jpg",
+        "author": {
+          "name": "Baran Somaklı",
+          "url": "https://twitter.com/baransomakli",
+          "avatar": "https://pbs.twimg.com/profile_images/950119512027860992/OlgqpSLL_400x400.jpg"
+        }
+      },
+      {
+        "url":
+          "https://www.youtube.com/watch?v=nLCveeY8CAE&list=PLkAqDZGjJrkB_a1vD4ZUIrY0IPp5LdD5S",
+        "title": "HTML & CSS Eğitim Seti",
+        "image": "https://i.ytimg.com/vi/nLCveeY8CAE/hqdefault.jpg",
+        "author": {
+          "name": "Web Odası",
+          "url": "https://www.youtube.com/channel/UCDAqxRE1wwZ-n5MRq97aEjA",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3hQCa7dhqnr-DJHOvNXSSkANJEy37vOCncUg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://github.com/eraycetinay/Front-End-Checklist",
+        "title": "Front-End Checklist",
+        "image":
+          "https://github.com/thedaviddias/Front-End-Checklist/raw/master/src/img/banners/front-end-checklist-banner-light.jpg?raw=true"
+      },
+      {
+        "url": "https://github.com/mkg0/HEAD",
+        "title": "HEAD"
+      }
+    ]
+  },
+  "Java": {
+    "slug": "java",
+    "links": [
+      {
+        "url": "http://www.kurumsaljava.com",
+        "title": "Kurumsal Java",
+        "image":
+          "http://www.kurumsaljava.com/wp-content/uploads/2016/03/surum3-3d-kapak-600pix.jpg",
+        "author": {
+          "name": "Özcan Acar",
+          "url": "http://ozcanacar.com"
+        }
+      },
+      {
+        "url": "https://ufukuzun.wordpress.com/yayinlarim/javada-multithreading",
+        "title": "Java'da Multithreading",
+        "image": "https://s0.wp.com/i/blank.jpg",
+        "author": {
+          "name": "Ufuk Uzun",
+          "url": "https://ufukuzun.wordpress.com",
+          "avatar": "https://s0.wp.com/i/blank.jpg"
+        }
+      },
+      {
+        "url": "https://alicanakkus.github.io",
+        "title": "Java ve ilişkili teknolojileri içeren blog",
+        "image": "https://alicanakkus.github.io/images/alicanakkus-site-logo.png",
+        "author": {
+          "name": "site",
+          "url": "http://www.alicanakkus.com",
+          "avatar": "http://alicanakkus.com/wp-content/uploads/2016/07/tomcat-ssl-installation.png"
+        }
+      },
+      {
+        "url": "http://www.bahadirakin.com/category/programlama/java",
+        "title": "Java ve ilişkili kütüphanelerle alakalı blog",
+        "image": "http://www.bahadirakin.com/wp-content/uploads/2017/06/spring.png",
+        "author": {
+          "name": "Bahadır Akın",
+          "url": "http://www.bahadirakin.com",
+          "avatar": "https://s0.wp.com/i/blank.jpg"
+        }
+      },
+      {
+        "url": "http://www.javaturk.org",
+        "title": "JavaTurk.org"
+      },
+      {
+        "url": "https://blog.kodcu.com/2012/06/java-pass-by-value",
+        "title": "Java Pass by Value"
+      },
+      {
+        "url": "https://kodedu.com/2014/09/jpa-2-1-entity-graph",
+        "title": "JPA 2.1 Entity Graph",
+        "image": "https://kodedu.com/wp-content/uploads/2014/09/graph.png"
+      },
+      {
+        "url": "http://tarikkobalas.blogspot.com.tr/2010/08/jackson-ile-json-isleme.html",
+        "title": "Jackson ile JSON işleme",
+        "image":
+          "http://2.bp.blogspot.com/-nLr3PrX0SgQ/V-lin2mvYaI/AAAAAAAABH8/TRAyMVFZKgcMGp6gtOQmJLtDX-pC-_XFwCK4B/s80/IMG-20160216-WA0012%2B%25282%2529.jpg"
+      },
+      {
+        "url": "http://blog.burakkutbay.com",
+        "title": "Java ve Java Teknolojileri ile alakalı dersler",
+        "image": "http://blog.burakkutbay.com/wp-content/uploads/2012/02/cdcp.jpg"
+      },
+      {
+        "url": "https://github.com/melihsakarya/java-kitap",
+        "title": "Java Kitap",
+        "image": "https://avatars0.githubusercontent.com/u/6650918?s=400&v=4"
+      },
+      {
+        "url": "http://binkurt.blogspot.com.tr/search/label/Java",
+        "title": "Java Blog",
+        "image":
+          "https://1.bp.blogspot.com/-W3GKOtne18k/WKB38JAp7vI/AAAAAAAADYg/8aFE877mSwQLT2UejSBzK1xQmIgCj5nDwCLcB/s1600/generational-heap.PNG"
+      },
+      {
+        "url": "https://mericberber.com/javase",
+        "title": "Java Blog",
+        "image": "https://secure.gravatar.com/avatar/cbf0736ddd0c286e53479a1b59c81f47/?s=100&d=mm"
+      },
+      {
+        "url": "http://ofarukkurt.blogspot.com",
+        "title": "Java ve Java Teknolojileri ile alakalı çözümler",
+        "image":
+          "https://1.bp.blogspot.com/-UoAyvdcTwIQ/WaUTz73xUKI/AAAAAAAAAMg/LYpHIy-Uq54Nok848F7o3_1FoLu8n1_eQCLcBGAs/s1600/payara_connection_pool_3.PNG"
+      },
+      {
+        "url": "http://ilkaygunel.com/blog",
+        "title": "Java, Java Kütüphaneleri ve Java Teknolojileri"
+      },
+      {
+        "url": "https://www.youtube.com/c/ilkaygunel",
+        "title": "Java Teknolojileri İle İlgili Videolar - Youtube",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp3eO87OWXGeXodCePt16a7imGWpB9NbKnvI8g=s900-mo-c-c0xffffffff-rj-k-no"
+      }
+    ]
+  },
+  "JavaScript": {
+    "slug": "javascript",
+    "links": [
+      {
+        "url": "http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html",
+        "title": "JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'",
+        "author": {
+          "name": "Fatih Kadir Akın",
+          "url": "https://twitter.com/fkadev",
+          "avatar": "https://pbs.twimg.com/profile_images/986131931128647681/IleN-Kil_400x400.jpg"
+        }
+      },
+      {
+        "url":
+          "http://www.avarekodcu.com/konu/11/javasript-console-log-komutunu-ozellestirme-kullanma",
+        "title": "Javascript console log Komutunu Özelleştirme",
+        "image": "https://avatars0.githubusercontent.com/u/15075759?v=4",
+        "author": {
+          "name": "Abdurrahman Eker",
+          "url": "https://twitter.com/abdurrahmanekr",
+          "avatar": "https://pbs.twimg.com/profile_images/986522007511674880/fn4a884i_400x400.jpg"
+        }
+      },
+      {
+        "url": "http://bonsaiden.github.io/JavaScript-Garden/tr",
+        "title": "Javascript Garden"
+      },
+      {
+        "url": "http://www.eksiduyuru.com/duyuru/947270/javascript-te-promise",
+        "title": "Javascript'te Promise",
+        "image": "https://www.eksiduyuru.com/img/ed_square_120.png"
+      },
+      {
+        "url": "https://medium.com/@ibrahim.kurce/javascript-reduce-fonksiyonu-da5e09ba2e44",
+        "title": "JavaScript reduce Fonksiyonu",
+        "image": "https://cdn-images-1.medium.com/max/1600/1*4PlcDrCnIIGHL-bEQk0qmQ.png"
+      },
+      {
+        "url": "https://medium.com/yaz%C4%B1l%C4%B1ma-dair/javascript-coercion-7f88103c1321",
+        "title": "JavaScript Coercion",
+        "image": "https://cdn-images-1.medium.com/fit/c/120/120/1*Dx1HPIBVul1N2thjolostA.jpeg"
+      },
+      {
+        "url": "https://medium.com/yaz%C4%B1l%C4%B1ma-dair/javascript-closures-8b5db7294941",
+        "title": "JavaScript Closures",
+        "image": "https://cdn-images-1.medium.com/fit/c/120/120/1*Dx1HPIBVul1N2thjolostA.jpeg"
+      },
+      {
+        "url": "https://mksglu.gitbooks.io/webpack/content",
+        "title": "Webpack: Modül Paketleyici",
+        "author": {
+          "name": "Mert Köseoğlu",
+          "url": "https://twitter.com/mksglu",
+          "avatar": "https://pbs.twimg.com/profile_images/900157027179274242/ByOGjFxB_400x400.jpg"
+        }
+      },
+      {
+        "url":
+          "https://medium.com/@oguzkilic/taray%C4%B1c%C4%B1lar-javascripti-nas%C4%B1l-yorumlar-fbdfc472f8e3",
+        "title": "Tarayıcılar JavaScript'i Nasıl Yorumlar?",
+        "image": "https://cdn-images-1.medium.com/max/1200/1*H-25KB7EbSHjv70HXrdl6w.png",
+        "author": {
+          "name": "Oğuz Kılıç",
+          "url": "https://twitter.com/0guzKilic",
+          "avatar": "https://pbs.twimg.com/profile_images/956370692911616000/G35MGTVx_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=wRn325gtL_Q",
+        "title": "Javascript - Prototypes",
+        "image": "https://i.ytimg.com/vi/wRn325gtL_Q/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://youtu.be/7aOs7xpX5PI",
+        "title": "Javascript Nasıl Çalışır?",
+        "image": "https://i.ytimg.com/vi/7aOs7xpX5PI/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://youtu.be/xjxGcAgJlME",
+        "title": "Find ve Filter Fonksiyonları",
+        "image": "https://i.ytimg.com/vi/xjxGcAgJlME/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://youtu.be/eRTJKDsl79M",
+        "title": "Map & Reduce İşlemleri",
+        "image": "https://i.ytimg.com/vi/eRTJKDsl79M/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://youtu.be/Ak6zxGWHyHA",
+        "title": "Array, Split ve Join",
+        "image": "https://i.ytimg.com/vi/Ak6zxGWHyHA/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://github.com/eraycetinay/javascript",
+        "title": "Airbnb JavaScript Kılavuzu"
+      },
+      {
+        "url":
+          "https://medium.com/@muratdogan/yal%C4%B1n-javascript-ile-s%C4%B1ralanabilir-tablo-yap%C4%B1m%C4%B1-9c2c3b55dc68",
+        "title": "Yalın JavaScript ile sıralanabilir tablo yapımı",
+        "image": "https://cdn-images-1.medium.com/max/1200/1*0jUOjtfk_VIJwMn9QBG0CQ.png",
+        "author": {
+          "name": "Murat Doğan",
+          "url": "https://twitter.com/murat_dogan17",
+          "avatar": "https://pbs.twimg.com/profile_images/463953138991382529/FS1qid6o_400x400.jpeg"
+        }
+      },
+      {
+        "url":
+          "https://medium.com/@muratdogan/javascript-hap-yaz%C4%B1s%C4%B1-array-some-array-every-ve-array-findindex-f59aa2d87888",
+        "title": "JavaScript hap yazısı : Array.some(), Array.every() ve Array.findIndex()",
+        "image": "https://cdn-images-1.medium.com/max/1200/1*0yzv0WDndnC0AEq0vqgg3Q.png",
+        "author": {
+          "name": "Murat Doğan",
+          "url": "https://twitter.com/murat_dogan17",
+          "avatar": "https://pbs.twimg.com/profile_images/463953138991382529/FS1qid6o_400x400.jpeg"
+        }
+      },
+      {
+        "url":
+          "https://medium.com/@muratdogan/javascript-hap-yaz%C4%B1s%C4%B1-ternary-operator-2788782189fb",
+        "title": "JavaScript hap yazısı : Ternary Operator",
+        "image": "https://cdn-images-1.medium.com/max/1600/1*MfJ4lPLyPi0kM0W-9VqXQA.jpeg",
+        "author": {
+          "name": "Murat Doğan",
+          "url": "https://twitter.com/murat_dogan17",
+          "avatar": "https://pbs.twimg.com/profile_images/463953138991382529/FS1qid6o_400x400.jpeg"
+        }
+      },
+      {
+        "url":
+          "https://hurriyetlabs.com/javascript-hap-yaz%C4%B1s%C4%B1-element-insertadjacenthtml-8fe1e6511808",
+        "title": "JavaScript hap yazısı : Element.insertAdjacentHTML()",
+        "image": "https://cdn-images-1.medium.com/max/1200/1*Tef2f6RW4uT7_N1DvealYA.jpeg",
+        "author": {
+          "name": "Murat Doğan",
+          "url": "https://twitter.com/murat_dogan17",
+          "avatar": "https://pbs.twimg.com/profile_images/463953138991382529/FS1qid6o_400x400.jpeg"
+        }
+      },
+      {
+        "url":
+          "https://hurriyetlabs.com/javascript-hap-yaz%C4%B1s%C4%B1-ve-aras%C4%B1ndaki-farklar-javascriptte-e%C5%9Fitlik-b7cd20f91a",
+        "title": "JavaScript hap yazısı : == ve === arasındaki farklar, JavaScript’te eşitlik",
+        "image": "https://cdn-images-1.medium.com/max/1200/1*9f4jjunUcLqYJd02WI2LQA.png",
+        "author": {
+          "name": "Murat Doğan",
+          "url": "https://twitter.com/murat_dogan17",
+          "avatar": "https://pbs.twimg.com/profile_images/463953138991382529/FS1qid6o_400x400.jpeg"
+        }
+      }
+    ]
+  },
+  "jQuery": {
+    "slug": "jquery",
+    "links": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Jt6F-dyl6LEHNVaudH3rk",
+        "title": "JQuery Eğitim Serisi",
+        "image":
+          "https://i.ytimg.com/vi/dcfHyvsmtfY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAMPRvBumKywJqVvnkcpsIfanLVTw",
+        "author": {
+          "name": "Kablosuz Kedi",
+          "url": "https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp1kLatutYwxuVcM_QSfi6_l6BQDeKK36D2wgQ=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      }
+    ]
+  },
+  "Laravel": {
+    "slug": "laravel",
+    "links": [
+      {
+        "url": "https://www.sinaneldem.com.tr/laravel-framework-nedir-ve-ozellikleri-nelerdir",
+        "title": "Laravel Nedir?",
+        "author": {
+          "name": "Sinan Eldem",
+          "url": "https://twitter.com/sineld",
+          "avatar":
+            "https://pbs.twimg.com/profile_images/2289872971/adsatfmqdscq3cv0turz_400x400.jpeg"
+        }
+      },
+      {
+        "url": "http://www.laravel.gen.tr",
+        "title": "Laravel Türkçe",
+        "author": {
+          "name": "Laravel Türkiye",
+          "url": "https://twitter.com/laraveltr",
+          "avatar": "https://pbs.twimg.com/media/Da6GZ7YVAAQ3BgD.jpg"
+        }
+      },
+      {
+        "url": "http://forum.laravel.gen.tr",
+        "title": "Laravel Türkiye Forum"
+      },
+      {
+        "url":
+          "https://www.youtube.com/watch?v=0N1tiGJTuGs&list=PLS-yaST2La_j2_WWCZXQcyYcBp7_7Teaz",
+        "title": "Laravel 5.4 Blog Uygulaması",
+        "image": "https://i.ytimg.com/vi/0N1tiGJTuGs/hqdefault.jpg",
+        "author": {
+          "name": "Halil Coşdu",
+          "url": "https://github.com/halilcosdu",
+          "avatar": "https://avatars2.githubusercontent.com/u/6373017?s=400&v=4"
+        }
+      }
+    ]
+  },
+  "Machine Learning": {
+    "slug": "machine-learning",
+    "links": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLRRY18KNZTgUQx8NT_YqCVOyb-VnB79W2",
+        "title": "Makine Ögrenmesi Video Blog",
+        "image":
+          "https://i.ytimg.com/vi/WB1sx0VxBl4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLC67MNc4_LO2vzqoXiKl3PsOR9wEw"
+      }
+    ]
+  },
+  "MongoDB": {
+    "slug": "mongodb",
+    "links": [
+      {
+        "url": "https://youtu.be/sKxs0x17nCM",
+        "title": "MongoDB nedir? Neden Kullanılır?",
+        "image": "https://i.ytimg.com/vi/sKxs0x17nCM/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://youtu.be/E5ACtk2mzAc",
+        "title": "MongoDB Veritabanı Oluşturma",
+        "image": "https://i.ytimg.com/vi/E5ACtk2mzAc/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://youtu.be/45ORJ5YMb5Y",
+        "title": "Mongoose Library ile MongoDB",
+        "image": "https://i.ytimg.com/vi/45ORJ5YMb5Y/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://youtu.be/NWHVX0UMmmc",
+        "title": "Mongoose Schema Kullanımı",
+        "image": "https://i.ytimg.com/vi/NWHVX0UMmmc/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://youtu.be/5L7DhM8nP40",
+        "title": "MongoDB Kayıt (insert) İşlemi",
+        "image": "https://i.ytimg.com/vi/5L7DhM8nP40/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://youtu.be/CwtPQ8WWkHE",
+        "title": "MongoDB Güncelleme (Update) İşlemi",
+        "image": "https://i.ytimg.com/vi/CwtPQ8WWkHE/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://youtu.be/o96DOL8geM0",
+        "title": "MongoDB Silme (Remove) İşlemi",
+        "image": "https://i.ytimg.com/vi/o96DOL8geM0/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      }
+    ]
+  },
+  "Nginx": {
+    "slug": "nginx",
+    "links": [
+      {
+        "url": "https://medium.com/house-of-apps/nginx-nedir-1b15933beaf4",
+        "title": "Nginx Nedir?",
+        "image": "https://cdn-images-1.medium.com/max/1600/1*rRJ09I3gSM9uOILwrWymVg.png"
+      },
+      {
+        "url": "https://mertcangokgoz.com/tag/nginx",
+        "title": "Nginx Yapılandırma Örnekleri",
+        "image":
+          "https://images.unsplash.com/photo-1484557052118-f32bd25b45b5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=524b51959d588b4c8b0abaa0fa17e197"
+      },
+      {
+        "url": "http://www.buraksenyurt.com/post/nginx-uzerinde-web-api-servisi-calistirmak",
+        "title": "Nginx Üzerinde Web API Servisi Çalıştırmak",
+        "image": "http://www.buraksenyurt.com/image.axd?picture=/2017/12/nginxcore_2.gif"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=-uPrwyzhRck",
+        "title": "Linux Server üzerinde NodeJS Uygulaması Kurulumu (nginx - pm2)",
+        "image": "https://i.ytimg.com/vi/-uPrwyzhRck/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      }
+    ]
+  },
+  "Node.js": {
+    "slug": "nodejs",
+    "links": [
+      {
+        "url": "http://blog.ilkerguller.com/search/label/node.js%20dersi",
+        "title": "Node JS Başlangıç Eğitimleri",
+        "author": {
+          "name": "Ilker Guller",
+          "url": "http://ilkerguller.com",
+          "avatar": "http://i63.tinypic.com/ff4mr4.png"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLIM5iw4GHbNX-2wD-6hB7yJLxqWPS1byF",
+        "title": "Node JS",
+        "image":
+          "https://i.ytimg.com/vi/PbgEWB1FAts/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCjcqseSGazRsuSoB6RlVfyFIyQUQ"
+      },
+      {
+        "url": "https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/node-js",
+        "title": "Node JS Blog Yazıları & Eğitimleri",
+        "author": {
+          "name": "yazilimgunlugu.org",
+          "url": "https://yazilimgunlugu.org",
+          "avatar": "https://s0.wp.com/i/blank.jpg"
+        }
+      },
+      {
+        "url": "https://gelecegiyazanlar.turkcell.com.tr/konu/web-programlama/egitim/401",
+        "title": "Geleceği Yazanlar - Node.js Eğitimi(ileri seviye)",
+        "image": "https://gelecegiyazanlar.turkcell.com.tr/sites/default/files/icerik/nodejs.jpg"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLh9ECzBB8tJOkzZUbc9CngE-6XeyDFeSY",
+        "title": "Node.JS Eğitim Videoları",
+        "image":
+          "https://i.ytimg.com/vi/fdgIvnyMfHI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDhMeyP9bDIBLJ6F5MjNdwzEVQDjA",
+        "author": {
+          "name": "Şadi Evren Şeker",
+          "url": "http://sadievrenseker.com",
+          "avatar": "https://s0.wp.com/i/blank.jpg"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/thelastcodebenders",
+        "title": "Node.js Eğitim Videoları",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp02XsI2jVLmn6Jm5580bIjzSABo7PiWs5U8qg=s900-mo-c-c0xffffffff-rj-k-no",
+        "author": {
+          "name": "Çağatay Çalı",
+          "url": "https://github.com/cagataycali",
+          "avatar": "https://avatars3.githubusercontent.com/u/9213230?s=400&v=4"
+        }
+      },
+      {
+        "url":
+          "https://cagatay.me/nodejs-t%C3%BCrk%C3%A7e-e%C4%9Fitim-seti-giri%C5%9F-1-815b6fd21502",
+        "title": "Node.js Eğitim Serisi",
+        "image": "https://cdn-images-1.medium.com/max/2000/1*5HBnzpAILOkcFj4jxjrpLg.jpeg",
+        "author": {
+          "name": "Çağatay Çalı",
+          "url": "https://cagatay.me",
+          "avatar": "https://cdn-images-1.medium.com/max/1200/1*a42ig5hgXct19A616XKagg.jpeg"
+        }
+      },
+      {
+        "url": "http://www.yusufsezer.com.tr/kategori/javascript/node-js",
+        "title": "Node JS Blog Yazıları & Eğitimleri 2"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLnrFXI6MYFtG4JtIC887VVx5m05ZNdxCQ",
+        "title": "Node.js ile Oyun Yazmak Serisi Videoları",
+        "image":
+          "https://i.ytimg.com/vi/5TpAONJKVxA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAZ_Zt9ZIMQtn6AEYOzqOenfWrckg",
+        "author": {
+          "name": "Abdurrahman Eker",
+          "url": "https://twitter.com/abdurrahmanekr",
+          "avatar": "https://pbs.twimg.com/profile_images/986522007511674880/fn4a884i_400x400.jpg"
+        }
+      },
+      {
+        "url": "http://www.avarekodcu.com/aramayap/kategori/7-noy",
+        "title": "Node.js ile Oyun Yazmak Serisi",
+        "image": "https://avatars0.githubusercontent.com/u/15075759?v=4",
+        "author": {
+          "name": "Abdurrahman Eker",
+          "url": "https://twitter.com/abdurrahmanekr",
+          "avatar": "https://pbs.twimg.com/profile_images/986522007511674880/fn4a884i_400x400.jpg"
+        }
+      },
+      {
+        "url": "http://mavidurak.github.io/passport-js-ile-node-js-de-yetkilendirme-yonetimi",
+        "title": "Passport.js ile Node JS'de Yetkilendirme Yönetimi",
+        "author": {
+          "name": "Furkan Başaran",
+          "url": "http://twitter.com/frknbasaran",
+          "avatar": "https://pbs.twimg.com/profile_images/985255814888869889/PWuz1rUX_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=TuGm9ebg-Zg",
+        "title": "Middleware - Ara Katman",
+        "image": "https://i.ytimg.com/vi/TuGm9ebg-Zg/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=u-4asiGgFdc",
+        "title": "Uygulamanıza Arama Özelliği Ekleme - Algolia Search",
+        "image": "https://i.ytimg.com/vi/u-4asiGgFdc/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=C1LSXiV_Ldw",
+        "title": "Node.js - HTML'den PDF Oluşturma",
+        "image": "https://i.ytimg.com/vi/C1LSXiV_Ldw/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://youtu.be/Gr46CZcEXTg",
+        "title": "Node.js - Debugging İşlemi - VS Code - Chrome",
+        "image": "https://i.ytimg.com/vi/Gr46CZcEXTg/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      }
+    ]
+  },
+  "OpenSSL": {
+    "slug": "openssl",
+    "links": [
+      {
+        "url": "https://github.com/zekiunal/openssl-certificate-authority-guide",
+        "title": "OpenSSL CA Kılavuzu",
+        "image": "https://avatars0.githubusercontent.com/u/1094656?s=400&v=4"
+      }
+    ]
+  },
+  "OSX": {
+    "slug": "osx",
+    "links": [
+      {
+        "url": "http://osx.gelistiriciyiz.biz",
+        "title": "OSX Püf Noktaları",
+        "image": "http://osx.gelistiriciyiz.biz/public/images/cover.jpg",
+        "author": {
+          "name": "OSX Tips",
+          "url": "https://twitter.com/osx_tips_tr",
+          "avatar": "https://pbs.twimg.com/profile_images/816594716175335424/CgmFzQm7_400x400.jpg"
+        }
+      }
+    ]
+  },
+  "Packer": {
+    "slug": "packer",
+    "links": [
+      {
+        "url": "https://github.com/zekiunal/packer",
+        "title": "Packer Başlangıç Kılavuzu",
+        "image": "https://avatars0.githubusercontent.com/u/1094656?s=400&v=4"
+      }
+    ]
+  },
+  "PHP": {
+    "slug": "php",
+    "links": [
+      {
+        "url": "https://www.ibrahimcevruk.com/kategori/php-dersleri/",
+        "title": "PHP Dersleri",
+        "image": "https://www.ibrahimcevruk.com/wp-content/uploads/2018/02/hava-288x180.jpg",
+        "author": {
+          "name": "İbrahim Çevrük",
+          "url": "http://ibrahimcevruk.com",
+          "avatar": "https://www.ibrahimcevruk.com/wp-content/uploads/2018/04/curl2-608x307.jpg"
+        }
+      },
+      {
+        "url": "http://www.rizagunes.com/php-nesne-yonelimli-programlama-giris",
+        "title": "PHP ile Nesne Yönelimli Programlama",
+        "image": "http://www.rizagunes.com/img/rg6.jpg",
+        "author": {
+          "name": "Rıza Güneş",
+          "url": "https://twitter.com/rgunes18",
+          "avatar": "https://pbs.twimg.com/profile_banners/1708350950/1488667751/1500x500"
+        }
+      },
+      {
+        "url": "https://yilmazdemir.com.tr/yeni-baslayanlar-icin-phpde-mvc",
+        "title": "Yeni baslayanlar icin PHP'de MVC",
+        "image": "https://yilmazdemir.com.tr/assets/images/5aa444b196bcf.jpg",
+        "author": {
+          "name": "Yılmaz Demir",
+          "url": "http://yilmazdemir.com.tr",
+          "avatar": "https://yilmazdemir.com.tr/assets/images/5aa444b196bcf.jpg"
+        }
+      },
+      {
+        "url": "https://www.phpr.org/php-dersleri",
+        "title": "PHP Serüvenleri",
+        "image": "https://s0.wp.com/i/blank.jpg",
+        "author": {
+          "name": "Musa Avcı",
+          "url": "https://twitter.com/musa_avci",
+          "avatar": "https://pbs.twimg.com/profile_images/667315758360215552/9mBtuAZ0_400x400.jpg"
+        }
+      },
+      {
+        "url": "http://www.erbilen.net/kategori/ders/php",
+        "title": "Videolu ve Yazılı PHP Dersleri",
+        "image": "https://www.erbilen.net/wp-content/uploads/2018/01/phpegitimserisi.jpg",
+        "author": {
+          "name": "Tayfun Erbilen",
+          "url": "http://www.erbilen.net",
+          "avatar":
+            "https://i2.wp.com/www.erbilen.net/wp-content/uploads/2017/07/2500557.jpg?fit=400%2C400&ssl=1"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-K_h0rC656Why8nJPF_dIO",
+        "title": "PHP Eğitim Serisi",
+        "image":
+          "https://i.ytimg.com/vi/NtPi6JDyCS8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCMppqwuTJi4YkEyvMDt4AT8UMhQw",
+        "author": {
+          "name": "Kablosuz Kedi",
+          "url": "https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp1kLatutYwxuVcM_QSfi6_l6BQDeKK36D2wgQ=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "http://kulekci.net/php-the-right-way",
+        "title": "Usulüne Uygun PHP",
+        "author": {
+          "name": "Haydar Külekçi",
+          "url": "http://kulekci.net",
+          "avatar": "http://kulekci.net/public/share-icons/w_48.png"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLZtkgIR0fgTH2bZmadFPgwCTKIctvMwpM",
+        "title": "Laravel 5 Eğitim Seti",
+        "image":
+          "https://i.ytimg.com/vi/-MiMZCat-NU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCZCAUiJb-8U3K314I1cOyCldRwIQ",
+        "author": {
+          "name": "Emrah Yüksel",
+          "url": "http://www.emrahyuksel.com.tr",
+          "avatar": "https://udemy-images.udemy.com/course/750x422/1610670_d86c.jpg"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLZtkgIR0fgTF-J55mgaNUK7uFvzFzgpGa",
+        "title": "PHP Dersleri",
+        "image":
+          "https://i.ytimg.com/vi/jC0kFV_Hsjw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAx1Ofrt9hJW9WHoVYkeHFgokPu_Q",
+        "author": {
+          "name": "Emrah Yüksel",
+          "url": "http://www.emrahyuksel.com.tr",
+          "avatar": "https://udemy-images.udemy.com/course/750x422/1610670_d86c.jpg"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLaRvI2em-MKhStVZX3Cnp_StuhEy5gtNL",
+        "title": "Symfony Dersleri",
+        "image":
+          "https://i.ytimg.com/vi/WzcRJ2cMess/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB-Zbe-GAvIjwzPyphMGR8sWiyTqg",
+        "author": {
+          "name": "Çağatay Çalı",
+          "url": "https://cagatay.me",
+          "avatar": "https://cdn-images-1.medium.com/max/1200/1*a42ig5hgXct19A616XKagg.jpeg"
+        }
+      }
+    ]
+  },
+  "Python": {
+    "slug": "python",
+    "links": [
+      {
+        "url": "https://belgeler.yazbel.com/python-istihza",
+        "title": "Python Dersleri - İstihza, Yazbel"
+      },
+      {
+        "url": "https://github.com/yazbel/python-istihza",
+        "title": "Python Dersleri Github - İstihza, Yazbel",
+        "image": "https://avatars2.githubusercontent.com/u/29818818?s=400&v=4"
+      }
+    ]
+  },
+  "Rails": {
+    "slug": "rails",
+    "links": [
+      {
+        "url":
+          "https://www.youtube.com/watch?v=wjEVDmHxrTk&list=PLR-hVfRDr2Mp8cDcbWZ6TX2YVTM0vECz2",
+        "title": "Haydi Rails Yazalım",
+        "image": "https://i.ytimg.com/vi/wjEVDmHxrTk/hqdefault.jpg",
+        "author": {
+          "name": "Anıl İyidoğan",
+          "url": "https://twitter.com/lifeis00FF00",
+          "avatar": "https://pbs.twimg.com/profile_images/642027807929958401/Bfl95AG4_400x400.png"
+        }
+      },
+      {
+        "url":
+          "https://mertbulan.com/2016/10/08/ruby-on-rails-ile-kapsamli-bir-web-projesi-gelistirmek",
+        "title": "Ruby on Rails ile kapsamlı bir web projesi geliştirmek",
+        "image": "https://mertbulan.com/uploads/ben.jpg",
+        "author": {
+          "name": "Mert Bulan",
+          "url": "http://twitter.com/mertbulan",
+          "avatar": "https://pbs.twimg.com/profile_images/954764008900481025/C2xB4LFB_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLRFrHX5qAOJXUVVU0gBv03fQSespreX3E",
+        "title": "Ruby on Rails İpuçları",
+        "image":
+          "https://i.ytimg.com/vi/6vd3nfnlYwI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDOwyDp4APDgwd7jAAfVaefWN8t7g",
+        "author": {
+          "name": "Mert Bulan",
+          "url": "http://twitter.com/mertbulan",
+          "avatar": "https://pbs.twimg.com/profile_images/954764008900481025/C2xB4LFB_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLqgPe8mz0dh6ga67CZ59oPk8IcPnFerWd",
+        "title": "Adım adım Rails 5",
+        "image":
+          "https://i.ytimg.com/vi/8HNMGudwUoY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCmdrqZko91tOE5PZpOk3cjbjMRpA",
+        "author": {
+          "name": "Ekrem Karaca",
+          "url": "https://twitter.com/ekremcodes",
+          "avatar": "https://pbs.twimg.com/profile_images/885476628683468800/bhpUl9HK_400x400.jpg"
+        }
+      }
+    ]
+  },
+  "React": {
+    "slug": "react",
+    "links": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLC9XHh8X_kVJueSCNIp5ta_PcfOHpFKmO",
+        "title": "React JS Eğitimi",
+        "image":
+          "https://i.ytimg.com/vi/CjIbUVh-GTw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCw2mFjJU5e8rNDV5TXyQNz40hl-g",
+        "author": {
+          "name": "Üstün Özgür",
+          "url": "https://twitter.com/UstunOzgur",
+          "avatar": "https://pbs.twimg.com/media/DaBknCpWAAEZxy7.jpg"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL-ohrY_IyV4CUNsDxXDkdT-aAVfrTPXll",
+        "title": "React ve Redux ile Web Uygulaması Geliştirme",
+        "image":
+          "https://i.ytimg.com/vi/oGOyZMB2-Ko/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBC5DYKchRpd88rm-t9ASXYdEeBOw",
+        "author": {
+          "name": "Alpcan Aydın",
+          "url": "https://twitter.com/alpcanaydin",
+          "avatar": "https://pbs.twimg.com/profile_images/844197944224026625/a2eKTDfV_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://github.com/omergulcicek/reactjs",
+        "title": "React JS Türkçe Doküman",
+        "image": "https://avatars1.githubusercontent.com/u/13813170?s=400&v=4",
+        "author": {
+          "name": "Ömer Gülçiçek",
+          "url": "https://twitter.com/omergulcicek",
+          "avatar": "https://pbs.twimg.com/profile_images/985995507557392384/Br2fS4QH_400x400.jpg"
+        }
+      },
+      {
+        "url":
+          "https://medium.com/@oguzkilic/react-componentlar%C4%B1-i%C3%A7in-nas%C4%B1l-test-yaz%C4%B1l%C4%B1r-8da7ffc5d1d5",
+        "title": "React Component'ları için Nasıl Test Yazılır? ",
+        "image": "https://cdn-images-1.medium.com/max/1600/1*4RtwYUG0ovLvCqNHl75CjA.png",
+        "author": {
+          "name": "Oğuz Kılıç",
+          "url": "https://twitter.com/0guzKilic",
+          "avatar": "https://pbs.twimg.com/profile_images/956370692911616000/G35MGTVx_400x400.jpg"
+        }
+      },
+      {
+        "url":
+          "https://medium.com/@oguzkilic/react-component-geli%C5%9Ftirme-s%C3%BCre%C3%A7leri-38c85c55be77",
+        "title": "React Component Geliştirme Süreçleri",
+        "image": "https://cdn-images-1.medium.com/max/1200/1*8T0opytn0oYuEMpd8PRTsw.gif",
+        "author": {
+          "name": "Oğuz Kılıç",
+          "url": "https://twitter.com/0guzKilic",
+          "avatar": "https://pbs.twimg.com/profile_images/956370692911616000/G35MGTVx_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://medium.com/@oguzkilic/jest-ile-component-snapshot-testing-6b652876922d",
+        "title": "Jest ile React Component'ları için Snapshot Testleri",
+        "image": "https://cdn-images-1.medium.com/max/1600/1*MSXaSDsmHdUatDwYEERarA.png",
+        "author": {
+          "name": "Oğuz Kılıç",
+          "url": "https://twitter.com/0guzKilic",
+          "avatar": "https://pbs.twimg.com/profile_images/956370692911616000/G35MGTVx_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://medium.com/@oguzkilic/css-in-javascript-styled-components-aa06a6f54388",
+        "title": "Css in JavaScript - StyledComponents",
+        "image": "https://cdn-images-1.medium.com/max/1600/1*3GwnQu_d53t-6oa-k8IwWg.jpeg",
+        "author": {
+          "name": "Oğuz Kılıç",
+          "url": "https://twitter.com/0guzKilic",
+          "avatar": "https://pbs.twimg.com/media/DbI_MJiUMAAMVBc.jpg"
+        }
+      },
+      {
+        "url": "https://medium.com/@oguzkilic/react-uygulamalar%C4%B1nda-tdd-48f93335d8fb",
+        "title": "React Uygulamalarında TDD",
+        "image": "https://cdn-images-1.medium.com/max/1600/1*18REg7ABeNcYhGpgrac1sw.jpeg",
+        "author": {
+          "name": "Oğuz Kılıç",
+          "url": "https://twitter.com/0guzKilic",
+          "avatar": "https://pbs.twimg.com/media/DbI_MJiUMAAMVBc.jpg"
+        }
+      },
+      {
+        "url":
+          "https://www.youtube.com/watch?v=n6hXLjdlA5I&list=PLXGR42frWa8Ri0cdfCYb8VfUN11Zryn8z",
+        "title": "React & Redux Proje Geliştiriyorum Eğitim Serisi",
+        "image": "https://i.ytimg.com/vi/n6hXLjdlA5I/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://youtu.be/arn_5i7N3jY",
+        "title": "Function as a Child Nedir",
+        "image": "https://i.ytimg.com/vi/arn_5i7N3jY/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://youtu.be/Gz3wmtE7C-k",
+        "title": "High Order Components - HOC Nedir",
+        "image": "https://i.ytimg.com/vi/Gz3wmtE7C-k/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://youtu.be/tL5scd-63Zc",
+        "title": "Sıfırdan React Kurulumu - Babel Webpack Eslint (ES2015, SASS)",
+        "image": "https://i.ytimg.com/vi/tL5scd-63Zc/hqdefault.jpg",
+        "author": {
+          "name": "Sanalonyedi",
+          "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      },
+      {
+        "url": "https://github.com/omergulcicek/react-router",
+        "title": "React Router Türkçe Doküman",
+        "image":
+          "https://camo.githubusercontent.com/f1c6997521fd921205ff9356eda367500f9e8e69/68747470733a2f2f6f6d657267756c636963656b2e636f6d2f696d672f6769746875622f726f757465722e706e67",
+        "author": {
+          "name": "Ömer Gülçiçek",
+          "url": "https://twitter.com/omergulcicek",
+          "avatar": "https://pbs.twimg.com/profile_images/985995507557392384/Br2fS4QH_400x400.jpg"
+        }
+      },
+      {
+        "url":
+          "https://hurriyetlabs.com/react-v16-2-0-ile-iyile%C5%9Ftirilen-%C3%A7ok-k%C4%B1ymetli-%C3%B6zellik-fragments-7a757094eafe",
+        "title": "React v16.2.0 ile iyileştirilen, çok kıymetli özellik: Fragments",
+        "image": "https://cdn-images-1.medium.com/max/1200/1*UKJOvBh1PKvoRhZ9ap6ZDg.png",
+        "author": {
+          "name": "Murat Doğan",
+          "url": "https://twitter.com/murat_dogan17",
+          "avatar": "https://pbs.twimg.com/profile_banners/276119395/1399450064/1500x500"
+        }
+      }
+    ]
+  },
+  "React Native": {
+    "slug": "react-native",
+    "links": [
+      {
+        "url": "https://ysfzrn.gitbooks.io/react-native-turkce",
+        "title": "React Native Türkçe",
+        "author": {
+          "name": "Yusuf Zeren",
+          "url": "https://twitter.com/yosooff",
+          "avatar": "https://pbs.twimg.com/profile_images/444978135512387584/wHtVeiaH_400x400.jpeg"
+        }
+      },
+      {
+        "url": "http://berkay.beyaz.us/category/react-native",
+        "title": "React Native Uygulamaları",
+        "author": {
+          "name": "Berkay Beyaz",
+          "url": "https://twitter.com/berkaybeyaz6",
+          "avatar": "https://pbs.twimg.com/profile_banners/1861699556/1470550054/1500x500"
+        }
+      },
+      {
+        "url": "http://www.avarekodcu.com/aramayap/etiket/react-native-login-uygulamas",
+        "title": "React Native İle Login Uygulaması",
+        "image": "https://avatars0.githubusercontent.com/u/15075759?v=4",
+        "author": {
+          "name": "Abdurrahman Eker",
+          "url": "https://twitter.com/abdurrahmanekr",
+          "avatar": "https://pbs.twimg.com/profile_images/986522007511674880/fn4a884i_400x400.jpg"
+        }
+      },
+      {
+        "url": "http://www.avarekodcu.com/konu/24/react-native-animasyonlar-animated-api",
+        "title": "React Native Animasyonlar, Animated API",
+        "image": "https://avatars0.githubusercontent.com/u/15075759?v=4",
+        "author": {
+          "name": "Abdurrahman Eker",
+          "url": "https://twitter.com/abdurrahmanekr",
+          "avatar": "https://pbs.twimg.com/profile_images/986522007511674880/fn4a884i_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://medium.com/@peacecwz/react-native-sqlite-kullan%C4%B1m%C4%B1-6969e783f136",
+        "title": "React Native SQLite Kullanımı",
+        "image": "https://cdn-images-1.medium.com/max/1600/1*SluXAlSPIxxWjwUsiqD2Kw.png",
+        "author": {
+          "name": "Barış Ceviz",
+          "url": "https://github.com/peacecwz",
+          "avatar": "https://avatars0.githubusercontent.com/u/6075637?s=400&v=4"
+        }
+      },
+      {
+        "url":
+          "https://medium.com/@oguzkilic/react-ile-cross-platform-d%C3%BC%C5%9F%C3%BCnmek-cba5aa7b462f",
+        "title": "React ile Cross Platform Düşünmek",
+        "author": {
+          "name": "Oğuz Kılıç",
+          "url": "https://twitter.com/0guzKilic",
+          "avatar": "https://pbs.twimg.com/profile_images/956370692911616000/G35MGTVx_400x400.jpg"
+        }
+      }
+    ]
+  },
+  "Ruby": {
+    "slug": "ruby",
+    "links": [
+      {
+        "url": "https://www.ruby-lang.org/tr/documentation/quickstart",
+        "title": "Yirmi Dakikada Ruby"
+      },
+      {
+        "url": "https://www.gitbook.com/book/vigo/ruby-101/details",
+        "title": "Ruby 101",
+        "author": {
+          "name": "Uğur Özyılmazel",
+          "url": "https://twitter.com/vigobronx",
+          "avatar": "https://pbs.twimg.com/profile_images/946277285673521153/PCtqNxR6_400x400.jpg"
+        }
+      },
+      {
+        "url": "http://ugur.ozyilmazel.com/blog/tr/2014/09/23/rubygem-hazirliyoruz",
+        "title": "Rubygem Hazırlıyoruz",
+        "image": "http://ugur.ozyilmazel.com/public/images/covers/2014-09-23-rubygems.png",
+        "author": {
+          "name": "Uğur Özyılmazel",
+          "url": "https://twitter.com/vigobronx",
+          "avatar": "https://pbs.twimg.com/profile_images/946277285673521153/PCtqNxR6_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLqgPe8mz0dh7pKD5AnNRjveNKuBhnfaKw",
+        "title": "Adım adım Ruby",
+        "image":
+          "https://i.ytimg.com/vi/_jxHYecY6s8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDDCOLLoruuOnTdFYz91Ny-nytyyg",
+        "author": {
+          "name": "Ekrem Karaca",
+          "url": "https://twitter.com/ekremcodes",
+          "avatar": "https://pbs.twimg.com/profile_images/885476628683468800/bhpUl9HK_400x400.jpg"
+        }
+      },
+      {
+        "url": "http://kesk.in/2016/gemfile-nedir",
+        "title": "Gemfile nedir?",
+        "author": {
+          "name": "Sinan Keskin",
+          "url": "https://twitter.com/_khons",
+          "avatar": "https://pbs.twimg.com/profile_images/948254526838067202/LhUQsYXi_400x400.jpg"
+        }
+      }
+    ]
+  },
+  "Solidity": {
+    "slug": "solidity",
+    "links": [
+      {
+        "url": "https://www.youtube.com/watch?v=-Xqax3MOuPg",
+        "title": "Solidity101",
+        "image": "https://i.ytimg.com/vi/-Xqax3MOuPg/hqdefault.jpg"
+      }
+    ]
+  },
+  "SQL": {
+    "slug": "sql",
+    "links": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-6vvPSJssG4Jp6UqCTmWSz",
+        "title": "SQL Eğitim Serisi",
+        "image":
+          "https://i.ytimg.com/vi/UAOBb6pb7KA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAarINOhTygngmOTvf45VTGstluFQ",
+        "author": {
+          "name": "Kablosuz Kedi",
+          "url": "https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured",
+          "avatar":
+            "https://yt3.ggpht.com/a-/AJLlDp1kLatutYwxuVcM_QSfi6_l6BQDeKK36D2wgQ=s900-mo-c-c0xffffffff-rj-k-no"
+        }
+      }
+    ]
+  },
+  "Swift": {
+    "slug": "swift",
+    "links": [
+      {
+        "url": "https://medium.com/swift-t%C3%BCrkiye/archive",
+        "title": "Swift Türkiye",
+        "image": "https://cdn-images-1.medium.com/fit/t/1600/480/1*4AxNV1LZDhTxnQE_FTqLig.jpeg",
+        "author": {
+          "name": "Özgür Şahin",
+          "url": "https://github.com/ozgurshn",
+          "avatar": "https://avatars3.githubusercontent.com/u/2404074?s=400&v=4"
+        }
+      },
+      {
+        "url": "https://learnxinyminutes.com/docs/tr-tr/swift-tr",
+        "title": "10 Dakikada Swift",
+        "author": {
+          "name": "Özgür Şahin",
+          "url": "https://github.com/ozgurshn",
+          "avatar": "https://avatars3.githubusercontent.com/u/2404074?s=400&v=4"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCdzM1zLR0g1aU6tqZ8xuGzA/playlists",
+        "title": "Swift/Xcode Eğitim Videoları",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp0VCKpib6IJ3GOF2x1fZ94am0oKtAYYzrnHxg=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url":
+          "https://medium.com/nsistanbul/core-ml-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-nesne-alg%C4%B1lama-%EF%B8%8F-3901d5d4444f",
+        "title": "Core ML Nedir, Nasıl Kullanılır? (Nesne Algılama ⚙️)",
+        "image": "https://cdn-images-1.medium.com/max/1200/1*zvdWYCVpfPB_xQARB8bFUQ.png",
+        "author": {
+          "name": "Batuhan Saka",
+          "url": "https://medium.com/@strawb3rryx7",
+          "avatar": "https://cdn-images-1.medium.com/max/1200/1*21LKRpJVJwz2OroIK4tRLA@2x.jpeg"
+        }
+      },
+      {
+        "url":
+          "https://medium.com/nsistanbul/swift-fileprivate-ve-open-eri%C5%9Fim-belirleyicileri-nedir-c06fafd985f9",
+        "title": "Swift - fileprivate ve open Erişim Belirleyicileri Nedir, Ne Yaparlar?",
+        "image": "https://cdn-images-1.medium.com/max/1200/1*QwEH4KwyEgPoTZNNT-5A5A.png",
+        "author": {
+          "name": "Batuhan Saka",
+          "url": "https://medium.com/@strawb3rryx7",
+          "avatar": "https://cdn-images-1.medium.com/max/1200/1*21LKRpJVJwz2OroIK4tRLA@2x.jpeg"
+        }
+      },
+      {
+        "url":
+          "https://medium.com/nsistanbul/swift-custom-view-par%C3%A7alar%C4%B1n%C4%B1-nib-xib-ile-tasarlamak-698035ddd896",
+        "title": "Swift - Custom View parçalarını NIB/XIB ile tasarlamak.",
+        "image": "https://cdn-images-1.medium.com/max/2000/1*H8Ihrj4936Mg3NF03tGw9A.png",
+        "author": {
+          "name": "Batuhan Saka",
+          "url": "https://medium.com/@strawb3rryx7",
+          "avatar": "https://cdn-images-1.medium.com/max/1200/1*21LKRpJVJwz2OroIK4tRLA@2x.jpeg"
+        }
+      },
+      {
+        "url":
+          "https://medium.com/@strawb3rryx7/swift-notificationcenter-nedir-ne-i%C3%A7in-kullan%C4%B1l%C4%B1r-a10d4487a2ed",
+        "title": "Swift - NotificationCenter nedir, ne için kullanılır?",
+        "image": "https://cdn-images-1.medium.com/fit/c/120/120/1*21LKRpJVJwz2OroIK4tRLA@2x.jpeg",
+        "author": {
+          "name": "Batuhan Saka",
+          "url": "https://medium.com/@strawb3rryx7",
+          "avatar": "https://cdn-images-1.medium.com/max/1200/1*21LKRpJVJwz2OroIK4tRLA@2x.jpeg"
+        }
+      },
+      {
+        "url":
+          "https://medium.com/@strawb3rryx7/snapkit-ve-auto-layout-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-c6221ae95345",
+        "title": "Swift - SnapKit ve Auto Layout nedir, nasıl kullanılır? 📏",
+        "image": "https://cdn-images-1.medium.com/max/1600/1*o4xhI-sgk_mui0s97I_eCw.png",
+        "author": {
+          "name": "Batuhan Saka",
+          "url": "https://medium.com/@strawb3rryx7",
+          "avatar": "https://cdn-images-1.medium.com/max/1200/1*21LKRpJVJwz2OroIK4tRLA@2x.jpeg"
+        }
+      }
+    ]
+  },
+  "Titanium Mobile": {
+    "slug": "titanium-mobile",
+    "links": [
+      {
+        "url":
+          "https://nazrdogan.github.io/blog/2015/12/07/appcelerator-titanium-mobile-turkce-kitap/",
+        "title": "Titanium Mobile ile Çapraz Platform Uygulama Geliştirme"
+      }
+    ]
+  },
+  "Unit Testing": {
+    "slug": "unit-testing",
+    "links": [
+      {
+        "url": "https://www.udemy.com/unit-test-yazma-sanati",
+        "title": "Unit Test Yazma Sanatı",
+        "image": "https://udemy-images.udemy.com/course/240x135/430288_151d_3.jpg"
+      }
+    ]
+  },
+  "Vault": {
+    "slug": "vault",
+    "links": [
+      {
+        "url": "https://github.com/zekiunal/vault",
+        "title": "Vault Başlangıç Kılavuzu",
+        "image": "https://avatars0.githubusercontent.com/u/1094656?s=400&v=4"
+      }
+    ]
+  },
+  "Vim ": {
+    "slug": "vim",
+    "links": [
+      {
+        "url": "https://github.com/p1v0t/VimKisayollari",
+        "title": "Vim Kısayolları",
+        "image": "https://avatars2.githubusercontent.com/u/24499047?s=400&v=4"
+      }
+    ]
+  },
+  "Vue.js": {
+    "slug": "vuejs",
+    "links": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El",
+        "title": "VueJS Türkçe Eğitim Videoları",
+        "image":
+          "https://i.ytimg.com/vi/byuboztKw9E/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLB4UU8DJt-WvItanJig5S9INfE9ag",
+        "author": {
+          "name": "Fatih Acet",
+          "url": "https://twitter.com/fatihacet",
+          "avatar": "https://pbs.twimg.com/profile_images/932674585530597377/VVd0ZnsB_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLa3NvhdFWNirpx6x-LIMfTrwOfLzCkfAU",
+        "title": "VueJS, Vue Router, Vuex, Firebase SPA Egitim Serisi",
+        "image":
+          "https://i.ytimg.com/vi/Azo9pPjZ1k4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDt-6xAFcmkQpSSDVU3_9KVHP9AVg",
+        "author": {
+          "name": "Fatih Acet",
+          "url": "https://twitter.com/fatihacet",
+          "avatar": "https://pbs.twimg.com/profile_images/932674585530597377/VVd0ZnsB_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLhLbfczNPVOKsDy-qb22aO-WxZUijmwTR",
+        "title": "Nedir Bu Vuejs",
+        "image":
+          "https://i.ytimg.com/vi/Cd1X6BVqniw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAIk1L5JrMA9BA3MXGJbH8i12_Z3A",
+        "author": {
+          "name": "Ömer Şensoy",
+          "url": "https://twitter.com/osensoy",
+          "avatar": "https://pbs.twimg.com/profile_images/536616823849234433/_-rhCUVR_400x400.jpeg"
+        }
+      },
+      {
+        "url": "https://codermathematician.wordpress.com/2018/04/17/vue-js-dersleri",
+        "title": "Vuejs Dersleri",
+        "image": "https://s0.wp.com/i/blank.jpg",
+        "author": {
+          "name": "Hatice Edis",
+          "url": "https://twitter.com/coderprofessor",
+          "avatar": "https://pbs.twimg.com/profile_images/987780122588729347/RcOLxGPr_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=9gdSKaeLc0g&t=9s",
+        "title": "VueJS ile Performanslı Uygulamalar Geliştirme - Giriş seviyesi",
+        "image": "https://i.ytimg.com/vi/9gdSKaeLc0g/hqdefault.jpg",
+        "author": {
+          "name": "Murat Doğan",
+          "url": "https://twitter.com/murat_dogan17",
+          "avatar": "https://pbs.twimg.com/profile_images/463953138991382529/FS1qid6o_400x400.jpeg"
+        }
+      }
+    ]
+  },
+  "WordPress": {
+    "slug": "wordpress",
+    "links": [
+      {
+        "url":
+          "https://www.youtube.com/watch?v=_wzy8QTfdIw&list=PLzPtCsi6BpOtWhBe9HoKcMv6txGlcLzkm",
+        "title": "WordPress Tema Entegre Eğitim Seti",
+        "image": "https://i.ytimg.com/vi/_wzy8QTfdIw/hqdefault.jpg",
+        "author": {
+          "name": "Baran Somaklı",
+          "url": "https://twitter.com/baransomakli",
+          "avatar": "https://pbs.twimg.com/profile_images/950119512027860992/OlgqpSLL_400x400.jpg"
+        }
+      }
+    ]
+  },
+  "Xamarin": {
+    "slug": "xamarin",
+    "links": [
+      {
+        "url": "http://www.xamarinturkiye.com",
+        "title": "Xamarin Türkiye",
+        "image": "http://www.xamarinturkiye.com/wp-content/uploads/2018/01/push-notification.png"
+      },
+      {
+        "url": "http://ozaksut.com/kategori/xamarin",
+        "title": "Xamarin Uygulama Geliştirme",
+        "image": "http://ozaksut.com/wp-content/uploads/2017/02/androiderror.png",
+        "author": {
+          "name": "Yiğit Özaksüt",
+          "url": "https://twitter.com/ozaksuty",
+          "avatar": "https://pbs.twimg.com/profile_images/810596538875609088/zNCQ2e14_400x400.jpg"
+        }
+      },
+      {
+        "url":
+          "https://medium.com/@peacecwz/xamarin-forms-radial-progress-kullan%C4%B1m%C4%B1-73751aa2cffd",
+        "title": "Xamarin Forms Radial Progress Kullanımı",
+        "image": "https://cdn-images-1.medium.com/max/1600/0*4A4uxJ1IDqz9GFXx.png",
+        "author": {
+          "name": "Barış Ceviz",
+          "url": "https://github.com/peacecwz",
+          "avatar": "https://assets-cdn.github.com/images/modules/profile/profile-first-issue.png"
+        }
+      }
+    ]
+  },
+  "Kotlin": {
+    "slug": "kotlin",
+    "links": [
+      {
+        "url": "https://mksglu.gitbooks.io/kotlin/content",
+        "title": "Giriş Seviyesinde Kotlin Rehberi",
+        "author": {
+          "name": "Mert Köseoğlu",
+          "url": "https://twitter.com/mksglu",
+          "avatar": "https://pbs.twimg.com/profile_images/900157027179274242/ByOGjFxB_400x400.jpg"
+        }
+      }
+    ]
+  },
+  "GNU/Linux": {
+    "slug": "gnulinux",
+    "links": [
+      {
+        "url": "https://www.gitbook.com/book/mksglu/arch-linux-i3wm/details",
+        "title": "Arch Linux I3WM Kurulum Sonrası Yapılandırma Ayarları (GitBook)",
+        "author": {
+          "name": "Mert Köseoğlu",
+          "url": "https://twitter.com/mksglu",
+          "avatar": "https://pbs.twimg.com/media/Da8GysvWsAAleut.jpg"
+        }
+      },
+      {
+        "url": "https://mksglu.gitbooks.io/linux-manjaro-17-i3wm-topluluk-surumu-cozumleri/content",
+        "title": "Linux Manjaro 17 I3WM Topluluk Sürümü Çözümleri",
+        "image":
+          "https://mksglu.gitbooks.io/linux-manjaro-17-i3wm-topluluk-surumu-cozumleri/content/assets/import.png",
+        "author": {
+          "name": "Mert Köseoğlu",
+          "url": "https://twitter.com/mksglu",
+          "avatar": "https://pbs.twimg.com/media/Da8GysvWsAAleut.jpg"
+        }
+      },
+      {
+        "url": "https://www.mkoseoglu.com/linux-manjaro-gnome-3-22-cozumleri",
+        "title": "Linux Manjaro Gnome 3.22 Çözümleri",
+        "image":
+          "http://www.mkoseoglu.com/wp-content/uploads/2017-03-22-05-49-27-ekran-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-1024x576.png",
+        "author": {
+          "name": "Mert Köseoğlu",
+          "url": "https://twitter.com/mksglu",
+          "avatar": "https://pbs.twimg.com/media/Da8GysvWsAAleut.jpg"
+        }
+      }
+    ]
+  },
+  "Faydalı Linkler": {
+    "slug": "faydali-linkler",
+    "links": [
+      {
+        "url": "https://calismamasam.com",
+        "title": "Çalışma Masam",
+        "image": "https://calismamasam.com/logo-centered.png",
+        "author": {
+          "name": "Tolga Gezginiş",
+          "url": "https://twitter.com/tgezginis",
+          "avatar": "https://pbs.twimg.com/profile_images/863442233839824896/fZdfwdDT_400x400.jpg"
+        }
+      },
+      {
+        "url": "http://semver.org/lang/tr",
+        "title": "Anlamsal Sürümleme"
+      },
+      {
+        "url": "http://www.tasarimdesenleri.com",
+        "title": "Tasarım Desenleri"
+      },
+      {
+        "url": "http://www.mehmetemineker.com/github-pages-ile-gelistiricilere-ucretsiz-blog",
+        "title": "Github Pages ile Geliştiricilere Ücretsiz Blog",
+        "image":
+          "http://www.mehmetemineker.com/wp-content/uploads/2016/08/github_pages-300x131.jpg",
+        "author": {
+          "name": "Mehmet Emin Eker",
+          "url": "http://www.mehmetemineker.com",
+          "avatar":
+            "http://www.mehmetemineker.com/wp-content/uploads/2016/06/12042606_10207720999453323_6346489012589157114_n.jpg"
+        }
+      },
+      {
+        "url": "https://www.getrevue.co/profile/etaylan",
+        "title": "Haftalık Bülten: Yazılım ve Ürün Geliştirme",
+        "image":
+          "https://s3.amazonaws.com/revue/profiles/images/000/023/303/thumb/pic.png?1489185048",
+        "author": {
+          "name": "Erman Taylan",
+          "url": "http://www.ermantaylan.com"
+        }
+      },
+      {
+        "url": "http://www.gokhansengun.com/jmeter-nedir-ve-ne-ise-yarar",
+        "title": "JMeter İle Performans Testleri",
+        "image":
+          "https://www.gokhansengun.com/resource/img/JMeterPart1/JMeterViewResultsTreeListener.png",
+        "author": {
+          "name": "Gökhan Şengün",
+          "url": "http://www.gokhansengun.com",
+          "avatar": "http://gokhansengun.github.io/img/avatar-icon.png"
+        }
+      },
+      {
+        "url": "http://www.avarekodcu.com/konu/9/ionic-2-kurulumu-kullanimi",
+        "title": "Github Api Kullanarak Ionic 2 de Basit Bir Uygulama",
+        "image": "http://www.avarekodcu.com/public/images/konu9/7.png",
+        "author": {
+          "name": "Abdurrahman Eker",
+          "url": "https://twitter.com/abdurrahmanekr",
+          "avatar": "https://pbs.twimg.com/profile_images/986522007511674880/fn4a884i_400x400.jpg"
+        }
+      },
+      {
+        "url": "https://kodedu.com",
+        "title": "Kodedu",
+        "image": "https://kodedu.com/wp-content/uploads/2017/04/spring-cloud-netflix-oss.png",
+        "author": {
+          "name": "Rahman Usta",
+          "url": "https://www.facebook.com/ustarahman",
+          "avatar":
+            "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p200x200/18342318_10155324112127206_5838348913929464126_n.jpg?_nc_cat=0&oh=fe480c271917ffa862340c52ab3e1d85&oe=5B5C4A8F"
+        }
+      },
+      {
+        "url": "https://blog.kodcu.com",
+        "title": "Kodcu.com Blog",
+        "image": "https://kodcu.com/wp/wp-content/uploads/2018/03/bilmok.jpg"
+      },
+      {
+        "url": "https://oktayuyar.github.io/pages/linux/ozgur_yazilim.html",
+        "title": "Özgür Yazılımın Önemi ve GNU/Linux",
+        "image": "https://oktayuyar.github.io/img/linux/gnulinux.png",
+        "author": {
+          "name": "Oktay UYAR",
+          "url": "https://oktayuyar.github.io"
+        }
+      },
+      {
+        "url": "https://assets.thoughtworks.com/assets/technology-radar-vol-16-tr.pdf",
+        "title": "Technology Radar / Teknoloji Radarı Sayı: 16"
+      },
+      {
+        "url": "https://vimeo.com/chrisstephenson/videos",
+        "title": "Chris Stephenson'un Programlama Dersleri",
+        "image": "https://i.vimeocdn.com/portrait/3474719_640x640"
+      },
+      {
+        "url": "http://www.borakasmer.com",
+        "title": "Bora Kaşmer",
+        "image": "http://www.borakasmer.com/wp-content/uploads/2018/01/container2-520x245.jpg"
+      },
+      {
+        "url": "http://www.yusufaytas.com/acik-kaynak-lisanslari",
+        "title": "Açık Kaynak Lisansları",
+        "image": "http://0.gravatar.com/avatar/665763cb5a9118347e9311404785c602?s=48&d=wavatar&r=g"
+      },
+      {
+        "url":
+          "https://medium.com/@cengizhanc/github-ile-a%C3%A7%C4%B1k-kaynak-projelere-katk%C4%B1da-bulunmak-8a0d79090546",
+        "title": "GitHub İle Açık Kaynak Projelere Katkıda Bulunmak",
+        "image": "https://cdn-images-1.medium.com/max/2000/1*eoZUBYa9VJzPOFVz41M4Vg.jpeg"
+      },
+      {
+        "url":
+          "http://alikemaltasci.blogspot.com.tr/2014/05/conditional-breakpoint-ile-daha-hzl-ve.html",
+        "title":
+          "Conditional Breakpoint ile Daha Hızlı ve Etkili Debugging - Eclipse ve Chrome Örneği",
+        "image":
+          "https://3.bp.blogspot.com/-Gj7Ey7j9gcU/U26sfX6DzII/AAAAAAAAAeE/eZg8XZXn-tM/s1600/2.png"
+      },
+      {
+        "url": "http://fehmicansaglam.net/hastalikli-alan-modeli",
+        "title": "Hastalıklı Alan Modeli (Martin Fowler - Anemic Domain Model Türkçe Çevirisi)",
+        "author": {
+          "name": "Fehmi Can Sağlam",
+          "url": "http://twitter.com/fehmicansaglam",
+          "avatar": "https://pbs.twimg.com/profile_banners/36611939/1506033139/1500x500"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=ZLQSCfXhpIM",
+        "title": "Elasticsearch, Kibana ve Logstash Eğitimi",
+        "image": "https://i.ytimg.com/vi/ZLQSCfXhpIM/hqdefault.jpg",
+        "author": {
+          "name": "Haydar Külekçi",
+          "url": "http://kulekci.net",
+          "avatar": "http://kulekci.net/public/share-icons/w_48.png"
+        }
+      },
+      {
+        "url": "https://www.slideshare.net/ACMSoftware/scrum-grsel-klavuzu",
+        "title": "Scrum Görsel Kılavuzu",
+        "image":
+          "https://cdn.slidesharecdn.com/ss_thumbnails/scrum-guide-optimized-150827130130-lva1-app6891-thumbnail-4.jpg?cb=1440681407"
+      },
+      {
+        "url": "https://12factor.net/tr/",
+        "title": "On İki Faktör Uygulaması"
+      },
+      {
+        "url": "http://busrauzun.com/clean-code-kitabindan-notlar.html",
+        "title": "Clean Code'dan Notlar",
+        "author": {
+          "name": "Büşra Uzun",
+          "url": "http://busrauzun.com"
+        }
+      },
+      {
+        "url": "https://ileriseviye.wordpress.com/2004/01/01/siradisilikla-kazanmak",
+        "title": "Sıradışılıkla Kazanmak (Beating the Averages) - Paul Graham",
+        "image": "https://s0.wp.com/i/blank.jpg"
+      },
+      {
+        "url": "https://mertcangokgoz.com/tag/jekyll",
+        "title": "Jekyll İle Github Üzerinde Ücretsiz Web Sitesi Barındırma",
+        "image":
+          "https://images.unsplash.com/photo-1490682143684-14369e18dce8?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=d8341dbd03ac9648c4b73d0788d4827c"
+      },
+      {
+        "url":
+          "https://cliexperiences.wordpress.com/2017/08/01/whatsapp-altyapisina-teknik-bir-bakis",
+        "title": "WhatsApp Altyapısına Teknik Bir Bakış",
+        "image": "https://cliexperiences.files.wordpress.com/2017/07/what_archi01.png?w=1100"
+      },
+      {
+        "url": "https://medium.com/t%C3%BCrkiye/stack-ve-heap-kavram%C4%B1-59adcb29d454",
+        "title": "Stack ve Heap Kavramları",
+        "image": "https://cdn-images-1.medium.com/max/1200/1*RbrM8UxVOCTRhZhcpsKXnA.png",
+        "author": {
+          "name": "Yusuf Çakal",
+          "url": "http://yusufcakal.com",
+          "avatar": "http://yusufcakal.com/assets/images/github.png"
+        }
+      },
+      {
+        "url": "https://www.facebook.com/groups/yazilimbloglariturkiye",
+        "title": "Yazılım Blogları Türkiye Facebook Grubu",
+        "image":
+          "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/c176.0.200.200/p200x200/18274874_780414835457177_1553194301531399890_n.jpg?_nc_cat=0&oh=6ebd8fb8136b135c0b9cacf48eee4e8b&oe=5B5D322D"
+      },
+      {
+        "url": "https://www.getrevue.co/profile/ai",
+        "title": "Haftalık Bülten: Feyizli Linkler",
+        "image":
+          "https://s3.amazonaws.com/revue/profiles/images/000/026/679/thumb/picture?1495521287",
+        "author": {
+          "name": "Adem İlter",
+          "url": "https://twitter.com/ADEMilter",
+          "avatar": "https://pbs.twimg.com/profile_images/959150465845022721/Y3crTOFR_400x400.jpg"
+        }
+      },
+      {
+        "url": "http://www.bayramucuncu.com/json-web-token-jwt",
+        "title": "JSON Web Token - JWT",
+        "image":
+          "http://www.bayramucuncu.com/wp-content/plugins/crafty-social-buttons/buttons/simple/google.png",
+        "author": {
+          "name": "Bayram Üçüncü",
+          "url": "https://github.com/bayramucuncu",
+          "avatar": "https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif"
+        }
+      },
+      {
+        "url":
+          "https://ahmetcadirci.com.tr/2016/tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar",
+        "title":
+          "Tasarımcıların El Çantası Niteliğindeki Ücretsiz Kaynaklar (Fotoğraf, Video, İkon, Yazı Tipi, Renk, Ses)",
+        "image":
+          "https://ahmetcadirci.com.tr/images/tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar.png",
+        "author": {
+          "name": "Ahmet Çadırcı",
+          "url": "https://ahmetcadirci.com.tr",
+          "avatar": "https://ahmetcadirci.com.tr/images/ahmetcadirci-wallpaper.png"
+        }
+      },
+      {
+        "url": "https://jargon.ist",
+        "title": "Jargon.ist",
+        "image": "https://jargon.ist/social.png"
+      }
+    ]
+  },
+  "Podcast Yayınları": {
+    "slug": "podcast-yaynlari",
+    "links": [
+      {
+        "url": "http://devpod.org",
+        "title": "devPod",
+        "image": "http://devpod.org/public/images/devpod-logo.png"
+      },
+      {
+        "url": "http://yakutrb.com",
+        "title": "Yakut"
+      },
+      {
+        "url": "http://www.codefiction.tech",
+        "title": "Codefiction"
+      },
+      {
+        "url": "http://www.giik.fm",
+        "title": "Giik.fm",
+        "image": "http://www.giik.fm/wp-content/uploads/2018/01/site-wallpaper-1-400x250.jpg"
+      },
+      {
+        "url": "https://www.spreaker.com/show/parasutle-uretim-bandi",
+        "title": "Paraşüt'le Üretim Bandı",
+        "image":
+          "https://d3wo5wojvuv7l.cloudfront.net/t_facebook_share/images.spreaker.com/original/82daa73531588945948973cba79b61dc.jpg?show_id=2760879"
+      },
+      {
+        "url": "https://www.spreaker.com/show/remote-talks",
+        "title": "Remote Talks",
+        "image":
+          "https://d3wo5wojvuv7l.cloudfront.net/t_facebook_share/images.spreaker.com/original/b66604735e279e4a364ca09891d84a96.jpg?show_id=2864376"
+      },
+      {
+        "url": "https://www.spreaker.com/show/birsifir-podcast",
+        "title": "1: 0",
+        "image":
+          "https://d3wo5wojvuv7l.cloudfront.net/t_facebook_share/images.spreaker.com/original/8c84edfe48759414cca5211769827401.jpg?show_id=2749415"
+      },
+      {
+        "url": "https://radyo521.com",
+        "title": "Radyo 521",
+        "image": "https://cdn.radyo521.com/assets/images/episodes/521-75-with-logo-medium.jpg"
+      }
+    ]
+  },
+  "YouTube Kanalları": {
+    "slug": "youtube-kanallari",
+    "links": [
+      {
+        "url": "https://www.youtube.com/channel/UCbu25feEIe6fY9fZx8BCMSA/videos",
+        "title": "Doğukan Güven Nomak",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp0FrPDnyXpwUhmQJuDATt9d8N-6LNoExIPKrQ=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCvANtNYHe556zUWm6VzJenQ/videos",
+        "title": "Fatih Acet",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp3LGEe1hv1Y6_QXzv-dFk_3FTnUmOOJpPYqXg=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/user/ademilter/videos",
+        "title": "Adem İlter",
+        "image":
+          "https://i.ytimg.com/vi/WzPaEmJqCYw/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLB7A1RbtImmazgciXVDdPMk9ChG9w"
+      },
+      {
+        "url": "https://www.youtube.com/user/ugurozyilmazel/videos",
+        "title": "Uğur Özyılmazel",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp2ba3RwS9evOEt_ttxwsT8rjl6u7822uYL2lA=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g/videos",
+        "title": "Bilgisayar Kavramları (Şadi Evren Şeker)",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp27CNePXoAv-izVC7xzUB6rF-xIhhe0st0JXg=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/user/apoStyLEE/videos",
+        "title": "Abdullah Uğraşkan",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp0C38a5_-78dlcNNfoHADJqQHXTO96P5wnSpQ=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/user/omrse/videos",
+        "title": "Ömer Şensoy",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp3czali9KLczYZ5pdU-aMPITzDKlz-MTyKy1A=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCgKcX7YBsGbdLrZQyOKMLQA/videos",
+        "title": "Devnot TV",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp2i-QvPOtPu8z8EGPeOzAypEkX8uL-9QIx7GA=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCiziEYDqww4rn3wn7otqHQQ/videos",
+        "title": "Yalın Kod",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp0erQ70n24CU3Tje1nIF0bVLfy4NG9zHjeTFQ=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA/videos",
+        "title": "İstanbul Coders",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp2psrBDn6afu8cHhIOa9tGYjVfNHDmLX2JB5w=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCD9xZqZn8YHkm-6XnmdgYGg/videos",
+        "title": "Okan Davut",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp0wsqUm9LG2ces583yaJKnjm6u6f7xhsMDX8Q=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/user/rgunes18/videos",
+        "title": "Rıza Güneş",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp3JodDr16qYu3nU5VZmlEeEyoC4yHKodek-cg=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/videos",
+        "title": "Kablosuzkedi",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp1kLatutYwxuVcM_QSfi6_l6BQDeKK36D2wgQ=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/avarekodcu/videos",
+        "title": "Avare Kodcu",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp1QX3SKjBajOTWMo9yD-R3DxdjuNjRU4tsW5g=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UC9ssnH3bE5uuZgXvESj5kUg/videos",
+        "title": "Python Ankara",
+        "image":
+          "https://i.ytimg.com/vi/j7fIMQQGBWs/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLB0lTP9MaSTdj_c39SVJCuE5o2ImQ"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/videos",
+        "title": "Arin Yazılım",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp0SYnMqlwrqAgqJJ5AMFSSrclesGEpl3agX9A=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/videos",
+        "title": "Ahmet Yasin Ak",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp1G9P2QYfQcAPBTv2lgowJmB-Oufmq8RteAYA=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCmIscBfFWiT1avWgSCwJIeg/videos",
+        "title": "Data İstanbul",
+        "image":
+          "https://i.ytimg.com/vi/wFg6uAUe6Pk/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLACOmmTBHHazExHxXhc1NcoSqY8eg"
+      },
+      {
+        "url": "https://www.youtube.com/user/nedirtvcom/videos",
+        "title": "NedirTV",
+        "image":
+          "https://i.ytimg.com/vi/Xscx6RkuLoA/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCvmTo7TAC54fVpikCDb5neAy8RTg"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCx8gTyAppCVGMoIOCdUZGQg/videos",
+        "title": "Ekrem Karaca",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp0h7_N5XqsK3pjhQs-ufPh4rL_HgYF_IIQzzQ=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UC7WKjxscgH-A8LCFUrj0iQQ/videos",
+        "title": "VNGRS",
+        "image":
+          "https://i.ytimg.com/vi/ixHPP8I-TfY/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCXzKPSODV7_emfhd15p6CQT-7-sA"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCvMbGj7aumypkOKXYcBtgbQ/videos",
+        "title": "TestHive",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp1GjcWkbNGwYwYdayhR_hcXj6INBjyuPTowkQ=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UC2u9Gc37Rq44dB3mW4Kdi-w/videos",
+        "title": "Emrah Yüksel",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp2-jaQ53_Qr64TZHoQcKMGlTiTiJpwOuifDjA=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCtOzMBrfPggRxgrSnWHXiUQ/videos",
+        "title": "Çağatay Çalı",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp0n7WeG4FY5n1WiCCtu_kTQ_na4u5H8lKkBiQ=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA/videos",
+        "title": "Tarık Güney",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp02bIwiSayNGgRWrHLX6FU-lRqx0q4765vD2w=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCDRekG0W9xUd8MLCDuU2Z3Q/videos",
+        "title": "Ankara Cloud Meetup",
+        "image":
+          "https://i.ytimg.com/vi/Pewiead1tBE/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLB3ZzA-jxR3-I-zUqKIorNPk9PjcA"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UC3fh1Y6TcRPE-W_bdxfT2cg",
+        "title": "Frontend İstanbul",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp0y-yLpt6Olap5Z8mrs7K8knba1vEEGpABvKA=s900-mo-c-c0xffffffff-rj-k-no"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw",
+        "title": "Sanalonyedi",
+        "image":
+          "https://yt3.ggpht.com/a-/AJLlDp3YmuwiKb8jwIcWL8VpLSjTmh20r5KY2fBIPg=s900-mo-c-c0xffffffff-rj-k-no"
+      }
+    ]
+  },
+  "Slack Grupları": {
+    "slug": "slack-gruplari",
+    "links": [
+      {
+        "url": "https://frontend-istanbul.slack.com",
+        "title": "Frontend İstanbul",
+        "image": "https://frontend.istanbul/images/logo.svg",
+        "inviteLink": "https://goo.gl/forms/IZe06LgNk6Vsega83"
+      },
+      {
+        "url": "https://pyistanbul.slack.com",
+        "title": "Python İstanbul",
+        "image": "http://pyistanbul.org/static/images/logo.png",
+        "inviteLink": "https://pyistanbul.herokuapp.com"
+      },
+      {
+        "url": "https://rubytr.slack.com",
+        "title": "Ruby Türkiye",
+        "image":
+          "http://www.rubyturkiye.org/assets/ruby-logo@2x-1b6671fde7067153e008a0f180ace5aa65e4d975f48d6ee3f724b534fe43d05b.png",
+        "inviteLink": "http://rubytr.herokuapp.com"
+      },
+      {
+        "url": "http://azmesai.net",
+        "title": "Az Mesai - Biraz Dev, biraz Ops",
+        "inviteLink": "https://leventyalcin.typeform.com/to/rSbcXD"
+      },
+      {
+        "url": "http://acikkaynak.info",
+        "title": "açık kaynak",
+        "image": "http://acikkaynak.info/assets/acikkaynak-logo-142px.png",
+        "inviteLink": "https://publicslack.com/slacks/acikkaynak/invites/new"
+      },
+      {
+        "url": "http://laravel.istanbul",
+        "title": "Laravel İstanbul",
+        "image": "https://laravel.istanbul/laravel.istanbul-share.jpg",
+        "inviteLink":
+          "https://join.slack.com/t/laravelistanbul/shared_invite/enQtMjkzMjI0MDQxODE0LTcyOTE3YTVjMGIzZDJjYzBiYTRmOGNmODFiYWU4MDU3Zjc5ZGFiNjRmY2M0OWM2NTU1NmUzNWJmMTE2MTBiMWQ"
+      },
+      {
+        "url": "http://www.nsistanbul.com",
+        "title": "NSIstanbul- An iOS and Mac Development Community",
+        "image": "http://www.nsistanbul.com/img/summer-hackday-title.png",
+        "inviteLink": "http://slack.nsistanbul.com"
+      }
+    ]
+  }
+}
