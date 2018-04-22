@@ -30,18 +30,18 @@ const schedule = () => {
 
     links.forEach(l => {
       q.push(cb => {
-        log(l.title);
+        log(l.title + ' ' + l.link);
 
         fetch(l.link).then(meta => {
           const fullObj = {
+            category,
             linkMeta: JSON.parse(meta),
-            category: data[0].category,
             title: l.title,
             link: l.link,
           };
 
           if (l.authorUrl) {
-            log(l.author);
+            log(l.author + ' ' + l.authorUrl);
             fetch(l.authorUrl).then(m => {
               fullObj.author = l.author;
               fullObj.authorUrl = l.authorUrl;

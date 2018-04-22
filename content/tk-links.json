@@ -341,14 +341,14 @@
         "link":
           "https://www.youtube.com/watch?v=uwVmWS1yJ1k&list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh",
         "author": "Barış Aslan",
-        "authorUrl": "https://www.youtube.com/c/Bar%C4%B1%C5%9FAslan"
+        "authorUrl": "https://github.com/barissaslan"
       },
       {
         "title": "Django Uygulamasını Yayına Alma",
         "link":
           "https://www.youtube.com/watch?v=JMl_kktdjjI&index=1&list=PLPrHLaayVkhk9_NtkgHFzdCq78MXega6o",
         "author": "Barış Aslan",
-        "authorUrl": "https://www.youtube.com/c/Bar%C4%B1%C5%9FAslan"
+        "authorUrl": "https://github.com/barissaslan"
       },
       {
         "title": "Django Notlarım",
@@ -430,7 +430,7 @@
         "link":
           "https://www.youtube.com/watch?v=rWG70T7fePg&list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy",
         "author": "Barış Aslan",
-        "authorUrl": "https://www.youtube.com/c/Bar%C4%B1%C5%9FAslan"
+        "authorUrl": "https://github.com/barissaslan"
       },
       {
         "title": "Git Püf Noktaları",
@@ -1016,7 +1016,7 @@
     "links": [
       {
         "title": "PHP Dersleri",
-        "link": "http://ibrahimcevruk.com/kat/php-dersleri",
+        "link": "https://www.ibrahimcevruk.com/kategori/php-dersleri/",
         "author": "İbrahim Çevrük",
         "authorUrl": "http://ibrahimcevruk.com"
       },
@@ -1027,8 +1027,8 @@
         "authorUrl": "https://twitter.com/rgunes18"
       },
       {
-        "title": "PHP Dersleri ve Uygulamaları",
-        "link": "http://yilmazdemir.com.tr/php-dersleri",
+        "title": "Yeni baslayanlar icin PHP'de MVC",
+        "link": "https://yilmazdemir.com.tr/yeni-baslayanlar-icin-phpde-mvc",
         "author": "Yılmaz Demir",
         "authorUrl": "http://yilmazdemir.com.tr"
       },
@@ -1324,12 +1324,6 @@
         "authorUrl": "https://github.com/ozgurshn"
       },
       {
-        "title": "Swift ve Püf Noktaları",
-        "link": "http://kenanatmaca.com",
-        "author": "Kenan Atmaca",
-        "authorUrl": "https://github.com/KenanAtmaca"
-      },
-      {
         "title": "Swift/Xcode Eğitim Videoları",
         "link": "https://www.youtube.com/channel/UCdzM1zLR0g1aU6tqZ8xuGzA/playlists"
       },
@@ -1376,7 +1370,7 @@
       {
         "title": "Titanium Mobile ile Çapraz Platform Uygulama Geliştirme",
         "link":
-          "http://nazrdogan.github.io/titanium%20mobile/2015/12/07/appcelerator-titanium-mobile-turkce-kitap.html"
+          "https://nazrdogan.github.io/blog/2015/12/07/appcelerator-titanium-mobile-turkce-kitap/"
       }
     ]
   },
@@ -1613,7 +1607,7 @@
       },
       {
         "title": "On İki Faktör Uygulaması",
-        "link": "https://12factor.net/tr"
+        "link": "https://12factor.net/tr/"
       },
       {
         "title": "Clean Code'dan Notlar",
