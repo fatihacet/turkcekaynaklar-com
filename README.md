@@ -282,7 +282,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Machine Learning
 - :movie_camera: [Makine Ögrenmesi Video Blog](https://www.youtube.com/playlist?list=PLRRY18KNZTgUQx8NT_YqCVOyb-VnB79W2)
-- :movie_camera: [Makine Öğrenmesi A-Z™: Python ile Uygulamalar Üzerinden (Ücretli)](https://www.udemy.com/makine-ogrenmesi/)
 
 ### MongoDB
 - :movie_camera: [MongoDB nedir? Neden Kullanılır?](https://youtu.be/sKxs0x17nCM) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
