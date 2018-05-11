@@ -267,11 +267,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JavaScript hap yazısı : Ternary Operator](https://medium.com/@muratdogan/javascript-hap-yaz%C4%B1s%C4%B1-ternary-operator-2788782189fb) - [Murat Doğan](https://twitter.com/murat_dogan17)
 - [JavaScript hap yazısı : Element.insertAdjacentHTML()](https://hurriyetlabs.com/javascript-hap-yaz%C4%B1s%C4%B1-element-insertadjacenthtml-8fe1e6511808) - [Murat Doğan](https://twitter.com/murat_dogan17)
 - [JavaScript hap yazısı : == ve === arasındaki farklar, JavaScript’te eşitlik](https://hurriyetlabs.com/javascript-hap-yaz%C4%B1s%C4%B1-ve-aras%C4%B1ndaki-farklar-javascriptte-e%C5%9Fitlik-b7cd20f91a) - [Murat Doğan](https://twitter.com/murat_dogan17)
+- [Javascript ile Basit Uygulamalar](https://github.com/bozburak/Javascript-Jquery_Example) - [Burak BOZ](https://github.com/bozburak)
 
 
 ### jQuery
 - :movie_camera: [JQuery Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Jt6F-dyl6LEHNVaudH3rk) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
-
+- [Jquery ile Basit Uygulamalar](https://github.com/bozburak/Javascript-Jquery_Example) - [Burak BOZ](https://github.com/bozburak)
 
 ### Laravel
 - [Laravel Nedir?](https://www.sinaneldem.com.tr/laravel-framework-nedir-ve-ozellikleri-nelerdir) - [Sinan Eldem](https://twitter.com/sineld)
@@ -345,7 +346,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Python
 - [Python Dersleri - İstihza, Yazbel](https://belgeler.yazbel.com/python-istihza/)
 - [Python Dersleri Github - İstihza, Yazbel](https://github.com/yazbel/python-istihza)
+- [Python ile Sıralama Algoritmaları](https://github.com/bozburak/Algorithms_In_Python) - [Burak BOZ](https://github.com/bozburak)
+- [Python ile Basit Uygulamalar](https://github.com/bozburak/Simple_Console_Apps_In_Python) - [Burak BOZ](https://github.com/bozburak)
 
+### PyQt5
+- [PyQt5 ile Hesap Makinesi](https://github.com/bozburak/PyQt5_Calculator) - [Burak BOZ](https://github.com/bozburak)
 
 ### Rails
 - :movie_camera: [Haydi Rails Yazalım](https://www.youtube.com/watch?v=wjEVDmHxrTk&list=PLR-hVfRDr2Mp8cDcbWZ6TX2YVTM0vECz2) - [Anıl İyidoğan](https://twitter.com/lifeis00FF00)
