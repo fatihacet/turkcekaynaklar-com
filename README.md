@@ -237,7 +237,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java ve Java Teknolojileri ile alakalı çözümler](http://ofarukkurt.blogspot.com/) - Ömer Faruk Kurt
 - [Java, Java Kütüphaneleri ve Java Teknolojileri](http://ilkaygunel.com/blog/) - İlkay GÜNEL
 - [Java Teknolojileri İle İlgili Videolar - Youtube](https://www.youtube.com/c/ilkaygunel) - İlkay GÜNEL
-
+- [Java Programlama Dersleri - Youtube](https://www.youtube.com/watch?v=8WXfuEuheeE&list=PLIHume2cwmHctrHFHADb0slNyn95x2M4I&index=2) - Yazılım Bilimi
 
 ### JavaScript
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
