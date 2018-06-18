@@ -197,7 +197,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
 - [Vim ile Go Programlama Dili Geliştirme Ortamı](http://blog.oguzhan.info/?p=1248) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
 - [Go Pointers](http://www.buraksenyurt.com/post/golang-pointers) - Burak Selim Şenyurt
-- [Go Programlama Diline Genel Bakış](http://devnot.com/2017/go-programlama-diline-genel-bakis/) - Cihan Özkan / Devnot.com
 - [Go Programlama Dili ile Web Uygulaması Geliştirme](https://github.com/astaxie/build-web-application-with-golang/tree/master/tr) - Astaxie
 - [Go Programlama Dilinde Table Driven Test](http://blog.oguzhan.info/?p=1397) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
 - [Go Programlama Dilinde Unit Test](http://blog.oguzhan.info/?p=1087) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
@@ -205,7 +204,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### GraphQL
-- [GraphQL: Veri Erişiminde Yeni Bir Bakış Açısı](http://devnot.com/2017/graphql-veri-erisiminde-yeni-bir-bakis-acisi/) - Hüseyin Dönmez / Devnot.com
 - [GraphQL, Relay, Apollo Stack / Veri Erişiminde yeni bir bakış açısı .](https://yazilimgunlugu.org/graphql-relay-apollo-veri-erisiminde-yeni-bir-bakis-acisi/) - [Hüseyin Dönmez](yazilimgunlugu.org)
 - [GraphQL Sen Hayırdır?](http://askingedik.net/2017/06/06/graphql-sen-hayirdir/) - Aşkın Gedik
 
@@ -373,7 +371,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### React Native
 - [React Native Türkçe](https://ysfzrn.gitbooks.io/react-native-turkce/) - [Yusuf Zeren](https://twitter.com/yosooff)
-- [React Native Uygulamaları](http://berkay.beyaz.us/category/react-native/) - [Berkay Beyaz](https://twitter.com/berkaybeyaz6)
 - [React Native İle Login Uygulaması](http://www.avarekodcu.com/aramayap/etiket/react-native-login-uygulamas) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 - [React Native Animasyonlar, Animated API](http://www.avarekodcu.com/konu/24/react-native-animasyonlar-animated-api) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 - [React Native SQLite Kullanımı](https://medium.com/@peacecwz/react-native-sqlite-kullan%C4%B1m%C4%B1-6969e783f136) - [Barış Ceviz](https://github.com/peacecwz)
@@ -484,7 +481,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
-- [Yakut](http://yakutrb.com/)
 - [Codefiction](http://www.codefiction.tech/)
 - [Giik.fm](http://www.giik.fm)
 - [Paraşüt'le Üretim Bandı](https://www.spreaker.com/show/parasutle-uretim-bandi)
