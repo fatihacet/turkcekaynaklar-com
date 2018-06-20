@@ -136,6 +136,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [plepa.com](http://plepa.com/)
 - [cppdili](https://cppdili.blogspot.com.tr/)
 - [Qt 4 ile C++ GUI Programlama](https://ufukuzun.wordpress.com/yayinlarim/qt-4-ile-c-gui-programlama/) - [Ufuk Uzun](https://ufukuzun.wordpress.com/)
+- [C++ - learnXinYminutes](https://learnxinyminutes.com/docs/tr-tr/c++-tr/)
 
 
 ### Crystal
@@ -193,6 +194,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [git init](https://medium.com/@mustafazahidefe/git-notlar%C4%B1-2-git-i%CC%87nit-f54292fbf631) - Mustafa Zahid Efe
 - [Github Görev Yönetimi (Issues) ve Organizasyon](https://medium.com/@noteCe/5-github-g%C3%B6rev-y%C3%B6netimi-i%CC%87ssues-ve-organizasyon-1277ef74b409)
 
+- [Git - learnXinYminutes](https://learnxinyminutes.com/docs/tr-tr/git-tr/)
 
 ### Go
 - [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
