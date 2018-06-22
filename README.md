@@ -280,6 +280,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Laravel Türkçe](http://www.laravel.gen.tr/) - [Laravel Türkiye](https://twitter.com/laraveltr)
 - [Laravel Türkiye Forum](http://forum.laravel.gen.tr/)
 - :movie_camera: [Laravel 5.4 Blog Uygulaması](https://www.youtube.com/watch?v=0N1tiGJTuGs&list=PLS-yaST2La_j2_WWCZXQcyYcBp7_7Teaz) - [Halil Coşdu](https://github.com/halilcosdu)
+- [Laravel Hakkında Blog Yazıları] - [Burhan M. TANIŞ] (https://burhantanis.com)
 
 
 ### Machine Learning
