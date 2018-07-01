@@ -492,6 +492,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Remote Talks](https://www.spreaker.com/show/remote-talks)
 - [1: 0](https://www.spreaker.com/show/birsifir-podcast)
 - [Radyo 521](https://radyo521.com/)
+- [Swifthane](https://itunes.apple.com/tr/podcast/swifthane/id1372006454)
 
 
 ### YouTube Kanalları
