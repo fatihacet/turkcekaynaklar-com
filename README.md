@@ -484,6 +484,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JSON Web Token - JWT](http://www.bayramucuncu.com/json-web-token-jwt/) - [Bayram Üçüncü](https://github.com/bayramucuncu)
 - [Tasarımcıların El Çantası Niteliğindeki Ücretsiz Kaynaklar (Fotoğraf, Video, İkon, Yazı Tipi, Renk, Ses)](https://ahmetcadirci.com.tr/2016/tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar/) - [Ahmet Çadırcı](https://ahmetcadirci.com.tr/)
 - [Jargon.ist](https://jargon.ist/)
+- [Okunabilir Kod Sanatı](https://medium.com/bili%C5%9Fim-hareketi/okunabilir-kod-sanat%C4%B1-1-b6ffdb2dacac) - [İbrahim Kürce](https://github.com/ibrahimkurce)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
