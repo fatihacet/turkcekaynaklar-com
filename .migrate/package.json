@@ -1,0 +1,11 @@
+{
+  "name": "turkcekaynaklar",
+  "version": "1.0.0",
+  "main": "node-parser.js",
+  "author": "Fatih Acet",
+  "devDependencies": {
+    "queue": "^4.4.2",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
