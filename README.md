@@ -410,6 +410,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift - Custom View parçalarını NIB/XIB ile tasarlamak.](https://medium.com/nsistanbul/swift-custom-view-par%C3%A7alar%C4%B1n%C4%B1-nib-xib-ile-tasarlamak-698035ddd896) - [Batuhan Saka](https://medium.com/@strawb3rryx7)
 - [Swift - NotificationCenter nedir, ne için kullanılır?](https://medium.com/@strawb3rryx7/swift-notificationcenter-nedir-ne-i%C3%A7in-kullan%C4%B1l%C4%B1r-a10d4487a2ed) - [Batuhan Saka](https://medium.com/@strawb3rryx7)
 - [Swift - SnapKit ve Auto Layout nedir, nasıl kullanılır? 📏](https://medium.com/@strawb3rryx7/snapkit-ve-auto-layout-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-c6221ae95345) - [Batuhan Saka](https://medium.com/@strawb3rryx7)
+- [Swift’i Tanıyalım](https://medium.com/@halilozel1903/swifti-tan%C4%B1yal%C4%B1m-a5a3a17820ef) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift-4’te Kontrol Yapıları](https://www.yazilimbilimi.org/swift-4te-kontrol-yapilari/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift-4 İle Objeler Kodla Nasıl Tanımlanır ?](https://medium.com/@halilozel1903/swift-4-i%CC%87le-objeler-kodla-nas%C4%B1l-tan%C4%B1mlan%C4%B1r-e25a8fd9815c) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift is like Kotlin](https://medium.com/@halilozel1903/swift-is-like-kotlin-20f069d322ee) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift-4' de Diziler(Arrays)’in Kullanımı](https://medium.com/@halilozel1903/swift-4-de-diziler-arrays-in-kullan%C4%B1m%C4%B1-71ca8aed6dd4) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 ### Titanium Mobile
 - [Titanium Mobile ile Çapraz Platform Uygulama Geliştirme](http://nazrdogan.github.io/titanium%20mobile/2015/12/07/appcelerator-titanium-mobile-turkce-kitap.html)
@@ -445,6 +450,15 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Kotlin
 - [Giriş Seviyesinde Kotlin Rehberi](https://mksglu.gitbooks.io/kotlin/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
+- [Kotlin Nedir ?](https://medium.com/@halilozel1903/kotlin-nedir-43e312d2dca6) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift-4' de Diziler(Arrays)’in Kullanımı](https://medium.com/@halilozel1903/swift-4-de-diziler-arrays-in-kullan%C4%B1m%C4%B1-71ca8aed6dd4) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin’de For Döngüsü]https://www.yazilimbilimi.org/kotlinde-for-dongusu/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin’de Değişken Kavramı](https://www.yazilimbilimi.org/kotlinde-degisken-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin Set Kullanımı ve Fonksiyonları](https://www.mobilhanem.com/kotlin-set-kullanimi-ve-methodlari-2/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin Map Kullanımı ve Fonksiyonları](https://www.mobilhanem.com/kotlin-map-kullanimi-ve-fonksiyonlari/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin Nesne ve Sınıf Kavramı](https://www.mobilhanem.com/kotlin-nesne-ve-sinif-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift is like Kotlin](https://medium.com/@halilozel1903/swift-is-like-kotlin-20f069d322ee) - [Halil ÖZEL](https://github.com/halilozel1903)
+
 
 
 ### GNU/Linux
