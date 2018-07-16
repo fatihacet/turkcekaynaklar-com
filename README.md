@@ -34,6 +34,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Gulp](#gulp)
 - [Haskell](#haskell)
 - [HTML](#html)
+- [iOS](#iOS)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [jQuery](#jquery)
@@ -81,6 +82,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [umiitkose.com Android Blog](http://www.umiitkose.com/android) - [Ümit KÖSE](https://twitter.com/umiitkose)
 - [Android Türkçe PDF](http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf) - [Ümit KÖSE](https://twitter.com/umiitkose)
 - [Android Studio ile Uygulama Geliştirme Eğitimi](https://www.youtube.com/playlist?list=PL9qDMO9EzLX25NTHm0q7svKLx__OZY8-e)- Levent Yadırga
+- [Android KTX Nedir](https://medium.com/@halilozel1903/android-ktx-nedir-84ecbc615bfb) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Android App Inventor Nedir](https://medium.com/@halilozel1903/app-inventor-nedir-c37215ae598a) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Angular
@@ -228,6 +231,17 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [HTML & CSS Eğitim Seti](https://www.youtube.com/watch?v=nLCveeY8CAE&list=PLkAqDZGjJrkB_a1vD4ZUIrY0IPp5LdD5S) - [Web Odası](https://www.youtube.com/channel/UCDAqxRE1wwZ-n5MRq97aEjA)
 - [Front-End Checklist](https://github.com/eraycetinay/Front-End-Checklist)
 - [HEAD](https://github.com/mkg0/HEAD)
+
+
+### iOS
+
+- [Swift-4 ile iOS Uygulaması - Aydaki Ağırlığımız Ne Kadar ?](https://medium.com/@halilozel1903/swift-4-ile-ios-uygulamas%C4%B1-aydaki-k%C3%BCtlemiz-ne-kadar-73084561f838) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [iOS Programlamada Gesture Recognizer Kullanımı](https://medium.com/@halilozel1903/ios-programlamada-gesture-recognizer-jest-alg%C4%B1lay%C4%B1c%C4%B1lar-kullan%C4%B1m%C4%B1-835450845680) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [iOS Programlamada Image View Kullanımı](https://medium.com/@halilozel1903/ios-programlamada-image-view-kullan%C4%B1m%C4%B1-cb3455ed7e8b) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [iOS Programlamada Alert Kullanımı](https://medium.com/@halilozel1903/ios-programlamada-alert-kullan%C4%B1m%C4%B1-db785adefaad) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [iOS Programlamada Segue Kullanımı](https://medium.com/@halilozel1903/ios-programlama-da-segue-kullan%C4%B1m%C4%B1-2e291d9cc8ff) - [Halil ÖZEL](https://github.com/halilozel1903)
+
+
 
 ### Java
 
