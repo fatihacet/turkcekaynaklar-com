@@ -235,7 +235,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Java
-
 - [Kurumsal Java](http://www.kurumsaljava.com/) - [Özcan Acar](http://ozcanacar.com/)
 - [Java'da Multithreading](https://ufukuzun.wordpress.com/yayinlarim/javada-multithreading/) - [Ufuk Uzun](https://ufukuzun.wordpress.com/)
 - [Java ve ilişkili teknolojileri içeren blog](https://alicanakkus.github.io) ve [site](http://www.alicanakkus.com)
@@ -279,6 +278,19 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### jQuery
 - :movie_camera: [JQuery Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Jt6F-dyl6LEHNVaudH3rk) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
+
+
+### Kotlin
+- [Kotlin Nedir ?](https://medium.com/@halilozel1903/kotlin-nedir-43e312d2dca6) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift-4' de Diziler(Arrays)’in Kullanımı](https://medium.com/@halilozel1903/swift-4-de-diziler-arrays-in-kullan%C4%B1m%C4%B1-71ca8aed6dd4) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin’de For Döngüsü](https://www.yazilimbilimi.org/kotlinde-for-dongusu/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin’de Değişken Kavramı](https://www.yazilimbilimi.org/kotlinde-degisken-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin Set Kullanımı ve Fonksiyonları](https://www.mobilhanem.com/kotlin-set-kullanimi-ve-methodlari-2/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin Map Kullanımı ve Fonksiyonları](https://www.mobilhanem.com/kotlin-map-kullanimi-ve-fonksiyonlari/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin Nesne ve Sınıf Kavramı](https://www.mobilhanem.com/kotlin-nesne-ve-sinif-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift is like Kotlin](https://medium.com/@halilozel1903/swift-is-like-kotlin-20f069d322ee) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Giriş Seviyesinde Kotlin Rehberi](https://mksglu.gitbooks.io/kotlin/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
+
 
 
 ### Laravel
@@ -450,10 +462,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Xamarin Türkiye](http://www.xamarinturkiye.com/)
 - [Xamarin Uygulama Geliştirme](http://ozaksut.com/kategori/xamarin/) - [Yiğit Özaksüt](https://twitter.com/ozaksuty)
 - [Xamarin Forms Radial Progress Kullanımı](https://medium.com/@peacecwz/xamarin-forms-radial-progress-kullan%C4%B1m%C4%B1-73751aa2cffd) - [Barış Ceviz](https://github.com/peacecwz)
-
-
-### Kotlin
-- [Giriş Seviyesinde Kotlin Rehberi](https://mksglu.gitbooks.io/kotlin/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
 
 
 ### GNU/Linux
