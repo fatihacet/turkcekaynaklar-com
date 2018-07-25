@@ -11,6 +11,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Konu başlıkları
 - [Android](#android)
 - [Angular](#angular)
+- [Arduino](#arduino)
 - [ASP.NET](#aspnet)
 - [Bot Framework](#bot-framework)
 - [Behavior Driven Development](#behavior-driven-development)
@@ -29,6 +30,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Electron](#electron)
 - [Flux](#flux)
 - [Git](#git)
+- [GNU/Linux](#gnulinux)
 - [Go](#go)
 - [GraphQL](#graphql)
 - [Gulp](#gulp)
@@ -37,6 +39,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java](#java)
 - [JavaScript](#javascript)
 - [jQuery](#jquery)
+- [Kotlin](#kotlin)
 - [Laravel](#laravel)
 - [Machine Learning](#machine-learning)
 - [MongoDB](#mongodb)
@@ -61,8 +64,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Vue.js](#vuejs)
 - [WordPress](#wordpress)
 - [Xamarin](#xamarin)
-- [Kotlin](#kotlin)
-- [GNU/Linux](#gnulinux)
 - Diğer Kaynaklar
   - [Faydalı Linkler](#faydalı-linkler)
   - [Podcast Yayınları](#podcast-yayınları)
@@ -82,7 +83,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android Türkçe PDF](http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf) - [Ümit KÖSE](https://twitter.com/umiitkose)
 - [Android Studio ile Uygulama Geliştirme Eğitimi](https://www.youtube.com/playlist?list=PL9qDMO9EzLX25NTHm0q7svKLx__OZY8-e)- Levent Yadırga
 - [Android KTX Nedir](https://medium.com/@halilozel1903/android-ktx-nedir-84ecbc615bfb) - [Halil ÖZEL](https://github.com/halilozel1903)
-- [Android App Inventor Nedir](https://medium.com/@halilozel1903/app-inventor-nedir-c37215ae598a) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [App Inventor Nedir ?](https://medium.com/@halilozel1903/app-inventor-nedir-c37215ae598a) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Angular
@@ -97,6 +98,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [ASP.NET Mvc Haber Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJJmyzTm77FjlCJOA11SCc_Z) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - [ASP.NET Core El Kitabı](https://sahinyanlik.gitbooks.io/kisa-asp-net-core-kitabi/content/) - [Sahin Yanlik](http://sahinyanlik.com.tr)
 - :movie_camera: [Açık akademi ASP.NET MVC Eğitimi](https://www.acikakademi.com/portal/egitimler/aspnet-mvc-ile-ileri-seviyede-web-programlama.aspx)
+
+
+### Arduino
+- [Arduino - Robotistan](https://maker.robotistan.com/kategori/arduino/)
+- [Arduino Projeler](https://www.arduinoprojeler.com/)
 
 
 ### Bot Framework
@@ -179,7 +185,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Docker İpuçları](http://www.gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-1/) - [Gökhan Şengün](https://twitter.com/gokhansengun)
 - [Docker Serisi](https://medium.com/monitisemea/docker-serisi-1-1c6629499b9a) - Alper Kanat
 - [Docker ve PHP](https://mksglu.gitbooks.io/php-ile-docker-gelistirelim/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
-
+- :movie_camera: [Docker Öğreniyorum](https://www.youtube.com/watch?v=isbsABbZghs&list=PL_Z0TaFYSF3LTfMIRjPUlVoUipQA0JlL2) - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
 
 ### Electron
 - [Electron Kullanarak Hem Masaüstü Hem Tarayıcı Uygulaması Geliştirme](http://www.avarekodcu.com/konu/28/electron-react-webpack-ve-babel-kullanarak-hem-masaustu-hem-tarayici-uygulamasi-gelistirme) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
@@ -196,8 +202,14 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Git Püf Noktaları](http://git.gelistiriciyiz.biz) - [Vigo](https://twitter.com/vigobronx)
 - [git init](https://medium.com/@mustafazahidefe/git-notlar%C4%B1-2-git-i%CC%87nit-f54292fbf631) - Mustafa Zahid Efe
 - [Github Görev Yönetimi (Issues) ve Organizasyon](https://medium.com/@noteCe/5-github-g%C3%B6rev-y%C3%B6netimi-i%CC%87ssues-ve-organizasyon-1277ef74b409)
-
 - [Git - learnXinYminutes](https://learnxinyminutes.com/docs/tr-tr/git-tr/)
+
+
+### GNU/Linux
+- [Arch Linux I3WM Kurulum Sonrası Yapılandırma Ayarları (GitBook)](https://www.gitbook.com/book/mksglu/arch-linux-i3wm/details) - [Mert Köseoğlu](https://twitter.com/mksglu)
+- [Linux Manjaro 17 I3WM Topluluk Sürümü Çözümleri](https://mksglu.gitbooks.io/linux-manjaro-17-i3wm-topluluk-surumu-cozumleri/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
+- [Linux Manjaro Gnome 3.22 Çözümleri](https://www.mkoseoglu.com/linux-manjaro-gnome-3-22-cozumleri) - [Mert Köseoğlu](https://twitter.com/mksglu)
+
 
 ### Go
 - [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
@@ -232,8 +244,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [HEAD](https://github.com/mkg0/HEAD)
 
 
-
-
 ### Java
 - [Kurumsal Java](http://www.kurumsaljava.com/) - [Özcan Acar](http://ozcanacar.com/)
 - [Java'da Multithreading](https://ufukuzun.wordpress.com/yayinlarim/javada-multithreading/) - [Ufuk Uzun](https://ufukuzun.wordpress.com/)
@@ -252,6 +262,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java Teknolojileri İle İlgili Videolar - Youtube](https://www.youtube.com/c/ilkaygunel) - İlkay GÜNEL
 - [Java Programlama Dersleri - Youtube](https://www.youtube.com/watch?v=8WXfuEuheeE&list=PLIHume2cwmHctrHFHADb0slNyn95x2M4I&index=2) - Yazılım Bilimi
 - [Java ve Java Teknolojileri](http://www.injavawetrust.com/) - In Java We Trust
+
 
 ### JavaScript
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
@@ -290,7 +301,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Kotlin Nesne ve Sınıf Kavramı](https://www.mobilhanem.com/kotlin-nesne-ve-sinif-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Swift is like Kotlin](https://medium.com/@halilozel1903/swift-is-like-kotlin-20f069d322ee) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Giriş Seviyesinde Kotlin Rehberi](https://mksglu.gitbooks.io/kotlin/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
-
+- :movie_camera: [Profesyonel Kotlin Programlama Dersleri - Türkçe](https://www.youtube.com/playlist?list=PL_Z0TaFYSF3JSzgfU7ApWTUCsbX-Z6mt3) - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
 
 
 ### Laravel
@@ -412,6 +423,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Solidity
 - :movie_camera: [Solidity101](https://www.youtube.com/watch?v=-Xqax3MOuPg) - Mert Susur
 
+
 ### SQL
 - :movie_camera: [SQL Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-6vvPSJssG4Jp6UqCTmWSz) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 
@@ -432,8 +444,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [iOS Programlamada Alert Kullanımı](https://medium.com/@halilozel1903/ios-programlamada-alert-kullan%C4%B1m%C4%B1-db785adefaad) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [iOS Programlamada Segue Kullanımı](https://medium.com/@halilozel1903/ios-programlama-da-segue-kullan%C4%B1m%C4%B1-2e291d9cc8ff) - [Halil ÖZEL](https://github.com/halilozel1903)
 
+
 ### Titanium Mobile
 - [Titanium Mobile ile Çapraz Platform Uygulama Geliştirme](http://nazrdogan.github.io/titanium%20mobile/2015/12/07/appcelerator-titanium-mobile-turkce-kitap.html)
+
 
 ### Unit Testing
 - :movie_camera: [Unit Test Yazma Sanatı](https://www.udemy.com/unit-test-yazma-sanati/)
@@ -441,6 +455,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Vault
 - [Vault Başlangıç Kılavuzu](https://github.com/zekiunal/vault)
+
 
 ### Vim 
 - [Vim Kısayolları](https://github.com/p1v0t/VimKisayollari)
@@ -463,11 +478,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Xamarin Uygulama Geliştirme](http://ozaksut.com/kategori/xamarin/) - [Yiğit Özaksüt](https://twitter.com/ozaksuty)
 - [Xamarin Forms Radial Progress Kullanımı](https://medium.com/@peacecwz/xamarin-forms-radial-progress-kullan%C4%B1m%C4%B1-73751aa2cffd) - [Barış Ceviz](https://github.com/peacecwz)
 
-
-### GNU/Linux
-- [Arch Linux I3WM Kurulum Sonrası Yapılandırma Ayarları (GitBook)](https://www.gitbook.com/book/mksglu/arch-linux-i3wm/details) - [Mert Köseoğlu](https://twitter.com/mksglu)
-- [Linux Manjaro 17 I3WM Topluluk Sürümü Çözümleri](https://mksglu.gitbooks.io/linux-manjaro-17-i3wm-topluluk-surumu-cozumleri/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
-- [Linux Manjaro Gnome 3.22 Çözümleri](https://www.mkoseoglu.com/linux-manjaro-gnome-3-22-cozumleri) - [Mert Köseoğlu](https://twitter.com/mksglu)
 
 ## Diğer Kaynaklar
 
@@ -502,6 +512,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JSON Web Token - JWT](http://www.bayramucuncu.com/json-web-token-jwt/) - [Bayram Üçüncü](https://github.com/bayramucuncu)
 - [Tasarımcıların El Çantası Niteliğindeki Ücretsiz Kaynaklar (Fotoğraf, Video, İkon, Yazı Tipi, Renk, Ses)](https://ahmetcadirci.com.tr/2016/tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar/) - [Ahmet Çadırcı](https://ahmetcadirci.com.tr/)
 - [Jargon.ist](https://jargon.ist/)
+- [Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi](https://ahmetcadirci.com.tr/sublime-text-3/) - [Ahmet Çadırcı](https://ahmetcadirci.com.tr/)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
