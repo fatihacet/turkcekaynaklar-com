@@ -11,6 +11,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Konu başlıkları
 - [Android](#android)
 - [Angular](#angular)
+- [Arduino](#arduino)
 - [ASP.NET](#aspnet)
 - [Bot Framework](#bot-framework)
 - [Behavior Driven Development](#behavior-driven-development)
@@ -96,6 +97,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [ASP.NET Mvc Haber Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJJmyzTm77FjlCJOA11SCc_Z) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - [ASP.NET Core El Kitabı](https://sahinyanlik.gitbooks.io/kisa-asp-net-core-kitabi/content/) - [Sahin Yanlik](http://sahinyanlik.com.tr)
 - :movie_camera: [Açık akademi ASP.NET MVC Eğitimi](https://www.acikakademi.com/portal/egitimler/aspnet-mvc-ile-ileri-seviyede-web-programlama.aspx)
+
+
+### Arduino
+- [Arduino - Robotistan](https://maker.robotistan.com/kategori/arduino/)
+- [Arduino Projeler](https://www.arduinoprojeler.com/)
 
 
 ### Bot Framework
@@ -485,6 +491,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JSON Web Token - JWT](http://www.bayramucuncu.com/json-web-token-jwt/) - [Bayram Üçüncü](https://github.com/bayramucuncu)
 - [Tasarımcıların El Çantası Niteliğindeki Ücretsiz Kaynaklar (Fotoğraf, Video, İkon, Yazı Tipi, Renk, Ses)](https://ahmetcadirci.com.tr/2016/tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar/) - [Ahmet Çadırcı](https://ahmetcadirci.com.tr/)
 - [Jargon.ist](https://jargon.ist/)
+- [Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi](https://ahmetcadirci.com.tr/sublime-text-3/) - [Ahmet Çadırcı](https://ahmetcadirci.com.tr/)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
