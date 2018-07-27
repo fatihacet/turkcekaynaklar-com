@@ -53,6 +53,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Vault](#vault)
 - [Vue.js](#vuejs)
 - [WordPress](#wordpress)
+- [Sketch](#sketch)
 - Diğer Kaynaklar
   - [Faydalı Linkler](#faydalı-linkler)
   - [Podcast Yayınları](#podcast-yayınları)
@@ -306,6 +307,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift ve Püf Noktaları](http://kenanatmaca.com/) - [Kenan Atmaca](https://github.com/KenanAtmaca)
 - [Swift - Dictionary Kavramı](http://www.batuhansaka.com/swift-3-dictionary-kavrami/) - [Batuhan Saka](https://github.com/strawb3rryx7)
 - :movie_camera: [Swift/Xcode Eğitim Videoları](https://www.youtube.com/channel/UCdzM1zLR0g1aU6tqZ8xuGzA/playlists)
+
+
+### Sketch
+- [Sketch App (Web/Mobil Tasarım) Dersleri](https://www.youtube.com/playlist?list=PLcnWDe66aDNB1aDPMuWsVu_EeWaqv9Bdb)
 
 
 ### Unit Testing
