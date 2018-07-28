@@ -88,7 +88,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Angular
 - [yazilimgunlugu.org](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/angular-2-4-turkce/)
-- [http://ilkaygunel.com/blog/2017/angular-2-tutorials/](http://ilkaygunel.com/blog/2017/angular-2-tutorials/)
+- [Angular 2 Dersleri](http://ilkaygunel.com/blog/2017/angular-2-tutorials/)
 
 
 ### ASP.NET
