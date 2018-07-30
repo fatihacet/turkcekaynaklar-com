@@ -516,7 +516,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Pragmatik Programcı](https://medium.com/bili%C5%9Fim-hareketi/pragmatik-programc%C4%B1-1-8140414928a4) - [İbrahim Kürce](https://github.com/ibrahimkurce)
 - [Kod Basitliği](https://malikmasis.blogspot.com/search/label/Code%20Simplicity) - [Malik Masis](https://github.com/malikmasis)
 - [Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi](https://ahmetcadirci.com.tr/sublime-text-3/) - [Ahmet Çadırcı](https://ahmetcadirci.com.tr/)
-- [SOLID](http://aliozgur.net/2018/03/02/solid/) - [Ali Özgür]
+- [SOLID](http://aliozgur.net/2018/03/02/solid/) - [Ali Özgür](https://twitter.com/aliozgur)
 
 
 ### Podcast Yayınları
