@@ -533,7 +533,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [1: 0](https://www.spreaker.com/show/birsifir-podcast)
 - [Radyo 521](https://radyo521.com/)
 - [Swifthane](https://itunes.apple.com/tr/podcast/swifthane/id1372006454)
-
+- [Lemi'nin Not Defteri](https://soundcloud.com/leminin-not-defteri)
 
 ### YouTube Kanalları
 - [Doğukan Güven Nomak](https://www.youtube.com/channel/UCbu25feEIe6fY9fZx8BCMSA/videos)
