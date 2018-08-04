@@ -522,6 +522,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Kod Basitliği](https://malikmasis.blogspot.com/search/label/Code%20Simplicity) - [Malik Masis](https://github.com/malikmasis)
 - [Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi](https://ahmetcadirci.com.tr/sublime-text-3/) - [Ahmet Çadırcı](https://ahmetcadirci.com.tr/)
 - [SOLID](http://aliozgur.net/2018/03/02/solid/) - [Ali Özgür](https://twitter.com/aliozgur)
+- :movie_camera: [Soru Nasıl Sorulur?](https://www.youtube.com/watch?v=fUOmO9sG8_I) - [Fatih Arslan](https://twitter.com/fatih)
 
 
 ### Podcast Yayınları
