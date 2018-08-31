@@ -212,8 +212,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Gulp
 - [Ben galp Gulp!](https://medium.com/@keremciu/ben-galp-gulp-1-15340198e866) - [Kerem Sevencan](https://twitter.com/keremciu)
-- :movie_camera: [Gulp.js nedir?](https://www.youtube.com/watch?v=STxO9XQJ_lg) - [Adem İlter](https://github.com/ademilter)
 - [Gulp Türkçe Doküman](https://github.com/omergulcicek/gulp) - [Ömer Gülçiçek](https://twitter.com/omergulcicek)
+- :movie_camera: [Gulp.js nedir?](https://www.youtube.com/watch?v=STxO9XQJ_lg) - [Adem İlter](https://github.com/ademilter)
 
 
 ### Haskell
