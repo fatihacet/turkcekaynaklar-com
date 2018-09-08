@@ -121,7 +121,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### C
 - :movie_camera: [C Programlamaya Giriş](https://www.youtube.com/watch?v=FtaKEn2f2qI&list=PLfzhcDNz4tlXOvEE7z_u3gEqFO3nwIZ5i&index=1) - [Volkan Kılıç](https://www.youtube.com/channel/UC9aW-PVSy01gWDQ25ZCiNbw)
 - :movie_camera: [C ile Programlamaya Giriş](https://www.youtube.com/watch?v=gHmaZ2zeLu8&index=4&list=PLh9ECzBB8tJNzJqD64MAS0SK5IeNCKCzY) - [BilgisayarKavramlari
-](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g)
+  ](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g)
 
 
 ### Csharp
@@ -230,6 +230,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Gulp
 - [Ben galp Gulp!](https://medium.com/@keremciu/ben-galp-gulp-1-15340198e866) - [Kerem Sevencan](https://twitter.com/keremciu)
 - [Gulp Türkçe Doküman](https://github.com/omergulcicek/gulp) - [Ömer Gülçiçek](https://twitter.com/omergulcicek)
+- :movie_camera: [Gulp.js nedir?](https://www.youtube.com/watch?v=STxO9XQJ_lg) - [Adem İlter](https://github.com/ademilter)
 
 
 ### Haskell
@@ -437,7 +438,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [10 Dakikada Swift](https://learnxinyminutes.com/docs/tr-tr/swift-tr/) - [Özgür Şahin](https://github.com/ozgurshn)
 - [Swift ve Püf Noktaları](http://kenanatmaca.com/) - [Kenan Atmaca](https://github.com/KenanAtmaca)
 - :movie_camera: [Swift/Xcode Eğitim Videoları](https://www.youtube.com/channel/UCdzM1zLR0g1aU6tqZ8xuGzA/playlists)
-- [Core ML Nedir, Nasıl Kullanılır? (Nesne Algılama ⚙️)](https://medium.com/nsistanbul/core-ml-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-nesne-alg%C4%B1lama-%EF%B8%8F-3901d5d4444f)  - [Batuhan Saka](https://medium.com/@strawb3rryx7)
+- [Core ML Nedir, Nasıl Kullanılır? (Nesne Algılama ⚙️)](https://medium.com/nsistanbul/core-ml-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-nesne-alg%C4%B1lama-%EF%B8%8F-3901d5d4444f) - [Batuhan Saka](https://medium.com/@strawb3rryx7)
 - [Swift - fileprivate ve open Erişim Belirleyicileri Nedir, Ne Yaparlar?](https://medium.com/nsistanbul/swift-fileprivate-ve-open-eri%C5%9Fim-belirleyicileri-nedir-c06fafd985f9) - [Batuhan Saka](https://medium.com/@strawb3rryx7)
 - [Swift - Custom View parçalarını NIB/XIB ile tasarlamak.](https://medium.com/nsistanbul/swift-custom-view-par%C3%A7alar%C4%B1n%C4%B1-nib-xib-ile-tasarlamak-698035ddd896) - [Batuhan Saka](https://medium.com/@strawb3rryx7)
 - [Swift - NotificationCenter nedir, ne için kullanılır?](https://medium.com/@strawb3rryx7/swift-notificationcenter-nedir-ne-i%C3%A7in-kullan%C4%B1l%C4%B1r-a10d4487a2ed) - [Batuhan Saka](https://medium.com/@strawb3rryx7)
@@ -462,7 +463,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Vault Başlangıç Kılavuzu](https://github.com/zekiunal/vault)
 
 
-### Vim 
+### Vim
 - [Vim Kısayolları](https://github.com/p1v0t/VimKisayollari)
 
 
