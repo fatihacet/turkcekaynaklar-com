@@ -390,6 +390,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### React
 - :movie_camera: [React JS Eğitimi](https://www.youtube.com/playlist?list=PLC9XHh8X_kVJueSCNIp5ta_PcfOHpFKmO) - [Üstün Özgür](https://twitter.com/UstunOzgur)
 - :movie_camera: [React ve Redux ile Web Uygulaması Geliştirme](https://www.youtube.com/playlist?list=PL-ohrY_IyV4CUNsDxXDkdT-aAVfrTPXll) - [Alpcan Aydın](https://twitter.com/alpcanaydin)
+- :movie_camera: [React JS İleri Düzey Developer Eğitim Serisi](https://www.youtube.com/playlist?list=PLbspYejTXMLDbpUGfmSfNTX_hcgBHJYHP&pbjreload=10) - Emrah Öz
 - [React JS Türkçe Doküman](https://github.com/omergulcicek/reactjs) - [Ömer Gülçiçek](https://twitter.com/omergulcicek)
 - [React Component'ları için Nasıl Test Yazılır? ](https://medium.com/@oguzkilic/react-componentlar%C4%B1-i%C3%A7in-nas%C4%B1l-test-yaz%C4%B1l%C4%B1r-8da7ffc5d1d5) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
 - [React Component Geliştirme Süreçleri](https://medium.com/@oguzkilic/react-component-geli%C5%9Ftirme-s%C3%BCre%C3%A7leri-38c85c55be77) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
