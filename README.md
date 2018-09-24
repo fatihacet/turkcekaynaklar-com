@@ -525,7 +525,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi](https://ahmetcadirci.com.tr/sublime-text-3/) - [Ahmet Çadırcı](https://ahmetcadirci.com.tr/)
 - [SOLID](http://aliozgur.net/2018/03/02/solid/) - [Ali Özgür](https://twitter.com/aliozgur)
 - :movie_camera: [Soru Nasıl Sorulur?](https://www.youtube.com/watch?v=fUOmO9sG8_I) - [Fatih Arslan](https://twitter.com/fatih)
-
+- [Temiz Kod PHP](https://github.com/anilozmen/clean-code-php) - [Anıl Özmen](https://twitter.com/Anilozmenn)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
