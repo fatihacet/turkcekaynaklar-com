@@ -569,6 +569,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Ankara Cloud Meetup](https://www.youtube.com/channel/UCDRekG0W9xUd8MLCDuU2Z3Q/videos)
 - [Frontend İstanbul](https://www.youtube.com/channel/UC3fh1Y6TcRPE-W_bdxfT2cg)
 - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
+- [fehmiuyarnet](https://www.youtube.com/channel/UCBdyRvz9ixmNWHwj4cCiuHA/featured)
 
 
 ### Slack Grupları
