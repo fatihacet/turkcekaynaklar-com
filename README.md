@@ -146,6 +146,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [cppdili](https://cppdili.blogspot.com.tr/)
 - [Qt 4 ile C++ GUI Programlama](https://ufukuzun.wordpress.com/yayinlarim/qt-4-ile-c-gui-programlama/) - [Ufuk Uzun](https://ufukuzun.wordpress.com/)
 - [C++ - learnXinYminutes](https://learnxinyminutes.com/docs/tr-tr/c++-tr/)
+- [C++ En İyi Uygulamalar](https://p1v0t.gitbooks.io/cppbestpractices/content/)
 
 
 ### Crystal
