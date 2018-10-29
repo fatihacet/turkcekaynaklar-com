@@ -228,6 +228,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [GraphQL, Relay, Apollo Stack / Veri Erişiminde yeni bir bakış açısı .](https://yazilimgunlugu.org/graphql-relay-apollo-veri-erisiminde-yeni-bir-bakis-acisi/) - [Hüseyin Dönmez](yazilimgunlugu.org)
 - [GraphQL Sen Hayırdır?](http://askingedik.net/2017/06/06/graphql-sen-hayirdir/) - Aşkın Gedik
 - [GraphQL'e Giriş](https://medium.com/@harunakgn/graphqle-giri%C5%9F-ee6a3f6d49f1) - Harun Akgün
+- [GraphQL Sorgu ve Değişimler (Mutations)](https://medium.com/@harunakgn/graphql-sorgu-ve-de%C4%9Fi%C5%9Fimler-mutations-3e2ddd5a453d) - Harun Akgün
+- [GraphQL Şemalar ve Tipler](https://medium.com/@harunakgn/graphql-%C5%9Femalar-ve-tipler-be507f1e4a2a) - Harun Akgün
+- [GraphQL Doğrulama (validation)](https://medium.com/@harunakgn/do%C4%9Frulama-validation-f7883bd4b932) - Harun Akgün
+- [GraphQL Sorgu Çalıştırma](https://medium.com/@harunakgn/graphql-sorgu-%C3%A7al%C4%B1%C5%9Ft%C4%B1rma-da41b22cb378) - Harun Akgün
 
 
 ### Gulp
