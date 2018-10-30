@@ -122,6 +122,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [C Programlamaya Giriş](https://www.youtube.com/watch?v=FtaKEn2f2qI&list=PLfzhcDNz4tlXOvEE7z_u3gEqFO3nwIZ5i&index=1) - [Volkan Kılıç](https://www.youtube.com/channel/UC9aW-PVSy01gWDQ25ZCiNbw)
 - :movie_camera: [C ile Programlamaya Giriş](https://www.youtube.com/watch?v=gHmaZ2zeLu8&index=4&list=PLh9ECzBB8tJNzJqD64MAS0SK5IeNCKCzY) - [BilgisayarKavramlari
   ](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g)
+- [C Programlama Dili'ne Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Dr.Ahmet Bingül](http://www1.gantep.edu.tr/~bingul/)
 
 
 ### Csharp
@@ -426,7 +427,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details) - [Uğur Özyılmazel](https://twitter.com/vigobronx)
 - [Rubygem Hazırlıyoruz](http://ugur.ozyilmazel.com/blog/tr/2014/09/23/rubygem-hazirliyoruz/) - [Uğur Özyılmazel](https://twitter.com/vigobronx)
 - :movie_camera: [Adım adım Ruby](https://www.youtube.com/playlist?list=PLqgPe8mz0dh7pKD5AnNRjveNKuBhnfaKw) - [Ekrem Karaca](https://twitter.com/ekremcodes)
-- [Gemfile nedir?](http://kesk.in/2016/gemfile-nedir/) - [Sinan Keskin](https://twitter.com/_khons)
+- [Gemfile nedir?](http://kesk.in/2016/gemfile-nedir/) - [Sinan Keskin](https://twitter.com/skesk_in)
 
 
 ### Sketch
