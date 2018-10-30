@@ -427,7 +427,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details) - [Uğur Özyılmazel](https://twitter.com/vigobronx)
 - [Rubygem Hazırlıyoruz](http://ugur.ozyilmazel.com/blog/tr/2014/09/23/rubygem-hazirliyoruz/) - [Uğur Özyılmazel](https://twitter.com/vigobronx)
 - :movie_camera: [Adım adım Ruby](https://www.youtube.com/playlist?list=PLqgPe8mz0dh7pKD5AnNRjveNKuBhnfaKw) - [Ekrem Karaca](https://twitter.com/ekremcodes)
-- [Gemfile nedir?](http://kesk.in/2016/gemfile-nedir/) - [Sinan Keskin](https://twitter.com/_khons)
+- [Gemfile nedir?](http://kesk.in/2016/gemfile-nedir/) - [Sinan Keskin](https://twitter.com/skesk_in)
 
 
 ### Sketch
