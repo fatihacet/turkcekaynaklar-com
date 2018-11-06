@@ -13,6 +13,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Angular](#angular)
 - [Arduino](#arduino)
 - [ASP.NET](#aspnet)
+- [Bash](#bash)
 - [Bot Framework](#bot-framework)
 - [Behavior Driven Development](#behavior-driven-development)
 - [CodeIgniter](#codeigniter)
@@ -105,6 +106,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Arduino - Robotistan](https://maker.robotistan.com/kategori/arduino/)
 - [Arduino Projeler](https://www.arduinoprojeler.com/)
 
+
+### Bash
+- [Bash(Shell) Rehberi](https://github.com/omergulen/bash-guide) - [Ömer Gülen](https://twitter.com/omergulenn)
 
 ### Bot Framework
 - [Chatbot ve Bot Framework Nedir?](https://medium.com/@peacecwz/chatbot-ve-bot-framework-nedir-7558f4eacfe3) - [Barış Ceviz](https://github.com/peacecwz)
