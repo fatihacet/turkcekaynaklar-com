@@ -113,7 +113,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Blockchain
-- [Blockchain Altyapısı Teknik Bilgiler ](http://blockchainturk.net/) - [Mehmet Cem Yücel](https://www.mehmetcemyucel.com)
+- [Blockchain Altyapısı Teknik Bilgiler ](http://blockchainturk.net/) - [Mehmet Cem Yücel](http://www.mehmetcemyucel.com)
 
 
 ### Bot Framework
