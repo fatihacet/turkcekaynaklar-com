@@ -470,6 +470,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [iOS Programlamada Alert Kullanımı](https://medium.com/@halilozel1903/ios-programlamada-alert-kullan%C4%B1m%C4%B1-db785adefaad) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [iOS Programlamada Segue Kullanımı](https://medium.com/@halilozel1903/ios-programlama-da-segue-kullan%C4%B1m%C4%B1-2e291d9cc8ff) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Swift-4' de Diziler(Arrays)’in Kullanımı](https://medium.com/@halilozel1903/swift-4-de-diziler-arrays-in-kullan%C4%B1m%C4%B1-71ca8aed6dd4) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [iOS, Xcode, Swift](https://www.atakancengizkurt.com) - [Atakan Cengiz KURT](https://www.linkedin.com/in/atakancengizkurt)
 
 
 ### Titanium Mobile
