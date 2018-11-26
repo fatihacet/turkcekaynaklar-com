@@ -270,6 +270,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Ionic
 - [Ionic 4 ve Angular ile Mobil Uygulama Geliştirmek](https://medium.com/@clkgkhn/ionic-4-ve-angular-ile-mobil-uygulama-geli%C5%9Ftirmek-6e64d7585e3d) - [Gökhan Çelik](https://github.com/gokhancelik)
 
+
 ### Java
 - [Kurumsal Java](http://www.kurumsaljava.com/) - [Özcan Acar](http://ozcanacar.com/)
 - [Java'da Multithreading](https://ufukuzun.wordpress.com/yayinlarim/javada-multithreading/) - [Ufuk Uzun](https://ufukuzun.wordpress.com/)
@@ -318,7 +319,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Kotlin
 - [Kotlin Nedir ?](https://medium.com/@halilozel1903/kotlin-nedir-43e312d2dca6) - [Halil ÖZEL](https://github.com/halilozel1903)
-- [Kotlin’de For Döngüsü](https://www.yazilimbilimi.org/kotlinde-for-dongusu/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin Set Kullanımı ve Fonksiyonları](https://www.mobilhanem.com/kotlin-set-kullanimi-ve-methodlari-2/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin Map Kullanımı ve Fonksiyonları](https://www.mobilhanem.com/kotlin-map-kullanimi-ve-fonksiyonlari/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin Nesne ve Sınıf Kavramı](https://www.mobilhanem.com/kotlin-nesne-ve-sinif-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
