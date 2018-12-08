@@ -38,6 +38,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Gulp](#gulp)
 - [Haskell](#haskell)
 - [HTML](#html)
+- [Ionic](#ionic)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [jQuery](#jquery)
@@ -264,6 +265,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [HTML & CSS Eğitim Seti](https://www.youtube.com/watch?v=nLCveeY8CAE&list=PLkAqDZGjJrkB_a1vD4ZUIrY0IPp5LdD5S) - [Web Odası](https://www.youtube.com/channel/UCDAqxRE1wwZ-n5MRq97aEjA)
 - [Front-End Checklist](https://github.com/eraycetinay/Front-End-Checklist)
 - [HEAD](https://github.com/mkg0/HEAD)
+
+
+### Ionic
+- [Ionic 4 ve Angular ile Mobil Uygulama Geliştirmek](https://medium.com/@clkgkhn/ionic-4-ve-angular-ile-mobil-uygulama-geli%C5%9Ftirmek-6e64d7585e3d) - [Gökhan Çelik](https://github.com/gokhancelik)
 
 
 ### Java
