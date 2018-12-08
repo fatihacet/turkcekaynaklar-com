@@ -606,6 +606,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Frontend İstanbul](https://www.youtube.com/channel/UC3fh1Y6TcRPE-W_bdxfT2cg)
 - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - [fehmiuyarnet](https://www.youtube.com/channel/UCBdyRvz9ixmNWHwj4cCiuHA/featured)
+- [Uçbirim](https://www.youtube.com/channel/UCpo-fv3tOxLwrZD14it5_4w/featured)
 
 
 ### Slack Grupları
