@@ -311,6 +311,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JavaScript hap yazısı : Ternary Operator](https://medium.com/@muratdogan/javascript-hap-yaz%C4%B1s%C4%B1-ternary-operator-2788782189fb) - [Murat Doğan](https://twitter.com/murat_dogan17)
 - [JavaScript hap yazısı : Element.insertAdjacentHTML()](https://hurriyetlabs.com/javascript-hap-yaz%C4%B1s%C4%B1-element-insertadjacenthtml-8fe1e6511808) - [Murat Doğan](https://twitter.com/murat_dogan17)
 - [JavaScript hap yazısı : == ve === arasındaki farklar, JavaScript’te eşitlik](https://hurriyetlabs.com/javascript-hap-yaz%C4%B1s%C4%B1-ve-aras%C4%B1ndaki-farklar-javascriptte-e%C5%9Fitlik-b7cd20f91a) - [Murat Doğan](https://twitter.com/murat_dogan17)
+- [JavaScript'te "Değişmezlik"](https://medium.com/@oguzkilic/javascriptte-de%C4%9Fi%C5%9Fmezlik-11b895a730d8) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
 
 
 ### jQuery
@@ -319,12 +320,15 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Kotlin
 - [Kotlin Nedir ?](https://medium.com/@halilozel1903/kotlin-nedir-43e312d2dca6) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin’de For Döngüsü](https://yazilimsanati.net/kotlinde-for-dongusu/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin Set Kullanımı ve Fonksiyonları](https://www.mobilhanem.com/kotlin-set-kullanimi-ve-methodlari-2/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin Map Kullanımı ve Fonksiyonları](https://www.mobilhanem.com/kotlin-map-kullanimi-ve-fonksiyonlari/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin Nesne ve Sınıf Kavramı](https://www.mobilhanem.com/kotlin-nesne-ve-sinif-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Swift is like Kotlin](https://medium.com/@halilozel1903/swift-is-like-kotlin-20f069d322ee) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Giriş Seviyesinde Kotlin Rehberi](https://mksglu.gitbooks.io/kotlin/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
 - :movie_camera: [Profesyonel Kotlin Programlama Dersleri - Türkçe](https://www.youtube.com/playlist?list=PL_Z0TaFYSF3JSzgfU7ApWTUCsbX-Z6mt3) - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
+- [Kotlin’de Değişken Kavramı](https://yazilimsanati.net/kotlinde-degisken-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
+
 
 
 ### Laravel
@@ -477,6 +481,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [iOS Programlamada Segue Kullanımı](https://medium.com/@halilozel1903/ios-programlama-da-segue-kullan%C4%B1m%C4%B1-2e291d9cc8ff) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Swift-4' de Diziler(Arrays)’in Kullanımı](https://medium.com/@halilozel1903/swift-4-de-diziler-arrays-in-kullan%C4%B1m%C4%B1-71ca8aed6dd4) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [iOS, Xcode, Swift](https://www.atakancengizkurt.com) - [Atakan Cengiz KURT](https://www.atakancengizkurt.com/p/hakkmda.html)
+- [Swift Tuples Kullanımı](https://yazilimsanati.net/swift-4-2de-tuples-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift String Kullanımı](https://yazilimsanati.net/swift-4-2de-string-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift Programlama Nedir](https://yazilimsanati.net/swift-programlama-nedir/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift Kontrol Yapıları](https://yazilimsanati.net/swift-kontrol-yapilari/) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Titanium Mobile
@@ -484,7 +492,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Unit Testing
-- 
+-
 
 
 ### Vault
