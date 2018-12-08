@@ -562,6 +562,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [SOLID](http://aliozgur.net/2018/03/02/solid/) - [Ali Özgür](https://twitter.com/aliozgur)
 - :movie_camera: [Soru Nasıl Sorulur?](https://www.youtube.com/watch?v=fUOmO9sG8_I) - [Fatih Arslan](https://twitter.com/fatih)
 - [Temiz Kod PHP](https://github.com/anilozmen/clean-code-php) - [Anıl Özmen](https://twitter.com/Anilozmenn)
+- [Yazılımcılar İçin Hafta Sonu Okumaları](https://www.getrevue.co/profile/mhkoca)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
