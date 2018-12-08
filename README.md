@@ -330,7 +330,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Kotlin’de Değişken Kavramı](https://yazilimsanati.net/kotlinde-degisken-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
-
 ### Laravel
 - [Laravel Nedir?](https://www.sinaneldem.com.tr/laravel-framework-nedir-ve-ozellikleri-nelerdir) - [Sinan Eldem](https://twitter.com/sineld)
 - [Laravel Türkçe](http://www.laravel.gen.tr/) - [Laravel Türkiye](https://twitter.com/laraveltr)
@@ -481,6 +480,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [iOS Programlamada Segue Kullanımı](https://medium.com/@halilozel1903/ios-programlama-da-segue-kullan%C4%B1m%C4%B1-2e291d9cc8ff) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Swift-4' de Diziler(Arrays)’in Kullanımı](https://medium.com/@halilozel1903/swift-4-de-diziler-arrays-in-kullan%C4%B1m%C4%B1-71ca8aed6dd4) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [iOS, Xcode, Swift](https://www.atakancengizkurt.com) - [Atakan Cengiz KURT](https://www.atakancengizkurt.com/p/hakkmda.html)
+- [iOS Geliştiriciler için Makine Öğrenmesi 1.Bölüm: CreateML ile Görüntü Sınıflandırma](https://medium.com/nsistanbul/ios-geli%C5%9Ftiriciler-i%C3%A7in-makine-%C3%B6%C4%9Frenmesi-1-b%C3%B6l%C3%BCm-createml-ile-g%C3%B6r%C3%BCnt%C3%BC-s%C4%B1n%C4%B1fland%C4%B1rma-b93af68e7f46) - [Özgür Şahin](https://github.com/ozgurshn)
+- [iOS Geliştiriciler için Makine Öğrenmesi 2.Bölüm: CreateML ile Yazı Sınıflandırma](https://medium.com/deep-learning-turkiye/ios-geli%C5%9Ftiriciler-i%C3%A7in-makine-%C3%B6%C4%9Frenmesi-2-b%C3%B6l%C3%BCm-createml-ile-yaz%C4%B1-s%C4%B1n%C4%B1fland%C4%B1rma-1e788e14db0e) - [Özgür Şahin](https://github.com/ozgurshn)
 - [Swift Tuples Kullanımı](https://yazilimsanati.net/swift-4-2de-tuples-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Swift String Kullanımı](https://yazilimsanati.net/swift-4-2de-string-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Swift Programlama Nedir](https://yazilimsanati.net/swift-programlama-nedir/) - [Halil ÖZEL](https://github.com/halilozel1903)
