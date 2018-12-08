@@ -38,6 +38,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Gulp](#gulp)
 - [Haskell](#haskell)
 - [HTML](#html)
+- [Ionic](#ionic)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [jQuery](#jquery)
@@ -266,6 +267,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [HEAD](https://github.com/mkg0/HEAD)
 
 
+### Ionic
+- [Ionic 4 ve Angular ile Mobil Uygulama Geliştirmek](https://medium.com/@clkgkhn/ionic-4-ve-angular-ile-mobil-uygulama-geli%C5%9Ftirmek-6e64d7585e3d) - [Gökhan Çelik](https://github.com/gokhancelik)
+
+
 ### Java
 - [Kurumsal Java](http://www.kurumsaljava.com/) - [Özcan Acar](http://ozcanacar.com/)
 - [Java'da Multithreading](https://ufukuzun.wordpress.com/yayinlarim/javada-multithreading/) - [Ufuk Uzun](https://ufukuzun.wordpress.com/)
@@ -315,13 +320,14 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Kotlin
 - [Kotlin Nedir ?](https://medium.com/@halilozel1903/kotlin-nedir-43e312d2dca6) - [Halil ÖZEL](https://github.com/halilozel1903)
-- [Kotlin’de For Döngüsü](https://www.yazilimbilimi.org/kotlinde-for-dongusu/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin’de For Döngüsü](https://yazilimsanati.net/kotlinde-for-dongusu/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin Set Kullanımı ve Fonksiyonları](https://www.mobilhanem.com/kotlin-set-kullanimi-ve-methodlari-2/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin Map Kullanımı ve Fonksiyonları](https://www.mobilhanem.com/kotlin-map-kullanimi-ve-fonksiyonlari/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin Nesne ve Sınıf Kavramı](https://www.mobilhanem.com/kotlin-nesne-ve-sinif-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Swift is like Kotlin](https://medium.com/@halilozel1903/swift-is-like-kotlin-20f069d322ee) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Giriş Seviyesinde Kotlin Rehberi](https://mksglu.gitbooks.io/kotlin/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
 - :movie_camera: [Profesyonel Kotlin Programlama Dersleri - Türkçe](https://www.youtube.com/playlist?list=PL_Z0TaFYSF3JSzgfU7ApWTUCsbX-Z6mt3) - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
+- [Kotlin’de Değişken Kavramı](https://yazilimsanati.net/kotlinde-degisken-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Laravel
@@ -476,6 +482,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [iOS, Xcode, Swift](https://www.atakancengizkurt.com) - [Atakan Cengiz KURT](https://www.atakancengizkurt.com/p/hakkmda.html)
 - [iOS Geliştiriciler için Makine Öğrenmesi 1.Bölüm: CreateML ile Görüntü Sınıflandırma](https://medium.com/nsistanbul/ios-geli%C5%9Ftiriciler-i%C3%A7in-makine-%C3%B6%C4%9Frenmesi-1-b%C3%B6l%C3%BCm-createml-ile-g%C3%B6r%C3%BCnt%C3%BC-s%C4%B1n%C4%B1fland%C4%B1rma-b93af68e7f46) - [Özgür Şahin](https://github.com/ozgurshn)
 - [iOS Geliştiriciler için Makine Öğrenmesi 2.Bölüm: CreateML ile Yazı Sınıflandırma](https://medium.com/deep-learning-turkiye/ios-geli%C5%9Ftiriciler-i%C3%A7in-makine-%C3%B6%C4%9Frenmesi-2-b%C3%B6l%C3%BCm-createml-ile-yaz%C4%B1-s%C4%B1n%C4%B1fland%C4%B1rma-1e788e14db0e) - [Özgür Şahin](https://github.com/ozgurshn)
+- [Swift Tuples Kullanımı](https://yazilimsanati.net/swift-4-2de-tuples-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift String Kullanımı](https://yazilimsanati.net/swift-4-2de-string-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift Programlama Nedir](https://yazilimsanati.net/swift-programlama-nedir/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift Kontrol Yapıları](https://yazilimsanati.net/swift-kontrol-yapilari/) - [Halil ÖZEL](https://github.com/halilozel1903)
+
 
 ### Titanium Mobile
 - [Titanium Mobile ile Çapraz Platform Uygulama Geliştirme](http://nazrdogan.github.io/titanium%20mobile/2015/12/07/appcelerator-titanium-mobile-turkce-kitap.html)
