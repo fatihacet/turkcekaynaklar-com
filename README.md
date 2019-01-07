@@ -26,7 +26,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Crystal](#crystal)
 - [CSS](#css)
 - [D](#d)
-- [Dart](#dart)
 - [Deep Learning](#deep-learning)
 - [Django](#django)
 - [Docker](#docker)
@@ -184,9 +183,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### D
 - [D Programlama Dili](http://ddili.org/ders/d/index.html)
 
-### Dart
-- [Dart dersleri](https://github.com/emrealtunbilek/dart_dersleri)
-
 ### Deep Learning
 - [Türkçe Yapay Zeka Kaynakları](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
 
@@ -214,6 +210,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Flux
 - [Karikatürler üzerinden Flux](https://medium.com/@keremciu/karikat%C3%BCrler-%C3%BCzerinden-flux-3e8ad03db2c4) - [Kerem Sevencan](https://twitter.com/keremciu)
+
 ## Flutter
 - :movie_camera: [Google Flutter Dersleri Dart Dersleri](https://www.youtube.com/watch?v=nAxc6zViHWo&list=PLrWGe5fM0LZ6aJG8dWFRkqchaHENPmLET)
 
