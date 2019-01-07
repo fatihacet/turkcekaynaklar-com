@@ -185,7 +185,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [D Programlama Dili](http://ddili.org/ders/d/index.html)
 
 ### Dart
-- 
+- [Dart dersleri](https://github.com/emrealtunbilek/dart_dersleri)
 
 ### Deep Learning
 - [Türkçe Yapay Zeka Kaynakları](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
