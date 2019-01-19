@@ -531,6 +531,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ## Diğer Kaynaklar
 
 ### Faydalı Linkler
+- [Web Geliştirici Yol Haritası](https://github.com/AtakanErmis/gelistirici-yol-haritasi) - [Atakan Ermiş](http://atakanermis.tk)
 - [Çalışma Masam](https://calismamasam.com) - [Tolga Gezginiş](https://twitter.com/tgezginis)
 - [Anlamsal Sürümleme](http://semver.org/lang/tr/)
 - [Tasarım Desenleri](http://www.tasarimdesenleri.com)
