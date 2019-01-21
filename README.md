@@ -367,7 +367,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Node JS Blog Yazıları & Eğitimleri](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/node-js/) - [yazilimgunlugu.org](https://yazilimgunlugu.org/)
 - [Geleceği Yazanlar - Node.js Eğitimi(ileri seviye)](https://gelecegiyazanlar.turkcell.com.tr/konu/web-programlama/egitim/401)
 - :movie_camera: [Node.JS Eğitim Videoları](https://www.youtube.com/playlist?list=PLh9ECzBB8tJOkzZUbc9CngE-6XeyDFeSY) - [Şadi Evren Şeker](http://sadievrenseker.com)
-- :movie_camera: [Node.js Eğitim Videoları](https://www.youtube.com/thelastcodebenders) - [Çağatay Çalı](https://github.com/cagataycali)
 - [Node.js Eğitim Serisi](https://cagatay.me/nodejs-t%C3%BCrk%C3%A7e-e%C4%9Fitim-seti-giri%C5%9F-1-815b6fd21502) - [Çağatay Çalı](https://cagatay.me)
 - [Node JS Blog Yazıları & Eğitimleri 2](http://www.yusufsezer.com.tr/kategori/javascript/node-js/) - Yusuf Sezer
 - :movie_camera: [Node.js ile Oyun Yazmak Serisi Videoları](https://www.youtube.com/playlist?list=PLnrFXI6MYFtG4JtIC887VVx5m05ZNdxCQ) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
@@ -514,7 +513,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [VueJS Türkçe Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) - [Fatih Acet](https://twitter.com/fatihacet)
 - :movie_camera: [VueJS, Vue Router, Vuex, Firebase SPA Egitim Serisi](https://www.youtube.com/playlist?list=PLa3NvhdFWNirpx6x-LIMfTrwOfLzCkfAU) - [Fatih Acet](https://twitter.com/fatihacet)
 - :movie_camera: [Nedir Bu Vuejs](https://www.youtube.com/playlist?list=PLhLbfczNPVOKsDy-qb22aO-WxZUijmwTR) - [Ömer Şensoy](https://twitter.com/osensoy)
-- [Vuejs Dersleri](https://codermathematician.wordpress.com/2018/04/17/vue-js-dersleri/) - [Hatice Edis](https://twitter.com/coderprofessor)
+- [Vuejs Dersleri](https://codermathematician.wordpress.com/2018/04/17/vue-js-dersleri/) - [Hatice Edis](https://twitter.com/edisdev)
 - :movie_camera: [VueJS ile Performanslı Uygulamalar Geliştirme - Giriş seviyesi](https://www.youtube.com/watch?v=9gdSKaeLc0g&t=9s) - [Murat Doğan](https://twitter.com/murat_dogan17)
 
 
