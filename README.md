@@ -608,7 +608,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [VNGRS](https://www.youtube.com/channel/UC7WKjxscgH-A8LCFUrj0iQQ/videos)
 - [TestHive](https://www.youtube.com/channel/UCvMbGj7aumypkOKXYcBtgbQ/videos)
 - [Emrah Yüksel](https://www.youtube.com/channel/UC2u9Gc37Rq44dB3mW4Kdi-w/videos)
-- [Çağatay Çalı](https://www.youtube.com/channel/UCtOzMBrfPggRxgrSnWHXiUQ/videos)
+- [Çağatay Çalı](https://www.youtube.com/CagatayCali)
 - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA/videos)
 - [Ankara Cloud Meetup](https://www.youtube.com/channel/UCDRekG0W9xUd8MLCDuU2Z3Q/videos)
 - [Frontend İstanbul](https://www.youtube.com/channel/UC3fh1Y6TcRPE-W_bdxfT2cg)
