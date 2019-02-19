@@ -26,6 +26,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Crystal](#crystal)
 - [CSS](#css)
 - [D](#d)
+- [Dart](#dart)
 - [Deep Learning](#deep-learning)
 - [Django](#django)
 - [Docker](#docker)
@@ -46,6 +47,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Kotlin](#kotlin)
 - [Laravel](#laravel)
 - [Machine Learning](#machine-learning)
+- [MATLAB](#matlab)
 - [MongoDB](#mongodb)
 - [Nginx](#nginx)
 - [Node.js](#nodejs)
@@ -88,7 +90,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android Türkçe PDF](http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf) - [Ümit KÖSE](https://twitter.com/umiitkose)
 - [Android Studio ile Uygulama Geliştirme Eğitimi](https://www.youtube.com/playlist?list=PL9qDMO9EzLX25NTHm0q7svKLx__OZY8-e)- Levent Yadırga
 - [Android KTX Nedir](https://medium.com/@halilozel1903/android-ktx-nedir-84ecbc615bfb) - [Halil ÖZEL](https://github.com/halilozel1903)
-- [App Inventor Nedir ?](https://medium.com/@halilozel1903/app-inventor-nedir-c37215ae598a) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [App Inventor Nedir?](https://medium.com/@halilozel1903/app-inventor-nedir-c37215ae598a) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Android Programlamada Relative Layout Kullanımı](https://yazilimsanati.net/android-programlamada-relative-layout-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Android Programlamada Volley Kullanımı](https://yazilimsanati.net/android-programlamada-volley-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Android Nedir?](https://yazilimsanati.net/android-nedir/) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Angular
@@ -108,6 +113,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Arduino
 - [Arduino - Robotistan](https://maker.robotistan.com/kategori/arduino/)
 - [Arduino Projeler](https://www.arduinoprojeler.com/)
+- [Arduino Nedir?](https://medium.com/@halilozel1903/arduino-nedir-722dbfda3fff) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Bash
@@ -183,6 +189,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### D
 - [D Programlama Dili](http://ddili.org/ders/d/index.html)
 
+
+### Dart
+- [Dart Programlama Dili](https://medium.com/@halilozel1903/dart-programlama-dili-eeafb64ad300) - [Halil ÖZEL](https://github.com/halilozel1903)
+
+
 ### Deep Learning
 - [Türkçe Yapay Zeka Kaynakları](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
 
@@ -194,6 +205,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Django Uygulamasını Yayına Alma](https://www.youtube.com/watch?v=JMl_kktdjjI&index=1&list=PLPrHLaayVkhk9_NtkgHFzdCq78MXega6o) - [Barış Aslan](https://www.youtube.com/c/Bar%C4%B1%C5%9FAslan)
 - [Django Notlarım](https://gokmengorgen.net/django-notlarim/) - [Gökmen Görgen](https://gokmengorgen.net/)
 - :movie_camera: [Django ile Blog Oluşturmak](https://www.youtube.com/watch?v=l1EQ2GfxmUg&list=PLh9ECzBB8tJMkq3vJ8fwAKNlwPA8d629n) - [BilgisayarKavramlari](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g)
+- [Django Nedir?](https://medium.com/@halilozel1903/django-nedir-52b29ebb7298) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Docker
@@ -213,6 +225,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Flutter
 - :movie_camera: [Google Flutter Dersleri Dart Dersleri](https://www.youtube.com/watch?v=nAxc6zViHWo&list=PLrWGe5fM0LZ6aJG8dWFRkqchaHENPmLET)
+- [Flutter Nedir?](https://medium.com/@halilozel1903/flutter-nedir-8a3cb33fdb9d) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 ### Git
 - [Türkçe Git 101](https://aliozgur.gitbooks.io/git101/) - [Ali Özgür](https://twitter.com/aliozgur)
@@ -221,6 +234,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [git init](https://medium.com/@mustafazahidefe/git-notlar%C4%B1-2-git-i%CC%87nit-f54292fbf631) - Mustafa Zahid Efe
 - [Github Görev Yönetimi (Issues) ve Organizasyon](https://medium.com/@noteCe/5-github-g%C3%B6rev-y%C3%B6netimi-i%CC%87ssues-ve-organizasyon-1277ef74b409)
 - [Git - learnXinYminutes](https://learnxinyminutes.com/docs/tr-tr/git-tr/)
+- [Git, GitHub ve GitLab Nedir?](https://medium.com/@halilozel1903/git-github-ve-gitlab-nedir-e51a87e8e4e7) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### GNU/Linux
@@ -342,6 +356,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Machine Learning
 - :movie_camera: [Makine Ögrenmesi Video Blog](https://www.youtube.com/playlist?list=PLRRY18KNZTgUQx8NT_YqCVOyb-VnB79W2)
+
+
+### Matlab
+- [MATLAB Nedir?](https://medium.com/@halilozel1903/matlab-nedir-91a904a74f45) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### MongoDB
@@ -486,8 +504,19 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [iOS Geliştiriciler için Makine Öğrenmesi 2.Bölüm: CreateML ile Yazı Sınıflandırma](https://medium.com/deep-learning-turkiye/ios-geli%C5%9Ftiriciler-i%C3%A7in-makine-%C3%B6%C4%9Frenmesi-2-b%C3%B6l%C3%BCm-createml-ile-yaz%C4%B1-s%C4%B1n%C4%B1fland%C4%B1rma-1e788e14db0e) - [Özgür Şahin](https://github.com/ozgurshn)
 - [Swift Tuples Kullanımı](https://yazilimsanati.net/swift-4-2de-tuples-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Swift String Kullanımı](https://yazilimsanati.net/swift-4-2de-string-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
-- [Swift Programlama Nedir](https://yazilimsanati.net/swift-programlama-nedir/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Swift Kontrol Yapıları](https://yazilimsanati.net/swift-kontrol-yapilari/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift Programlama Dili](https://yazilimsanati.net/swift-programlama-dili/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift’te Değişkenler](https://yazilimsanati.net/swiftte-degiskenler/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift’i Tanıyalım](https://medium.com/@halilozel1903/swifti-tan%C4%B1yal%C4%B1m-a5a3a17820ef) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [iOS’de AdMob Kullanımı](https://medium.com/@halilozel1903/ios-programlamada-admob-kullan%C4%B1m%C4%B1-a73f5655b273) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift ile UIKit | UINavigationBar](https://medium.com/turkishkit/ios-programlamada-navigation-bar-kullan%C4%B1m%C4%B1-ef22d48c03f) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift ile UIKit | UIButton](https://medium.com/turkishkit/swift-ile-uikit-uibutton-814fcda0322e) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift ile UIKit | UILabel](https://medium.com/turkishkit/swift-4-2-ile-uilabel-kullan%C4%B1m%C4%B1-68662a36eca8) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift ile UIKit | UIViewController Hayat Döngüsü](https://medium.com/turkishkit/uiviewcontroller-lifecycle-f7656f1ab6a6) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift ile Nesne Tabanlı Programlama](https://medium.com/turkishkit/swift-ile-nesne-tabanl%C4%B1-programlama-af97ec68df2d) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Mini iOS Apps 1 : Catch The Fruits](https://medium.com/nsistanbul/mini-ios-apps-catch-the-fruits-7f745283f9d) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Mini iOS Apps : Color Converter](https://medium.com/nsistanbul/mini-ios-apps-color-converter-daffcc9ca7ea) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [iOS’de Animasyon Kullanımı](https://yazilimsanati.net/iosde-animasyon-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Titanium Mobile
