@@ -118,6 +118,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Bash
 - [Bash(Shell) Rehberi](https://github.com/omergulen/bash-guide) - [Ömer Gülen](https://twitter.com/omergulenn)
+- [GNU Bash Başvuru Kılavuzu](http://www.belgeler.org/bashref/bashref.html) - Çeviren: Nilgün Belma Bugüner
 
 
 ### Blockchain
@@ -141,6 +142,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [C ile Programlamaya Giriş](https://www.youtube.com/watch?v=gHmaZ2zeLu8&index=4&list=PLh9ECzBB8tJNzJqD64MAS0SK5IeNCKCzY) - [BilgisayarKavramlari
   ](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g)
 - [C Programlama Dili'ne Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Dr.Ahmet Bingül](http://www1.gantep.edu.tr/~bingul/)
+- [GNU C Kütüphanesi Başvuru Kılavuzu](http://www.belgeler.org/glibc/glibc.html) - Çevirenler: Nilgün Belma Bugüner, Yaşar Dereli
 
 
 ### Csharp
@@ -245,6 +247,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Linux Manjaro 17 I3WM Topluluk Sürümü Çözümleri](https://mksglu.gitbooks.io/linux-manjaro-17-i3wm-topluluk-surumu-cozumleri/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
 - [Linux Manjaro Gnome 3.22 Çözümleri](https://www.mkoseoglu.com/linux-manjaro-gnome-3-22-cozumleri) - [Mert Köseoğlu](https://twitter.com/mksglu)
 - [Kali Linux ile Temel Linux Eğitimi](https://github.com/taylanbildik/Linux_Dersleri) - Taylan Özgür Bildik
+- [GNU/Linux Komutları](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf)
 
 
 ### Go
