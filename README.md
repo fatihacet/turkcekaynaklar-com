@@ -523,6 +523,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Mini iOS Apps 1 : Catch The Fruits](https://medium.com/nsistanbul/mini-ios-apps-catch-the-fruits-7f745283f9d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Mini iOS Apps : Color Converter](https://medium.com/nsistanbul/mini-ios-apps-color-converter-daffcc9ca7ea) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [iOS’de Animasyon Kullanımı](https://yazilimsanati.net/iosde-animasyon-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Haftalık iOS Blog](https://nscolak.com) - [Çağrı ÇOLAK](https://github.com/cagricolak)
 
 
 ### Titanium Mobile
@@ -661,3 +662,4 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [açık kaynak](http://acikkaynak.info) ([Davetiye](https://publicslack.com/slacks/acikkaynak/invites/new))
 - [Laravel İstanbul](http://laravel.istanbul/) ([Kayıt Ol/Giriş Yap](https://join.slack.com/t/laravelistanbul/shared_invite/enQtMjkzMjI0MDQxODE0LTcyOTE3YTVjMGIzZDJjYzBiYTRmOGNmODFiYWU4MDU3Zjc5ZGFiNjRmY2M0OWM2NTU1NmUzNWJmMTE2MTBiMWQ))
 - [NSIstanbul- An iOS and Mac Development Community](http://www.nsistanbul.com/) ([Kayıt Ol/Giriş Yap](http://slack.nsistanbul.com))
+- [Swift Türkiye](https://medium.com/swift-türkiye) ([Kayıt Ol/Giriş Yap](https://goo.gl/forms/13CuWViVwRQw970s2)
