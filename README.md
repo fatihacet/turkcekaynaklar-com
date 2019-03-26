@@ -229,6 +229,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Flutter
 - :movie_camera: [Google Flutter Dersleri Dart Dersleri](https://www.youtube.com/watch?v=nAxc6zViHWo&list=PLrWGe5fM0LZ6aJG8dWFRkqchaHENPmLET)
 - [Flutter Nedir?](https://medium.com/@halilozel1903/flutter-nedir-8a3cb33fdb9d) - [Halil ÖZEL](https://github.com/halilozel1903)
+- :movie_camera: [Flutter Eğitim Serisi](https://www.youtube.com/playlist?list=PLDtOT47tyugN9StQujdf4FCMMmsGY9dVK)
 
 
 ### Git
