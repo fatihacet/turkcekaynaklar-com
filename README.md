@@ -335,6 +335,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JavaScript hap yazısı : Element.insertAdjacentHTML()](https://hurriyetlabs.com/javascript-hap-yaz%C4%B1s%C4%B1-element-insertadjacenthtml-8fe1e6511808) - [Murat Doğan](https://twitter.com/murat_dogan17)
 - [JavaScript hap yazısı : == ve === arasındaki farklar, JavaScript’te eşitlik](https://hurriyetlabs.com/javascript-hap-yaz%C4%B1s%C4%B1-ve-aras%C4%B1ndaki-farklar-javascriptte-e%C5%9Fitlik-b7cd20f91a) - [Murat Doğan](https://twitter.com/murat_dogan17)
 - [JavaScript'te "Değişmezlik"](https://medium.com/@oguzkilic/javascriptte-de%C4%9Fi%C5%9Fmezlik-11b895a730d8) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
+- [ES6 Türkçe Kaynaklar Listesi](https://github.com/fatihhayri/es6-turkce-kaynaklar) - [Fatih Hayrioğlu](https://twitter.com/fatihhayri)
 
 
 ### jQuery
