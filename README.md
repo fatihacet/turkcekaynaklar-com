@@ -215,6 +215,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Docker Serisi](https://medium.com/monitisemea/docker-serisi-1-1c6629499b9a) - Alper Kanat
 - [Docker ve PHP](https://mksglu.gitbooks.io/php-ile-docker-gelistirelim/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
 - :movie_camera: [Docker Öğreniyorum](https://www.youtube.com/watch?v=isbsABbZghs&list=PL_Z0TaFYSF3LTfMIRjPUlVoUipQA0JlL2) - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
+- [Yeni Nesil Geliştirme Ortamı Docker Serisi](https://oguzcandemircan.com/yeni-nesil-gelistirme-ortami-bolum-1-docker) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
+- [Docker ile Vue Js Projesi Nasıl Oluşturulur, Geliştirilir ve Yayınlanır?](https://oguzcandemircan.com/docker-ile-vuejs-projesi-nasil-olusturulur-gelistirlir-ve-yayinlanir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
+
 
 
 ### Electron
@@ -360,7 +363,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Laravel Türkiye Forum](http://forum.laravel.gen.tr/)
 - :movie_camera: [Laravel 5.4 Blog Uygulaması](https://www.youtube.com/watch?v=0N1tiGJTuGs&list=PLS-yaST2La_j2_WWCZXQcyYcBp7_7Teaz) - [Halil Coşdu](https://github.com/halilcosdu)
 - [Laravel Hakkında Blog Yazıları](https://burhantanis.com/blog-kod-dunyam) - [Burhan M. TANIŞ](https://burhantanis.com)
-
+- [Laravel Broadcasting Nedir? Laravel ile Gerçek Zamanlı Bildirim Nasıl Gönderilir? ](https://oguzcandemircan.com/laravel-broadcasting-nedir-laravel-echo-redis-socketio-vue-js-docker-kullanarak-gercek-zamanli-bildirim-nasil-gonderilir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
+- [Laravel ile Api Authentication Nasıl Yapılır? Laravel Passport Nedir?](https://oguzcandemircan.com/laravel-ile-api-authentication-nasil-yapilir-laravel-passport-nedir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
 
 ### Machine Learning
 - :movie_camera: [Makine Ögrenmesi Video Blog](https://www.youtube.com/playlist?list=PLRRY18KNZTgUQx8NT_YqCVOyb-VnB79W2)
@@ -554,6 +558,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Vuejs Dersleri](https://codermathematician.wordpress.com/2018/04/17/vue-js-dersleri/) - [Hatice Edis](https://twitter.com/edisdev)
 - :movie_camera: [VueJS ile Performanslı Uygulamalar Geliştirme - Giriş seviyesi](https://www.youtube.com/watch?v=9gdSKaeLc0g&t=9s) - [Murat Doğan](https://twitter.com/murat_dogan17)
 
+- [VueJS ile Server Side Rendering Nasıl Yapılır?](https://oguzcandemircan.com/vue-js-ile-express-kullanarak-server-side-rendering-nasil-yapilir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
 
 ### WordPress
 - :movie_camera: [WordPress Tema Entegre Eğitim Seti](https://www.youtube.com/watch?v=_wzy8QTfdIw&list=PLzPtCsi6BpOtWhBe9HoKcMv6txGlcLzkm) - [Baran Somaklı](https://twitter.com/baransomakli)
