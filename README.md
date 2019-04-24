@@ -259,6 +259,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Go Programlama Dilinde Table Driven Test](http://blog.oguzhan.info/?p=1397) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
 - [Go Programlama Dilinde Unit Test](http://blog.oguzhan.info/?p=1087) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
 - [Go Programlama Dili Üzerine](http://blog.oguzhan.info/?p=870) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
+- [Go Nedir ? Visual Studio Code ile Go (Golang) Programlamaya Giriş](https://www.onbirkod.com/visual-studio-code-ile-go-golang-programlamaya-giris/) - [Talat Tüfekçi](https://www.onbirkod.com)
 
 
 ### GraphQL
@@ -311,6 +312,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java Teknolojileri İle İlgili Videolar - Youtube](https://www.youtube.com/c/ilkaygunel) - İlkay GÜNEL
 - [Java Programlama Dersleri - Youtube](https://www.youtube.com/watch?v=8WXfuEuheeE&list=PLIHume2cwmHctrHFHADb0slNyn95x2M4I&index=2) - Yazılım Bilimi
 - [Java ve Java Teknolojileri](http://www.injavawetrust.com/) - In Java We Trust
+- [Spring Boot ile Database Uygulaması Geliştirmek](https://www.onbirkod.com/spring-boot-ile-database-uygulamasi-gelistirmek/) - [Talat Tüfekçi](https://www.onbirkod.com)
 
 
 ### JavaScript
@@ -553,6 +555,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Nedir Bu Vuejs](https://www.youtube.com/playlist?list=PLhLbfczNPVOKsDy-qb22aO-WxZUijmwTR) - [Ömer Şensoy](https://twitter.com/osensoy)
 - [Vuejs Dersleri](https://codermathematician.wordpress.com/2018/04/17/vue-js-dersleri/) - [Hatice Edis](https://twitter.com/edisdev)
 - :movie_camera: [VueJS ile Performanslı Uygulamalar Geliştirme - Giriş seviyesi](https://www.youtube.com/watch?v=9gdSKaeLc0g&t=9s) - [Murat Doğan](https://twitter.com/murat_dogan17)
+- [Vue.js (1) : Giriş](https://www.onbirkod.com/vue-js-giris-1/) - [Talat Tüfekçi](https://www.onbirkod.com)
+- [Vue.js (2) : Vue-resource Kullanarak Veri Çekmek](https://www.onbirkod.com/vue-js-2-vue-resource/) - [Talat Tüfekçi](https://www.onbirkod.com)
+- [Vue.js (3) : Vue-router ile bir SPA Uygulaması](https://www.onbirkod.com/vue-js-3-vue-router-ile-bir-spa-uygulamasi/) - [Talat Tüfekçi](https://www.onbirkod.com)
+- [Vue.js (4) : Vue-cli ile Hazır Gelen Proje Şablonları](https://www.onbirkod.com/vue-js-4-vue-cli-ile-hazir-gelen-proje-sablonlari/) - [Talat Tüfekçi](https://www.onbirkod.com)
+- [Vue.js (5) : Bileşenlerin Birbiriyle Haberleşmesi ve Vuex](https://www.onbirkod.com/vue-js-5-bilesenlerin-birbiriyle-haberlesmesi-ve-vuex/) - [Talat Tüfekçi](https://www.onbirkod.com)
 
 
 ### WordPress
@@ -609,6 +616,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Technology Radar / Teknoloji Radarı Sayı: 17](https://assets.thoughtworks.com/assets/technology-radar-vol-17-tr.pdf) - Thoughtworks'ün Technology Radar adıyla çıkarttığı e-dergi'nin Türkçe Çevirisi (PDF)
 - [Web Geliştirici Yol Haritası](https://github.com/AtakanErmis/gelistirici-yol-haritasi) - [Atakan Ermiş](http://atakanermis.tk)
 - [İnsanlar İçin Tasarım Desenleri](https://github.com/ahmetcanaydemir/insanlar-icin-tasarim-desenleri) - [Ahmet Can Aydemir](http://www.ahmetcanaydemir.com)
+- [Kendi Kendine Programlama Öğrenme Rehberi](https://www.onbirkod.com/kendi-kendine-programlama-ogrenme-rehberi/) - [Talat Tüfekçi](https://www.onbirkod.com)
+- [Yazılım Üzerine Yazılmış En İyi 5 Kitap](https://www.onbirkod.com/yazilim-uzerine-yazilmis-en-iyi-5-kitap/) - [Talat Tüfekçi](https://www.onbirkod.com)
+- [Apache JMeter: Web Uygulamamızın Yük Testlerini Nasıl Yaparız? (1): Giriş, Kurulum](https://www.onbirkod.com/apache-jmeter-web-uygulamamizin-yuk-testlerini-nasil-yapariz-1/) - [Talat Tüfekçi](https://www.onbirkod.com)
+- [Apache JMeter: Web Uygulamamızın Yük Testlerini Nasıl Yaparız? (2): Basit Testler](https://www.onbirkod.com/apache-jmeter-web-uygulamamizin-yuk-testlerini-nasil-yapariz-2/) - [Talat Tüfekçi](https://www.onbirkod.com)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
