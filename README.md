@@ -215,6 +215,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Docker Serisi](https://medium.com/monitisemea/docker-serisi-1-1c6629499b9a) - Alper Kanat
 - [Docker ve PHP](https://mksglu.gitbooks.io/php-ile-docker-gelistirelim/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
 - :movie_camera: [Docker Öğreniyorum](https://www.youtube.com/watch?v=isbsABbZghs&list=PL_Z0TaFYSF3LTfMIRjPUlVoUipQA0JlL2) - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
+- [Yeni Nesil Geliştirme Ortamı Docker Serisi](https://oguzcandemircan.com/yeni-nesil-gelistirme-ortami-bolum-1-docker) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
+- [Docker ile Vue Js Projesi Nasıl Oluşturulur, Geliştirilir ve Yayınlanır?](https://oguzcandemircan.com/docker-ile-vuejs-projesi-nasil-olusturulur-gelistirlir-ve-yayinlanir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
+
 
 
 ### Electron
@@ -362,7 +365,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Laravel Türkiye Forum](http://forum.laravel.gen.tr/)
 - :movie_camera: [Laravel 5.4 Blog Uygulaması](https://www.youtube.com/watch?v=0N1tiGJTuGs&list=PLS-yaST2La_j2_WWCZXQcyYcBp7_7Teaz) - [Halil Coşdu](https://github.com/halilcosdu)
 - [Laravel Hakkında Blog Yazıları](https://burhantanis.com/blog-kod-dunyam) - [Burhan M. TANIŞ](https://burhantanis.com)
-
+- [Laravel Broadcasting Nedir? Laravel ile Gerçek Zamanlı Bildirim Nasıl Gönderilir? ](https://oguzcandemircan.com/laravel-broadcasting-nedir-laravel-echo-redis-socketio-vue-js-docker-kullanarak-gercek-zamanli-bildirim-nasil-gonderilir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
+- [Laravel ile Api Authentication Nasıl Yapılır? Laravel Passport Nedir?](https://oguzcandemircan.com/laravel-ile-api-authentication-nasil-yapilir-laravel-passport-nedir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
 
 ### Machine Learning
 - :movie_camera: [Makine Ögrenmesi Video Blog](https://www.youtube.com/playlist?list=PLRRY18KNZTgUQx8NT_YqCVOyb-VnB79W2)
@@ -561,6 +565,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Vue.js (4) : Vue-cli ile Hazır Gelen Proje Şablonları](https://www.onbirkod.com/vue-js-4-vue-cli-ile-hazir-gelen-proje-sablonlari/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - [Vue.js (5) : Bileşenlerin Birbiriyle Haberleşmesi ve Vuex](https://www.onbirkod.com/vue-js-5-bilesenlerin-birbiriyle-haberlesmesi-ve-vuex/) - [Talat Tüfekçi](https://www.onbirkod.com)
 
+- [VueJS ile Server Side Rendering Nasıl Yapılır?](https://oguzcandemircan.com/vue-js-ile-express-kullanarak-server-side-rendering-nasil-yapilir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
 
 ### WordPress
 - :movie_camera: [WordPress Tema Entegre Eğitim Seti](https://www.youtube.com/watch?v=_wzy8QTfdIw&list=PLzPtCsi6BpOtWhBe9HoKcMv6txGlcLzkm) - [Baran Somaklı](https://twitter.com/baransomakli)
@@ -674,7 +679,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Ruby Türkiye](https://rubytr.slack.com) ([Davetiye Al](http://rubytr.herokuapp.com/))
 - [İzmir Geliştirici & Tasarımcı Topluluğu](https://www.facebook.com/izmirdev/) ([Davetiye Al](https://docs.google.com/forms/d/e/1FAIpQLSdeuvyiBvhP46os0xhPJE4mnTgtHfWpfCp-595VwbES9Qpdfg/viewform))
 - [Az Mesai - Biraz Dev, biraz Ops](http://azmesai.net) ([Davetiye](https://leventyalcin.typeform.com/to/rSbcXD))
-- [açık kaynak](http://acikkaynak.info) ([Davetiye](https://publicslack.com/slacks/acikkaynak/invites/new))
+- [açık kaynak](http://acikkaynak.info) ([Davetiye](https://acikkaynak-slack-inviter.herokuapp.com/))
 - [Laravel İstanbul](http://laravel.istanbul/) ([Kayıt Ol/Giriş Yap](https://join.slack.com/t/laravelistanbul/shared_invite/enQtMjkzMjI0MDQxODE0LTcyOTE3YTVjMGIzZDJjYzBiYTRmOGNmODFiYWU4MDU3Zjc5ZGFiNjRmY2M0OWM2NTU1NmUzNWJmMTE2MTBiMWQ))
 - [NSIstanbul- An iOS and Mac Development Community](http://www.nsistanbul.com/) ([Kayıt Ol/Giriş Yap](http://slack.nsistanbul.com))
 - [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye) ([Kayıt Ol/Giriş Yap](https://goo.gl/forms/13CuWViVwRQw970s2))
