@@ -186,7 +186,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Bootstrap v3.3.7](http://trbootstrap.com/)
 - [CSS Stil Rehberi](https://github.com/omergulcicek/css-stil-rehberi) - [Ömer Gülçiçek](https://twitter.com/omergulcicek)
 - [CSS Grid Layout Rehberi](https://github.com/ahmetozantekin/css-grid-layout-rehberi)
-
+- [CSS Dersleri ve Özellikleri](https://prototurk.com/css) - [Prototürk Topluluğu](https://github.com/tayfunerbilen/prototurk.com)
 
 ### D
 - [D Programlama Dili](http://ddili.org/ders/d/index.html)
@@ -292,6 +292,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [HTML & CSS Eğitim Seti](https://www.youtube.com/watch?v=nLCveeY8CAE&list=PLkAqDZGjJrkB_a1vD4ZUIrY0IPp5LdD5S) - [Web Odası](https://www.youtube.com/channel/UCDAqxRE1wwZ-n5MRq97aEjA)
 - [Front-End Checklist](https://github.com/eraycetinay/Front-End-Checklist)
 - [HEAD](https://github.com/mkg0/HEAD)
+- [HTML Dersleri ve Etiketleri](https://prototurk.com/html) - [Prototürk Topluluğu](https://github.com/tayfunerbilen/prototurk.com)
 
 
 ### Ionic
@@ -433,7 +434,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Laravel 5 Eğitim Seti](https://www.youtube.com/playlist?list=PLZtkgIR0fgTH2bZmadFPgwCTKIctvMwpM) - [Emrah Yüksel](http://www.emrahyuksel.com.tr/)
 - :movie_camera: [PHP Dersleri](https://www.youtube.com/playlist?list=PLZtkgIR0fgTF-J55mgaNUK7uFvzFzgpGa) - [Emrah Yüksel](http://www.emrahyuksel.com.tr/)
 - :movie_camera: [Symfony Dersleri](https://www.youtube.com/playlist?list=PLaRvI2em-MKhStVZX3Cnp_StuhEy5gtNL) [Çağatay Çalı](https://cagatay.me)
-
+- [PHP Dersleri ve Fonksiyonları](https://prototurk.com/php) - [Prototürk Topluluğu](https://github.com/tayfunerbilen/prototurk.com)
 
 ### Python
 - [Python Dersleri - İstihza, Yazbel](https://belgeler.yazbel.com/python-istihza/)
