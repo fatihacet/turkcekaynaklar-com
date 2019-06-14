@@ -92,8 +92,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android KTX Nedir](https://medium.com/@halilozel1903/android-ktx-nedir-84ecbc615bfb) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [App Inventor Nedir?](https://medium.com/@halilozel1903/app-inventor-nedir-c37215ae598a) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Programlamada Relative Layout Kullanımı](https://yazilimsanati.net/android-programlamada-relative-layout-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
-- [Android Programlamada Volley Kullanımı](https://yazilimsanati.net/android-programlamada-volley-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
-- [Android Nedir?](https://yazilimsanati.net/android-nedir/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Android Programlamada Volley Kullanımı](http://yazilimcenneti.net/android-programlamada-volley-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Android Nedir?](http://yazilimcenneti.net/android-nedir/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Android Uygulama : Türkiye'nin İlleri](http://yazilimcenneti.net/android-uygulama-turkiyenin-illeri/) - [https://github.com/halilozel1903]
+
 
 
 ### Angular
