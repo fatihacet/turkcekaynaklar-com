@@ -94,6 +94,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android Programlamada Volley Kullanımı](http://yazilimcenneti.net/android-programlamada-volley-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Nedir?](http://yazilimcenneti.net/android-nedir/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Uygulama : Türkiye'nin İlleri](http://yazilimcenneti.net/android-uygulama-turkiyenin-illeri/) - [https://github.com/halilozel1903]
+- [Android Programlamada Relative Layout Kullanımı
+](http://yazilimcenneti.net/android-programlamada-relative-layout-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Android Bluetooth Kullanımı
+](http://yazilimcenneti.net/android-bluetooth-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 
@@ -356,6 +360,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift is like Kotlin](https://medium.com/@halilozel1903/swift-is-like-kotlin-20f069d322ee) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Giriş Seviyesinde Kotlin Rehberi](https://mksglu.gitbooks.io/kotlin/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
 - :movie_camera: [Profesyonel Kotlin Programlama Dersleri - Türkçe](https://www.youtube.com/playlist?list=PL_Z0TaFYSF3JSzgfU7ApWTUCsbX-Z6mt3) - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
+- [Kotlin’de For Döngüsü](http://yazilimcenneti.net/kotlinde-for-dongusu/)
+- [Kotlin’de Değişken Kavramı
+](http://yazilimcenneti.net/kotlinde-degisken-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 
@@ -530,6 +537,15 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [iOS’de Animasyon Kullanımı](http://yazilimcenneti.net/iosde-animasyon-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Haftalık iOS Blog](https://nscolak.com) - [Çağrı ÇOLAK](https://github.com/cagricolak)
 - [CocoaPods Kullanımı](http://yazilimcenneti.net/iosde-animasyon-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [SFSafariViewController Kullanımı](http://yazilimcenneti.net/sfsafariviewcontroller-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [UIViewController Yaşam Döngüsü](http://yazilimcenneti.net/uiviewcontroller-yasam-dongusu/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Carthage Kullanımı](http://yazilimcenneti.net/carthage-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift’te Continue ve Break](http://yazilimcenneti.net/swiftte-continue-ve-break/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift’te Diziler](http://yazilimcenneti.net/swiftte-diziler/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift’te For Döngüsü](http://yazilimcenneti.net/swiftte-for-dongusu/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift’te While Döngüsü](http://yazilimcenneti.net/swiftte-while-dongusu/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift’te Kontrol Yapıları](http://yazilimcenneti.net/swiftte-kontrol-yapilari/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift’te Değişkenler](http://yazilimcenneti.net/swiftte-degiskenler/) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Titanium Mobile
