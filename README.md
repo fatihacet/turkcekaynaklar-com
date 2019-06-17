@@ -93,7 +93,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [App Inventor Nedir?](https://medium.com/@halilozel1903/app-inventor-nedir-c37215ae598a) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Programlamada Volley Kullanımı](http://yazilimcenneti.net/android-programlamada-volley-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Nedir?](http://yazilimcenneti.net/android-nedir/) - [Halil ÖZEL](https://github.com/halilozel1903)
-- [Android Uygulama : Türkiye'nin İlleri](http://yazilimcenneti.net/android-uygulama-turkiyenin-illeri/) - [https://github.com/halilozel1903]
+- [Android Uygulama : Türkiye'nin İlleri](http://yazilimcenneti.net/android-uygulama-turkiyenin-illeri/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Programlamada Relative Layout Kullanımı](http://yazilimcenneti.net/android-programlamada-relative-layout-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Bluetooth Kullanımı](http://yazilimcenneti.net/android-bluetooth-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 
