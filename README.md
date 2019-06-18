@@ -543,6 +543,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift’te While Döngüsü](http://yazilimcenneti.net/swiftte-while-dongusu/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Swift’te Kontrol Yapıları](http://yazilimcenneti.net/swiftte-kontrol-yapilari/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Swift’te Değişkenler](http://yazilimcenneti.net/swiftte-degiskenler/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Sign in with Apple Nasıl Kullanılır?](https://yusufozgul.com/sign-in-with-apple-nasil-kullanilir/) - [Yusuf Özgül](https://yusufozgul.com)
+- [Swift UIMotion Effect](https://yusufozgul.com/swift-uimotioneffect-kullanimi/) - [Yusuf Özgül](https://yusufozgul.com)
+- [SwiftUI ilk bakış](https://yusufozgul.com/swiftuia-ilk-bakis/) - [Yusuf Özgül](https://yusufozgul.com)
 
 
 ### Titanium Mobile
