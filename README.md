@@ -137,7 +137,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Behavior Driven Development
-- [BDD Giris](https://selimober.com/bdd-ye-giris/)
+- 
 
 
 ### C
@@ -533,7 +533,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Mini iOS Apps 1 : Catch The Fruits](https://medium.com/nsistanbul/mini-ios-apps-catch-the-fruits-7f745283f9d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Mini iOS Apps : Color Converter](https://medium.com/nsistanbul/mini-ios-apps-color-converter-daffcc9ca7ea) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [iOS’de Animasyon Kullanımı](http://yazilimcenneti.net/iosde-animasyon-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
-- [Haftalık iOS Blog](https://nscolak.com) - [Çağrı ÇOLAK](https://github.com/cagricolak)
 - [CocoaPods Kullanımı](http://yazilimcenneti.net/iosde-animasyon-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [SFSafariViewController Kullanımı](http://yazilimcenneti.net/sfsafariviewcontroller-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [UIViewController Yaşam Döngüsü](http://yazilimcenneti.net/uiviewcontroller-yasam-dongusu/) - [Halil ÖZEL](https://github.com/halilozel1903)
