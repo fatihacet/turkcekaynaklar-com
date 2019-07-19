@@ -83,7 +83,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Android
 - [Mobilhanem](https://www.mobilhanem.com/)
-- [Junior Android Geliştiricilere Tavsiyeler](https://github.com/muratcanbur/medium-yazilarim) - [Murat Can BUR](https://twitter.com/muratcanbur)
 - [Android Günlüğü](http://yusufcakal.com/) - Yusuf Çakal
 - [Android Uygulamaya “Facebook ile Giriş” Ekleme](https://medium.com/@yusufcakal/android-uygulamaya-facebook-ile-giri%C5%9F-ekleme-14940166eb22) - Yusuf Çakal
 - [umiitkose.com Android Blog](http://www.umiitkose.com/android) - [Ümit KÖSE](https://twitter.com/umiitkose)
