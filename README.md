@@ -433,6 +433,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Videolu ve Yazılı PHP Dersleri](http://www.erbilen.net/kategori/ders/php/) - [Tayfun Erbilen](http://www.erbilen.net)
 - :movie_camera: [PHP Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-K_h0rC656Why8nJPF_dIO) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 - [Usulüne Uygun PHP](http://kulekci.net/php-the-right-way/) - [Haydar Külekçi](http://kulekci.net/)
+- [Galat-ı Meşhur (Meşhur Hatalar)](https://github.com/umutphp/phpthewrongway) - [Umut Işık](https://umuts.info)
 - :movie_camera: [Laravel 5 Eğitim Seti](https://www.youtube.com/playlist?list=PLZtkgIR0fgTH2bZmadFPgwCTKIctvMwpM) - [Emrah Yüksel](http://www.emrahyuksel.com.tr/)
 - :movie_camera: [PHP Dersleri](https://www.youtube.com/playlist?list=PLZtkgIR0fgTF-J55mgaNUK7uFvzFzgpGa) - [Emrah Yüksel](http://www.emrahyuksel.com.tr/)
 - :movie_camera: [Symfony Dersleri](https://www.youtube.com/playlist?list=PLaRvI2em-MKhStVZX3Cnp_StuhEy5gtNL) [Çağatay Çalı](https://cagatay.me)
