@@ -639,7 +639,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Yazılım Üzerine Yazılmış En İyi 5 Kitap](https://www.onbirkod.com/yazilim-uzerine-yazilmis-en-iyi-5-kitap/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - [Apache JMeter: Web Uygulamamızın Yük Testlerini Nasıl Yaparız? (1): Giriş, Kurulum](https://www.onbirkod.com/apache-jmeter-web-uygulamamizin-yuk-testlerini-nasil-yapariz-1/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - [Apache JMeter: Web Uygulamamızın Yük Testlerini Nasıl Yaparız? (2): Basit Testler](https://www.onbirkod.com/apache-jmeter-web-uygulamamizin-yuk-testlerini-nasil-yapariz-2/) - [Talat Tüfekçi](https://www.onbirkod.com)
-- [hacker-laws (Programcıların faydalı bulacağı yasalar, teoriler, prensipler ve desenler.)](https://github.com/dwmkerr/hacker-laws) - [Umut Işık](https://umuts.info)
+- [hacker-laws (Programcıların faydalı bulacağı yasalar, teoriler, prensipler ve desenler.)](http://umuts.info/hacker-laws-tr/) - [Umut Işık](https://umuts.info)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
