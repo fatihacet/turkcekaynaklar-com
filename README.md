@@ -439,6 +439,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [N11 PHP API](https://github.com/ismail0234/n11-php-api) - [İsmail Satılmış](https://github.com/ismail0234)
 - [Aras Kargo PHP API](https://github.com/ismail0234/aras-kargo-php-api) - [İsmail Satılmış](https://github.com/ismail0234)
 - [BizimHesap EFatura PHP API](https://github.com/ismail0234/bizimhesap-efatura-php-api) - [İsmail Satılmış](https://github.com/ismail0234)
+- [Galat-ı Meşhur (Meşhur Hatalar)](https://phpthewrongway.com/tr/) - [Umut Işık](https://umuts.info)
 
 ### Python
 - [Python Dersleri - İstihza, Yazbel](https://belgeler.yazbel.com/python-istihza/)
@@ -638,6 +639,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Yazılım Üzerine Yazılmış En İyi 5 Kitap](https://www.onbirkod.com/yazilim-uzerine-yazilmis-en-iyi-5-kitap/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - [Apache JMeter: Web Uygulamamızın Yük Testlerini Nasıl Yaparız? (1): Giriş, Kurulum](https://www.onbirkod.com/apache-jmeter-web-uygulamamizin-yuk-testlerini-nasil-yapariz-1/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - [Apache JMeter: Web Uygulamamızın Yük Testlerini Nasıl Yaparız? (2): Basit Testler](https://www.onbirkod.com/apache-jmeter-web-uygulamamizin-yuk-testlerini-nasil-yapariz-2/) - [Talat Tüfekçi](https://www.onbirkod.com)
+- [hacker-laws (Programcıların faydalı bulacağı yasalar, teoriler, prensipler ve desenler.)](http://umuts.info/hacker-laws-tr/) - [Umut Işık](https://umuts.info)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
