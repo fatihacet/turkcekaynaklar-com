@@ -101,6 +101,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Angular
 - [yazilimgunlugu.org](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/angular-2-4-turkce/)
 - [Angular 2 Dersleri](http://ilkaygunel.com/blog/2017/angular-2-tutorials/)
+- [Kodumunblogu - Angular Türkçe Dersler ve Anlatımlar](https://kodumunblogu.net/category/angular)
+- [Angular Türkiye Github](https://github.com/MehmetSert/Angular-Turkiye)
+- [Angular'da çoklu dil nasıl yapılır?](https://kodumunblogu.net/detail/angularda-coklu-dil-i18n-nasil-yapilir)
+- [Angular Universal Kullanımı - SEO nasıl yapılır?](https://kodumunblogu.net/detail/angularda-seo-server-side-rendering-ssr-angular-universala-giris)
+- [Angular Lazy Loading Modules nedir? Nasıl kullanılır?](https://kodumunblogu.net/detail/angular-lazy-loading-modules-nedir-nasil-kullanilir-acilis-hizini-etkiler-mi)
 
 
 ### ASP.NET
@@ -370,6 +375,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Laravel Hakkında Blog Yazıları](https://burhantanis.com/blog-kod-dunyam) - [Burhan M. TANIŞ](https://burhantanis.com)
 - [Laravel Broadcasting Nedir? Laravel ile Gerçek Zamanlı Bildirim Nasıl Gönderilir? ](https://oguzcandemircan.com/laravel-broadcasting-nedir-laravel-echo-redis-socketio-vue-js-docker-kullanarak-gercek-zamanli-bildirim-nasil-gonderilir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
 - [Laravel ile Api Authentication Nasıl Yapılır? Laravel Passport Nedir?](https://oguzcandemircan.com/laravel-ile-api-authentication-nasil-yapilir-laravel-passport-nedir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
+- [Laravel Türkçe Makaleler & Anlatımlar](https://kodumunblogu.net/category/laravel)
+- [Laravel'de Pusher Kullanımı](https://kodumunblogu.net/detail/laravelde-pusher-kullanimi)
+- [Laravel'de Unit Test Kullanımı](https://kodumunblogu.net/detail/laravelde-unit-test-kullanimi)
+- [Laravel'de Transaction Kullanımı](https://kodumunblogu.net/detail/laravelde-transaction-kullanimi)
+- [Laravel'de Swagger ile Rest Api Dökümantasyonu Hazırlama](https://kodumunblogu.net/detail/laravelde-swagger-ile-rest-api-dokumantasyonu-hazirlama)
 
 ### Machine Learning
 - :movie_camera: [Makine Ögrenmesi Video Blog](https://www.youtube.com/playlist?list=PLRRY18KNZTgUQx8NT_YqCVOyb-VnB79W2)
