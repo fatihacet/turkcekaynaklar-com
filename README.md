@@ -653,6 +653,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Lemi'nin Not Defteri](https://soundcloud.com/leminin-not-defteri)
 - [Yazan ve Yöneten](https://itunes.apple.com/tr/podcast/yazan-ve-y%C3%B6neten/id1434970773?mt=2&i=1000420481864)
 - [Girişimci Muhabbeti](https://www.girisimcimuhabbeti.com/)
+- [kodpod](https://kodpod.live/)
+- [Dört Podcast](https://open.spotify.com/show/1icmVFh9n6IbTFcuqoW1qn?si=dProSXE-QxKekOem--jrgg)
 
 ### YouTube Kanalları
 - [Doğukan Güven Nomak](https://www.youtube.com/channel/UCbu25feEIe6fY9fZx8BCMSA/videos)
@@ -686,6 +688,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [fehmiuyarnet](https://www.youtube.com/channel/UCBdyRvz9ixmNWHwj4cCiuHA/featured)
 - [Uçbirim](https://www.youtube.com/channel/UCpo-fv3tOxLwrZD14it5_4w/videos)
 - [Eser Özvataf](https://www.youtube.com/channel/UCS3eVZDirUNTFrteoJsLP4g)
+- [HardwareAndro](https://www.youtube.com/channel/UCdUaAKTLJrPZFStzEJnpQAg)
 
 
 ### Slack Grupları
