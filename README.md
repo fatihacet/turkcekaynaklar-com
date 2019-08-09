@@ -576,12 +576,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Herkes için Vim! #1 Temel komutlar ve mekanikler](https://www.youtube.com/watch?v=tvRnKOA3sQs)
 - :movie_camera: [Herkes için Vim! #2 Başka temel komutlar ve mekanikler](https://www.youtube.com/watch?v=nZZsjDLMAlE)
 - :movie_camera: [Herkes için Vim! #3 Vim'i kişiselleştirmek](https://www.youtube.com/watch?v=xdOBUdDfx_Q)
-- :movie_camera: [İmleç hareketleri](https://www.youtube.com/watch?v=vwRNS3z9nLU) - [selmansamet](https://github.com/selmansamet)
-- :movie_camera: [Girdi (insert) modu](https://www.youtube.com/watch?v=Gb01mm88nRg) - [selmansamet](https://github.com/selmansamet)
-- :movie_camera: [Düzenleme işlemleri](https://www.youtube.com/watch?v=-BsmWotiokk) - [selmansamet](https://github.com/selmansamet)
-- :movie_camera: [İşaretleyiciler (markers)](https://www.youtube.com/watch?v=eg389V0wkQ4) - [selmansamet](https://github.com/selmansamet)
-- :movie_camera: [Yazmaçlar (registers)](https://www.youtube.com/watch?v=eRFyh8xVon8) - [selmansamet](https://github.com/selmansamet)
-- [Vim: Türkçe (twitter)](https://twitter.com/vimturkce)
+- :movie_camera: [Vim: Türkçe Eğitim Serisi](https://www.youtube.com/watch?v=jFG5nA5r1bg&list=PL10LEMb2yDT0DuX11uAXvWu9QghAZMD2P)
 
 ### Vue.js
 - :movie_camera: [VueJS Türkçe Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) - [Fatih Acet](https://twitter.com/fatihacet)
@@ -656,6 +651,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Apache JMeter: Web Uygulamamızın Yük Testlerini Nasıl Yaparız? (1): Giriş, Kurulum](https://www.onbirkod.com/apache-jmeter-web-uygulamamizin-yuk-testlerini-nasil-yapariz-1/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - [Apache JMeter: Web Uygulamamızın Yük Testlerini Nasıl Yaparız? (2): Basit Testler](https://www.onbirkod.com/apache-jmeter-web-uygulamamizin-yuk-testlerini-nasil-yapariz-2/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - [hacker-laws (Programcıların faydalı bulacağı yasalar, teoriler, prensipler ve desenler.)](http://umuts.info/hacker-laws-tr/) - [Umut Işık](https://umuts.info)
+- [@vimturkce (Vim kullanımı ile ilgili GIF paylaşımları)](https://twitter.com/vimturkce)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
