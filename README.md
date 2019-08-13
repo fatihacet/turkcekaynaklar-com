@@ -651,7 +651,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Apache JMeter: Web Uygulamamızın Yük Testlerini Nasıl Yaparız? (2): Basit Testler](https://www.onbirkod.com/apache-jmeter-web-uygulamamizin-yuk-testlerini-nasil-yapariz-2/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - [hacker-laws (Programcıların faydalı bulacağı yasalar, teoriler, prensipler ve desenler.)](http://umuts.info/hacker-laws-tr/) - [Umut Işık](https://umuts.info)
 - [Dependency Inversion Principle - DIP – IoC – DI ve IoC container kavramları](https://ekinyucell.wordpress.com/2017/02/09/dip-ioc-di-ve-ioc-container-kavramlari/) - [Ekin Yücel](https://ekinyucell.wordpress.com)
-
+- [Türkay Ürkmez](https://www.turkayurkmez.com/)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
