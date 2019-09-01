@@ -348,6 +348,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JavaScript hap yazısı : == ve === arasındaki farklar, JavaScript’te eşitlik](https://hurriyetlabs.com/javascript-hap-yaz%C4%B1s%C4%B1-ve-aras%C4%B1ndaki-farklar-javascriptte-e%C5%9Fitlik-b7cd20f91a) - [Murat Doğan](https://twitter.com/murat_dogan17)
 - [JavaScript'te "Değişmezlik"](https://medium.com/@oguzkilic/javascriptte-de%C4%9Fi%C5%9Fmezlik-11b895a730d8) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
 - [ES6 Türkçe Kaynaklar Listesi](https://github.com/fatihhayri/es6-turkce-kaynaklar) - [Fatih Hayrioğlu](https://twitter.com/fatihhayri)
+- [TimerJS Zamanı Geriye Saydırma](https://github.com/ismail0234/timer.date.js) - [İsmail Satilmiş](https://github.com/ismail0234)
 
 
 ### jQuery
@@ -576,7 +577,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Herkes için Vim! #1 Temel komutlar ve mekanikler](https://www.youtube.com/watch?v=tvRnKOA3sQs)
 - :movie_camera: [Herkes için Vim! #2 Başka temel komutlar ve mekanikler](https://www.youtube.com/watch?v=nZZsjDLMAlE)
 - :movie_camera: [Herkes için Vim! #3 Vim'i kişiselleştirmek](https://www.youtube.com/watch?v=xdOBUdDfx_Q)
-
+- :movie_camera: [Vim: Türkçe Eğitim Serisi](https://www.youtube.com/watch?v=jFG5nA5r1bg&list=PL10LEMb2yDT0DuX11uAXvWu9QghAZMD2P)
 
 ### Vue.js
 - :movie_camera: [VueJS Türkçe Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) - [Fatih Acet](https://twitter.com/fatihacet)
@@ -590,6 +591,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Vue.js (4) : Vue-cli ile Hazır Gelen Proje Şablonları](https://www.onbirkod.com/vue-js-4-vue-cli-ile-hazir-gelen-proje-sablonlari/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - [Vue.js (5) : Bileşenlerin Birbiriyle Haberleşmesi ve Vuex](https://www.onbirkod.com/vue-js-5-bilesenlerin-birbiriyle-haberlesmesi-ve-vuex/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - [VueJS ile Server Side Rendering Nasıl Yapılır?](https://oguzcandemircan.com/vue-js-ile-express-kullanarak-server-side-rendering-nasil-yapilir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
+
 
 ### WordPress
 - :movie_camera: [WordPress Tema Entegre Eğitim Seti](https://www.youtube.com/watch?v=_wzy8QTfdIw&list=PLzPtCsi6BpOtWhBe9HoKcMv6txGlcLzkm) - [Baran Somaklı](https://twitter.com/baransomakli)
@@ -652,6 +654,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [hacker-laws (Programcıların faydalı bulacağı yasalar, teoriler, prensipler ve desenler.)](http://umuts.info/hacker-laws-tr/) - [Umut Işık](https://umuts.info)
 - [Dependency Inversion Principle - DIP – IoC – DI ve IoC container kavramları](https://ekinyucell.wordpress.com/2017/02/09/dip-ioc-di-ve-ioc-container-kavramlari/) - [Ekin Yücel](https://ekinyucell.wordpress.com)
 - [Türkay Ürkmez](https://www.turkayurkmez.com/)
+- [@vimturkce (Vim kullanımı ile ilgili GIF paylaşımları)](https://twitter.com/vimturkce)
+
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
