@@ -562,7 +562,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift UIMotion Effect](https://yusufozgul.com/swift-uimotioneffect-kullanimi/) - [Yusuf Özgül](https://yusufozgul.com)
 - [SwiftUI'a ilk bakış](https://yusufozgul.com/swiftuia-ilk-bakis/) - [Yusuf Özgül](https://yusufozgul.com)
 - [iOS Banner Reklam](https://medium.com/@halilozel1903/ios-banner-reklam-9a9726318c5a) - [Halil ÖZEL](https://github.com/halilozel1903)
-- [iOS Uygulama : Türkiye’nin İlleri](https://medium.com/@halilozel1903/ios-uygulama-türkiyenin-i̇lleri-cfc1dc9a5442) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [iOS Uygulama : Türkiye’nin İlleri](https://medium.com/@halilozel1903/ios-uygulama-t%C3%BCrkiyenin-i%CC%87lleri-cfc1dc9a5442) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 
