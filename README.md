@@ -662,6 +662,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Dependency Inversion Principle - DIP – IoC – DI ve IoC container kavramları](https://ekinyucell.wordpress.com/2017/02/09/dip-ioc-di-ve-ioc-container-kavramlari/) - [Ekin Yücel](https://ekinyucell.wordpress.com)
 - [Türkay Ürkmez](https://www.turkayurkmez.com/)
 - [@vimturkce (Vim kullanımı ile ilgili GIF paylaşımları)](https://twitter.com/vimturkce)
+- [Türkçe Doküman](https://turkcedokuman.com/)
 
 
 ### Podcast Yayınları
@@ -678,6 +679,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Girişimci Muhabbeti](https://www.girisimcimuhabbeti.com/)
 - [kodpod](https://kodpod.live/)
 - [Dört Podcast](https://open.spotify.com/show/1icmVFh9n6IbTFcuqoW1qn?si=dProSXE-QxKekOem--jrgg)
+- [Turuncu Pasaport](https://podcasts.apple.com/tr/podcast/turuncu-pasaport/id1435681904)
 
 ### YouTube Kanalları
 - [Doğukan Güven Nomak](https://www.youtube.com/channel/UCbu25feEIe6fY9fZx8BCMSA/videos)
