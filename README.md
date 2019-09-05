@@ -95,6 +95,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android Uygulama : Türkiye'nin İlleri](http://yazilimcenneti.net/android-uygulama-turkiyenin-illeri/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Programlamada Relative Layout Kullanımı](http://yazilimcenneti.net/android-programlamada-relative-layout-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Bluetooth Kullanımı](http://yazilimcenneti.net/android-bluetooth-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Android Uygulama Bileşenleri](https://yazilimcenneti.net/android-uygulama-bilesenleri/) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 
@@ -365,6 +366,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Profesyonel Kotlin Programlama Dersleri - Türkçe](https://www.youtube.com/playlist?list=PL_Z0TaFYSF3JSzgfU7ApWTUCsbX-Z6mt3) - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
 - [Kotlin’de For Döngüsü](http://yazilimcenneti.net/kotlinde-for-dongusu/)- [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin’de Değişken Kavramı](http://yazilimcenneti.net/kotlinde-degisken-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin’de Operatörler](https://yazilimcenneti.net/kotlinde-operatorler/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin’de Range Kavramı](https://yazilimcenneti.net/kotlinde-range-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin Vs Java](https://medium.com/@halilozel1903/kotlin-vs-java-719902655eb1) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 
@@ -558,6 +562,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Sign in with Apple Nasıl Kullanılır?](https://yusufozgul.com/sign-in-with-apple-nasil-kullanilir/) - [Yusuf Özgül](https://yusufozgul.com)
 - [Swift UIMotion Effect](https://yusufozgul.com/swift-uimotioneffect-kullanimi/) - [Yusuf Özgül](https://yusufozgul.com)
 - [SwiftUI'a ilk bakış](https://yusufozgul.com/swiftuia-ilk-bakis/) - [Yusuf Özgül](https://yusufozgul.com)
+- [iOS Banner Reklam](https://medium.com/@halilozel1903/ios-banner-reklam-9a9726318c5a) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [iOS Uygulama : Türkiye’nin İlleri](https://medium.com/@halilozel1903/ios-uygulama-t%C3%BCrkiyenin-i%CC%87lleri-cfc1dc9a5442) - [Halil ÖZEL](https://github.com/halilozel1903)
+
 
 
 ### Titanium Mobile
