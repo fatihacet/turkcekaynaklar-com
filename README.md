@@ -663,7 +663,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Türkay Ürkmez](https://www.turkayurkmez.com/)
 - [@vimturkce (Vim kullanımı ile ilgili GIF paylaşımları)](https://twitter.com/vimturkce)
 - [Türkçe Doküman](https://turkcedokuman.com/)
-- [Backend Best Practices](http://umuts.info/backend-best-practices/) - [Umut Işık](https://umuts.info)
+- [Backend Best Practices (Arka uç geliştirme hakkında örnek yöntemlerin derlendiği güncellenen bir belge)](http://umuts.info/backend-best-practices/) - [Umut Işık](https://umuts.info)
 
 
 ### Podcast Yayınları
