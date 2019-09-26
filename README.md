@@ -96,6 +96,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android Programlamada Relative Layout Kullanımı](http://yazilimcenneti.net/android-programlamada-relative-layout-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Bluetooth Kullanımı](http://yazilimcenneti.net/android-bluetooth-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Uygulama Bileşenleri](https://yazilimcenneti.net/android-uygulama-bilesenleri/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Android Programlama Linear Layout Kullanımı](https://yazilimcenneti.net/android-programlama-linear-layout-kullanimi/) -[Halil ÖZEL](https://github.com/halilozel1903)
+- [Android Programlama Frame Layout Kullanımı](https://yazilimcenneti.net/android-programlama-frame-layout-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 
@@ -260,6 +262,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Linux Manjaro Gnome 3.22 Çözümleri](https://www.mkoseoglu.com/linux-manjaro-gnome-3-22-cozumleri) - [Mert Köseoğlu](https://twitter.com/mksglu)
 - [Kali Linux ile Temel Linux Eğitimi](https://github.com/taylanbildik/Linux_Dersleri) - Taylan Özgür Bildik
 - [GNU/Linux Komutları](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf)
+- [Kali Linux Nedir?](https://medium.com/@halilozel1903/kali-linux-nedir-5cb0ac4bfb8c) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Go
@@ -369,6 +372,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Kotlin’de Operatörler](https://yazilimcenneti.net/kotlinde-operatorler/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin’de Range Kavramı](https://yazilimcenneti.net/kotlinde-range-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin Vs Java](https://medium.com/@halilozel1903/kotlin-vs-java-719902655eb1) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin’de Null Kavramı](https://yazilimcenneti.net/kotlinde-null-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin’de Konsoldan Veri Almak](https://yazilimcenneti.net/kotlinde-konsoldan-veri-almak/) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 
@@ -461,6 +466,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Python Dersleri Github - İstihza, Yazbel](https://github.com/yazbel/python-istihza)
 - :movie_camera: [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR) - [Mustafa Murat Coşkun](https://github.com/mustafamuratcoskun)
 - [Türkçe Python Kaynakları](https://github.com/ibrahimirdem/turkce-python-kaynaklari)
+- [Python Programlama Dili](https://medium.com/@halilozel1903/python-programlama-dili-1f1d88ef1e1d) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Rails
@@ -564,6 +570,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [SwiftUI'a ilk bakış](https://yusufozgul.com/swiftuia-ilk-bakis/) - [Yusuf Özgül](https://yusufozgul.com)
 - [iOS Banner Reklam](https://medium.com/@halilozel1903/ios-banner-reklam-9a9726318c5a) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [iOS Uygulama : Türkiye’nin İlleri](https://medium.com/@halilozel1903/ios-uygulama-t%C3%BCrkiyenin-i%CC%87lleri-cfc1dc9a5442) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Swift’te Set Kullanımı](https://yazilimcenneti.net/swiftte-set-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 
