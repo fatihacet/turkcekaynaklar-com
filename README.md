@@ -406,7 +406,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Nginx
 - [Nginx Nedir?](https://medium.com/house-of-apps/nginx-nedir-1b15933beaf4) - Ahmet Deniz
-- [Nginx Yapılandırma Örnekleri](https://mertcangokgoz.com/category/web-sunuculari/nginx/) - Mertcan GÖKGÖZ
 - [Nginx Üzerinde Web API Servisi Çalıştırmak](http://www.buraksenyurt.com/post/nginx-uzerinde-web-api-servisi-calistirmak) - Burak Selim Şenyurt
 - :movie_camera: [Linux Server üzerinde NodeJS Uygulaması Kurulumu (nginx - pm2)](https://www.youtube.com/watch?v=-uPrwyzhRck) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 
@@ -501,7 +500,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
 - [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details) - [Uğur Özyılmazel](https://twitter.com/vigobronx)
 - [Rubygem Hazırlıyoruz](http://ugur.ozyilmazel.com/blog/tr/2014/09/23/rubygem-hazirliyoruz/) - [Uğur Özyılmazel](https://twitter.com/vigobronx)
-- :movie_camera: [Adım adım Ruby](https://www.youtube.com/playlist?list=PLqgPe8mz0dh7pKD5AnNRjveNKuBhnfaKw) - [Ekrem Karaca](https://twitter.com/ekremcodes)
+- :movie_camera: [Adım adım Ruby](https://www.youtube.com/playlist?list=PLqgPe8mz0dh7pKD5AnNRjveNKuBhnfaKw)
 - [Gemfile nedir?](http://kesk.in/2016/gemfile-nedir/) - [Sinan Keskin](https://twitter.com/skesk_in)
 - [Ruby ile Web Scraping'e Giriş](https://emredurukn.github.io/2018/11/09/ruby-ile-web-scrapinge-giris.html) - [Emre Durukan](https://twitter.com/emredurukn)
 
@@ -635,7 +634,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [On İki Faktör Uygulaması](https://12factor.net/tr/)
 - [Clean Code'dan Notlar](http://busrauzun.com/clean-code-kitabindan-notlar.html) - [Büşra Uzun](http://busrauzun.com/)
 - [Sıradışılıkla Kazanmak (Beating the Averages) - Paul Graham](https://ileriseviye.wordpress.com/2004/01/01/siradisilikla-kazanmak/)
-- [Jekyll İle Github Üzerinde Ücretsiz Web Sitesi Barındırma](https://mertcangokgoz.com/category/jekyll/) - Mertcan GÖKGÖZ
 - [WhatsApp Altyapısına Teknik Bir Bakış](https://cliexperiences.wordpress.com/2017/08/01/whatsapp-altyapisina-teknik-bir-bakis/)
 - [Stack ve Heap Kavramları](https://medium.com/t%C3%BCrkiye/stack-ve-heap-kavram%C4%B1-59adcb29d454) - [Yusuf Çakal](http://yusufcakal.com/)
 - [Yazılım Blogları Türkiye Facebook Grubu](https://www.facebook.com/groups/yazilimbloglariturkiye/)
