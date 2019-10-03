@@ -353,6 +353,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JavaScript'te "Değişmezlik"](https://medium.com/@oguzkilic/javascriptte-de%C4%9Fi%C5%9Fmezlik-11b895a730d8) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
 - [ES6 Türkçe Kaynaklar Listesi](https://github.com/fatihhayri/es6-turkce-kaynaklar) - [Fatih Hayrioğlu](https://twitter.com/fatihhayri)
 - [TimerJS Zamanı Geriye Saydırma](https://github.com/ismail0234/timer.date.js) - [İsmail Satilmiş](https://github.com/ismail0234)
+- [JavaScript için uyarlanmış Temiz Kod kavramları](https://github.com/umutphp/clean-code-javascript-tr) - [Umut Işık](https://umuts.info)
 
 
 ### jQuery
