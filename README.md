@@ -412,7 +412,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Nginx
 - [Nginx Nedir?](https://medium.com/house-of-apps/nginx-nedir-1b15933beaf4) - Ahmet Deniz
-- [Nginx Yapılandırma Örnekleri](https://mertcangokgoz.com/category/web-sunuculari/nginx/) - Mertcan GÖKGÖZ
 - [Nginx Üzerinde Web API Servisi Çalıştırmak](http://www.buraksenyurt.com/post/nginx-uzerinde-web-api-servisi-calistirmak) - Burak Selim Şenyurt
 - :movie_camera: [Linux Server üzerinde NodeJS Uygulaması Kurulumu (nginx - pm2)](https://www.youtube.com/watch?v=-uPrwyzhRck) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 
@@ -456,7 +455,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Usulüne Uygun PHP](http://kulekci.net/php-the-right-way/) - [Haydar Külekçi](http://kulekci.net/)
 - :movie_camera: [Laravel 5 Eğitim Seti](https://www.youtube.com/playlist?list=PLZtkgIR0fgTH2bZmadFPgwCTKIctvMwpM) - [Emrah Yüksel](http://www.emrahyuksel.com.tr/)
 - :movie_camera: [PHP Dersleri](https://www.youtube.com/playlist?list=PLZtkgIR0fgTF-J55mgaNUK7uFvzFzgpGa) - [Emrah Yüksel](http://www.emrahyuksel.com.tr/)
-- :movie_camera: [Symfony Dersleri](https://www.youtube.com/playlist?list=PLaRvI2em-MKhStVZX3Cnp_StuhEy5gtNL) [Çağatay Çalı](https://cagatay.me)
+- :movie_camera: [Symfony Dersleri](https://www.youtube.com/playlist?list=PLaRvI2em-MKhStVZX3Cnp_StuhEy5gtNL) [Çağatay Çalı](https://cagatay.me)
 - [N11 PHP API](https://github.com/ismail0234/n11-php-api) - [İsmail Satılmış](https://github.com/ismail0234)
 - [Aras Kargo PHP API](https://github.com/ismail0234/aras-kargo-php-api) - [İsmail Satılmış](https://github.com/ismail0234)
 - [BizimHesap EFatura PHP API](https://github.com/ismail0234/bizimhesap-efatura-php-api) - [İsmail Satılmış](https://github.com/ismail0234)
@@ -465,7 +464,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Python
 - [Python Dersleri - İstihza, Yazbel](https://belgeler.yazbel.com/python-istihza/)
 - [Python Dersleri Github - İstihza, Yazbel](https://github.com/yazbel/python-istihza)
-- :movie_camera: [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR) - [Mustafa Murat Coşkun](https://github.com/mustafamuratcoskun)
+- :movie_camera: [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR) - [Mustafa Murat Coşkun](https://github.com/mustafamuratcoskun)
 - [Türkçe Python Kaynakları](https://github.com/ibrahimirdem/turkce-python-kaynaklari)
 - [Python Programlama Dili](https://medium.com/@halilozel1903/python-programlama-dili-1f1d88ef1e1d) - [Halil ÖZEL](https://github.com/halilozel1903)
 
@@ -474,7 +473,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Haydi Rails Yazalım](https://www.youtube.com/watch?v=wjEVDmHxrTk&list=PLR-hVfRDr2Mp8cDcbWZ6TX2YVTM0vECz2) - [Anıl İyidoğan](https://twitter.com/lifeis00FF00)
 - [Ruby on Rails ile kapsamlı bir web projesi geliştirmek](https://mertbulan.com/2016/10/08/ruby-on-rails-ile-kapsamli-bir-web-projesi-gelistirmek/) - [Mert Bulan](http://twitter.com/mertbulan)
 - :movie_camera: [Ruby on Rails İpuçları](https://www.youtube.com/playlist?list=PLRFrHX5qAOJXUVVU0gBv03fQSespreX3E) - [Mert Bulan](http://twitter.com/mertbulan)
-- :movie_camera: [Adım adım Rails 5](https://www.youtube.com/playlist?list=PLqgPe8mz0dh6ga67CZ59oPk8IcPnFerWd) - [Ekrem Karaca](https://twitter.com/ekremcodes)
+- :movie_camera: [Adım adım Rails 5](https://www.youtube.com/playlist?list=PLqgPe8mz0dh6ga67CZ59oPk8IcPnFerWd)
 
 
 ### React
@@ -508,7 +507,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
 - [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details) - [Uğur Özyılmazel](https://twitter.com/vigobronx)
 - [Rubygem Hazırlıyoruz](http://ugur.ozyilmazel.com/blog/tr/2014/09/23/rubygem-hazirliyoruz/) - [Uğur Özyılmazel](https://twitter.com/vigobronx)
-- :movie_camera: [Adım adım Ruby](https://www.youtube.com/playlist?list=PLqgPe8mz0dh7pKD5AnNRjveNKuBhnfaKw) - [Ekrem Karaca](https://twitter.com/ekremcodes)
+- :movie_camera: [Adım adım Ruby](https://www.youtube.com/playlist?list=PLqgPe8mz0dh7pKD5AnNRjveNKuBhnfaKw)
 - [Gemfile nedir?](http://kesk.in/2016/gemfile-nedir/) - [Sinan Keskin](https://twitter.com/skesk_in)
 - [Ruby ile Web Scraping'e Giriş](https://emredurukn.github.io/2018/11/09/ruby-ile-web-scrapinge-giris.html) - [Emre Durukan](https://twitter.com/emredurukn)
 
@@ -643,7 +642,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [On İki Faktör Uygulaması](https://12factor.net/tr/)
 - [Clean Code'dan Notlar](http://busrauzun.com/clean-code-kitabindan-notlar.html) - [Büşra Uzun](http://busrauzun.com/)
 - [Sıradışılıkla Kazanmak (Beating the Averages) - Paul Graham](https://ileriseviye.wordpress.com/2004/01/01/siradisilikla-kazanmak/)
-- [Jekyll İle Github Üzerinde Ücretsiz Web Sitesi Barındırma](https://mertcangokgoz.com/category/jekyll/) - Mertcan GÖKGÖZ
 - [WhatsApp Altyapısına Teknik Bir Bakış](https://cliexperiences.wordpress.com/2017/08/01/whatsapp-altyapisina-teknik-bir-bakis/)
 - [Stack ve Heap Kavramları](https://medium.com/t%C3%BCrkiye/stack-ve-heap-kavram%C4%B1-59adcb29d454) - [Yusuf Çakal](http://yusufcakal.com/)
 - [Yazılım Blogları Türkiye Facebook Grubu](https://www.facebook.com/groups/yazilimbloglariturkiye/)
@@ -689,6 +687,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [kodpod](https://kodpod.live/)
 - [Dört Podcast](https://open.spotify.com/show/1icmVFh9n6IbTFcuqoW1qn?si=dProSXE-QxKekOem--jrgg)
 - [Turuncu Pasaport](https://podcasts.apple.com/tr/podcast/turuncu-pasaport/id1435681904)
+- [1 Proje 1 İnsan](https://open.spotify.com/show/6MxKBgJaqmgcHcZyJDKMHm)
+- [Made In Turkey](https://open.spotify.com/show/0KrspleijwAwVpD3u4vYha?si=nBIYvzp5TaWkdSbL6YRBkg)
+- [Sıfır](https://open.spotify.com/show/1kHzNwXOoppK4xlRpl0dq6?si=RCIBACNXQ-KngXJKp1Wbow)
 
 ### YouTube Kanalları
 - [Doğukan Güven Nomak](https://www.youtube.com/channel/UCbu25feEIe6fY9fZx8BCMSA/videos)
@@ -733,6 +734,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Az Mesai - Biraz Dev, biraz Ops](http://azmesai.net) ([Davetiye](https://leventyalcin.typeform.com/to/rSbcXD))
 - [açık kaynak](http://acikkaynak.info) ([Davetiye](https://acikkaynak-slack-inviter.herokuapp.com/))
 - [Laravel İstanbul](http://laravel.istanbul/) ([Kayıt Ol/Giriş Yap](https://join.slack.com/t/laravelistanbul/shared_invite/enQtMjkzMjI0MDQxODE0LTcyOTE3YTVjMGIzZDJjYzBiYTRmOGNmODFiYWU4MDU3Zjc5ZGFiNjRmY2M0OWM2NTU1NmUzNWJmMTE2MTBiMWQ))
-- [NSIstanbul- An iOS and Mac Development Community](http://www.nsistanbul.com/) ([Kayıt Ol/Giriş Yap](http://slack.nsistanbul.com))
+- [NSIstanbul- An iOS and Mac Development Community](http://www.nsistanbul.com/) ([Kayıt Ol/Giriş Yap](http://nsistanbul.slack.com))
 - [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye) ([Kayıt Ol/Giriş Yap](https://goo.gl/forms/13CuWViVwRQw970s2))
 - [DevOps Türkiye](https://medium.com/devopsturkiye) ([Kayıt Ol/Giriş Yap](https://communityinviter.com/apps/devopsturkiye/devops-tuerkiye-slack-grubu))
