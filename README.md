@@ -724,6 +724,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Uçbirim](https://www.youtube.com/channel/UCpo-fv3tOxLwrZD14it5_4w/videos)
 - [Eser Özvataf](https://www.youtube.com/channel/UCS3eVZDirUNTFrteoJsLP4g)
 - [HardwareAndro](https://www.youtube.com/channel/UCdUaAKTLJrPZFStzEJnpQAg)
+- [Selçuk Ermaya](https://www.youtube.com/user/selcukermaya)
 
 
 ### Slack Grupları
