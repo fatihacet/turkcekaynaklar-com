@@ -671,7 +671,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [@vimturkce (Vim kullanımı ile ilgili GIF paylaşımları)](https://twitter.com/vimturkce)
 - [Türkçe Doküman](https://turkcedokuman.com/)
 - [Backend Best Practices (Arka uç geliştirme hakkında örnek yöntemlerin derlendiği güncellenen bir belge)](http://umuts.info/backend-best-practices/) - [Umut Işık](https://umuts.info)
-
+- :movie_camera: [Big-O: Veri Büyüdükçe Kod Neden Yavaşlar?
+](https://www.youtube.com/watch?v=ZxQeaW5IBaw) - [Samet Atdağ](http://twitter.com/sam3t)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
