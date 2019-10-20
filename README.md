@@ -335,7 +335,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java Socket Programlama](http://semihmalkoc.com/java-socket-programlama-tcpip/) - Semih Malkoç 
 - [Java 9 Stream API Yenilikleri](https://oguzhaninan.gitlab.io/Java-9-Stream-API-Yenilikler/) - Oğuzhan İnan
 
-
 ### JavaScript
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
 - [Javascript console log Komutunu Özelleştirme](http://www.avarekodcu.com/konu/11/javasript-console-log-komutunu-ozellestirme-kullanma) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
