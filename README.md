@@ -153,6 +153,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
   ](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g)
 - [C Programlama Dili'ne Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Dr.Ahmet Bingül](http://www1.gantep.edu.tr/~bingul/)
 - [GNU C Kütüphanesi Başvuru Kılavuzu](http://www.belgeler.org/glibc/glibc.html) - Çevirenler: Nilgün Belma Bugüner, Yaşar Dereli
+- [Dinamik Olarak Oluşturan Kodu Çalıştırmak ve JIT mimarisine Düşük Seviyeli Bir Bakış](http://ismailkocacan.blogspot.com/2019/07/dinamik-olarak-olusturan-kodu-calstrmak.html) 
+- [Offset Kavramı ve Dinamik Dizi Yapımı](http://ismailkocacan.blogspot.com/2018/09/offset-kavram-ve-dinamik-dizi-yapm.html) 
+- [Fonksiyon Çağırım Düzeni/Biçimi/Şekli Ya da Her Neyse](http://ismailkocacan.blogspot.com/2018/09/fonksiyon-cagrm-duzenibicimisekli-ya-da.html) 
 
 
 ### Csharp
