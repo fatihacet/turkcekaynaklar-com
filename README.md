@@ -199,7 +199,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Bootstrap v3.3.7](http://trbootstrap.com/)
 - [CSS Stil Rehberi](https://github.com/omergulcicek/css-stil-rehberi) - [Ömer Gülçiçek](https://twitter.com/omergulcicek)
 - [CSS Grid Layout Rehberi](https://github.com/ahmetozantekin/css-grid-layout-rehberi)
-
+- [Sass Rehberi](https://github.com/dferhat/sass-rehberi) - [Ferhat Demir](https://twitter.com/ddemirferhat)
+- :movie_camera: [Sass Örnek Proje](https://www.youtube.com/watch?v=Ew1p3e74eO4) - [Ferhat Demir](https://twitter.com/ddemirferhat)
 
 ### D
 - [D Programlama Dili](http://ddili.org/ders/d/index.html)
