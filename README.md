@@ -60,6 +60,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [React](#react)
 - [React Native](#react-native)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [Sketch](#sketch)
 - [Solidity](#solidity)
 - [SQL](#sql)
@@ -517,6 +518,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Adım adım Ruby](https://www.youtube.com/playlist?list=PLqgPe8mz0dh7pKD5AnNRjveNKuBhnfaKw)
 - [Gemfile nedir?](http://kesk.in/2016/gemfile-nedir/) - [Sinan Keskin](https://twitter.com/skesk_in)
 - [Ruby ile Web Scraping'e Giriş](https://emredurukn.github.io/2018/11/09/ruby-ile-web-scrapinge-giris.html) - [Emre Durukan](https://twitter.com/emredurukn)
+
+
+### Rust
+- [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8/)
 
 
 ### Sketch
