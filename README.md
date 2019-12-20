@@ -99,7 +99,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android Uygulama Bileşenleri](https://yazilimcenneti.net/android-uygulama-bilesenleri/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Programlama Linear Layout Kullanımı](https://yazilimcenneti.net/android-programlama-linear-layout-kullanimi/) -[Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Programlama Frame Layout Kullanımı](https://yazilimcenneti.net/android-programlama-frame-layout-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
-
+- [Android Programlama Table Layout Kullanımı](https://yazilimcenneti.net/android-programlama-tablelayout-kullanimi/)
+- [Android Programlama WebView Kullanımı](https://yazilimcenneti.net/android-programlama-webview-kullanimi/)
+- [Android TV Uygulaması Geliştirmek](https://medium.com/@halilozel1903/android-tv-uygulamas%C4%B1-geli%C5%9Ftirmek-293ab43c274d) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Android Activity Lifecycle](https://medium.com/@halilozel1903/android-activity-lifecycle-c391fceb8999) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Angular
@@ -579,6 +582,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [iOS Banner Reklam](https://medium.com/@halilozel1903/ios-banner-reklam-9a9726318c5a) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [iOS Uygulama : Türkiye’nin İlleri](https://medium.com/@halilozel1903/ios-uygulama-t%C3%BCrkiyenin-i%CC%87lleri-cfc1dc9a5442) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Swift’te Set Kullanımı](https://yazilimcenneti.net/swiftte-set-kullanimi/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [SwiftUI Temel Bileşenleri](https://yazilimcenneti.net/swiftui-temel-bilesenleri/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [SwiftUI Nedir?](https://medium.com/@halilozel1903/swiftui-nedir-77c734ccf06b) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 
