@@ -227,6 +227,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Django Notlarım](https://gokmengorgen.net/django-notlarim/) - [Gökmen Görgen](https://gokmengorgen.net/)
 - :movie_camera: [Django ile Blog Oluşturmak](https://www.youtube.com/watch?v=l1EQ2GfxmUg&list=PLh9ECzBB8tJMkq3vJ8fwAKNlwPA8d629n) - [BilgisayarKavramlari](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g)
 - [Django Nedir?](https://medium.com/@halilozel1903/django-nedir-52b29ebb7298) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [MongoDB-Django](https://medium.com/batech/mongodb-django-69e6b9d3625d) - [Murat Vuranok](https://medium.com/@mrtvrnk)
 
 
 ### Docker
