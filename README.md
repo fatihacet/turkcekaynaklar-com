@@ -314,7 +314,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Front-End Checklist](https://github.com/eraycetinay/Front-End-Checklist)
 - [HEAD](https://github.com/mkg0/HEAD)
 - [HTML'de Örnek Yöntemler](https://github.com/umutphp/html-best-practices/blob/master/README.tr.md): Bakım yapılabilir ve ölçeklenebilir HTML belgeleri yazmak için takip edilebilecek örnek yöntemler - [Umut Işık](https://umuts.info)
-
+- :movie_camera: [HTML Dersleri](https://www.youtube.com/playlist?list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm) - [Prototürk - Yazılım ve Tasarım Dersleri](https://www.youtube.com/channel/UC1VAnqF9VLHNXngLwpov4kA)
 
 ### Ionic
 - [Ionic 4 ve Angular ile Mobil Uygulama Geliştirmek](https://medium.com/@clkgkhn/ionic-4-ve-angular-ile-mobil-uygulama-geli%C5%9Ftirmek-6e64d7585e3d) - [Gökhan Çelik](https://github.com/gokhancelik)
