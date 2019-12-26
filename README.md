@@ -627,7 +627,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### WordPress
-- :movie_camera: [WordPress Tema Entegre Eğitim Seti](https://www.youtube.com/watch?v=_wzy8QTfdIw&list=PLzPtCsi6BpOtWhBe9HoKcMv6txGlcLzkm) - [Baran Somaklı](https://twitter.com/baransomakli)
+- [Ücretli ve Ücretsiz En Çok Tercih Edilen WordPress Temalar](https://wpokulu.co/wordpress-temalar/) - [Fikret TOZAK](https://twitter.com/tozakfikret)
 
 
 ### Xamarin
