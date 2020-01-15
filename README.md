@@ -746,6 +746,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [HardwareAndro](https://www.youtube.com/channel/UCdUaAKTLJrPZFStzEJnpQAg)
 - [Selçuk Ermaya](https://www.youtube.com/user/selcukermaya)
 - [Prisync Labs](https://www.youtube.com/channel/UCAYAwQ-SKG2-o4c5UQcitTQ)
+- [Software Craftsmanship Turkey](https://www.youtube.com/channel/UClleXc0jXi-LSK5msUordJg/featured)
 
 
 ### Slack Grupları
