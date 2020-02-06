@@ -114,6 +114,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Angular'da çoklu dil nasıl yapılır?](https://kodumunblogu.net/detail/angularda-coklu-dil-i18n-nasil-yapilir)
 - [Angular Universal Kullanımı - SEO nasıl yapılır?](https://kodumunblogu.net/detail/angularda-seo-server-side-rendering-ssr-angular-universala-giris)
 - [Angular Lazy Loading Modules nedir? Nasıl kullanılır?](https://kodumunblogu.net/detail/angular-lazy-loading-modules-nedir-nasil-kullanilir-acilis-hizini-etkiler-mi)
+[mobilahanem.com](https://www.mobilhanem.com/angular-egitimi/)
 
 
 ### ASP.NET
