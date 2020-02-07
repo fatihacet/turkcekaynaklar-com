@@ -480,7 +480,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Python
-- [Python Dersleri - İstihza, Yazbel](https://belgeler.yazbel.com/python-istihza/)
+- [Python Dersleri - İstihza, Yazbel](https://python-istihza.yazbel.com/)
 - [Python Dersleri Github - İstihza, Yazbel](https://github.com/yazbel/python-istihza)
 - :movie_camera: [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR) - [Mustafa Murat Coşkun](https://github.com/mustafamuratcoskun)
 - [Türkçe Python Kaynakları](https://github.com/ibrahimirdem/turkce-python-kaynaklari)
