@@ -476,6 +476,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Galat-ı Meşhur (Meşhur Hatalar)](https://phpthewrongway.com/tr/) - [Umut Işık](https://umuts.info)
 - [Trendyol PHP API](https://github.com/ismail0234/trendyol-php-api) - [İsmail Satılmış](https://github.com/ismail0234)
 - [PHP Performance Benchmark](https://github.com/ismail0234/php-performance-benchmark/blob/master/documents/TR.md) - [İsmail Satılmış](https://github.com/ismail0234)
+- [PHP PDO Sorgu Oluşturucu](https://github.com/ismail0234/pdodatabase/blob/master/docs/README_v2.x_TR.md) - [İsmail Satılmış](https://github.com/ismail0234)
 
 
 ### Postgres
