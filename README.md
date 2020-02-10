@@ -386,6 +386,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Kotlin Vs Java](https://medium.com/@halilozel1903/kotlin-vs-java-719902655eb1) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin’de Null Kavramı](https://yazilimcenneti.net/kotlinde-null-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin’de Konsoldan Veri Almak](https://yazilimcenneti.net/kotlinde-konsoldan-veri-almak/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin ile Nesne Tabanlı Programlama](https://medium.com/@halilozel1903/kotlin-ile-nesne-tabanlı-programlama-28ae688aa69a) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin’de Sınıf ve Nesne Kavramı](https://medium.com/@halilozel1903/kotlinde-sınıf-ve-nesne-kavramı-657eec74aa24) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin 1.4 Sürümüyle Gelen Yenilikler](https://medium.com/@halilozel1903/kotlin-1-4-sürümüyle-gelen-yenilikler-43e43fa6e7ae) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 
