@@ -14,7 +14,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Arduino](#arduino)
 - [ASP.NET](#aspnet)
 - [Bash](#bash)
-- [Blockchain](#blockchain)
 - [Bot Framework](#bot-framework)
 - [Behavior Driven Development](#behavior-driven-development)
 - [CodeIgniter](#codeigniter)
@@ -134,10 +133,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Bash
 - [Bash(Shell) Rehberi](https://github.com/omergulen/bash-guide) - [Ömer Gülen](https://twitter.com/omergulenn)
 - [GNU Bash Başvuru Kılavuzu](http://www.belgeler.org/bashref/bashref.html) - Çeviren: Nilgün Belma Bugüner
-
-
-### Blockchain
-- [Blockchain Altyapısı Teknik Bilgiler ](http://blockchainturk.net/) - [Mehmet Cem Yücel](http://www.mehmetcemyucel.com)
 
 
 ### Bot Framework
