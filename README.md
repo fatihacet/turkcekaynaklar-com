@@ -386,6 +386,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Kotlin Vs Java](https://medium.com/@halilozel1903/kotlin-vs-java-719902655eb1) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin’de Null Kavramı](https://yazilimcenneti.net/kotlinde-null-kavrami/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin’de Konsoldan Veri Almak](https://yazilimcenneti.net/kotlinde-konsoldan-veri-almak/) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin ile Nesne Tabanlı Programlama](https://medium.com/@halilozel1903/kotlin-ile-nesne-tabanlı-programlama-28ae688aa69a) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin’de Sınıf ve Nesne Kavramı](https://medium.com/@halilozel1903/kotlinde-sınıf-ve-nesne-kavramı-657eec74aa24) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin 1.4 Sürümüyle Gelen Yenilikler](https://medium.com/@halilozel1903/kotlin-1-4-sürümüyle-gelen-yenilikler-43e43fa6e7ae) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 
@@ -473,6 +476,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Galat-ı Meşhur (Meşhur Hatalar)](https://phpthewrongway.com/tr/) - [Umut Işık](https://umuts.info)
 - [Trendyol PHP API](https://github.com/ismail0234/trendyol-php-api) - [İsmail Satılmış](https://github.com/ismail0234)
 - [PHP Performance Benchmark](https://github.com/ismail0234/php-performance-benchmark/blob/master/documents/TR.md) - [İsmail Satılmış](https://github.com/ismail0234)
+- [PHP PDO Sorgu Oluşturucu](https://github.com/ismail0234/pdodatabase/blob/master/docs/README_v2.x_TR.md) - [İsmail Satılmış](https://github.com/ismail0234)
 
 
 ### Postgres
@@ -480,7 +484,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Python
-- [Python Dersleri - İstihza, Yazbel](https://belgeler.yazbel.com/python-istihza/)
+- [Python Dersleri - İstihza, Yazbel](https://python-istihza.yazbel.com/)
 - [Python Dersleri Github - İstihza, Yazbel](https://github.com/yazbel/python-istihza)
 - :movie_camera: [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR) - [Mustafa Murat Coşkun](https://github.com/mustafamuratcoskun)
 - [Türkçe Python Kaynakları](https://github.com/ibrahimirdem/turkce-python-kaynaklari)
@@ -627,7 +631,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### WordPress
-- :movie_camera: [WordPress Tema Entegre Eğitim Seti](https://www.youtube.com/watch?v=_wzy8QTfdIw&list=PLzPtCsi6BpOtWhBe9HoKcMv6txGlcLzkm) - [Baran Somaklı](https://twitter.com/baransomakli)
+- :movie_camera: [WordPress Eğitim Seti: WordPress Nedir? WordPress'in Kısa Tarihi #1](https://www.youtube.com/watch?v=B3eXU1jJzH4) - [Baran Somaklı](https://twitter.com/baransomakli)
 
 
 ### Xamarin
@@ -748,6 +752,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Prisync Labs](https://www.youtube.com/channel/UCAYAwQ-SKG2-o4c5UQcitTQ)
 - [Sadık Turan](https://www.youtube.com/user/sadikturan41)
 - [Engin Demiröğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
+- [Software Craftsmanship Turkey](https://www.youtube.com/channel/UClleXc0jXi-LSK5msUordJg/featured)
 - [Ahmet Alp Balkan](https://www.youtube.com/channel/UC6LgxY4YwVoE1F-v8sT9Jaw)
 
 
