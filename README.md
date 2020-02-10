@@ -228,7 +228,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Docker
 - [Docker İpuçları](https://gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-1/) - [Gökhan Şengün](https://twitter.com/gokhansengun)
 - [Docker Serisi](https://medium.com/monitisemea/docker-serisi-1-1c6629499b9a) - Alper Kanat
-- [Docker ve PHP](https://mksglu.gitbooks.io/php-ile-docker-gelistirelim/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
+- [Docker ve PHP](https://mksglu.gitbooks.io/php-ile-docker-gelistirelim/content/) - [Mert Köseoğlu](https://github.com/mksglu/)
 - :movie_camera: [Docker Öğreniyorum](https://www.youtube.com/watch?v=isbsABbZghs&list=PL_Z0TaFYSF3LTfMIRjPUlVoUipQA0JlL2) - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
 - [Yeni Nesil Geliştirme Ortamı Docker Serisi](https://oguzcandemircan.com/yeni-nesil-gelistirme-ortami-bolum-1-docker) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
 - [Docker ile Vue Js Projesi Nasıl Oluşturulur, Geliştirilir ve Yayınlanır?](https://oguzcandemircan.com/docker-ile-vuejs-projesi-nasil-olusturulur-gelistirlir-ve-yayinlanir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
