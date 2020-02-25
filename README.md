@@ -478,7 +478,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR) - [Mustafa Murat Coşkun](https://github.com/mustafamuratcoskun)
 - [Türkçe Python Kaynakları](https://github.com/ibrahimirdem/turkce-python-kaynaklari)
 - [Python Programlama Dili](https://medium.com/@halilozel1903/python-programlama-dili-1f1d88ef1e1d) - [Halil ÖZEL](https://github.com/halilozel1903)
-
+- [Python Programlama Dersleri](http://pythonhacisi.com/python-dersleri) - [Sami-donmez](https://github.com/Sami-donmez)
 
 ### Rails
 - :movie_camera: [Haydi Rails Yazalım](https://www.youtube.com/watch?v=wjEVDmHxrTk&list=PLR-hVfRDr2Mp8cDcbWZ6TX2YVTM0vECz2) - [Anıl İyidoğan](https://twitter.com/lifeis00FF00)
