@@ -330,7 +330,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Jest ile React Component'ları için Snapshot Testleri](https://medium.com/@oguzkilic/jest-ile-component-snapshot-testing-6b652876922d) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
 - [Css in JavaScript - StyledComponents](https://medium.com/@oguzkilic/css-in-javascript-styled-components-aa06a6f54388) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
 - [React Uygulamalarında TDD](https://medium.com/@oguzkilic/react-uygulamalar%C4%B1nda-tdd-48f93335d8fb) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
-
+- [React JS Eğitimi](https://www.youtube.com/watch?v=CZm0mQx4pBw&feature=youtu.be) - [Sinan Aksay](https://github.com/wunnle)
 
 
 ### React Native
@@ -470,6 +470,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA/videos)
 - [Ankara Cloud Meetup](https://www.youtube.com/channel/UCDRekG0W9xUd8MLCDuU2Z3Q/videos)
 - [Frontend İstanbul](https://www.youtube.com/channel/UC3fh1Y6TcRPE-W_bdxfT2cg)
+- [ReactJS Istanbul](https://www.youtube.com/channel/UCKyu3YawahdIbZ7eEU8kzBQ)
 
 
 ### Slack Grupları
