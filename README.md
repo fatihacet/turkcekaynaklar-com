@@ -101,7 +101,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android Programlama WebView Kullanımı](https://yazilimcenneti.net/android-programlama-webview-kullanimi/)
 - [Android TV Uygulaması Geliştirmek](https://medium.com/@halilozel1903/android-tv-uygulamas%C4%B1-geli%C5%9Ftirmek-293ab43c274d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Activity Lifecycle](https://medium.com/@halilozel1903/android-activity-lifecycle-c391fceb8999) - [Halil ÖZEL](https://github.com/halilozel1903)
-
+- [ExoPlayer Nedir?](https://medium.com/@halilozel1903/exoplayer-nedir-ccae84e9f115)- [Halil ÖZEL](https://github.com/halilozel1903/ExoPlayerDemo)
 
 ### Angular
 - [yazilimgunlugu.org](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/angular-2-4-turkce/)
