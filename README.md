@@ -503,6 +503,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [React v16.2.0 ile iyileştirilen, çok kıymetli özellik: Fragments](https://hurriyetlabs.com/react-v16-2-0-ile-iyile%C5%9Ftirilen-%C3%A7ok-k%C4%B1ymetli-%C3%B6zellik-fragments-7a757094eafe) - [Murat Doğan](https://twitter.com/murat_dogan17)
 - :movie_camera: [React JS İleri Düzey Developer Eğitim Serisi](https://www.youtube.com/playlist?list=PLbspYejTXMLDbpUGfmSfNTX_hcgBHJYHP&pbjreload=10) - Emrah Öz
 - [React.js Türkçe Kaynak (Handbook)](https://github.com/orcuntuna/react-turkce-kaynak) - [Orçun Tuna](https://twitter.com/tunaorcun_)
+- :movie_camera: [React JS Eğitimi](https://www.youtube.com/watch?v=CZm0mQx4pBw&feature=youtu.be) - [Sinan Aksay](https://github.com/wunnle)
 
 
 ### React Native
@@ -741,6 +742,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Engin Demiröğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - [Software Craftsmanship Turkey](https://www.youtube.com/channel/UClleXc0jXi-LSK5msUordJg/featured)
 - [Ahmet Alp Balkan](https://www.youtube.com/channel/UC6LgxY4YwVoE1F-v8sT9Jaw)
+- [ReactJS Istanbul](https://www.youtube.com/channel/UCKyu3YawahdIbZ7eEU8kzBQ)
 
 
 ### Slack Grupları
