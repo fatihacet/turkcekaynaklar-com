@@ -681,6 +681,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Big-O: Veri Büyüdükçe Kod Neden Yavaşlar?
 ](https://www.youtube.com/watch?v=ZxQeaW5IBaw) - [Samet Atdağ](http://twitter.com/sam3t)
 - [Clean Code’dan Notlar: Bölüm 1 — Temiz Kod Derken?](https://medium.com/@busrauzun/clean-code-kitabindan-notlar-1-temiz-kod-derken-44e6f7a27eb0) - [Büşra Uzun](https://www.linkedin.com/in/busrauzun/)
+- [Tasarım Desenleri Türkçe Kaynak (Handbook)](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak/) - [Yusuf Yılmaz](https://www.twitter.com/yusufyilmazfr/)
 
 
 ### Podcast Yayınları
