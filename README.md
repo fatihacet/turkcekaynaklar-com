@@ -123,8 +123,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [ASP.NET Mvc Haber Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJJmyzTm77FjlCJOA11SCc_Z) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - [ASP.NET Core El Kitabı](https://sahinyanlik.gitbooks.io/kisa-asp-net-core-kitabi/content/) - [Sahin Yanlik](http://www.sahinyanlik.com.tr)
 - :movie_camera: [Açık akademi ASP.NET MVC Eğitimi](https://www.acikakademi.com/portal/egitimler/aspnet-mvc-ile-ileri-seviyede-web-programlama.aspx)
-- [ASP.NET MVC Dersleri ](https://www.youtube.com/watch?v=-Fgpo2HvGIE&list=PLpiXyP9d3U1pUCEi8-S2pXzQchNuqJ3Kp) - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
-- [ASP.NET CORE WEB API Dersleri](https://www.youtube.com/watch?v=paI5DZq79uw&list=PLpiXyP9d3U1q251izX5xLHctZEmb8REr_) - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
+- :movie_camera: [ASP.NET MVC Dersleri ](https://www.youtube.com/watch?v=-Fgpo2HvGIE&list=PLpiXyP9d3U1pUCEi8-S2pXzQchNuqJ3Kp) - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
+- :movie_camera: [ASP.NET CORE WEB API Dersleri](https://www.youtube.com/watch?v=paI5DZq79uw&list=PLpiXyP9d3U1q251izX5xLHctZEmb8REr_) - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
 
 ### Arduino
 - [Arduino - Robotistan](https://maker.robotistan.com/kategori/arduino/)
@@ -335,7 +335,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java Programlama Dersleri - Youtube](https://www.youtube.com/watch?v=8WXfuEuheeE&list=PLIHume2cwmHctrHFHADb0slNyn95x2M4I&index=2) - Yazılım Bilimi
 - [Java ve Java Teknolojileri](http://www.injavawetrust.com/) - In Java We Trust
 - [Spring Boot ile Database Uygulaması Geliştirmek](https://www.onbirkod.com/spring-boot-ile-database-uygulamasi-gelistirmek/) - [Talat Tüfekçi](https://www.onbirkod.com)
-- [Java Dersleri](https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
+- :movie_camera: [Java Dersleri](https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 
 
 ### JavaScript
@@ -485,7 +485,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR) - [Mustafa Murat Coşkun](https://github.com/mustafamuratcoskun)
 - [Türkçe Python Kaynakları](https://github.com/ibrahimirdem/turkce-python-kaynaklari)
 - [Python Programlama Dili](https://medium.com/@halilozel1903/python-programlama-dili-1f1d88ef1e1d) - [Halil ÖZEL](https://github.com/halilozel1903)
-- [6 Saatlik Python Eğitimi](https://www.youtube.com/watch?v=6IWpowC2ryc) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
+- :movie_camera: [6 Saatlik Python Eğitimi](https://www.youtube.com/watch?v=6IWpowC2ryc) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 
 
 ### Rails
