@@ -101,7 +101,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android Programlama WebView Kullanımı](https://yazilimcenneti.net/android-programlama-webview-kullanimi/)
 - [Android TV Uygulaması Geliştirmek](https://medium.com/@halilozel1903/android-tv-uygulamas%C4%B1-geli%C5%9Ftirmek-293ab43c274d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Activity Lifecycle](https://medium.com/@halilozel1903/android-activity-lifecycle-c391fceb8999) - [Halil ÖZEL](https://github.com/halilozel1903)
-
+- [ExoPlayer Nedir?](https://medium.com/@halilozel1903/exoplayer-nedir-ccae84e9f115)- [Halil ÖZEL](https://github.com/halilozel1903/ExoPlayerDemo)
 
 ### Angular
 - [yazilimgunlugu.org](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/angular-2-4-turkce/)
@@ -153,9 +153,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [C Programlama Dili'ne Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Dr.Ahmet Bingül](http://www1.gantep.edu.tr/~bingul/)
 - [GNU C Kütüphanesi Başvuru Kılavuzu](http://www.belgeler.org/glibc/glibc.html) - Çevirenler: Nilgün Belma Bugüner, Yaşar Dereli
 - [Dinamik Olarak Oluşturan Kodu Çalıştırmak ve JIT mimarisine Düşük Seviyeli Bir Bakış](http://ismailkocacan.blogspot.com/2019/07/dinamik-olarak-olusturan-kodu-calstrmak.html) 
-- [Offset Kavramı ve Dinamik Dizi Yapımı](http://ismailkocacan.blogspot.com/2018/09/offset-kavram-ve-dinamik-dizi-yapm.html) 
+- [Offset Kavramı ve Dinamik Dizi Yapımı](http://ismailkocacan.blogspot.com/2018/09/offset-kavram-ve-dinamik-dizi-yapm.html)
 - [Fonksiyon Çağırım Düzeni/Biçimi/Şekli Ya da Her Neyse](http://ismailkocacan.blogspot.com/2018/09/fonksiyon-cagrm-duzenibicimisekli-ya-da.html) 
-
+- [Offset Kavramı Ve Dinamik Dizi Yapımı (2 ve 3 Boyutlu)](http://ismailkocacan.blogspot.com/2019/11/offset-kavram-ve-dinamik-dizi-yapm-2-ve.html)
 
 ### Csharp
 - :movie_camera: [C# ile Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLjI4XZvh1FJIKMDPS2HS05uxfNHb_KTq1) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
@@ -469,7 +469,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Trendyol PHP API](https://github.com/ismail0234/trendyol-php-api) - [İsmail Satılmış](https://github.com/ismail0234)
 - [PHP Performance Benchmark](https://github.com/ismail0234/php-performance-benchmark/blob/master/documents/TR.md) - [İsmail Satılmış](https://github.com/ismail0234)
 - [PHP PDO Sorgu Oluşturucu](https://github.com/ismail0234/pdodatabase/blob/master/docs/README_v2.x_TR.md) - [İsmail Satılmış](https://github.com/ismail0234)
+- [PHP eFatura Uygulaması](https://github.com/furkankadioglu/efatura) - [Furkan Kadıoğlu](https://github.com/furkankadioglu)
 - [Php Dersleri](https://www.azkod.com/php)
+
 
 ### Postgres
 - [PostgreSQL 12'de Streaming Replication İşlemleri](https://medium.com/@aydemirzekiye/postgresql-12de-streaming-replication-i%CC%87%C5%9Flemleri-40f792a8141b?) - [Zekiye Aydemir](https://twitter.com/pgElephant)
@@ -506,6 +508,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [React v16.2.0 ile iyileştirilen, çok kıymetli özellik: Fragments](https://hurriyetlabs.com/react-v16-2-0-ile-iyile%C5%9Ftirilen-%C3%A7ok-k%C4%B1ymetli-%C3%B6zellik-fragments-7a757094eafe) - [Murat Doğan](https://twitter.com/murat_dogan17)
 - :movie_camera: [React JS İleri Düzey Developer Eğitim Serisi](https://www.youtube.com/playlist?list=PLbspYejTXMLDbpUGfmSfNTX_hcgBHJYHP&pbjreload=10) - Emrah Öz
 - [React.js Türkçe Kaynak (Handbook)](https://github.com/orcuntuna/react-turkce-kaynak) - [Orçun Tuna](https://twitter.com/tunaorcun_)
+- :movie_camera: [React JS Eğitimi](https://www.youtube.com/watch?v=CZm0mQx4pBw&feature=youtu.be) - [Sinan Aksay](https://github.com/wunnle)
 
 
 ### React Native
@@ -683,6 +686,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Big-O: Veri Büyüdükçe Kod Neden Yavaşlar?
 ](https://www.youtube.com/watch?v=ZxQeaW5IBaw) - [Samet Atdağ](http://twitter.com/sam3t)
 - [Clean Code’dan Notlar: Bölüm 1 — Temiz Kod Derken?](https://medium.com/@busrauzun/clean-code-kitabindan-notlar-1-temiz-kod-derken-44e6f7a27eb0) - [Büşra Uzun](https://www.linkedin.com/in/busrauzun/)
+- [Tasarım Desenleri Türkçe Kaynak (Handbook)](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak/) - [Yusuf Yılmaz](https://www.twitter.com/yusufyilmazfr/)
 
 
 ### Podcast Yayınları
@@ -744,6 +748,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Engin Demiröğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - [Software Craftsmanship Turkey](https://www.youtube.com/channel/UClleXc0jXi-LSK5msUordJg/featured)
 - [Ahmet Alp Balkan](https://www.youtube.com/channel/UC6LgxY4YwVoE1F-v8sT9Jaw)
+- [ReactJS Istanbul](https://www.youtube.com/channel/UCKyu3YawahdIbZ7eEU8kzBQ)
 
 
 ### Slack Grupları
