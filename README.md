@@ -62,6 +62,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Rust](#rust)
 - [Sketch](#sketch)
 - [Solidity](#solidity)
+- [Sourcemod](#sourcemod)
 - [SQL](#sql)
 - [Swift](#swift)
 - [Titanium Mobile](#titanium-mobile)
@@ -540,6 +541,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Solidity
 - :movie_camera: [Solidity101](https://www.youtube.com/watch?v=-Xqax3MOuPg) - Mert Susur
 
+### Sourcemod
+- [Sourcemod Api Türkçe Döküman](https://github.com/ismail0234/sourcemod) - Ismail Satilmiş
 
 ### SQL
 - :movie_camera: [SQL Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-6vvPSJssG4Jp6UqCTmWSz) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
