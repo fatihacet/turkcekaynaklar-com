@@ -62,6 +62,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Rust](#rust)
 - [Sketch](#sketch)
 - [Solidity](#solidity)
+- [Sourcemod](#sourcemod)
 - [SQL](#sql)
 - [Swift](#swift)
 - [Titanium Mobile](#titanium-mobile)
@@ -130,7 +131,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Arduino - Robotistan](https://maker.robotistan.com/kategori/arduino/)
 - [Arduino Projeler](https://www.arduinoprojeler.com/)
 - [Arduino Nedir?](https://medium.com/@halilozel1903/arduino-nedir-722dbfda3fff) - [Halil ÖZEL](https://github.com/halilozel1903)
-
+- [Arduino Dersleri](https://www.azkod.com/arduino)
 
 ### Bash
 - [Bash(Shell) Rehberi](https://github.com/omergulen/bash-guide) - [Ömer Gülen](https://twitter.com/omergulenn)
@@ -156,16 +157,19 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [C Programlama Dili'ne Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Dr.Ahmet Bingül](http://www1.gantep.edu.tr/~bingul/)
 - [GNU C Kütüphanesi Başvuru Kılavuzu](http://www.belgeler.org/glibc/glibc.html) - Çevirenler: Nilgün Belma Bugüner, Yaşar Dereli
 - [Dinamik Olarak Oluşturan Kodu Çalıştırmak ve JIT mimarisine Düşük Seviyeli Bir Bakış](http://ismailkocacan.blogspot.com/2019/07/dinamik-olarak-olusturan-kodu-calstrmak.html) 
-- [Offset Kavramı ve Dinamik Dizi Yapımı](http://ismailkocacan.blogspot.com/2018/09/offset-kavram-ve-dinamik-dizi-yapm.html) 
+- [Offset Kavramı ve Dinamik Dizi Yapımı](http://ismailkocacan.blogspot.com/2018/09/offset-kavram-ve-dinamik-dizi-yapm.html)
 - [Fonksiyon Çağırım Düzeni/Biçimi/Şekli Ya da Her Neyse](http://ismailkocacan.blogspot.com/2018/09/fonksiyon-cagrm-duzenibicimisekli-ya-da.html) 
+- [Offset Kavramı Ve Dinamik Dizi Yapımı (2 ve 3 Boyutlu)](http://ismailkocacan.blogspot.com/2019/11/offset-kavram-ve-dinamik-dizi-yapm-2-ve.html)
 
 
 ### Csharp
 - :movie_camera: [C# ile Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLjI4XZvh1FJIKMDPS2HS05uxfNHb_KTq1) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - :movie_camera: [C# Dersleri - 10 Günde CSharp (C#)](https://www.youtube.com/playlist?list=PL2atofUpdCAV_ZlpK9mz6ul-fRYx2yXDY) - [Yazılım Hocası](https://www.youtube.com/user/yazilimhocasi)
 - :movie_camera: [Acik Akademi C# Derleri](https://www.acikakademi.com/portal/egitimler/csharp-uygulama-gelistirme.aspx)
+- [C# Dersleri](https://www.azkod.com/csharp)
 - :movie_camera: [C# Dersleri](https://www.youtube.com/watch?v=VytV9w2dAFs&list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K) - [Murat Yücedağ](https://www.youtube.com/channel/UCbkbOlw8snP93RJ2BhH44Qw)
 - :movie_camera: [5 Saatlik C# Eğitimi](https://www.youtube.com/watch?v=2EkMrrX9sYY) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
+
 
 ### Clojure
 - :movie_camera: [Clojure Giriş](https://www.youtube.com/watch?v=l40q0guuXVw) - Üstün Özgür
@@ -203,6 +207,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [CSS Grid Layout Rehberi](https://github.com/ahmetozantekin/css-grid-layout-rehberi)
 - [Sass Rehberi](https://github.com/dferhat/sass-rehberi) - [Ferhat Demir](https://twitter.com/ddemirferhat)
 - :movie_camera: [Sass Örnek Proje](https://www.youtube.com/watch?v=Ew1p3e74eO4) - [Ferhat Demir](https://twitter.com/ddemirferhat)
+- [Css Dersleri](https://www.azkod.com/css)
 
 ### D
 - [D Programlama Dili](http://ddili.org/ders/d/index.html)
@@ -312,6 +317,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [HEAD](https://github.com/mkg0/HEAD)
 - [HTML'de Örnek Yöntemler](https://github.com/umutphp/html-best-practices/blob/master/README.tr.md): Bakım yapılabilir ve ölçeklenebilir HTML belgeleri yazmak için takip edilebilecek örnek yöntemler - [Umut Işık](https://umuts.info)
 - :movie_camera: [HTML Dersleri](https://www.youtube.com/playlist?list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm) - [Prototürk - Yazılım ve Tasarım Dersleri](https://www.youtube.com/channel/UC1VAnqF9VLHNXngLwpov4kA)
+- [Html Dersleri](https://www.azkod.com/html)
 
 ### Ionic
 - [Ionic 4 ve Angular ile Mobil Uygulama Geliştirmek](https://medium.com/@clkgkhn/ionic-4-ve-angular-ile-mobil-uygulama-geli%C5%9Ftirmek-6e64d7585e3d) - [Gökhan Çelik](https://github.com/gokhancelik)
@@ -364,6 +370,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [TimerJS Zamanı Geriye Saydırma](https://github.com/ismail0234/timer.date.js) - [İsmail Satilmiş](https://github.com/ismail0234)
 - [JavaScript için uyarlanmış Temiz Kod kavramları](https://github.com/umutphp/clean-code-javascript-tr) - [Umut Işık](https://umuts.info)
 - [JavaScript Eğitimi](https://www.mobilhanem.com/javascript-egitimi/) - [Gökhan Kurt](http://gokhankurt.com.tr)
+- [JavaScript Dersleri](https://www.azkod.com/javascript)
 
 
 ### jQuery
@@ -473,6 +480,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [PHP Performance Benchmark](https://github.com/ismail0234/php-performance-benchmark/blob/master/documents/TR.md) - [İsmail Satılmış](https://github.com/ismail0234)
 - [PHP PDO Sorgu Oluşturucu](https://github.com/ismail0234/pdodatabase/blob/master/docs/README_v2.x_TR.md) - [İsmail Satılmış](https://github.com/ismail0234)
 - [PHP eFatura Uygulaması](https://github.com/furkankadioglu/efatura) - [Furkan Kadıoğlu](https://github.com/furkankadioglu)
+- [Php Dersleri](https://www.azkod.com/php)
 
 
 ### Postgres
@@ -543,6 +551,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Solidity
 - :movie_camera: [Solidity101](https://www.youtube.com/watch?v=-Xqax3MOuPg) - Mert Susur
 
+### Sourcemod
+- [Sourcemod Api Türkçe Döküman](https://github.com/ismail0234/sourcemod) - Ismail Satilmiş
 
 ### SQL
 - :movie_camera: [SQL Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-6vvPSJssG4Jp6UqCTmWSz) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
