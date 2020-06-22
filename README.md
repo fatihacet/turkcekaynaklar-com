@@ -83,7 +83,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Android
 - [Mobilhanem Android](https://www.mobilhanem.com/android-egitimleri/)
-- [Android Günlüğü](http://yusufcakal.com/) - Yusuf Çakal
 - [Android Uygulamaya “Facebook ile Giriş” Ekleme](https://medium.com/@yusufcakal/android-uygulamaya-facebook-ile-giri%C5%9F-ekleme-14940166eb22) - Yusuf Çakal
 - [umiitkose.com Android Blog](http://www.umiitkose.com/android) - [Ümit KÖSE](https://twitter.com/umiitkose)
 - [Android Türkçe PDF](http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf) - [Ümit KÖSE](https://twitter.com/umiitkose)
@@ -658,7 +657,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [On İki Faktör Uygulaması](https://12factor.net/tr/)
 - [Sıradışılıkla Kazanmak (Beating the Averages) - Paul Graham](https://ileriseviye.wordpress.com/2004/01/01/siradisilikla-kazanmak/)
 - [WhatsApp Altyapısına Teknik Bir Bakış](https://cliexperiences.wordpress.com/2017/08/01/whatsapp-altyapisina-teknik-bir-bakis/)
-- [Stack ve Heap Kavramları](https://medium.com/t%C3%BCrkiye/stack-ve-heap-kavram%C4%B1-59adcb29d454) - [Yusuf Çakal](http://yusufcakal.com/)
+- [Stack ve Heap Kavramları](https://medium.com/t%C3%BCrkiye/stack-ve-heap-kavram%C4%B1-59adcb29d454) - [Yusuf Çakal](https://yusuf.dev/)
 - [Yazılım Blogları Türkiye Facebook Grubu](https://www.facebook.com/groups/yazilimbloglariturkiye/)
 - [Haftalık Bülten: Feyizli Linkler](https://www.getrevue.co/profile/ai) - [Adem İlter](https://twitter.com/ADEMilter/)
 - [JSON Web Token - JWT](http://www.bayramucuncu.com/json-web-token-jwt/) - [Bayram Üçüncü](https://github.com/bayramucuncu)
