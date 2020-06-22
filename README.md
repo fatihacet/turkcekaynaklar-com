@@ -481,6 +481,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [PHP PDO Sorgu Oluşturucu](https://github.com/ismail0234/pdodatabase/blob/master/docs/README_v2.x_TR.md) - [İsmail Satılmış](https://github.com/ismail0234)
 - [PHP eFatura Uygulaması](https://github.com/furkankadioglu/efatura) - [Furkan Kadıoğlu](https://github.com/furkankadioglu)
 - [Php Dersleri](https://www.azkod.com/php)
+- [PHP Eğitimi](https://github.com/nuriakman/PHP-Egitimi) - [Nuri Akman](https://github.com/nuriakman) - [Kemal Mutlu](https://github.com/kemalmutlu)
 
 
 ### Postgres
