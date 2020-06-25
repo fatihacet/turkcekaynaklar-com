@@ -89,7 +89,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android Studio ile Uygulama Geliştirme Eğitimi](https://www.youtube.com/playlist?list=PL9qDMO9EzLX25NTHm0q7svKLx__OZY8-e)- Levent Yadırga
 - [Android KTX Nedir](https://medium.com/@halilozel1903/android-ktx-nedir-84ecbc615bfb) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [App Inventor Nedir?](https://medium.com/@halilozel1903/app-inventor-nedir-c37215ae598a) - [Halil ÖZEL](https://github.com/halilozel1903)
-- [Android Programlamada Volley Kullanımı](https://medium.com/@halilozel1903/android-volley-kullanımı-8ee56b6762f) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Android Programlamada Volley Kullanımı](https://medium.com/@halilozel1903/android-volley-kullan%C4%B1m%C4%B1-8ee56b6762f) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Programlamada Relative Layout Kullanımı](https://medium.com/@halilozel1903/android-relative-layout-kullanımı-394c75902d9d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Bluetooth Kullanımı](https://medium.com/@halilozel1903/android-bluetooth-api-kullanımı-4c3c111e2f16) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Uygulama Bileşenleri](https://medium.com/@halilozel1903/android-uygulama-bileşenleri-d1b71cd170d) - [Halil ÖZEL](https://github.com/halilozel1903)
