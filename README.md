@@ -751,9 +751,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Ahmet Alp Balkan](https://www.youtube.com/channel/UC6LgxY4YwVoE1F-v8sT9Jaw)
 - [ReactJS Istanbul](https://www.youtube.com/channel/UCKyu3YawahdIbZ7eEU8kzBQ)
 - [Selman Kahya](https://www.youtube.com/user/SirChintzy)
-- [Haydi Kodlayalım] (https://www.youtube.com/channel/UC1BM991H2G2nUuJp_1wc8cA)
-- [Uğur Umutluoğlu] (https://www.youtube.com/channel/UCpFcAp-klqUMATCKS71ZXPw)
-- [Armağan Amcalar] (https://www.youtube.com/channel/UCANCsbie9EorvBNWfpVntGQ)
 
 
 ### Slack Grupları
