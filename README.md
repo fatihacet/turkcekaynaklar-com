@@ -403,7 +403,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Laravel'de Transaction Kullanımı](https://kodumunblogu.net/detail/laravelde-transaction-kullanimi)
 - [Laravel'de Swagger ile Rest Api Dökümantasyonu Hazırlama](https://kodumunblogu.net/detail/laravelde-swagger-ile-rest-api-dokumantasyonu-hazirlama)
 - [Devilbox ile laravel projesi için docker ortamı oluşturma](https://medium.com/kodcular/devilbox-ile-laravel-projesi-i%C3%A7in-docker-ortam%C4%B1-olu%C5%9Fturma-527e1cad254f) - [Melih ŞAHİN](https://github.com/melihs)
-- [Laravel projesini Heroku’ ya Deploy Etme](https://knowhub.dev/laravel-projesini-heroku-ya-deploy-etme/) - [Melih ŞAHİN](https://github.com/melihs)
+- [Laravel projesini Heroku’ da Dağıtmak](https://knowhub.dev/laravel-projesini-heroku-ya-deploy-etme/) - [Melih ŞAHİN](https://github.com/melihs)
 
 ### Machine Learning
 - :movie_camera: [Makine Ögrenmesi Video Blog](https://www.youtube.com/playlist?list=PLRRY18KNZTgUQx8NT_YqCVOyb-VnB79W2)
