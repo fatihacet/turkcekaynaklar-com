@@ -252,6 +252,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Flutter Nedir?](https://medium.com/@halilozel1903/flutter-nedir-8a3cb33fdb9d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - :movie_camera: [Flutter Eğitim Serisi](https://www.youtube.com/playlist?list=PLDtOT47tyugN9StQujdf4FCMMmsGY9dVK)
 - :movie_camera: [6 Saatlik Flutter Eğitimi](https://www.youtube.com/watch?v=oISIcfHAzm4) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
+- [Android Studio’ya Flutter Kurulumu](https://medium.com/@halilozel1903/android-studioya-flutter-kurulumu-73f7d4cefde)- [Halil ÖZEL](https://github.com/halilozel1903)
+
 
 
 ### Git
@@ -389,6 +391,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Kotlin’de Sınıf ve Nesne Kavramı](https://medium.com/@halilozel1903/kotlinde-s%C4%B1n%C4%B1f-ve-nesne-kavram%C4%B1-657eec74aa24) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin 1.4 Sürümüyle Gelen Yenilikler](https://medium.com/@halilozel1903/kotlin-1-4-s%C3%BCr%C3%BCm%C3%BCyle-gelen-yenilikler-43e43fa6e7ae) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin’de Recursive Fonksiyon](https://medium.com/@halilozel1903/kotlinde-recursive-fonksiyon-3fbe0ab4245e) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin’de For Döngüsü](https://medium.com/@halilozel1903/kotlinde-for-döngüsü-1b907cce2057) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin’de Değişken Kavramı](https://medium.com/@halilozel1903/kotlinde-değişken-kavramı-3a2942ac36b1) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin’de Konsoldan Veri Almak](https://medium.com/@halilozel1903/kotlinde-konsoldan-veri-almak-955b6ed3b498) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Laravel
@@ -754,7 +759,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Haydi Kodlayalım] (https://www.youtube.com/channel/UC1BM991H2G2nUuJp_1wc8cA)
 - [Uğur Umutluoğlu] (https://www.youtube.com/channel/UCpFcAp-klqUMATCKS71ZXPw)
 - [Armağan Amcalar] (https://www.youtube.com/channel/UCANCsbie9EorvBNWfpVntGQ)
-
+- [Yazılım Cenneti](https://www.youtube.com/channel/UCi7Yz0h9pgncXmW52JXq7YQ/abouty)
 
 ### Slack Grupları
 - [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye Al](https://goo.gl/forms/IZe06LgNk6Vsega83))
