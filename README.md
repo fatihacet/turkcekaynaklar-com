@@ -90,7 +90,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android KTX Nedir](https://medium.com/@halilozel1903/android-ktx-nedir-84ecbc615bfb) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [App Inventor Nedir?](https://medium.com/@halilozel1903/app-inventor-nedir-c37215ae598a) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Programlamada Volley Kullanımı](https://medium.com/@halilozel1903/android-volley-kullan%C4%B1m%C4%B1-8ee56b6762f) - [Halil ÖZEL](https://github.com/halilozel1903)
-- [Android Programlamada Relative Layout Kullanımı](https://medium.com/@halilozel1903/android-relative-layout-kullanımı-394c75902d9d) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Android Programlamada Relative Layout Kullanımı](https://medium.com/@halilozel1903/android-relative-layout-kullan%C4%B1m%C4%B1-394c75902d9d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Bluetooth Kullanımı](https://medium.com/@halilozel1903/android-bluetooth-api-kullanımı-4c3c111e2f16) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Uygulama Bileşenleri](https://medium.com/@halilozel1903/android-uygulama-bileşenleri-d1b71cd170d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Programlama Linear Layout Kullanımı](https://medium.com/@halilozel1903/android-linear-layout-kullanımı-3f43321d1969) -[Halil ÖZEL](https://github.com/halilozel1903)
@@ -757,9 +757,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Ahmet Alp Balkan](https://www.youtube.com/channel/UC6LgxY4YwVoE1F-v8sT9Jaw)
 - [ReactJS Istanbul](https://www.youtube.com/channel/UCKyu3YawahdIbZ7eEU8kzBQ)
 - [Selman Kahya](https://www.youtube.com/user/SirChintzy)
-- [Haydi Kodlayalım] (https://www.youtube.com/channel/UC1BM991H2G2nUuJp_1wc8cA)
-- [Uğur Umutluoğlu] (https://www.youtube.com/channel/UCpFcAp-klqUMATCKS71ZXPw)
-- [Armağan Amcalar] (https://www.youtube.com/channel/UCANCsbie9EorvBNWfpVntGQ)
+- [Haydi Kodlayalım](https://www.youtube.com/channel/UC1BM991H2G2nUuJp_1wc8cA)
+- [Uğur Umutluoğlu](https://www.youtube.com/channel/UCpFcAp-klqUMATCKS71ZXPw)
+- [Armağan Amcalar](https://www.youtube.com/channel/UCANCsbie9EorvBNWfpVntGQ)
 - [Yazılım Cenneti](https://www.youtube.com/channel/UCi7Yz0h9pgncXmW52JXq7YQ/abouty)
 
 ### Slack Grupları
