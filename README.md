@@ -54,7 +54,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Packer](#packer)
 - [PHP](#php)
 - [Postgres](#postgres)
-- [Powershell](#powershell)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Rails](#rails)
 - [React](#react)
@@ -483,8 +483,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [PostgreSQL 12'de Streaming Replication İşlemleri](https://medium.com/@aydemirzekiye/postgresql-12de-streaming-replication-i%CC%87%C5%9Flemleri-40f792a8141b?) - [Zekiye Aydemir](https://twitter.com/pgElephant)
 
 
-### Powershell 
-- [Powershell - Türkçe Kaynak](https://github.com/mustafadalga/powershell)
+### PowerShell 
+- [PowerShell - Türkçe Kaynak](https://github.com/mustafadalga/powershell)
 
 
 
