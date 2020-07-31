@@ -372,6 +372,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JavaScript için uyarlanmış Temiz Kod kavramları](https://github.com/umutphp/clean-code-javascript-tr) - [Umut Işık](https://umuts.info)
 - [JavaScript Eğitimi](https://www.mobilhanem.com/javascript-egitimi/) - [Gökhan Kurt](http://gokhankurt.com.tr)
 - [JavaScript Dersleri](https://www.azkod.com/javascript)
+- [Bir Stajyerin JavaScript Uzerine Yazmis Oldugu Gunlukler](https://github.com/alperen/training-book-2019) - [Alperen Turkoz](https://www.linkedin.com/in/alperenturkoz/)
 
 
 ### jQuery
