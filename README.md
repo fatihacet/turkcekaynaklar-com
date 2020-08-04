@@ -67,7 +67,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [SQL](#sql)
 - [Swift](#swift)
 - [Titanium Mobile](#titanium-mobile)
-- [Typescript](#typescript)
+- [TypeScript](#typescript)
 - [Vault](#vault)
 - [Vim](#vim)
 - [Vue.js](#vuejs)
@@ -610,7 +610,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Titanium Mobile
 - [Titanium Mobile ile Çapraz Platform Uygulama Geliştirme](http://nazrdogan.github.io/titanium%20mobile/2015/12/07/appcelerator-titanium-mobile-turkce-kitap.html)
 
-### Typescript
+### TypeScript
 - [A’dan Z’ye Typescript](https://medium.com/@yasinatesim/adan-z-ye-typescript-d27a1b6ff17a)
 
 ### Vault
