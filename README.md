@@ -289,6 +289,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Go Nedir ? Visual Studio Code ile Go (Golang) Programlamaya Giriş](https://www.onbirkod.com/visual-studio-code-ile-go-golang-programlamaya-giris/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - [Go Programlama Dili ile İlgili Yazılar ve Minik Projeler](https://www.yakuter.com/kategori/golang/) - [Erhan Yakut](https://www.yakuter.com/)
 - [Go El Kitabı](https://github.com/umutphp/the-little-go-book) - Karl Seguin tarafından yazılmış The Little Go Book kitabının çevirisi.
+- [Go Programlama Dili Türkçe Eğitim Kaynağı](https://go.kaanksc.com) - [Kaan Kuşcu](https://kaanksc.com)
 
 
 ### GraphQL
