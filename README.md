@@ -344,6 +344,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java ve Java Teknolojileri](http://www.injavawetrust.com/) - In Java We Trust
 - [Spring Boot ile Database Uygulaması Geliştirmek](https://www.onbirkod.com/spring-boot-ile-database-uygulamasi-gelistirmek/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - :movie_camera: [Java Dersleri](https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
+- :movie_camera: [Java Dersleri ve Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLEcJSEQK_cD5KHgg9sXumeg659hAr2j4W) - [Kodlama Vakti](https://www.youtube.com/kodlamavakti)
 
 
 ### JavaScript
@@ -772,6 +773,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Uğur Umutluoğlu](https://www.youtube.com/channel/UCpFcAp-klqUMATCKS71ZXPw)
 - [Armağan Amcalar](https://www.youtube.com/channel/UCANCsbie9EorvBNWfpVntGQ)
 - [Yazılım Cenneti](https://www.youtube.com/channel/UCi7Yz0h9pgncXmW52JXq7YQ/abouty)
+- [Kodlama Vakti](https://www.youtube.com/kodlamavakti)
 
 ### Slack Grupları
 - [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye Al](https://goo.gl/forms/IZe06LgNk6Vsega83))
