@@ -167,7 +167,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [C# Dersleri](https://www.azkod.com/csharp)
 - :movie_camera: [C# Dersleri](https://www.youtube.com/watch?v=VytV9w2dAFs&list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K) - [Murat Yücedağ](https://www.youtube.com/channel/UCbkbOlw8snP93RJ2BhH44Qw)
 - :movie_camera: [5 Saatlik C# Eğitimi](https://www.youtube.com/watch?v=2EkMrrX9sYY) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
-- :movie_camera: [Nesneye Yönelik Programlama]https://www.youtube.com/watch?v=VPmmfmpyUl8&list=PLq4n-UisAJbKVJwIFmhCJlqamNSnZCgaT) - [Erdinç Uzun](https://erdincuzun.com/)
+- :movie_camera: [Nesneye Yönelik Programlama](https://www.youtube.com/watch?v=VPmmfmpyUl8&list=PLq4n-UisAJbKVJwIFmhCJlqamNSnZCgaT) - [Erdinç Uzun](https://erdincuzun.com/)
 
 
 ### Clojure
