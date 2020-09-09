@@ -213,6 +213,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Dart
 - [Dart Programlama Dili](https://medium.com/@halilozel1903/dart-programlama-dili-eeafb64ad300) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Dart Programlama Dili Türkçe Eğitim Kaynağı](https://dart.kaanksc.com) - [Kaan Kuşcu](https://kaanksc.com)
 
 
 ### Deep Learning
@@ -289,6 +290,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Go Nedir ? Visual Studio Code ile Go (Golang) Programlamaya Giriş](https://www.onbirkod.com/visual-studio-code-ile-go-golang-programlamaya-giris/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - [Go Programlama Dili ile İlgili Yazılar ve Minik Projeler](https://www.yakuter.com/kategori/golang/) - [Erhan Yakut](https://www.yakuter.com/)
 - [Go El Kitabı](https://github.com/umutphp/the-little-go-book) - Karl Seguin tarafından yazılmış The Little Go Book kitabının çevirisi.
+- [Go Programlama Dili Türkçe Eğitim Kaynağı](https://go.kaanksc.com) - [Kaan Kuşcu](https://kaanksc.com)
 
 
 ### GraphQL
@@ -399,7 +401,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Kotlin’de For Döngüsü](https://medium.com/@halilozel1903/kotlinde-for-döngüsü-1b907cce2057) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin’de Değişken Kavramı](https://medium.com/@halilozel1903/kotlinde-değişken-kavramı-3a2942ac36b1) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin’de Konsoldan Veri Almak](https://medium.com/@halilozel1903/kotlinde-konsoldan-veri-almak-955b6ed3b498) - [Halil ÖZEL](https://github.com/halilozel1903)
-
+- [Kotlin Companion Object](https://medium.com/@halilozel1903/kotlin-companion-object-e64b78b5c9d1) - [Halil ÖZEL](https://github.com/halilozel1903)
+- :movie_camera: [Kotlin Programlama Dersleri](https://www.youtube.com/playlist?list=PLBHsgdMqzYRNMwOio8neT-CmeHahix2Cw) - [Halil ÖZEL](https://www.youtube.com/channel/UCi7Yz0h9pgncXmW52JXq7YQ)
 
 ### Laravel
 - [Laravel Nedir?](https://www.sinaneldem.com.tr/laravel-framework-nedir-ve-ozellikleri-nelerdir) - [Sinan Eldem](https://twitter.com/sineld)
@@ -774,7 +777,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Armağan Amcalar](https://www.youtube.com/channel/UCANCsbie9EorvBNWfpVntGQ)
 - [Yazılım Cenneti](https://www.youtube.com/channel/UCi7Yz0h9pgncXmW52JXq7YQ/abouty)
 - [Kodlama Vakti](https://www.youtube.com/kodlamavakti)
+- [AliDogan.Kim](https://www.youtube.com/channel/UCcMFIxBVd6sHbJ-78xbCCng)
 - [Yunus Eş](https://www.youtube.com/channel/UCJNdBzPQDvJG7ccPoMc59KQ)
+
 
 ### Slack Grupları
 - [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye Al](https://goo.gl/forms/IZe06LgNk6Vsega83))
