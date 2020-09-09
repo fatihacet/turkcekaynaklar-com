@@ -77,6 +77,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
   - [Faydalı Linkler](#faydalı-linkler)
   - [Podcast Yayınları](#podcast-yayınları)
   - [YouTube Kanalları](#youtube-kanalları)
+  - [Twitch Kanalları](#twitch-kanalları)
   - [Slack Grupları](#slack-grupları)
 
 
@@ -780,6 +781,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [AliDogan.Kim](https://www.youtube.com/channel/UCcMFIxBVd6sHbJ-78xbCCng)
 - [Yunus Eş](https://www.youtube.com/channel/UCJNdBzPQDvJG7ccPoMc59KQ)
 
+
+### Twitch Kanalları
+- [Soner Gönül](https://www.twitch.tv/sonergonul)
 
 ### Slack Grupları
 - [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye Al](https://goo.gl/forms/IZe06LgNk6Vsega83))
