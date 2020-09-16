@@ -168,6 +168,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [C# Dersleri](https://www.azkod.com/csharp)
 - :movie_camera: [C# Dersleri](https://www.youtube.com/watch?v=VytV9w2dAFs&list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K) - [Murat Yücedağ](https://www.youtube.com/channel/UCbkbOlw8snP93RJ2BhH44Qw)
 - :movie_camera: [5 Saatlik C# Eğitimi](https://www.youtube.com/watch?v=2EkMrrX9sYY) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
+- :movie_camera: [Codecademy C# Eğitimi [9 Kısım]](https://www.youtube.com/playlist?list=PL7rvg7Sao02sbGHbrgOI2Z-oUpVQ8prBf) - [Soner Gönül](https://www.youtube.com/c/sonergonul)
 
 
 ### Clojure
@@ -292,6 +293,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Go Programlama Dili ile İlgili Yazılar ve Minik Projeler](https://www.yakuter.com/kategori/golang/) - [Erhan Yakut](https://www.yakuter.com/)
 - [Go El Kitabı](https://github.com/umutphp/the-little-go-book) - Karl Seguin tarafından yazılmış The Little Go Book kitabının çevirisi.
 - [Go Programlama Dili Türkçe Eğitim Kaynağı](https://go.kaanksc.com) - [Kaan Kuşcu](https://kaanksc.com)
+- [Codecademy Go Eğitimi [6 Kısım]](https://www.youtube.com/playlist?list=PL7rvg7Sao02uUOnyKrSgVkt0UEHq17dAd) - [Soner Gönül](https://www.youtube.com/c/sonergonul)
 
 
 ### GraphQL
@@ -780,6 +782,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Kodlama Vakti](https://www.youtube.com/kodlamavakti)
 - [AliDogan.Kim](https://www.youtube.com/channel/UCcMFIxBVd6sHbJ-78xbCCng)
 - [Yunus Eş](https://www.youtube.com/channel/UCJNdBzPQDvJG7ccPoMc59KQ)
+- [Soner Gönül](https://www.youtube.com/c/sonergonul)
 
 
 ### Twitch Kanalları
