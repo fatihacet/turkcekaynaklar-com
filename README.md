@@ -102,6 +102,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android Activity Lifecycle](https://medium.com/@halilozel1903/android-activity-lifecycle-c391fceb8999) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [ExoPlayer Nedir?](https://medium.com/@halilozel1903/exoplayer-nedir-ccae84e9f115)- [Halil ÖZEL](https://github.com/halilozel1903/ExoPlayerDemo)
 - [Android ProgressBar Kullanımı](https://medium.com/@halilozel1903/android-progressbar-kullanımı-4e50595e2cd7)- [Halil ÖZEL](https://github.com/halilozel1903)
+- [AndroidX Nedir?](https://medium.com/@halilozel1903/androidx-nedir-af09416ce068)- [Halil ÖZEL](https://github.com/halilozel1903)
+
 
 ### Angular
 - [yazilimgunlugu.org](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/angular-2-4-turkce/)
@@ -406,6 +408,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Kotlin’de Konsoldan Veri Almak](https://medium.com/@halilozel1903/kotlinde-konsoldan-veri-almak-955b6ed3b498) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin Companion Object](https://medium.com/@halilozel1903/kotlin-companion-object-e64b78b5c9d1) - [Halil ÖZEL](https://github.com/halilozel1903)
 - :movie_camera: [Kotlin Programlama Dersleri](https://www.youtube.com/playlist?list=PLBHsgdMqzYRNMwOio8neT-CmeHahix2Cw) - [Halil ÖZEL](https://www.youtube.com/channel/UCi7Yz0h9pgncXmW52JXq7YQ)
+- [Kotlin Scope Fonksiyonlar](https://medium.com/@halilozel1903/kotlin-scope-fonksiyonlar-32635a7d5569) - [Halil ÖZEL](https://github.com/halilozel1903)
+
 
 ### Laravel
 - [Laravel Nedir?](https://www.sinaneldem.com.tr/laravel-framework-nedir-ve-ozellikleri-nelerdir) - [Sinan Eldem](https://twitter.com/sineld)
@@ -712,6 +716,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ](https://www.youtube.com/watch?v=ZxQeaW5IBaw) - [Samet Atdağ](http://twitter.com/sam3t)
 - [Clean Code’dan Notlar: Bölüm 1 — Temiz Kod Derken?](https://medium.com/@busrauzun/clean-code-kitabindan-notlar-1-temiz-kod-derken-44e6f7a27eb0) - [Büşra Uzun](https://www.linkedin.com/in/busrauzun/)
 - [Tasarım Desenleri Türkçe Kaynak (Handbook)](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak/) - [Yusuf Yılmaz](https://www.twitter.com/yusufyilmazfr/)
+- [Apache Cordova Nedir?](https://medium.com/@halilozel1903/apache-cordova-nedir-a5f030343b6) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [SOAP Nedir?](https://medium.com/@halilozel1903/soap-nedir-75c560e44599) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [REST ve RESTful Nedir?](https://medium.com/@halilozel1903/rest-ve-restful-nedir-f6c8596eb38a) - [Halil ÖZEL](https://github.com/halilozel1903)
+
 
 
 ### Podcast Yayınları
