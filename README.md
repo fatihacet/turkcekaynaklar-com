@@ -103,6 +103,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [ExoPlayer Nedir?](https://medium.com/@halilozel1903/exoplayer-nedir-ccae84e9f115)- [Halil ÖZEL](https://github.com/halilozel1903/ExoPlayerDemo)
 - [Android ProgressBar Kullanımı](https://medium.com/@halilozel1903/android-progressbar-kullanımı-4e50595e2cd7)- [Halil ÖZEL](https://github.com/halilozel1903)
 - [AndroidX Nedir?](https://medium.com/@halilozel1903/androidx-nedir-af09416ce068)- [Halil ÖZEL](https://github.com/halilozel1903)
+- [Android Rewarded Reklam](https://halilozel1903.medium.com/android-rewarded-reklam-1d6788c9f6f5)- [Halil ÖZEL](https://github.com/halilozel1903)
+- [Huawei Mobile Service ve AppGallery Nedir?](https://halilozel1903.medium.com/huawei-mobile-service-ve-appgalery-nedir-e6d720e8bfcf)- [Halil ÖZEL](https://github.com/halilozel1903)
+- [Gradle Nedir?](https://halilozel1903.medium.com/gradle-nedir-6d146ba68c38)- [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Angular
