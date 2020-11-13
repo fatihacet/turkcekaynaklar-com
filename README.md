@@ -170,7 +170,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [C# Dersleri](https://www.youtube.com/watch?v=VytV9w2dAFs&list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K) - [Murat Yücedağ](https://www.youtube.com/channel/UCbkbOlw8snP93RJ2BhH44Qw)
 - :movie_camera: [5 Saatlik C# Eğitimi](https://www.youtube.com/watch?v=2EkMrrX9sYY) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - :movie_camera: [Codecademy C# Eğitimi [9 Kısım]](https://www.youtube.com/playlist?list=PL7rvg7Sao02sbGHbrgOI2Z-oUpVQ8prBf) - [Soner Gönül](https://www.youtube.com/c/sonergonul)
-- [Türkçe C# Kaynakları] (https://github.com/vimevim/turkce-C-sharp-kaynaklari)
+- [Türkçe C# Kaynakları](https://github.com/vimevim/turkce-C-sharp-kaynaklari)
 
 
 ### Clojure
@@ -190,7 +190,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Qt 4 ile C++ GUI Programlama](https://ufukuzun.wordpress.com/yayinlarim/qt-4-ile-c-gui-programlama/) - [Ufuk Uzun](https://ufukuzun.wordpress.com/)
 - [C++ - learnXinYminutes](https://learnxinyminutes.com/docs/tr-tr/c++-tr/)
 - [C++ En İyi Uygulamalar](https://p1v0t.gitbooks.io/cppbestpractices/content/)
-- [ Türkçe C++ Kaynakları](https://github.com/vimevim/turkce-cpp-kaynaklari)
+- [Türkçe C++ Kaynakları](https://github.com/vimevim/turkce-cpp-kaynaklari)
 
 
 ### Crystal
