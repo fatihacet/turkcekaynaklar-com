@@ -549,7 +549,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [React Native SQLite Kullanımı](https://medium.com/@peacecwz/react-native-sqlite-kullan%C4%B1m%C4%B1-6969e783f136) - [Barış Ceviz](https://github.com/peacecwz)
 - [React ile Cross Platform Düşünmek](https://medium.com/@oguzkilic/react-ile-cross-platform-d%C3%BC%C5%9F%C3%BCnmek-cba5aa7b462f) - [Oğuz Kılıç](https://twitter.com/0guzKilic)
 - [React Native Firebase Push Notification Kurulumu](http://www.avarekodcu.com/konu/41/react-native-firebase-push-notification-kurulumu-ios-ve-android-icin) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
-
+- [React Native](https://erdincuzun.com/react-native/00-react-native/) - [Erdinç Uzun](https://erdincuzun.com/)
 
 
 ### Ruby
