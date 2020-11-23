@@ -15,7 +15,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [ASP.NET](#aspnet)
 - [Bash](#bash)
 - [Bot Framework](#bot-framework)
-- [Behavior Driven Development](#behavior-driven-development)
 - [CodeIgniter](#codeigniter)
 - [C](#c)
 - [C#](#csharp)
@@ -148,10 +147,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Bot Framework ile Azure Cognitive Services Kullanımı](https://medium.com/@peacecwz/bot-framework-ile-azure-cognitive-services-kullan%C4%B1m%C4%B1-e8e76871e52b) - [Barış Ceviz](https://github.com/peacecwz)
 - [Bot Framework ile Aşçı botunuzu yapın](https://medium.com/@peacecwz/bot-framework-ile-a%C5%9F%C3%A7%C4%B1-botunuzu-yap%C4%B1n-354eb566e57d) - [Barış Ceviz](https://github.com/peacecwz)
 - [Akakce.com sitesini Bot Framework ile Chatbot haline getirelim](https://medium.com/@peacecwz/akakce-com-sitesini-bot-framework-ile-chatbot-haline-getirelim-288f60320c8) - [Barış Ceviz](https://github.com/peacecwz)
-
-
-### Behavior Driven Development
-- [BDD Giris](https://selimober.com/bdd-ye-giris/)
 
 
 ### C
