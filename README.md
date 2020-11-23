@@ -297,6 +297,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Go El Kitabı](https://github.com/umutphp/the-little-go-book) - Karl Seguin tarafından yazılmış The Little Go Book kitabının çevirisi.
 - [Go Programlama Dili Türkçe Eğitim Kaynağı](https://go.kaanksc.com) - [Kaan Kuşcu](https://kaanksc.com)
 - [Codecademy Go Eğitimi [6 Kısım]](https://www.youtube.com/playlist?list=PL7rvg7Sao02uUOnyKrSgVkt0UEHq17dAd) - [Soner Gönül](https://www.youtube.com/c/sonergonul)
+- [Golang Echo Framework ile Web Geliştirme Eğitim Serisi](https://lnkd.in/eQXMabS) - [Ahmet Buğra Çakıcı](https://www.github.com/ahmetbcakici)
 
 
 ### GraphQL
