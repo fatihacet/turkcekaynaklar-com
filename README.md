@@ -354,6 +354,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Spring Boot ile Database Uygulaması Geliştirmek](https://www.onbirkod.com/spring-boot-ile-database-uygulamasi-gelistirmek/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - :movie_camera: [Java Dersleri](https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - :movie_camera: [Java Dersleri ve Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLEcJSEQK_cD5KHgg9sXumeg659hAr2j4W) - [Kodlama Vakti](https://www.youtube.com/kodlamavakti)
+- :movie_camera: [Java ile Temel Programlama ve OOP](https://youtu.be/DpiQ-zbK4Fo?list=PLHnI4uXxaT1baupZJsOyUamc11aiO4nEx) - [Ahmet Buğra Çakıcı](https://www.linkedin.com/in/ahmetbcakici)
 
 
 ### JavaScript
