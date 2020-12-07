@@ -1,0 +1,3 @@
+Selamlar, bu derste projemizi modüllere bölelim. Bir "Saves" fonksiyonumuz olsun bu fonksiyonumuz name, surname alsın.
+Modules.ts dosyamda bu Saves dosyasını fonksiyonunu çağırıp name, surname değerlerini gönderelim.
+Sonucuda console.log ile dönelim ve görelim
