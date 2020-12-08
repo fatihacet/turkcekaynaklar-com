@@ -468,7 +468,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Uygulamanıza Arama Özelliği Ekleme - Algolia Search](https://www.youtube.com/watch?v=u-4asiGgFdc) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - :movie_camera: [Node.js - HTML'den PDF Oluşturma](https://www.youtube.com/watch?v=C1LSXiV_Ldw) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - :movie_camera: [Node.js - Debugging İşlemi - VS Code - Chrome](https://youtu.be/Gr46CZcEXTg) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
-
+- :movie_camera: [Node.js Giriş](https://www.youtube.com/watch?v=dGlLoFbgmoM&list=PLHnI4uXxaT1Zd6GN-dDKB0auOBJA6BgwE) - [Ahmet Buğra Çakıcı](https://www.linkedin.com/in/ahmetbcakici)
 
 ### OpenSSL
 - [OpenSSL CA Kılavuzu](https://github.com/zekiunal/openssl-certificate-authority-guide)
