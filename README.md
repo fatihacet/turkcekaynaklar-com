@@ -795,7 +795,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [AliDogan.Kim](https://www.youtube.com/channel/UCcMFIxBVd6sHbJ-78xbCCng)
 - [Yunus Eş](https://www.youtube.com/channel/UCJNdBzPQDvJG7ccPoMc59KQ)
 - [Soner Gönül](https://www.youtube.com/c/sonergonul)
-
+- [Ahmet Buğra Çakıcı](https://www.youtube.com/ahmetbugracakici)
+- [Codefiction](https://www.youtube.com/channel/UCq3oLmam_8au66Hyw2-BJtg)
+- [Türkçe Kubernetes](https://www.youtube.com/channel/UCsuJZR9zQkyjmsAIvLQORgA)
+- [Cloud and Serverless Turkey](https://www.youtube.com/channel/UC3rZqVuyHJ_3-TDWKOYd-Vw)
 
 ### Twitch Kanalları
 - [Soner Gönül](https://www.twitch.tv/sonergonul)
