@@ -3,12 +3,13 @@
 Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### [https://turkcekaynaklar.com](https://turkcekaynaklar.com)
+
 ### [KATKI ÇAĞRISI](/Katki-Cagrisi.md)
 
 ---
 
-
 ### Konu başlıkları
+
 - [Android](#android)
 - [Angular](#angular)
 - [Arduino](#arduino)
@@ -79,11 +80,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
   - [Twitch Kanalları](#twitch-kanalları)
   - [Slack Grupları](#slack-grupları)
 
-
------
-
+---
 
 ### Android
+
 - [Mobilhanem Android](https://www.mobilhanem.com/android-egitimleri/)
 - [Android Uygulamaya “Facebook ile Giriş” Ekleme](https://medium.com/@yusufcakal/android-uygulamaya-facebook-ile-giri%C5%9F-ekleme-14940166eb22) - Yusuf Çakal
 - [umiitkose.com Android Blog](http://www.umiitkose.com/android) - [Ümit KÖSE](https://twitter.com/umiitkose)
@@ -106,8 +106,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Huawei Mobile Service ve AppGallery Nedir?](https://halilozel1903.medium.com/huawei-mobile-service-ve-appgalery-nedir-e6d720e8bfcf)- [Halil ÖZEL](https://github.com/halilozel1903)
 - [Gradle Nedir?](https://halilozel1903.medium.com/gradle-nedir-6d146ba68c38)- [Halil ÖZEL](https://github.com/halilozel1903)
 
-
 ### Angular
+
 - [yazilimgunlugu.org](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/angular-2-4-turkce/)
 - [Angular 2 Dersleri](http://ilkaygunel.com/blog/2017/angular-2-tutorials/)
 - [Kodumunblogu - Angular Türkçe Dersler ve Anlatımlar](https://kodumunblogu.net/category/angular)
@@ -118,9 +118,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Mobilhanem Angular](https://www.mobilhanem.com/angular-egitimi/)
 - :movie_camera: [Angular 7 Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZUOaq1ZiQEYBzVAKEB8BVL8) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 
-
-
 ### ASP.NET
+
 - :movie_camera: [ASP.NET ile Basit Okul Projesi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj49bsuq6iLrg1qyZtekSCgPW) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 - :movie_camera: [ASP.NET ile Blog Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJIsS51_RkdIpX8gemXkXXhD) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - :movie_camera: [ASP.NET Mvc Blog Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJJqRRNYfVmXG7Lw1Ovjm0UQ) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
@@ -128,41 +127,43 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [ASP.NET Core El Kitabı](https://sahinyanlik.gitbooks.io/kisa-asp-net-core-kitabi/content/) - [Sahin Yanlik](http://www.sahinyanlik.com.tr)
 - :movie_camera: [Açık akademi ASP.NET MVC Eğitimi](https://www.acikakademi.com/portal/egitimler/aspnet-mvc-ile-ileri-seviyede-web-programlama.aspx)
 - :movie_camera: [ASP.NET MVC Dersleri](https://www.youtube.com/watch?v=-Fgpo2HvGIE&list=PLpiXyP9d3U1pUCEi8-S2pXzQchNuqJ3Kp) - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
-- :movie_camera: [ASP.NET CORE WEB API Dersleri](https://www.youtube.com/watch?v=paI5DZq79uw&list=PLpiXyP9d3U1q251izX5xLHctZEmb8REr_) - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
+- :movie*camera: [ASP.NET CORE WEB API Dersleri](https://www.youtube.com/watch?v=paI5DZq79uw&list=PLpiXyP9d3U1q251izX5xLHctZEmb8REr*) - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
 
 ### Arduino
+
 - [Arduino - Robotistan](https://maker.robotistan.com/kategori/arduino/)
 - [Arduino Projeler](https://www.arduinoprojeler.com/)
 - [Arduino Nedir?](https://medium.com/@halilozel1903/arduino-nedir-722dbfda3fff) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Arduino Dersleri](https://www.azkod.com/arduino)
 
 ### Bash
+
 - [Bash(Shell) Rehberi](https://github.com/omergulen/bash-guide) - [Ömer Gülen](https://twitter.com/omergulenn)
 - [GNU Bash Başvuru Kılavuzu](http://www.belgeler.org/bashref/bashref.html) - Çeviren: Nilgün Belma Bugüner
 
-
 ### Bot Framework
+
 - [Chatbot ve Bot Framework Nedir?](https://medium.com/@peacecwz/chatbot-ve-bot-framework-nedir-7558f4eacfe3) - [Barış Ceviz](https://github.com/peacecwz)
 - [Microsoft Bot Framework ile Hello Chatbot](https://medium.com/@peacecwz/microsoft-bot-framework-ile-hello-chatbot-cc357468ac48) - [Barış Ceviz](https://github.com/peacecwz)
 - [Bot Framework ile Azure Cognitive Services Kullanımı](https://medium.com/@peacecwz/bot-framework-ile-azure-cognitive-services-kullan%C4%B1m%C4%B1-e8e76871e52b) - [Barış Ceviz](https://github.com/peacecwz)
 - [Bot Framework ile Aşçı botunuzu yapın](https://medium.com/@peacecwz/bot-framework-ile-a%C5%9F%C3%A7%C4%B1-botunuzu-yap%C4%B1n-354eb566e57d) - [Barış Ceviz](https://github.com/peacecwz)
 - [Akakce.com sitesini Bot Framework ile Chatbot haline getirelim](https://medium.com/@peacecwz/akakce-com-sitesini-bot-framework-ile-chatbot-haline-getirelim-288f60320c8) - [Barış Ceviz](https://github.com/peacecwz)
 
-
 ### C
+
 - :movie_camera: [C Programlamaya Giriş](https://www.youtube.com/watch?v=FtaKEn2f2qI&list=PLfzhcDNz4tlXOvEE7z_u3gEqFO3nwIZ5i&index=1) - [Volkan Kılıç](https://www.youtube.com/channel/UC9aW-PVSy01gWDQ25ZCiNbw)
 - :movie_camera: [C ile Programlamaya Giriş](https://www.youtube.com/watch?v=gHmaZ2zeLu8&index=4&list=PLh9ECzBB8tJNzJqD64MAS0SK5IeNCKCzY) - [BilgisayarKavramlari
   ](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g)
 - [C Programlama Dili'ne Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Dr.Ahmet Bingül](http://www1.gantep.edu.tr/~bingul/)
 - [GNU C Kütüphanesi Başvuru Kılavuzu](http://www.belgeler.org/glibc/glibc.html) - Çevirenler: Nilgün Belma Bugüner, Yaşar Dereli
-- [Dinamik Olarak Oluşturan Kodu Çalıştırmak ve JIT mimarisine Düşük Seviyeli Bir Bakış](http://ismailkocacan.blogspot.com/2019/07/dinamik-olarak-olusturan-kodu-calstrmak.html) 
+- [Dinamik Olarak Oluşturan Kodu Çalıştırmak ve JIT mimarisine Düşük Seviyeli Bir Bakış](http://ismailkocacan.blogspot.com/2019/07/dinamik-olarak-olusturan-kodu-calstrmak.html)
 - [Offset Kavramı ve Dinamik Dizi Yapımı](http://ismailkocacan.blogspot.com/2018/09/offset-kavram-ve-dinamik-dizi-yapm.html)
-- [Fonksiyon Çağırım Düzeni/Biçimi/Şekli Ya da Her Neyse](http://ismailkocacan.blogspot.com/2018/09/fonksiyon-cagrm-duzenibicimisekli-ya-da.html) 
+- [Fonksiyon Çağırım Düzeni/Biçimi/Şekli Ya da Her Neyse](http://ismailkocacan.blogspot.com/2018/09/fonksiyon-cagrm-duzenibicimisekli-ya-da.html)
 - [Offset Kavramı Ve Dinamik Dizi Yapımı (2 ve 3 Boyutlu)](http://ismailkocacan.blogspot.com/2019/11/offset-kavram-ve-dinamik-dizi-yapm-2-ve.html)
 - [Türkçe C Kaynakları](https://github.com/vimevim/turkce-c-kaynaklari)
 
-
 ### Csharp
+
 - :movie_camera: [C# ile Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLjI4XZvh1FJIKMDPS2HS05uxfNHb_KTq1) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - :movie_camera: [C# Dersleri - 10 Günde CSharp (C#)](https://www.youtube.com/playlist?list=PL2atofUpdCAV_ZlpK9mz6ul-fRYx2yXDY) - [Yazılım Hocası](https://www.youtube.com/user/yazilimhocasi)
 - :movie_camera: [Acik Akademi C# Derleri](https://www.acikakademi.com/portal/egitimler/csharp-uygulama-gelistirme.aspx)
@@ -172,18 +173,18 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Codecademy C# Eğitimi [9 Kısım]](https://www.youtube.com/playlist?list=PL7rvg7Sao02sbGHbrgOI2Z-oUpVQ8prBf) - [Soner Gönül](https://www.youtube.com/c/sonergonul)
 - [Türkçe C# Kaynakları](https://github.com/vimevim/turkce-C-sharp-kaynaklari)
 
-
 ### Clojure
+
 - :movie_camera: [Clojure Giriş](https://www.youtube.com/watch?v=l40q0guuXVw) - Üstün Özgür
 
-
 ### CodeIgniter
+
 - :movie_camera: [CodeIgniter Eğitim Serisi](https://www.youtube.com/watch?v=mkTNMzrN97I&list=PL_f2F0Oyaj4_xGyQlwgsd9gI1UgnTTHkC) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 - :movie_camera: [CodeIgniter Otel Rezervasyon Uygulaması](https://www.youtube.com/playlist?list=PL_f2F0Oyaj49nS8eZW1qQie6Zr4yRqDMF) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
-- :movie_camera: [CodeIgniter Malzeme Uygulaması](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4_-tbmkqsQy3g0IGLSsxj5I) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
-
+- :movie*camera: [CodeIgniter Malzeme Uygulaması](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4*-tbmkqsQy3g0IGLSsxj5I) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 
 ### Cpp
+
 - [C++ Turkey User Group](https://cppturkiye.wordpress.com/)
 - [plepa.com](http://plepa.com/)
 - [cppdili](https://cppdili.blogspot.com.tr/)
@@ -192,12 +193,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [C++ En İyi Uygulamalar](https://p1v0t.gitbooks.io/cppbestpractices/content/)
 - [Türkçe C++ Kaynakları](https://github.com/vimevim/turkce-cpp-kaynaklari)
 
-
 ### Crystal
+
 - :movie_camera: [Adım adım Crystal](https://www.youtube.com/playlist?list=PLqgPe8mz0dh5p73VdFwAuh1MF_yQ6f9RJ)
 
-
 ### CSS
+
 - :movie_camera: [CSS Anlat](https://www.youtube.com/playlist?list=PLadt0EaV4m3CV5URFStcmOMMP-G9Bf8LG) - [Adem İlter](https://twitter.com/ADEMilter)
 - [Fatih Hayrioğlu'nun not defteri](http://fatihhayrioglu.com) - [Fatih Hayrioğlu](https://twitter.com/fatihhayri)
 - [CSS Dokümanları](http://sercaneraslan.com/css) - [Sercan Eraslan](https://twitter.com/sercan_eraslan)
@@ -213,19 +214,20 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Css Dersleri](https://www.azkod.com/css)
 
 ### D
+
 - [D Programlama Dili](http://ddili.org/ders/d/index.html)
 
-
 ### Dart
+
 - [Dart Programlama Dili](https://medium.com/@halilozel1903/dart-programlama-dili-eeafb64ad300) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Dart Programlama Dili Türkçe Eğitim Kaynağı](https://dart.kaanksc.com) - [Kaan Kuşcu](https://kaanksc.com)
 
-
 ### Deep Learning
+
 - [Türkçe Yapay Zeka Kaynakları](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
 
-
 ### Django
+
 - :movie_camera: [Django 101](https://www.youtube.com/watch?v=L-26ZJ3s6Mc&index=1&list=PLJeh-dT_Z82vvyYXmp1auK6A6e3aDlgCG&t=8s) - [Tolgahan Üzün](https://twitter.com/tlghnzn)
 - [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/)
 - :movie_camera: [Django ile Web Programlama](https://www.youtube.com/watch?v=uwVmWS1yJ1k&list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh) - [Barış Aslan](https://www.youtube.com/c/Bar%C4%B1%C5%9FAslan)
@@ -235,8 +237,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Django Nedir?](https://medium.com/@halilozel1903/django-nedir-52b29ebb7298) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [MongoDB-Django](https://medium.com/batech/mongodb-django-69e6b9d3625d) - [Murat Vuranok](https://medium.com/@mrtvrnk)
 
-
 ### Docker
+
 - [Docker İpuçları](https://gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-1/) - [Gökhan Şengün](https://twitter.com/gokhansengun)
 - [Docker Serisi](https://medium.com/monitisemea/docker-serisi-1-1c6629499b9a) - Alper Kanat
 - [Docker ve PHP](https://mksglu.gitbooks.io/php-ile-docker-gelistirelim/content/) - [Mert Köseoğlu](https://github.com/mksglu/)
@@ -244,37 +246,35 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Yeni Nesil Geliştirme Ortamı Docker Serisi](https://oguzcandemircan.com/yeni-nesil-gelistirme-ortami-bolum-1-docker) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
 - [Docker ile Vue Js Projesi Nasıl Oluşturulur, Geliştirilir ve Yayınlanır?](https://oguzcandemircan.com/docker-ile-vuejs-projesi-nasil-olusturulur-gelistirlir-ve-yayinlanir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
 
-
-
 ### Electron
+
 - [Electron Kullanarak Hem Masaüstü Hem Tarayıcı Uygulaması Geliştirme](http://www.avarekodcu.com/konu/28/electron-react-webpack-ve-babel-kullanarak-hem-masaustu-hem-tarayici-uygulamasi-gelistirme) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 - [Electron Uygulamasının, Dağıtma ve Güncelleme Senaryoları](http://www.avarekodcu.com/konu/29/electron-uygulamasinin-dagitma-ve-guncelleme-senaryolari) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 
-
 ### Flux
+
 - [Karikatürler üzerinden Flux](https://medium.com/@keremciu/karikat%C3%BCrler-%C3%BCzerinden-flux-3e8ad03db2c4) - [Kerem Sevencan](https://twitter.com/keremciu)
 
-
 ### Flutter
+
 - :movie_camera: [Google Flutter Dersleri Dart Dersleri](https://www.youtube.com/watch?v=nAxc6zViHWo&list=PLrWGe5fM0LZ6aJG8dWFRkqchaHENPmLET)
 - [Flutter Nedir?](https://medium.com/@halilozel1903/flutter-nedir-8a3cb33fdb9d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - :movie_camera: [Flutter Eğitim Serisi](https://www.youtube.com/playlist?list=PLDtOT47tyugN9StQujdf4FCMMmsGY9dVK)
 - :movie_camera: [6 Saatlik Flutter Eğitimi](https://www.youtube.com/watch?v=oISIcfHAzm4) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - [Android Studio’ya Flutter Kurulumu](https://medium.com/@halilozel1903/android-studioya-flutter-kurulumu-73f7d4cefde)- [Halil ÖZEL](https://github.com/halilozel1903)
 
-
-
 ### Git
+
 - [Türkçe Git 101](https://aliozgur.gitbooks.io/git101/) - [Ali Özgür](https://twitter.com/aliozgur)
 - :movie_camera: [Git ve GitHub Kullanımı](https://www.youtube.com/watch?v=rWG70T7fePg&list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - [Barış Aslan](https://www.youtube.com/c/Bar%C4%B1%C5%9FAslan)
 - [git init](https://medium.com/@mustafazahidefe/git-notlar%C4%B1-2-git-i%CC%87nit-f54292fbf631) - Mustafa Zahid Efe
 - [Github Görev Yönetimi (Issues) ve Organizasyon](https://medium.com/@noteCe/5-github-g%C3%B6rev-y%C3%B6netimi-i%CC%87ssues-ve-organizasyon-1277ef74b409)
 - [Git - learnXinYminutes](https://learnxinyminutes.com/docs/tr-tr/git-tr/)
 - [Git, GitHub ve GitLab Nedir?](https://medium.com/@halilozel1903/git-github-ve-gitlab-nedir-e51a87e8e4e7) - [Halil ÖZEL](https://github.com/halilozel1903)
-- :movie_camera: [Yeni Başlayanlar için Git Dersleri](https://www.youtube.com/playlist?list=PL_Z0TaFYSF3IqQKPOmbigAOVMMlZ2yU4K) - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA) 
-
+- :movie_camera: [Yeni Başlayanlar için Git Dersleri](https://www.youtube.com/playlist?list=PL_Z0TaFYSF3IqQKPOmbigAOVMMlZ2yU4K) - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
 
 ### GNU/Linux
+
 - [Arch Linux I3WM Kurulum Sonrası Yapılandırma Ayarları (GitBook)](https://www.gitbook.com/book/mksglu/arch-linux-i3wm/details) - [Mert Köseoğlu](https://github.com/mksglu/)
 - [Linux Manjaro 17 I3WM Topluluk Sürümü Çözümleri](https://mksglu.gitbooks.io/linux-manjaro-17-i3wm-topluluk-surumu-cozumleri/content/) - [Mert Köseoğlu](https://github.com/mksglu/)
 - [Linux Manjaro Gnome 3.22 Çözümleri](https://www.mkoseoglu.com/linux-manjaro-gnome-3-22-cozumleri) - [Mert Köseoğlu](https://github.com/mksglu/)
@@ -283,8 +283,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Kali Linux Nedir?](https://medium.com/@halilozel1903/kali-linux-nedir-5cb0ac4bfb8c) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Parrot Security OS Nedir?](https://medium.com/@halilozel1903/parrot-security-os-nedir-cdf172e8293b) - [Halil ÖZEL](https://github.com/halilozel1903)
 
-
 ### Go
+
 - [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
 - [Vim ile Go Programlama Dili Geliştirme Ortamı](http://blog.oguzhan.info/?p=1248) - [Oğuzhan Yılmaz](http://blog.oguzhan.info/)
 - [Go Pointers](http://www.buraksenyurt.com/post/golang-pointers) - Burak Selim Şenyurt
@@ -299,8 +299,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Codecademy Go Eğitimi [6 Kısım]](https://www.youtube.com/playlist?list=PL7rvg7Sao02uUOnyKrSgVkt0UEHq17dAd) - [Soner Gönül](https://www.youtube.com/c/sonergonul)
 - :movie_camera: [Golang Echo Framework ile Web Geliştirme Eğitim Serisi](https://www.youtube.com/watch?v=P5TRNhhq00w&feature=youtu.be&list=PLHnI4uXxaT1aboTBx687QV5cLvGi7882a) - [Ahmet Buğra Çakıcı](https://www.linkedin.com/in/ahmetbcakici)
 
-
 ### GraphQL
+
 - [GraphQL, Relay, Apollo Stack / Veri Erişiminde yeni bir bakış açısı .](https://yazilimgunlugu.org/graphql-relay-apollo-veri-erisiminde-yeni-bir-bakis-acisi/) - [Hüseyin Dönmez](yazilimgunlugu.org)
 - [GraphQL Sen Hayırdır?](http://askingedik.net/2017/06/06/graphql-sen-hayirdir/) - Aşkın Gedik
 - [GraphQL'e Giriş](https://medium.com/@harunakgn/graphqle-giri%C5%9F-ee6a3f6d49f1) - Harun Akgün
@@ -309,18 +309,18 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [GraphQL Doğrulama (validation)](https://medium.com/@harunakgn/do%C4%9Frulama-validation-f7883bd4b932) - Harun Akgün
 - [GraphQL Sorgu Çalıştırma](https://medium.com/@harunakgn/graphql-sorgu-%C3%A7al%C4%B1%C5%9Ft%C4%B1rma-da41b22cb378) - Harun Akgün
 
-
 ### Gulp
+
 - [Ben galp Gulp!](https://medium.com/@keremciu/ben-galp-gulp-1-15340198e866) - [Kerem Sevencan](https://twitter.com/keremciu)
 - [Gulp Türkçe Doküman](https://github.com/omergulcicek/gulp) - [Ömer Gülçiçek](https://twitter.com/omergulcicek)
 - :movie_camera: [Gulp.js nedir?](https://www.youtube.com/watch?v=STxO9XQJ_lg) - [Adem İlter](https://github.com/ademilter)
 
-
 ### Haskell
+
 - [Zor Yoldan Haskell](http://github.com/joom/zor-yoldan-haskell) - [Cumhur Korkut](http://github.com/joom)
 
-
 ### HTML
+
 - :movie_camera: [HTML Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Qro_C0ixzMWpCiogfXxKE) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 - :movie_camera: [HTML5 & CSS3 Eğitim Serisi](https://www.youtube.com/playlist?list=PLWctyKyPphPgllQpbeVEzqU721R3WFY1W) - [Yakın Kampüs](https://www.youtube.com/channel/UCrFuOhaISP4OMarjFR4dYBA)
 - :movie_camera: [HTML & CSS Eğitim Seti](https://www.youtube.com/watch?v=nLCveeY8CAE&list=PLkAqDZGjJrkB_a1vD4ZUIrY0IPp5LdD5S) - [Web Odası](https://www.youtube.com/channel/UCDAqxRE1wwZ-n5MRq97aEjA)
@@ -331,10 +331,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Html Dersleri](https://www.azkod.com/html)
 
 ### Ionic
+
 - [Ionic 4 ve Angular ile Mobil Uygulama Geliştirmek](https://medium.com/@clkgkhn/ionic-4-ve-angular-ile-mobil-uygulama-geli%C5%9Ftirmek-6e64d7585e3d) - [Gökhan Çelik](https://github.com/gokhancelik)
 
-
 ### Java
+
 - [Kurumsal Java](http://www.kurumsaljava.com/) - [Özcan Acar](http://ozcanacar.com/)
 - [Java'da Multithreading](https://ufukuzun.wordpress.com/yayinlarim/javada-multithreading/) - [Ufuk Uzun](https://ufukuzun.wordpress.com/)
 - [Java ve ilişkili teknolojileri içeren blog](https://alicanakkus.github.io)
@@ -356,8 +357,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Java Dersleri ve Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLEcJSEQK_cD5KHgg9sXumeg659hAr2j4W) - [Kodlama Vakti](https://www.youtube.com/kodlamavakti)
 - :movie_camera: [Java ile Temel Programlama ve OOP](https://youtu.be/DpiQ-zbK4Fo?list=PLHnI4uXxaT1baupZJsOyUamc11aiO4nEx) - [Ahmet Buğra Çakıcı](https://www.linkedin.com/in/ahmetbcakici)
 
-
 ### JavaScript
+
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
 - [Javascript console log Komutunu Özelleştirme](http://www.avarekodcu.com/konu/11/javasript-console-log-komutunu-ozellestirme-kullanma) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 - [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr/)
@@ -386,12 +387,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JavaScript Dersleri](https://www.azkod.com/javascript)
 - [Bir Stajyerin JavaScript Uzerine Yazmis Oldugu Gunlukler](https://github.com/alperen/training-book-2019) - [Alperen Turkoz](https://www.linkedin.com/in/alperenturkoz/)
 
-
 ### jQuery
+
 - :movie_camera: [JQuery Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Jt6F-dyl6LEHNVaudH3rk) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 
-
 ### Kotlin
+
 - [Kotlin Nedir ?](https://medium.com/@halilozel1903/kotlin-nedir-43e312d2dca6) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin Set Kullanımı ve Fonksiyonları](https://www.mobilhanem.com/kotlin-set-kullanimi-ve-methodlari-2/) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Kotlin Map Kullanımı ve Fonksiyonları](https://www.mobilhanem.com/kotlin-map-kullanimi-ve-fonksiyonlari/) - [Halil ÖZEL](https://github.com/halilozel1903)
@@ -413,8 +414,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Kotlin Programlama Dersleri](https://www.youtube.com/playlist?list=PLBHsgdMqzYRNMwOio8neT-CmeHahix2Cw) - [Halil ÖZEL](https://www.youtube.com/channel/UCi7Yz0h9pgncXmW52JXq7YQ)
 - [Kotlin Scope Fonksiyonlar](https://medium.com/@halilozel1903/kotlin-scope-fonksiyonlar-32635a7d5569) - [Halil ÖZEL](https://github.com/halilozel1903)
 
-
 ### Laravel
+
 - [Laravel Nedir?](https://www.sinaneldem.com.tr/laravel-framework-nedir-ve-ozellikleri-nelerdir) - [Sinan Eldem](https://twitter.com/sineld)
 - [Laravel Türkçe](http://www.laravel.gen.tr/) - [Laravel Türkiye](https://twitter.com/laraveltr)
 - [Laravel Türkiye Forum](https://laravel.gen.tr/)
@@ -428,16 +429,16 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Laravel'de Transaction Kullanımı](https://kodumunblogu.net/detail/laravelde-transaction-kullanimi)
 - [Laravel'de Swagger ile Rest Api Dökümantasyonu Hazırlama](https://kodumunblogu.net/detail/laravelde-swagger-ile-rest-api-dokumantasyonu-hazirlama)
 
-
 ### Machine Learning
+
 - :movie_camera: [Makine Ögrenmesi Video Blog](https://www.youtube.com/playlist?list=PLRRY18KNZTgUQx8NT_YqCVOyb-VnB79W2)
 
-
 ### Matlab
+
 - [MATLAB Nedir?](https://medium.com/@halilozel1903/matlab-nedir-91a904a74f45) - [Halil ÖZEL](https://github.com/halilozel1903)
 
-
 ### MongoDB
+
 - :movie_camera: [MongoDB nedir? Neden Kullanılır?](https://youtu.be/sKxs0x17nCM) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - :movie_camera: [MongoDB Veritabanı Oluşturma](https://youtu.be/E5ACtk2mzAc) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - :movie_camera: [Mongoose Library ile MongoDB](https://youtu.be/45ORJ5YMb5Y) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
@@ -446,14 +447,14 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [MongoDB Güncelleme (Update) İşlemi](https://youtu.be/CwtPQ8WWkHE) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - :movie_camera: [MongoDB Silme (Remove) İşlemi](https://youtu.be/o96DOL8geM0) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 
-
 ### Nginx
+
 - [Nginx Nedir?](https://medium.com/house-of-apps/nginx-nedir-1b15933beaf4) - Ahmet Deniz
 - [Nginx Üzerinde Web API Servisi Çalıştırmak](http://www.buraksenyurt.com/post/nginx-uzerinde-web-api-servisi-calistirmak) - Burak Selim Şenyurt
 - :movie_camera: [Linux Server üzerinde NodeJS Uygulaması Kurulumu (nginx - pm2)](https://www.youtube.com/watch?v=-uPrwyzhRck) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 
-
 ### Node.js
+
 - [Node JS Başlangıç Eğitimleri](http://blog.ilkerguller.com/search/label/node.js%20dersi) - [Ilker Guller](http://ilkerguller.com/)
 - :movie_camera: [Node JS](https://www.youtube.com/playlist?list=PLIM5iw4GHbNX-2wD-6hB7yJLxqWPS1byF) - Kayhan Ayar
 - [Node JS Blog Yazıları & Eğitimleri](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/node-js/) - [yazilimgunlugu.org](https://yazilimgunlugu.org/)
@@ -471,14 +472,15 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Node.js Giriş](https://www.youtube.com/watch?v=dGlLoFbgmoM&list=PLHnI4uXxaT1Zd6GN-dDKB0auOBJA6BgwE) - [Ahmet Buğra Çakıcı](https://www.linkedin.com/in/ahmetbcakici)
 
 ### OpenSSL
+
 - [OpenSSL CA Kılavuzu](https://github.com/zekiunal/openssl-certificate-authority-guide)
 
-
 ### Packer
+
 - [Packer Başlangıç Kılavuzu](https://github.com/zekiunal/packer)
 
-
 ### PHP
+
 - [PHP Dersleri](http://ibrahimcevruk.com/kat/php-dersleri) - [İbrahim Çevrük](http://ibrahimcevruk.com)
 - [PHP ile Nesne Yönelimli Programlama](http://www.rizagunes.com/kategori/php) - [Rıza Güneş](https://twitter.com/rgunes18)
 - [PHP Dersleri ve Uygulamaları](http://yilmazdemir.com.tr/php-dersleri) - [Yılmaz Demir](http://yilmazdemir.com.tr)
@@ -500,18 +502,16 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Php Dersleri](https://www.azkod.com/php)
 - [PHP Eğitimi](https://github.com/nuriakman/PHP-Egitimi) - [Nuri Akman](https://github.com/nuriakman) - [Kemal Mutlu](https://github.com/kemalmutlu)
 
-
 ### Postgres
+
 - [PostgreSQL 12'de Streaming Replication İşlemleri](https://medium.com/@aydemirzekiye/postgresql-12de-streaming-replication-i%CC%87%C5%9Flemleri-40f792a8141b?) - [Zekiye Aydemir](https://twitter.com/pgElephant)
 
+### PowerShell
 
-### PowerShell 
 - [PowerShell - Türkçe Kaynak](https://github.com/mustafadalga/powershell)
 
-
-
-
 ### Python
+
 - [Python Dersleri - İstihza, Yazbel](https://python-istihza.yazbel.com/)
 - [Python Dersleri Github - İstihza, Yazbel](https://github.com/yazbel/python-istihza)
 - :movie_camera: [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR) - [Mustafa Murat Coşkun](https://github.com/mustafamuratcoskun)
@@ -519,14 +519,14 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Python Programlama Dili](https://medium.com/@halilozel1903/python-programlama-dili-1f1d88ef1e1d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - :movie_camera: [6 Saatlik Python Eğitimi](https://www.youtube.com/watch?v=6IWpowC2ryc) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 
-
 ### Rails
+
 - :movie_camera: [Haydi Rails Yazalım](https://www.youtube.com/watch?v=wjEVDmHxrTk&list=PLR-hVfRDr2Mp8cDcbWZ6TX2YVTM0vECz2) - [Anıl İyidoğan](https://twitter.com/lifeis00FF00)
 - :movie_camera: [Ruby on Rails İpuçları](https://www.youtube.com/playlist?list=PLRFrHX5qAOJXUVVU0gBv03fQSespreX3E) - [Mert Bulan](http://twitter.com/mertbulan)
 - :movie_camera: [Adım adım Rails 5](https://www.youtube.com/playlist?list=PLqgPe8mz0dh6ga67CZ59oPk8IcPnFerWd)
 
-
 ### React
+
 - :movie_camera: [React JS Eğitimi](https://www.youtube.com/playlist?list=PLC9XHh8X_kVJueSCNIp5ta_PcfOHpFKmO) - [Üstün Özgür](https://twitter.com/UstunOzgur)
 - :movie_camera: [React ve Redux ile Web Uygulaması Geliştirme](https://www.youtube.com/playlist?list=PL-ohrY_IyV4CUNsDxXDkdT-aAVfrTPXll) - [Alpcan Aydın](https://twitter.com/alpcanaydin)
 - [React JS Türkçe Doküman](https://github.com/omergulcicek/reactjs) - [Ömer Gülçiçek](https://twitter.com/omergulcicek)
@@ -547,6 +547,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Redux Thunk’ın Kullanım Amacı](https://medium.com/batech/redux-thunk%C4%B1n-kullan%C4%B1m-amac%C4%B1-d4c068ea2a30) - [Yunus Ünver](https://twitter.com/yunusnver)
 
 ### React Native
+
 - [React Native Türkçe](https://ysfzrn.gitbooks.io/react-native-turkce/) - [Yusuf Zeren](https://twitter.com/yosooff)
 - [React Native İle Login Uygulaması](http://www.avarekodcu.com/aramayap/etiket/react-native-login-uygulamas) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 - [React Native Animasyonlar, Animated API](http://www.avarekodcu.com/konu/24/react-native-animasyonlar-animated-api) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
@@ -555,8 +556,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [React Native Firebase Push Notification Kurulumu](http://www.avarekodcu.com/konu/41/react-native-firebase-push-notification-kurulumu-ios-ve-android-icin) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 - [React Native](https://erdincuzun.com/react-native/00-react-native/) - [Erdinç Uzun](https://erdincuzun.com/)
 
-
 ### Ruby
+
 - [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
 - [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details) - [Uğur Özyılmazel](https://twitter.com/vigobronx)
 - [Rubygem Hazırlıyoruz](http://ugur.ozyilmazel.com/blog/tr/2014/09/23/rubygem-hazirliyoruz/) - [Uğur Özyılmazel](https://twitter.com/vigobronx)
@@ -564,26 +565,28 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Gemfile nedir?](http://kesk.in/2016/gemfile-nedir/) - [Sinan Keskin](https://twitter.com/skesk_in)
 - [Ruby ile Web Scraping'e Giriş](https://emredurukn.github.io/2018/11/09/ruby-ile-web-scrapinge-giris.html) - [Emre Durukan](https://twitter.com/emredurukn)
 
-
 ### Rust
+
 - [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8/)
 
-
 ### Sketch
+
 - :movie_camera: [Sketch App (Web/Mobil Tasarım) Dersleri](https://www.youtube.com/playlist?list=PLcnWDe66aDNB1aDPMuWsVu_EeWaqv9Bdb) - [Devran Bostancioglu](https://medium.com/@dbostancioglu)
 
-
 ### Solidity
+
 - :movie_camera: [Solidity101](https://www.youtube.com/watch?v=-Xqax3MOuPg) - Mert Susur
 
 ### Sourcemod
+
 - [Sourcemod Api Türkçe Döküman](https://github.com/ismail0234/sourcemod) - Ismail Satilmiş
 
 ### SQL
+
 - :movie_camera: [SQL Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-6vvPSJssG4Jp6UqCTmWSz) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 
-
 ### Swift
+
 - [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye/archive) - [Özgür Şahin](https://github.com/ozgurshn) & [Hüseyin Bagana](https://medium.com/@huseyinbagana)
 - [10 Dakikada Swift](https://learnxinyminutes.com/docs/tr-tr/swift-tr/) - [Özgür Şahin](https://github.com/ozgurshn)
 - [Swift ve Püf Noktaları](http://kenanatmaca.com/) - [Kenan Atmaca](https://github.com/KenanAtmaca)
@@ -621,26 +624,28 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [SwiftUI Temel Bileşenleri](https://medium.com/@halilozel1903/swiftui-temel-bileşenleri-5ad31ee52ee5) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [SwiftUI Nedir?](https://medium.com/@halilozel1903/swiftui-nedir-77c734ccf06b) - [Halil ÖZEL](https://github.com/halilozel1903)
 
-
 ### Titanium Mobile
+
 - [Titanium Mobile ile Çapraz Platform Uygulama Geliştirme](http://nazrdogan.github.io/titanium%20mobile/2015/12/07/appcelerator-titanium-mobile-turkce-kitap.html)
 
 ### TypeScript
+
 - [A’dan Z’ye Typescript](https://medium.com/@yasinatesim/adan-z-ye-typescript-d27a1b6ff17a)
 
 ### Vault
+
 - [Vault Başlangıç Kılavuzu](https://github.com/zekiunal/vault)
 
-
 ### Vim
+
 - [Vim Kısayolları](https://github.com/p1v0t/VimKisayollari)
 - :movie_camera: [Herkes için Vim! #1 Temel komutlar ve mekanikler](https://www.youtube.com/watch?v=tvRnKOA3sQs)
 - :movie_camera: [Herkes için Vim! #2 Başka temel komutlar ve mekanikler](https://www.youtube.com/watch?v=nZZsjDLMAlE)
 - :movie_camera: [Herkes için Vim! #3 Vim'i kişiselleştirmek](https://www.youtube.com/watch?v=xdOBUdDfx_Q)
 - :movie_camera: [Vim: Türkçe Eğitim Serisi](https://www.youtube.com/watch?v=jFG5nA5r1bg&list=PL10LEMb2yDT0DuX11uAXvWu9QghAZMD2P)
 
-
 ### Vue.js
+
 - :movie_camera: [VueJS Türkçe Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) - [Fatih Acet](https://twitter.com/fatihacet)
 - :movie_camera: [VueJS, Vue Router, Vuex, Firebase SPA Egitim Serisi](https://www.youtube.com/playlist?list=PLa3NvhdFWNirpx6x-LIMfTrwOfLzCkfAU) - [Fatih Acet](https://twitter.com/fatihacet)
 - :movie_camera: [Nedir Bu Vuejs](https://www.youtube.com/playlist?list=PLhLbfczNPVOKsDy-qb22aO-WxZUijmwTR) - [Ömer Şensoy](https://twitter.com/osensoy)
@@ -653,20 +658,20 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Vue.js (5) : Bileşenlerin Birbiriyle Haberleşmesi ve Vuex](https://www.onbirkod.com/vue-js-5-bilesenlerin-birbiriyle-haberlesmesi-ve-vuex/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - [VueJS ile Server Side Rendering Nasıl Yapılır?](https://oguzcandemircan.com/vue-js-ile-express-kullanarak-server-side-rendering-nasil-yapilir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
 
-
 ### WordPress
+
 - :movie_camera: [WordPress Eğitim Seti: WordPress Nedir? WordPress'in Kısa Tarihi #1](https://www.youtube.com/watch?v=B3eXU1jJzH4) - [Baran Somaklı](https://twitter.com/baransomakli)
 
-
 ### Xamarin
+
 - [Xamarin Türkiye](http://www.xamarinturkiye.com/)
 - [Xamarin Uygulama Geliştirme](http://ozaksut.com/kategori/xamarin/) - [Yiğit Özaksüt](https://twitter.com/ozaksuty)
 - [Xamarin Forms Radial Progress Kullanımı](https://medium.com/@peacecwz/xamarin-forms-radial-progress-kullan%C4%B1m%C4%B1-73751aa2cffd) - [Barış Ceviz](https://github.com/peacecwz)
 
-
 ## Diğer Kaynaklar
 
 ### Faydalı Linkler
+
 - [Çalışma Masam](https://calismamasam.com) - [Tolga Gezginiş](https://twitter.com/tgezginis)
 - [Anlamsal Sürümleme](http://semver.org/lang/tr/)
 - [Tasarım Desenleri](http://www.tasarimdesenleri.com)
@@ -717,16 +722,15 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Türkçe Doküman](https://turkcedokuman.com/)
 - [Backend Best Practices (Arka uç geliştirme hakkında örnek yöntemlerin derlendiği güncellenen bir belge)](http://umuts.info/backend-best-practices/) - [Umut Işık](https://umuts.info)
 - :movie_camera: [Big-O: Veri Büyüdükçe Kod Neden Yavaşlar?
-](https://www.youtube.com/watch?v=ZxQeaW5IBaw) - [Samet Atdağ](http://twitter.com/sam3t)
+  ](https://www.youtube.com/watch?v=ZxQeaW5IBaw) - [Samet Atdağ](http://twitter.com/sam3t)
 - [Clean Code’dan Notlar: Bölüm 1 — Temiz Kod Derken?](https://medium.com/@busrauzun/clean-code-kitabindan-notlar-1-temiz-kod-derken-44e6f7a27eb0) - [Büşra Uzun](https://www.linkedin.com/in/busrauzun/)
 - [Tasarım Desenleri Türkçe Kaynak (Handbook)](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak/) - [Yusuf Yılmaz](https://www.twitter.com/yusufyilmazfr/)
 - [Apache Cordova Nedir?](https://medium.com/@halilozel1903/apache-cordova-nedir-a5f030343b6) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [SOAP Nedir?](https://medium.com/@halilozel1903/soap-nedir-75c560e44599) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [REST ve RESTful Nedir?](https://medium.com/@halilozel1903/rest-ve-restful-nedir-f6c8596eb38a) - [Halil ÖZEL](https://github.com/halilozel1903)
 
-
-
 ### Podcast Yayınları
+
 - [devPod](http://devpod.org/)
 - [Codefiction](http://www.codefiction.tech/)
 - [Giik.fm](http://www.giik.fm)
@@ -745,8 +749,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Made In Turkey](https://open.spotify.com/show/0KrspleijwAwVpD3u4vYha?si=nBIYvzp5TaWkdSbL6YRBkg)
 - [Sıfır](https://open.spotify.com/show/1kHzNwXOoppK4xlRpl0dq6?si=RCIBACNXQ-KngXJKp1Wbow)
 
-
 ### YouTube Kanalları
+
 - [Doğukan Güven Nomak](https://www.youtube.com/channel/UCbu25feEIe6fY9fZx8BCMSA/videos)
 - [Fatih Acet](https://www.youtube.com/channel/UCvANtNYHe556zUWm6VzJenQ/videos)
 - [Adem İlter](https://www.youtube.com/user/ademilter/videos)
@@ -796,11 +800,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Yunus Eş](https://www.youtube.com/channel/UCJNdBzPQDvJG7ccPoMc59KQ)
 - [Soner Gönül](https://www.youtube.com/c/sonergonul)
 
-
 ### Twitch Kanalları
+
 - [Soner Gönül](https://www.twitch.tv/sonergonul)
 
 ### Slack Grupları
+
 - [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye Al](https://goo.gl/forms/IZe06LgNk6Vsega83))
 - [Python İstanbul](https://pyistanbul.slack.com) ([Davetiye Al](https://pyistanbul.herokuapp.com/))
 - [Ruby Türkiye](https://rubytr.slack.com) ([Davetiye Al](http://rubytr.herokuapp.com/))
@@ -810,3 +815,35 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [NSIstanbul- An iOS and Mac Development Community](http://www.nsistanbul.com/) ([Kayıt Ol/Giriş Yap](http://nsistanbul.slack.com))
 - [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye) ([Kayıt Ol/Giriş Yap](https://goo.gl/forms/13CuWViVwRQw970s2))
 - [DevOps Türkiye](https://medium.com/devopsturkiye) ([Kayıt Ol/Giriş Yap](https://communityinviter.com/apps/devopsturkiye/devops-tuerkiye-slack-grubu))
+
+### Facebook Grupları
+
+- [React Native Türkiye](https://www.facebook.com/groups/151919218642412)
+- [Yazılım Geliştiricileri](https://www.facebook.com/groups/softwaredevsgroup/)
+- [Unity 3D - Destek & yardımlaşma grubu](https://www.facebook.com/groups/649003458901210/)
+- [Derin Öğrenme](https://www.facebook.com/groups/derin.ogrenme/)
+- [Yazılım Geliştiriciler](https://www.facebook.com/groups/softwaredeveloperpage/)
+- [.NET ve C# (CSHARP) Türkiye](https://www.facebook.com/groups/1442114939398154/)
+- [UNITY ARAYÜZ, C# ,Js, DERSLERİ](https://www.facebook.com/groups/905840386094795/)
+- [Vue.js Türkiye](https://www.facebook.com/groups/1540729456252574/)
+- [Angular Türkiye](https://www.facebook.com/groups/angularjsturkiye/)
+- [React Türkiye](https://www.facebook.com/groups/reacttr/)
+- [Python Türkiye](https://www.facebook.com/groups/PythonTurkiye/)
+- [Java](https://www.facebook.com/groups/injavawetrust)
+
+### Telegram Grupları
+
+- [Yazılım Topluluğu](https://t.me/yazilimtoplulugu)
+- [Kerokod Yazılım Topluluğu](https://t.me/kerokodcom)
+- [JavaScript](https://t.me/JavaScriptTR)
+- [ReactTR](https://t.me/ReactTR)
+- [React Native Türkiye](https://t.me/reactnativeturkiye)
+- [Flutter Türkiye](https://t.me/Fluttertr)
+- [Kodlama io](https://t.me/kodlamaio)
+- [açık-kaynak.org](https://t.me/acikkaynak)
+
+### Discord Grupları
+
+- [Find Mentor & Mentees Network](https://discord.gg/NKy8NuJCZ5)
+- [Geliştiriciler](https://discord.gg/JkqKvNRfep)
+- [Data Science Earth](https://discord.gg/2fxJDHzJ9z)
