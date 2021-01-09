@@ -795,6 +795,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [AliDogan.Kim](https://www.youtube.com/channel/UCcMFIxBVd6sHbJ-78xbCCng)
 - [Yunus Eş](https://www.youtube.com/channel/UCJNdBzPQDvJG7ccPoMc59KQ)
 - [Soner Gönül](https://www.youtube.com/c/sonergonul)
+- [Video Kod](https://www.youtube.com/c/VideoKodEmreOrhan)
 
 
 ### Twitch Kanalları
