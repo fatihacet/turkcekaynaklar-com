@@ -810,3 +810,36 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [NSIstanbul- An iOS and Mac Development Community](http://www.nsistanbul.com/) ([Kayıt Ol/Giriş Yap](http://nsistanbul.slack.com))
 - [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye) ([Kayıt Ol/Giriş Yap](https://goo.gl/forms/13CuWViVwRQw970s2))
 - [DevOps Türkiye](https://medium.com/devopsturkiye) ([Kayıt Ol/Giriş Yap](https://communityinviter.com/apps/devopsturkiye/devops-tuerkiye-slack-grubu))
+
+### Facebook Grupları
+
+- [React Native Türkiye](https://www.facebook.com/groups/151919218642412)
+- [Yazılım Geliştiricileri](https://www.facebook.com/groups/softwaredevsgroup/)
+- [Unity 3D - Destek & yardımlaşma grubu](https://www.facebook.com/groups/649003458901210/)
+- [Derin Öğrenme](https://www.facebook.com/groups/derin.ogrenme/)
+- [Yazılım Geliştiriciler](https://www.facebook.com/groups/softwaredeveloperpage/)
+- [.NET ve C# (CSHARP) Türkiye](https://www.facebook.com/groups/1442114939398154/)
+- [UNITY ARAYÜZ, C# ,Js, DERSLERİ](https://www.facebook.com/groups/905840386094795/)
+- [Vue.js Türkiye](https://www.facebook.com/groups/1540729456252574/)
+- [Angular Türkiye](https://www.facebook.com/groups/angularjsturkiye/)
+- [React Türkiye](https://www.facebook.com/groups/reacttr/)
+- [Python Türkiye](https://www.facebook.com/groups/PythonTurkiye/)
+- [Java](https://www.facebook.com/groups/injavawetrust)
+
+### Telegram Grupları
+
+- [Yazılım Topluluğu](https://t.me/yazilimtoplulugu)
+- [Kerokod Yazılım Topluluğu](https://t.me/kerokodcom)
+- [JavaScript](https://t.me/JavaScriptTR)
+- [ReactTR](https://t.me/ReactTR)
+- [React Native Türkiye](https://t.me/reactnativeturkiye)
+- [Flutter Türkiye](https://t.me/Fluttertr)
+- [Kodlama io](https://t.me/kodlamaio)
+- [açık-kaynak.org](https://t.me/acikkaynak)
+
+### Discord Grupları
+
+- [Find Mentor & Mentees Network](https://discord.gg/NKy8NuJCZ5)
+- [Geliştiriciler](https://discord.gg/JkqKvNRfep)
+- [Data Science Earth](https://discord.gg/2fxJDHzJ9z)
+- [Software Development](https://discord.gg/yXs46UQpF9)
