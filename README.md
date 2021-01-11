@@ -129,6 +129,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Açık akademi ASP.NET MVC Eğitimi](https://www.acikakademi.com/portal/egitimler/aspnet-mvc-ile-ileri-seviyede-web-programlama.aspx)
 - :movie_camera: [ASP.NET MVC Dersleri](https://www.youtube.com/watch?v=-Fgpo2HvGIE&list=PLpiXyP9d3U1pUCEi8-S2pXzQchNuqJ3Kp) - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
 - :movie_camera: [ASP.NET CORE WEB API Dersleri](https://www.youtube.com/watch?v=paI5DZq79uw&list=PLpiXyP9d3U1q251izX5xLHctZEmb8REr_) - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
+- [.Net Core Web API ile Excel okuma (Excel dosyasını sunucuya kaydetmeden)](https://medium.com/@cinkagan/net-core-web-api-ile-excel-okuma-excel-i-sunucuya-kaydetmeden-3864f1d528d9) - [S. Kağan Cin](https://github.com/cinkagan)
 
 ### Arduino
 - [Arduino - Robotistan](https://maker.robotistan.com/kategori/arduino/)
@@ -243,6 +244,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Docker Öğreniyorum](https://www.youtube.com/watch?v=isbsABbZghs&list=PL_Z0TaFYSF3LTfMIRjPUlVoUipQA0JlL2) - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
 - [Yeni Nesil Geliştirme Ortamı Docker Serisi](https://oguzcandemircan.com/yeni-nesil-gelistirme-ortami-bolum-1-docker) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
 - [Docker ile Vue Js Projesi Nasıl Oluşturulur, Geliştirilir ve Yayınlanır?](https://oguzcandemircan.com/docker-ile-vuejs-projesi-nasil-olusturulur-gelistirlir-ve-yayinlanir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
+- [Asp.net Core + React + PostgreSql + Nginx Dockerize etme](https://medium.com/@cinkagan/asp-net-core-react-postgresql-nginx-dockerize-etme-8058986d34e8) - [S. Kağan Cin](https://github.com/cinkagan)
+- [Docker kullanarak codeigniter (php)+ mysql + phpmyadmin](https://medium.com/@cinkagan/docker-kullanarak-codeigniter-mysql-phpmyadmin-a413f853016a) - [S. Kağan Cin](https://github.com/cinkagan)
 
 
 
@@ -298,6 +301,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Go Programlama Dili Türkçe Eğitim Kaynağı](https://go.kaanksc.com) - [Kaan Kuşcu](https://kaanksc.com)
 - :movie_camera: [Codecademy Go Eğitimi [6 Kısım]](https://www.youtube.com/playlist?list=PL7rvg7Sao02uUOnyKrSgVkt0UEHq17dAd) - [Soner Gönül](https://www.youtube.com/c/sonergonul)
 - :movie_camera: [Golang Echo Framework ile Web Geliştirme Eğitim Serisi](https://www.youtube.com/watch?v=P5TRNhhq00w&feature=youtu.be&list=PLHnI4uXxaT1aboTBx687QV5cLvGi7882a) - [Ahmet Buğra Çakıcı](https://www.linkedin.com/in/ahmetbcakici)
+- [Golang projenin linux sunucuda deploy işlemi](https://medium.com/@cinkagan/golang-projenin-linux-sunucuda-deploy-i%C5%9Flemi-846b8b1265ce) - [S. Kağan Cin](https://github.com/cinkagan)
 
 
 ### GraphQL
@@ -729,7 +733,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Apache Cordova Nedir?](https://medium.com/@halilozel1903/apache-cordova-nedir-a5f030343b6) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [SOAP Nedir?](https://medium.com/@halilozel1903/soap-nedir-75c560e44599) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [REST ve RESTful Nedir?](https://medium.com/@halilozel1903/rest-ve-restful-nedir-f6c8596eb38a) - [Halil ÖZEL](https://github.com/halilozel1903)
-
+- [Ekşicode](https://eksicode.org/)
 
 
 ### Podcast Yayınları
