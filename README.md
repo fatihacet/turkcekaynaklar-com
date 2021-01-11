@@ -652,7 +652,13 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Vue.js (4) : Vue-cli ile Hazır Gelen Proje Şablonları](https://www.onbirkod.com/vue-js-4-vue-cli-ile-hazir-gelen-proje-sablonlari/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - [Vue.js (5) : Bileşenlerin Birbiriyle Haberleşmesi ve Vuex](https://www.onbirkod.com/vue-js-5-bilesenlerin-birbiriyle-haberlesmesi-ve-vuex/) - [Talat Tüfekçi](https://www.onbirkod.com)
 - [VueJS ile Server Side Rendering Nasıl Yapılır?](https://oguzcandemircan.com/vue-js-ile-express-kullanarak-server-side-rendering-nasil-yapilir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
-
+- [Vue.Js Nedir? Vue.Js Kurulumu, Nasıl Kurulur?](https://mustafacagri.medium.com/vue-js-nedir-vue-js-kurulumu-nas%C4%B1l-kurulur-e00472544efb) - [Mustafa Çağrı Güven](https://github.com/mustafacagri)
+- [Vue.Js Başlangıç: Proje Dosyaları](https://mustafacagri.medium.com/vue-js-ba%C5%9Flang%C4%B1%C3%A7-proje-dosyalar%C4%B1-b89618414c2f) - [Mustafa Çağrı Güven](https://github.com/mustafacagri)
+- [Vue Router — Başlangıç Seviyesi](https://mustafacagri.medium.com/vue-router-ba%C5%9Flang%C4%B1%C3%A7-seviyesi-f7fc219d127c) - [Mustafa Çağrı Güven](https://github.com/mustafacagri)
+- [Vue.Js Components](https://mustafacagri.medium.com/vue-js-components-cc978b078f8f) - [Mustafa Çağrı Güven](https://github.com/mustafacagri)
+- [Vue.Js Script Yapısı, Data, Methods, Created, Watch](https://mustafacagri.medium.com/vue-js-script-yap%C4%B1s%C4%B1-data-methods-created-watch-2ef93ce70488) - [Mustafa Çağrı Güven](https://github.com/mustafacagri)
+- [Vue.Js Components: Parent’ten Child’e Veri Aktarımı](https://mustafacagri.medium.com/vue-js-components-parentten-child-e-veri-aktar%C4%B1m%C4%B1-728a94f20d50) - [Mustafa Çağrı Güven](https://github.com/mustafacagri)
+- [Vue.Js v-model](https://mustafacagri.medium.com/vue-js-v-model-15669c8cac6e) - [Mustafa Çağrı Güven](https://github.com/mustafacagri)
 
 ### WordPress
 - :movie_camera: [WordPress Eğitim Seti: WordPress Nedir? WordPress'in Kısa Tarihi #1](https://www.youtube.com/watch?v=B3eXU1jJzH4) - [Baran Somaklı](https://twitter.com/baransomakli)
