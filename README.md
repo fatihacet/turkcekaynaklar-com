@@ -282,7 +282,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [GNU/Linux Komutları](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf)
 - [Kali Linux Nedir?](https://medium.com/@halilozel1903/kali-linux-nedir-5cb0ac4bfb8c) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Parrot Security OS Nedir?](https://medium.com/@halilozel1903/parrot-security-os-nedir-cdf172e8293b) - [Halil ÖZEL](https://github.com/halilozel1903)
-
+- [Linux Ağ Yönetimi](https://github.com/osmanozen/LinuxNetworkManagement) - [Osman ÖZEN](https://github.com/osmanozen)
 
 ### Go
 - [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
