@@ -132,7 +132,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [ASP.NET MVC Dersleri](https://www.youtube.com/watch?v=-Fgpo2HvGIE&list=PLpiXyP9d3U1pUCEi8-S2pXzQchNuqJ3Kp) - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
 - :movie_camera: [ASP.NET CORE WEB API Dersleri](https://www.youtube.com/watch?v=paI5DZq79uw&list=PLpiXyP9d3U1q251izX5xLHctZEmb8REr_) - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
 - [ASP.NET Uygulamalarında IHttpClient Kullanımı](https://www.ilkayilknur.com/aspnet-core-uygulamalarinda-ihttpclientfactory-kullanimi) - [İlkay İlknur](https://www.youtube.com/user/ilkayilknur)
-- [ASP.NET MVC'de Custom Filter Kullanımı](https://abdurrahman.github.io/2015/07/asp-net-mvcde-custom-filter-kullanimi/)
+- [ASP.NET MVC'de Custom Filter Kullanımı](https://abdurrahman.github.io/2015/07/asp-net-mvcde-custom-filter-kullanimi/) - [Abdurrahman Işık](https://abdurrahman.github.io)
+- [Swagger Nedir ? .NET Core Swagger Entegrasyonu](https://medium.com/gdgsivas/swagger-nedir-net-core-swagger-entegrasyonu-67c678f8056a) - [Abdullah Öztürk](https://abdullahozturkk.medium.com/)
 
 
 ### Arduino
@@ -248,13 +249,14 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Docker Öğreniyorum](https://www.youtube.com/watch?v=isbsABbZghs&list=PL_Z0TaFYSF3LTfMIRjPUlVoUipQA0JlL2) - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
 - [Yeni Nesil Geliştirme Ortamı Docker Serisi](https://oguzcandemircan.com/yeni-nesil-gelistirme-ortami-bolum-1-docker) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
 - [Docker ile Vue Js Projesi Nasıl Oluşturulur, Geliştirilir ve Yayınlanır?](https://oguzcandemircan.com/docker-ile-vuejs-projesi-nasil-olusturulur-gelistirlir-ve-yayinlanir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
-- [.NET Core Web Api Uygulaması Docker ile Nasıl Deploy Edilir?](https://gokhanatan.medium.com/net-core-web-api-uygulamas%C4%B1-docker-ile-nas%C4%B1l-deploy-edilir-e56f5a75e386)
+- [.NET Core Web Api Uygulaması Docker ile Nasıl Deploy Edilir?](https://gokhanatan.medium.com/net-core-web-api-uygulamas%C4%B1-docker-ile-nas%C4%B1l-deploy-edilir-e56f5a75e386) - [Gökhan Atan](https://gokhanatan.medium.com)
 
 
 
 ### Electron
 - [Electron Kullanarak Hem Masaüstü Hem Tarayıcı Uygulaması Geliştirme](http://www.avarekodcu.com/konu/28/electron-react-webpack-ve-babel-kullanarak-hem-masaustu-hem-tarayici-uygulamasi-gelistirme) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 - [Electron Uygulamasının, Dağıtma ve Güncelleme Senaryoları](http://www.avarekodcu.com/konu/29/electron-uygulamasinin-dagitma-ve-guncelleme-senaryolari) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
+- :movie_camera: [Electron.js ile Masaüstü Uygulama Geliştirme](https://www.youtube.com/watch?v=qsM9ylyt7xw&list=PL_f2F0Oyaj48jgl98pHuoyxoTgi7gXJ-z) - [Gökhan Kandemir](https://www.youtube.com/c/kablosuzkedii)
 
 
 ### Flux
@@ -510,7 +512,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Postgres
 - [PostgreSQL 12'de Streaming Replication İşlemleri](https://medium.com/@aydemirzekiye/postgresql-12de-streaming-replication-i%CC%87%C5%9Flemleri-40f792a8141b?) - [Zekiye Aydemir](https://twitter.com/pgElephant)
-- [.NET Core ile PostgreSQL Kullanımı](https://medium.com/@isikabdurrahman/net-core-ile-postgresql-kullan%C4%B1m%C4%B1-7aa025ec9123)
+- [.NET Core ile PostgreSQL Kullanımı](https://medium.com/@isikabdurrahman/net-core-ile-postgresql-kullan%C4%B1m%C4%B1-7aa025ec9123) - [Abdurrahman Işık](https://medium.com/@isikabdurrahman)
 
 
 ### PowerShell 
