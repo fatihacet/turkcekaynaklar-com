@@ -386,6 +386,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JavaScript Eğitimi](https://www.mobilhanem.com/javascript-egitimi/) - [Gökhan Kurt](http://gokhankurt.com.tr)
 - [JavaScript Dersleri](https://www.azkod.com/javascript)
 - [Bir Stajyerin JavaScript Uzerine Yazmis Oldugu Gunlukler](https://github.com/alperen/training-book-2019) - [Alperen Turkoz](https://www.linkedin.com/in/alperenturkoz/)
+- [JavaScript Dersleri(Kodluyoruz)](https://www.youtube.com/watch?v=gndWkaTyo6g&list=PLGrTHqyRDvx6PqKkqSPwph57HNN4RWgR2&index=1&ab_channel=Kodluyoruz)
+
 
 
 ### jQuery
