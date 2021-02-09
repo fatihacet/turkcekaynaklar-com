@@ -372,6 +372,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Java Dersleri ve Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLEcJSEQK_cD5KHgg9sXumeg659hAr2j4W) - [Kodlama Vakti](https://www.youtube.com/kodlamavakti)
 - :movie_camera: [Java ile Temel Programlama ve OOP](https://youtu.be/DpiQ-zbK4Fo?list=PLHnI4uXxaT1baupZJsOyUamc11aiO4nEx) - [Ahmet Buğra Çakıcı](https://www.linkedin.com/in/ahmetbcakici)
 - :movie_camera: [Java Spring Framework Eğitimi](https://www.youtube.com/playlist?list=PL4ET09KoRZtSM4eh6lsMqwmMXEkuzqKlz) - [Ferhat Aykan](https://twitter.com/aykanf)
+- :movie_camera: [Sıfırdan Java Dersleri]("https://www.youtube.com/playlist?list=PLHfYetw_BGF-Gm_MsqKApw5nHPuHsytr3") - sina5an
 
 ### JavaScript
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
