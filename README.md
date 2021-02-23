@@ -105,6 +105,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android Rewarded Reklam](https://halilozel1903.medium.com/android-rewarded-reklam-1d6788c9f6f5)- [Halil ÖZEL](https://github.com/halilozel1903)
 - [Huawei Mobile Service ve AppGallery Nedir?](https://halilozel1903.medium.com/huawei-mobile-service-ve-appgalery-nedir-e6d720e8bfcf)- [Halil ÖZEL](https://github.com/halilozel1903)
 - [Gradle Nedir?](https://halilozel1903.medium.com/gradle-nedir-6d146ba68c38)- [Halil ÖZEL](https://github.com/halilozel1903)
+- [Bir Devrin Sonu: Kotlin Synthetic](https://halilozel1903.medium.com/bir-devrin-sonu-kotlin-synthetic-15c739941ddf)- [Halil ÖZEL](https://github.com/halilozel1903)
+- [Android Manifest Nedir?](https://halilozel1903.medium.com/android-manifest-nedir-d763f3e4d929)- [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Angular
@@ -637,6 +639,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift’te Set Kullanımı](https://medium.com/@halilozel1903/swiftte-set-kullanımı-7b41864c0b0c) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [SwiftUI Temel Bileşenleri](https://medium.com/@halilozel1903/swiftui-temel-bileşenleri-5ad31ee52ee5) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [SwiftUI Nedir?](https://medium.com/@halilozel1903/swiftui-nedir-77c734ccf06b) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [iOS Interstitial Reklam](https://halilozel1903.medium.com/ios-interstitial-reklam-4e09c66e0c61) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Titanium Mobile
