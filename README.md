@@ -276,6 +276,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Flutter Eğitim Serisi](https://www.youtube.com/playlist?list=PLDtOT47tyugN9StQujdf4FCMMmsGY9dVK)
 - :movie_camera: [6 Saatlik Flutter Eğitimi](https://www.youtube.com/watch?v=oISIcfHAzm4) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - [Android Studio’ya Flutter Kurulumu](https://medium.com/@halilozel1903/android-studioya-flutter-kurulumu-73f7d4cefde)- [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kitap - Flutter ile Mobil Uygulama Geliştirme](http://flutterturkce.com/flutter-ile-mobil-uygulama-gelistirme-kitabi) - [Seçkin Yayıncılık](https://www.seckin.com.tr/kitap/421323425)
 
 
 
