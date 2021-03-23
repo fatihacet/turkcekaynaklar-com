@@ -562,6 +562,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [React.js Türkçe Kaynak (Handbook)](https://github.com/orcuntuna/react-turkce-kaynak) - [Orçun Tuna](https://twitter.com/tunaorcun_)
 - :movie_camera: [React JS Eğitimi](https://www.youtube.com/watch?v=CZm0mQx4pBw&feature=youtu.be) - [Sinan Aksay](https://github.com/wunnle)
 - [Redux Thunk’ın Kullanım Amacı](https://medium.com/batech/redux-thunk%C4%B1n-kullan%C4%B1m-amac%C4%B1-d4c068ea2a30) - [Yunus Ünver](https://twitter.com/yunusnver)
+- [React Server Components](https://www.youtube.com/watch?v=ZZrP6JcoN4E)
+
 
 ### React Native
 - [React Native Türkçe](https://ysfzrn.gitbooks.io/react-native-turkce/) - [Yusuf Zeren](https://twitter.com/yosooff)
