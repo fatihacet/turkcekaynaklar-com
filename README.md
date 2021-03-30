@@ -105,6 +105,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android Rewarded Reklam](https://halilozel1903.medium.com/android-rewarded-reklam-1d6788c9f6f5)- [Halil ÖZEL](https://github.com/halilozel1903)
 - [Huawei Mobile Service ve AppGallery Nedir?](https://halilozel1903.medium.com/huawei-mobile-service-ve-appgalery-nedir-e6d720e8bfcf)- [Halil ÖZEL](https://github.com/halilozel1903)
 - [Gradle Nedir?](https://halilozel1903.medium.com/gradle-nedir-6d146ba68c38)- [Halil ÖZEL](https://github.com/halilozel1903)
+- [Mobiler.dev Android](https://www.mobiler.dev/android)
 
 
 ### Angular
