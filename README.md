@@ -535,8 +535,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Türkçe Python Kaynakları](https://github.com/ibrahimirdem/turkce-python-kaynaklari)
 - [Python Programlama Dili](https://medium.com/@halilozel1903/python-programlama-dili-1f1d88ef1e1d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - :movie_camera: [6 Saatlik Python Eğitimi](https://www.youtube.com/watch?v=6IWpowC2ryc) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
-- [Yakın Kampüs](https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O&ab_channel=Yak%C4%B1nKamp%C3%BCs)
-
+- :movie_camera: [Yakın Kampüs](https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O&ab_channel=Yak%C4%B1nKamp%C3%BCs)
+- [Merve Noyan - NLP](https://merveenoyan.medium.com/do%C4%9Fal-dil-i%CC%87%C5%9Fleme-natural-language-processing-2d7c72daf245)
+- :movie_camera: [Python Programlama Kursu](https://www.btkakademi.gov.tr/portal/course/s-f-rdan-ileri-seviye-python-programlama-5877)
+- [Pyspark ile ML Çalışması](https://tanersekmen.medium.com/pyspark-veri-analizi-ve-mllib-regresyon-problemi-9c76e2476c2d)
 
 ### Rails
 - :movie_camera: [Haydi Rails Yazalım](https://www.youtube.com/watch?v=wjEVDmHxrTk&list=PLR-hVfRDr2Mp8cDcbWZ6TX2YVTM0vECz2) - [Anıl İyidoğan](https://twitter.com/lifeis00FF00)
