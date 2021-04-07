@@ -64,6 +64,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Solidity](#solidity)
 - [Sourcemod](#sourcemod)
 - [SQL](#sql)
+- [Spark](#spark)
 - [Swift](#swift)
 - [Titanium Mobile](#titanium-mobile)
 - [TypeScript](#typescript)
@@ -535,10 +536,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Türkçe Python Kaynakları](https://github.com/ibrahimirdem/turkce-python-kaynaklari)
 - [Python Programlama Dili](https://medium.com/@halilozel1903/python-programlama-dili-1f1d88ef1e1d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - :movie_camera: [6 Saatlik Python Eğitimi](https://www.youtube.com/watch?v=6IWpowC2ryc) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
+- [NLP](https://merveenoyan.medium.com/do%C4%9Fal-dil-i%CC%87%C5%9Fleme-natural-language-processing-2d7c72daf245)
+- :movie_camera: [Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/s-f-rdan-ileri-seviye-python-programlama-5877)
 - :movie_camera: [Yakın Kampüs](https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O&ab_channel=Yak%C4%B1nKamp%C3%BCs)
-- [Merve Noyan - NLP](https://merveenoyan.medium.com/do%C4%9Fal-dil-i%CC%87%C5%9Fleme-natural-language-processing-2d7c72daf245)
-- :movie_camera: [Python Programlama Kursu](https://www.btkakademi.gov.tr/portal/course/s-f-rdan-ileri-seviye-python-programlama-5877)
-- [Pyspark ile ML Çalışması](https://tanersekmen.medium.com/pyspark-veri-analizi-ve-mllib-regresyon-problemi-9c76e2476c2d)
+
+
 
 ### Rails
 - :movie_camera: [Haydi Rails Yazalım](https://www.youtube.com/watch?v=wjEVDmHxrTk&list=PLR-hVfRDr2Mp8cDcbWZ6TX2YVTM0vECz2) - [Anıl İyidoğan](https://twitter.com/lifeis00FF00)
@@ -601,6 +603,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### SQL
 - :movie_camera: [SQL Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-6vvPSJssG4Jp6UqCTmWSz) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
+
+
+### Spark
+- [Pyspark ile ML Çalışması](https://tanersekmen.medium.com/pyspark-veri-analizi-ve-mllib-regresyon-problemi-9c76e2476c2d)
 
 
 ### Swift
