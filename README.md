@@ -26,6 +26,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [D](#d)
 - [Dart](#dart)
 - [Deep Learning](#deep-learning)
+- [Design Patterns](#design-patterns)
 - [Django](#django)
 - [Docker](#docker)
 - [Electron](#electron)
@@ -236,6 +237,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Deep Learning
 - [Türkçe Yapay Zeka Kaynakları](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
 
+### Design Patterns
+- [Strategy Design Pattern](https://medium.com/yaz%C4%B1l%C4%B1ma-dair/strategy-design-pattern-29fce07f2a9b)
 
 ### Django
 - :movie_camera: [Django 101](https://www.youtube.com/watch?v=L-26ZJ3s6Mc&index=1&list=PLJeh-dT_Z82vvyYXmp1auK6A6e3aDlgCG&t=8s) - [Tolgahan Üzün](https://twitter.com/tlghnzn)
