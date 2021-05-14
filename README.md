@@ -112,7 +112,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [yazilimgunlugu.org](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/angular-2-4-turkce/)
 - [Angular 2 Dersleri](http://ilkaygunel.com/blog/2017/angular-2-tutorials/)
 - [Kodumunblogu - Angular Türkçe Dersler ve Anlatımlar](https://kodumunblogu.net/category/angular)
-- [Angular Türkiye Github](https://github.com/MehmetSert/Angular-Turkiye)
 - [Angular'da çoklu dil nasıl yapılır?](https://kodumunblogu.net/detail/angularda-coklu-dil-i18n-nasil-yapilir)
 - [Angular Universal Kullanımı - SEO nasıl yapılır?](https://kodumunblogu.net/detail/angularda-seo-server-side-rendering-ssr-angular-universala-giris)
 - [Angular Lazy Loading Modules nedir? Nasıl kullanılır?](https://kodumunblogu.net/detail/angular-lazy-loading-modules-nedir-nasil-kullanilir-acilis-hizini-etkiler-mi)
@@ -120,6 +119,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Angular 7 Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZUOaq1ZiQEYBzVAKEB8BVL8) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - [Cloud Firestore ile Angular Kullanımı](https://www.buraksenyurt.com/post/cloud-firestore-ile-angular-kullanimi)
 - [Angular ile Chart.js Kütüphanesi Kullanarak Grafik Oluşturmak](https://onuriart.medium.com/angular-ile-chart-js-k%C3%BCt%C3%BCphanesi-kullanarak-grafik-olu%C5%9Fturmak-16d79a42fe4c)
+- [NG Turkey](https://twitter.com/ngTurkiye)
+- :movie_camera: [Hızlandırılmış Angular Dersleri](https://www.youtube.com/playlist?list=PLSM07tMt8osNHLM_yfUnWafZ61m4FIbw1)
+- [Tailwind CSS'i Angular ile kullanmak](https://kodumunblogu.net/detail/tailwind-cssi-angular-ile-kullanmak)
 
 
 
