@@ -336,6 +336,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Haskell
 - [Zor Yoldan Haskell](http://github.com/joom/zor-yoldan-haskell) - [Cumhur Korkut](http://github.com/joom)
+- [Learn You a Haskell for Great Good!](https://github.com/unalman/learn-you-a-haskell-tr) - [Sadık Ünal Çokünlü](https://github.com/unalman)
 
 
 ### HTML
