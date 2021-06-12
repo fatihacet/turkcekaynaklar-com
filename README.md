@@ -587,7 +587,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Rust
+- [Rust Turu](https://tourofrust.com/00_tr.html)
+- [Rust Dökümanlarının Çevirisi](https://github.com/RustDili/dokuman)
 - [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8/)
+
 
 
 ### Sketch
