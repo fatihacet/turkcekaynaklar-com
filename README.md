@@ -14,6 +14,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Arduino](#arduino)
 - [ASP.NET](#aspnet)
 - [Bash](#bash)
+- [Blockchain](#blockchain)
 - [Bot Framework](#bot-framework)
 - [CodeIgniter](#codeigniter)
 - [C](#c)
@@ -65,6 +66,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Sketch](#sketch)
 - [Solidity](#solidity)
 - [Sourcemod](#sourcemod)
+- [Spring Boot](#spring-boot)
 - [SQL](#sql)
 - [Swift](#swift)
 - [Titanium Mobile](#titanium-mobile)
@@ -156,6 +158,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Bash(Shell) Rehberi](https://github.com/omergulen/bash-guide) - [Ömer Gülen](https://twitter.com/omergulenn)
 - [GNU Bash Başvuru Kılavuzu](http://www.belgeler.org/bashref/bashref.html) - Çeviren: Nilgün Belma Bugüner
 
+### Blockchain
+- [Blockchain Altyapısı Teknik Bilgiler](https://www.mehmetcemyucel.com/categories/#blockchain) - [Mehmet Cem Yücel](https://twitter.com/mehmetcemyucel)
 
 ### Bot Framework
 - [Chatbot ve Bot Framework Nedir?](https://medium.com/@peacecwz/chatbot-ve-bot-framework-nedir-7558f4eacfe3) - [Barış Ceviz](https://github.com/peacecwz)
@@ -610,6 +614,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Sourcemod
 - [Sourcemod Api Türkçe Döküman](https://github.com/ismail0234/sourcemod) - Ismail Satilmiş
 
+### Spring Boot
+- [Spring Boot Dünyası Hakkında Yazılar](https://www.mehmetcemyucel.com/categories/#java) - [Mehmet Cem Yücel](https://twitter.com/mehmetcemyucel)
+
 ### SQL
 - :movie_camera: [SQL Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-6vvPSJssG4Jp6UqCTmWSz) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 
@@ -765,6 +772,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Apache Cordova Nedir?](https://medium.com/@halilozel1903/apache-cordova-nedir-a5f030343b6) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [SOAP Nedir?](https://medium.com/@halilozel1903/soap-nedir-75c560e44599) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [REST ve RESTful Nedir?](https://medium.com/@halilozel1903/rest-ve-restful-nedir-f6c8596eb38a) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Authentication / Authorization Yazı Serisi](https://www.mehmetcemyucel.com/2020/Access-Management-1-XACML-Authorization-Authentication/) - [Mehmet Cem Yücel](https://twitter.com/mehmetcemyucel)
 
 
 
