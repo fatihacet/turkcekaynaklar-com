@@ -123,7 +123,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Angular 7 Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZUOaq1ZiQEYBzVAKEB8BVL8) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - [Cloud Firestore ile Angular Kullanımı](https://www.buraksenyurt.com/post/cloud-firestore-ile-angular-kullanimi)
 - [Angular ile Chart.js Kütüphanesi Kullanarak Grafik Oluşturmak](https://onuriart.medium.com/angular-ile-chart-js-k%C3%BCt%C3%BCphanesi-kullanarak-grafik-olu%C5%9Fturmak-16d79a42fe4c)
-
+- [COVID-19 Coronavirus Statistics Angular App](https://gcifguvercin.medium.com/covid-19-coronavirus-statistics-angular-app-14e8d3f958d) - [Gizem Cifgüvercin](https://gcifguvercin.medium.com)
+- [Angular 9 ve .Net Core Wep API ile Product Card Geliştirme](https://gcifguvercin.medium.com/angular-9-ve-net-core-wep-api-ile-product-card-geli%C5%9Ftirme-a39428e35832) - [Gizem Cifgüvercin](https://gcifguvercin.medium.com)
 
 
 ### ASP.NET
@@ -144,6 +145,14 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Asp.Net Core Uygulamalarında Autofac Kullanımı](http://www.canertosuner.com/post/asp-net-core-uygulamalarinda-farkli-di-ioc-containerlar-nasil-kullanilir) - [Caner Tosuner](http://www.canertosuner.com)
 - [Teknik Muhabbetler #3 (CQRS)](https://medium.com/mobiroller-tech/teknik-muhabbetler-3-cqrs-dfc32f44280e) - [Furkan Güngör](https://furkan-dvlp.medium.com/)
 - [Hangfire Ve .Net/.Net Core Console App ile Currency Reporter](https://gcifguvercin.medium.com/hangfire-ve-net-net-core-console-app-ile-currency-reporter-5342764b0f0f) - [Gizem Cifgüvercin](https://gcifguvercin.medium.com)
+- [.Net Core API Ve Consumer ile MongoDB - RabbitMQ kullanarak Webhook Entegrasyon Çözümü](https://www.youtube.com/watch?v=T9q_oJK_QrE) - [Gizem Cifgüvercin](https://www.youtube.com/channel/UCSwzkS6aN0UYYuPfMslfYeg)
+- [.Net Core API Ve Consumer ile MongoDB - RabbitMQ kullanarak Webhook Entegrasyon Çözümü #Part2](https://www.youtube.com/watch?v=TfS4EDrewF4) - [Gizem Cifgüvercin](https://www.youtube.com/channel/UCSwzkS6aN0UYYuPfMslfYeg)
+- [Elastic APM ile .Net Core API (Uygulama) Performans Takibi](https://gcifguvercin.medium.com/elastic-apm-ile-uygulama-performans-takibi-37a50cd376cf) - [Gizem Cifgüvercin](https://gcifguvercin.medium.com)
+- [.Net Core ile IOC Prensibi](https://gcifguvercin.medium.com/ioc-prensibi-nedir-%C3%B6rnek-bir-proje-ile-kullan%C4%B1m%C4%B1-ve-avantajlar%C4%B1-457769ced68e) - [Gizem Cifgüvercin](https://gcifguvercin.medium.com)
+- [CQRS Nedir ?](https://gcifguvercin.medium.com/cqrs-nedir-muhte%C5%9Fem-i%CC%87kili-ayr%C4%B1l%C4%B1yor-mu-a2b2f4032d34) - [Gizem Cifgüvercin](https://gcifguvercin.medium.com)
+- [Distributed Caching (Redis) -ASP.NET Core](https://gcifguvercin.medium.com/distributed-redis-caching-asp-net-core-6dadfae618fd) - [Gizem Cifgüvercin](https://gcifguvercin.medium.com)
+- [.Net Core ile Elastic Search Kullanımı](https://gcifguvercin.medium.com/net-core-ile-elastic-search-kullan%C4%B1m%C4%B1-e0dd056b1bd9) - [Gizem Cifgüvercin](https://gcifguvercin.medium.com)
+- [.Net Core ile Webhooks Mimarisi](https://www.youtube.com/watch?v=eKr6DcTpV6o) - [Gizem Cifgüvercin](https://gcifguvercin.medium.com)
 
 
 ### Arduino
