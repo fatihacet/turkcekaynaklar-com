@@ -14,6 +14,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Arduino](#arduino)
 - [ASP.NET](#aspnet)
 - [Bash](#bash)
+- [Blockchain](#blockchain)
 - [Bot Framework](#bot-framework)
 - [CodeIgniter](#codeigniter)
 - [C](#c)
@@ -26,6 +27,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [D](#d)
 - [Dart](#dart)
 - [Deep Learning](#deep-learning)
+- [Design Patterns](#design-patterns)
 - [Django](#django)
 - [Docker](#docker)
 - [Electron](#electron)
@@ -60,9 +62,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [React Native](#react-native)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [RxJs](#rxjs)
 - [Sketch](#sketch)
 - [Solidity](#solidity)
 - [Sourcemod](#sourcemod)
+- [Spring Boot](#spring-boot)
 - [SQL](#sql)
 - [Swift](#swift)
 - [Titanium Mobile](#titanium-mobile)
@@ -85,6 +89,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Android
 - [Mobilhanem Android](https://www.mobilhanem.com/android-egitimleri/)
+- [Mobiler.dev Android](https://www.mobiler.dev/android)
 - [Android Uygulamaya “Facebook ile Giriş” Ekleme](https://medium.com/@yusufcakal/android-uygulamaya-facebook-ile-giri%C5%9F-ekleme-14940166eb22) - Yusuf Çakal
 - [umiitkose.com Android Blog](http://www.umiitkose.com/android) - [Ümit KÖSE](https://twitter.com/umiitkose)
 - [Android Türkçe PDF](http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf) - [Ümit KÖSE](https://twitter.com/umiitkose)
@@ -105,14 +110,14 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Android Rewarded Reklam](https://halilozel1903.medium.com/android-rewarded-reklam-1d6788c9f6f5)- [Halil ÖZEL](https://github.com/halilozel1903)
 - [Huawei Mobile Service ve AppGallery Nedir?](https://halilozel1903.medium.com/huawei-mobile-service-ve-appgalery-nedir-e6d720e8bfcf)- [Halil ÖZEL](https://github.com/halilozel1903)
 - [Gradle Nedir?](https://halilozel1903.medium.com/gradle-nedir-6d146ba68c38)- [Halil ÖZEL](https://github.com/halilozel1903)
-- [Mobiler.dev Android](https://www.mobiler.dev/android)
+- [Bir Devrin Sonu: Kotlin Synthetic](https://halilozel1903.medium.com/bir-devrin-sonu-kotlin-synthetic-15c739941ddf)- [Halil ÖZEL](https://github.com/halilozel1903)
+- [Android Manifest Nedir?](https://halilozel1903.medium.com/android-manifest-nedir-d763f3e4d929)- [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Angular
 - [yazilimgunlugu.org](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/angular-2-4-turkce/)
 - [Angular 2 Dersleri](http://ilkaygunel.com/blog/2017/angular-2-tutorials/)
 - [Kodumunblogu - Angular Türkçe Dersler ve Anlatımlar](https://kodumunblogu.net/category/angular)
-- [Angular Türkiye Github](https://github.com/MehmetSert/Angular-Turkiye)
 - [Angular'da çoklu dil nasıl yapılır?](https://kodumunblogu.net/detail/angularda-coklu-dil-i18n-nasil-yapilir)
 - [Angular Universal Kullanımı - SEO nasıl yapılır?](https://kodumunblogu.net/detail/angularda-seo-server-side-rendering-ssr-angular-universala-giris)
 - [Angular Lazy Loading Modules nedir? Nasıl kullanılır?](https://kodumunblogu.net/detail/angular-lazy-loading-modules-nedir-nasil-kullanilir-acilis-hizini-etkiler-mi)
@@ -120,6 +125,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Angular 7 Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZUOaq1ZiQEYBzVAKEB8BVL8) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - [Cloud Firestore ile Angular Kullanımı](https://www.buraksenyurt.com/post/cloud-firestore-ile-angular-kullanimi)
 - [Angular ile Chart.js Kütüphanesi Kullanarak Grafik Oluşturmak](https://onuriart.medium.com/angular-ile-chart-js-k%C3%BCt%C3%BCphanesi-kullanarak-grafik-olu%C5%9Fturmak-16d79a42fe4c)
+- [NG Turkey](https://twitter.com/ngTurkiye)
+- :movie_camera: [Hızlandırılmış Angular Dersleri](https://www.youtube.com/playlist?list=PLSM07tMt8osNHLM_yfUnWafZ61m4FIbw1)
+- [Tailwind CSS'i Angular ile kullanmak](https://kodumunblogu.net/detail/tailwind-cssi-angular-ile-kullanmak)
 
 
 
@@ -153,6 +161,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Bash(Shell) Rehberi](https://github.com/omergulen/bash-guide) - [Ömer Gülen](https://twitter.com/omergulenn)
 - [GNU Bash Başvuru Kılavuzu](http://www.belgeler.org/bashref/bashref.html) - Çeviren: Nilgün Belma Bugüner
 
+### Blockchain
+- [Blockchain Altyapısı Teknik Bilgiler](https://www.mehmetcemyucel.com/categories/#blockchain) - [Mehmet Cem Yücel](https://twitter.com/mehmetcemyucel)
 
 ### Bot Framework
 - [Chatbot ve Bot Framework Nedir?](https://medium.com/@peacecwz/chatbot-ve-bot-framework-nedir-7558f4eacfe3) - [Barış Ceviz](https://github.com/peacecwz)
@@ -237,6 +247,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Deep Learning
 - [Türkçe Yapay Zeka Kaynakları](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
 
+### Design Patterns
+- [Strategy Design Pattern](https://medium.com/yaz%C4%B1l%C4%B1ma-dair/strategy-design-pattern-29fce07f2a9b)
 
 ### Django
 - :movie_camera: [Django 101](https://www.youtube.com/watch?v=L-26ZJ3s6Mc&index=1&list=PLJeh-dT_Z82vvyYXmp1auK6A6e3aDlgCG&t=8s) - [Tolgahan Üzün](https://twitter.com/tlghnzn)
@@ -277,6 +289,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Flutter Eğitim Serisi](https://www.youtube.com/playlist?list=PLDtOT47tyugN9StQujdf4FCMMmsGY9dVK)
 - :movie_camera: [6 Saatlik Flutter Eğitimi](https://www.youtube.com/watch?v=oISIcfHAzm4) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - [Android Studio’ya Flutter Kurulumu](https://medium.com/@halilozel1903/android-studioya-flutter-kurulumu-73f7d4cefde)- [Halil ÖZEL](https://github.com/halilozel1903)
+- :movie_camera: [Flutter Eğitimi](https://www.youtube.com/playlist?list=PL1k5oWAuBhgUpOHXXnWpI8nQ4yCGXth5K)
 
 
 
@@ -334,6 +347,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Haskell
 - [Zor Yoldan Haskell](http://github.com/joom/zor-yoldan-haskell) - [Cumhur Korkut](http://github.com/joom)
+- [Size Büyük İyilik için Haskell Öğrenin!](https://github.com/unalman/learn-you-a-haskell-tr) - [Sadık Ünal Çokünlü](https://github.com/unalman)
 
 
 ### HTML
@@ -373,6 +387,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Java Dersleri ve Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLEcJSEQK_cD5KHgg9sXumeg659hAr2j4W) - [Kodlama Vakti](https://www.youtube.com/kodlamavakti)
 - :movie_camera: [Java ile Temel Programlama ve OOP](https://youtu.be/DpiQ-zbK4Fo?list=PLHnI4uXxaT1baupZJsOyUamc11aiO4nEx) - [Ahmet Buğra Çakıcı](https://www.linkedin.com/in/ahmetbcakici)
 - :movie_camera: [Java Spring Framework Eğitimi](https://www.youtube.com/playlist?list=PL4ET09KoRZtSM4eh6lsMqwmMXEkuzqKlz) - [Ferhat Aykan](https://twitter.com/aykanf)
+- :movie_camera: [Sıfırdan Java Dersleri](https://www.youtube.com/playlist?list=PLHfYetw_BGF-Gm_MsqKApw5nHPuHsytr3) - [sina5an](https://www.youtube.com/c/sina5an)
 
 ### JavaScript
 - [JavaScript'te Scope: Fonksiyon Scope, Block Scope ve 'let'](http://f.github.io/javascript-te-scope-fonksiyon-scope-block-scope-ve-let.html) - [Fatih Kadir Akın](https://twitter.com/fkadev)
@@ -444,6 +459,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Laravel'de Unit Test Kullanımı](https://kodumunblogu.net/detail/laravelde-unit-test-kullanimi)
 - [Laravel'de Transaction Kullanımı](https://kodumunblogu.net/detail/laravelde-transaction-kullanimi)
 - [Laravel'de Swagger ile Rest Api Dökümantasyonu Hazırlama](https://kodumunblogu.net/detail/laravelde-swagger-ile-rest-api-dokumantasyonu-hazirlama)
+- [Laravel Mix Kullanımı](https://www.oktaybozaci.com/html-css/laravel-mix-kullanimi.html)
 
 
 ### Machine Learning
@@ -536,6 +552,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Türkçe Python Kaynakları](https://github.com/ibrahimirdem/turkce-python-kaynaklari)
 - [Python Programlama Dili](https://medium.com/@halilozel1903/python-programlama-dili-1f1d88ef1e1d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - :movie_camera: [6 Saatlik Python Eğitimi](https://www.youtube.com/watch?v=6IWpowC2ryc) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
+- :movie_camera: [15 Saatlik Python Eğitim Serisi - Yakın Kampüs](https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
 
 
 ### Rails
@@ -563,6 +580,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [React.js Türkçe Kaynak (Handbook)](https://github.com/orcuntuna/react-turkce-kaynak) - [Orçun Tuna](https://twitter.com/tunaorcun_)
 - :movie_camera: [React JS Eğitimi](https://www.youtube.com/watch?v=CZm0mQx4pBw&feature=youtu.be) - [Sinan Aksay](https://github.com/wunnle)
 - [Redux Thunk’ın Kullanım Amacı](https://medium.com/batech/redux-thunk%C4%B1n-kullan%C4%B1m-amac%C4%B1-d4c068ea2a30) - [Yunus Ünver](https://twitter.com/yunusnver)
+- [React Server Components](https://www.youtube.com/watch?v=ZZrP6JcoN4E)
+
 
 ### React Native
 - [React Native Türkçe](https://ysfzrn.gitbooks.io/react-native-turkce/) - [Yusuf Zeren](https://twitter.com/yosooff)
@@ -586,6 +605,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Rust
 - [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8/)
 
+### RXJS
+- [RxJs- Bilinmesi Gereken Operatörler](https://medium.com/@ahmetuyar/rxjs-bilinmesi-gereken-operat%C3%B6rler-d6291dbef1d0)
+
 
 ### Sketch
 - :movie_camera: [Sketch App (Web/Mobil Tasarım) Dersleri](https://www.youtube.com/playlist?list=PLcnWDe66aDNB1aDPMuWsVu_EeWaqv9Bdb) - [Devran Bostancioglu](https://medium.com/@dbostancioglu)
@@ -596,6 +618,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Sourcemod
 - [Sourcemod Api Türkçe Döküman](https://github.com/ismail0234/sourcemod) - Ismail Satilmiş
+
+### Spring Boot
+- [Spring Boot Dünyası Hakkında Yazılar](https://www.mehmetcemyucel.com/categories/#java) - [Mehmet Cem Yücel](https://twitter.com/mehmetcemyucel)
 
 ### SQL
 - :movie_camera: [SQL Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-6vvPSJssG4Jp6UqCTmWSz) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
@@ -638,6 +663,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift’te Set Kullanımı](https://medium.com/@halilozel1903/swiftte-set-kullanımı-7b41864c0b0c) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [SwiftUI Temel Bileşenleri](https://medium.com/@halilozel1903/swiftui-temel-bileşenleri-5ad31ee52ee5) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [SwiftUI Nedir?](https://medium.com/@halilozel1903/swiftui-nedir-77c734ccf06b) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [iOS Interstitial Reklam](https://halilozel1903.medium.com/ios-interstitial-reklam-4e09c66e0c61) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
 ### Titanium Mobile
@@ -648,6 +674,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Vault
 - [Vault Başlangıç Kılavuzu](https://github.com/zekiunal/vault)
+
+
+### Veri Bilimi (Data Science)
+- [Veri Bilimine Giriş](https://www.patika.dev/egitimler/veri-bilimi-patikasi)
 
 
 ### Vim
@@ -747,6 +777,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Apache Cordova Nedir?](https://medium.com/@halilozel1903/apache-cordova-nedir-a5f030343b6) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [SOAP Nedir?](https://medium.com/@halilozel1903/soap-nedir-75c560e44599) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [REST ve RESTful Nedir?](https://medium.com/@halilozel1903/rest-ve-restful-nedir-f6c8596eb38a) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Authentication / Authorization Yazı Serisi](https://www.mehmetcemyucel.com/2020/Access-Management-1-XACML-Authorization-Authentication/) - [Mehmet Cem Yücel](https://twitter.com/mehmetcemyucel)
 
 
 
