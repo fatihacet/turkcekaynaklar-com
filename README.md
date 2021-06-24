@@ -89,7 +89,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Android
 - [Mobilhanem Android](https://www.mobilhanem.com/android-egitimleri/)
-- [Mobiler.dev Android](https://www.mobiler.dev/android)
 - [Android Uygulamaya “Facebook ile Giriş” Ekleme](https://medium.com/@yusufcakal/android-uygulamaya-facebook-ile-giri%C5%9F-ekleme-14940166eb22) - Yusuf Çakal
 - [umiitkose.com Android Blog](http://www.umiitkose.com/android) - [Ümit KÖSE](https://twitter.com/umiitkose)
 - [Android Türkçe PDF](http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf) - [Ümit KÖSE](https://twitter.com/umiitkose)
@@ -112,6 +111,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Gradle Nedir?](https://halilozel1903.medium.com/gradle-nedir-6d146ba68c38)- [Halil ÖZEL](https://github.com/halilozel1903)
 - [Bir Devrin Sonu: Kotlin Synthetic](https://halilozel1903.medium.com/bir-devrin-sonu-kotlin-synthetic-15c739941ddf)- [Halil ÖZEL](https://github.com/halilozel1903)
 - [Android Manifest Nedir?](https://halilozel1903.medium.com/android-manifest-nedir-d763f3e4d929)- [Halil ÖZEL](https://github.com/halilozel1903)
+- [Mobiler.dev Android](https://www.mobiler.dev/android)
 
 
 ### Angular
