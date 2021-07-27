@@ -671,6 +671,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### TypeScript
 - [A’dan Z’ye Typescript](https://medium.com/@yasinatesim/adan-z-ye-typescript-d27a1b6ff17a)
+- [TypeScript Notlari](https://github.com/afatihyavasi/TypeScript-Notlari)
 
 ### Vault
 - [Vault Başlangıç Kılavuzu](https://github.com/zekiunal/vault)
