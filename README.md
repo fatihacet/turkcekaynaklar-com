@@ -779,6 +779,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [SOAP Nedir?](https://medium.com/@halilozel1903/soap-nedir-75c560e44599) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [REST ve RESTful Nedir?](https://medium.com/@halilozel1903/rest-ve-restful-nedir-f6c8596eb38a) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Authentication / Authorization Yazı Serisi](https://www.mehmetcemyucel.com/2020/Access-Management-1-XACML-Authorization-Authentication/) - [Mehmet Cem Yücel](https://twitter.com/mehmetcemyucel)
+- [Front-End Geliştirme Araçları](https://aycanogut.medium.com/front-end-geli%C5%9Ftirme-ara%C3%A7lar%C4%B1-ff3dc6b4511)
+- [Icomoon ile Web-Font Icon Paketleri Oluşturma](https://aycanogut.medium.com/icomoon-ile-web-font-icon-paketleri-olu%C5%9Fturma-2f6acd98dc67)
+
 
 
 
@@ -852,6 +855,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Yunus Eş](https://www.youtube.com/channel/UCJNdBzPQDvJG7ccPoMc59KQ)
 - [Soner Gönül](https://www.youtube.com/c/sonergonul)
 - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
+- [Ahmet Buğra Çakıcı](https://www.youtube.com/user/EqualGameTR)
 
 
 ### Twitch Kanalları
