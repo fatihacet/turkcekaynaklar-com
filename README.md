@@ -417,6 +417,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JavaScript Eğitimi](https://www.mobilhanem.com/javascript-egitimi/) - [Gökhan Kurt](http://gokhankurt.com.tr)
 - [JavaScript Dersleri](https://www.azkod.com/javascript)
 - [Bir Stajyerin JavaScript Uzerine Yazmis Oldugu Gunlukler](https://github.com/alperen/training-book-2019) - [Alperen Turkoz](https://www.linkedin.com/in/alperenturkoz/)
+- [JS Pratik Kullanım Eğitim İçeriği](https://odayibasi.medium.com/js-pratik-kullan%C4%B1m-e%C4%9Fitim-i%CC%87%C3%A7eri%C4%9Fi-d83c6f28b8a4) - [Onur Dayıbaşı](https://onurdayibasi.com/)
+- [JS ile Async Programlama Eğitim İçeriği](https://odayibasi.medium.com/js-ile-async-programlama-e%C4%9Fitim-i%CC%87%C3%A7eri%C4%9Fi-42c05667f54a) - [Onur Dayıbaşı](https://onurdayibasi.com/)
+- [Derinlemesine JS Öğren Eğitim İçeriği](https://odayibasi.medium.com/derinlemesine-js-%C3%B6%C4%9Fren-e%C4%9Fitim-i%CC%87%C3%A7eri%C4%9Fi-a9296b6938d8) - [Onur Dayıbaşı](https://onurdayibasi.com/)
+- [JS ile Meta Programlama Eğitim İçeriği](https://medium.com/frontend-development-with-js/js-ile-meta-programlama-e%C4%9Fitim-i%CC%87%C3%A7eri%C4%9Fi-276a1fd6fcee) - [Onur Dayıbaşı](https://onurdayibasi.com/)
+
 
 
 ### jQuery
@@ -581,6 +586,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [React JS Eğitimi](https://www.youtube.com/watch?v=CZm0mQx4pBw&feature=youtu.be) - [Sinan Aksay](https://github.com/wunnle)
 - [Redux Thunk’ın Kullanım Amacı](https://medium.com/batech/redux-thunk%C4%B1n-kullan%C4%B1m-amac%C4%B1-d4c068ea2a30) - [Yunus Ünver](https://twitter.com/yunusnver)
 - [React Server Components](https://www.youtube.com/watch?v=ZZrP6JcoN4E)
+- [React Çalışma Mantığı (Konseptler)](https://onurdayibasi.com/react/) - [Onur Dayıbaşı](https://onurdayibasi.com)
 
 
 ### React Native
@@ -779,8 +785,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [SOAP Nedir?](https://medium.com/@halilozel1903/soap-nedir-75c560e44599) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [REST ve RESTful Nedir?](https://medium.com/@halilozel1903/rest-ve-restful-nedir-f6c8596eb38a) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Authentication / Authorization Yazı Serisi](https://www.mehmetcemyucel.com/2020/Access-Management-1-XACML-Authorization-Authentication/) - [Mehmet Cem Yücel](https://twitter.com/mehmetcemyucel)
-- [Front-End Geliştirme Araçları](https://aycanogut.medium.com/front-end-geli%C5%9Ftirme-ara%C3%A7lar%C4%B1-ff3dc6b4511)
-- [Icomoon ile Web-Font Icon Paketleri Oluşturma](https://aycanogut.medium.com/icomoon-ile-web-font-icon-paketleri-olu%C5%9Fturma-2f6acd98dc67)
+- [Web, Internet ve Temel Kavramlar Eğitim İçeriği](https://medium.com/frontend-development-with-js/web-internet-ve-temel-kavramlar-e%C4%9Fitim-i%CC%87%C3%A7eri%C4%9Fi-eb2fd1f9a4de) - [Onur Dayıbaşı](https://odayibasi.medium.com/)
+- [Clean Code (Temiz Kod) Nedir ?](https://medium.com/architectural-patterns/clean-code-temiz-kod-nedir-754fc7ccd5b8) - [Onur Dayıbaşı](https://odayibasi.medium.com/)
+- [Front-End Geliştirme Araçları](https://aycanogut.medium.com/front-end-geli%C5%9Ftirme-ara%C3%A7lar%C4%B1-ff3dc6b4511) - [Aycan Öğüt](https://github.com/aycanogut)
+- [Icomoon ile Web-Font Icon Paketleri Oluşturma](https://aycanogut.medium.com/icomoon-ile-web-font-icon-paketleri-olu%C5%9Fturma-2f6acd98dc67) - [Aycan Öğüt](https://github.com/aycanogut)
 
 
 
@@ -871,3 +879,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [NSIstanbul- An iOS and Mac Development Community](http://www.nsistanbul.com/) ([Kayıt Ol/Giriş Yap](http://nsistanbul.slack.com))
 - [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye) ([Kayıt Ol/Giriş Yap](https://goo.gl/forms/13CuWViVwRQw970s2))
 - [DevOps Türkiye](https://medium.com/devopsturkiye) ([Kayıt Ol/Giriş Yap](https://communityinviter.com/apps/devopsturkiye/devops-tuerkiye-slack-grubu))
+
+### Discord Grupları
+- [Kodluyoruz](https://www.kodluyoruz.org/) ([Davetiye Al](https://discord.gg/95hSpX9v))
+- [Patika LaunchPad](https://www.patika.dev/) ([Davetiye Al](https://docs.google.com/forms/d/e/1FAIpQLSeUIKgwh5sPROGRl-9OPq6qZJmSziInWW7jDlI04oG7NhupTA/viewform?fbzx=-3280402197482092813))
+- [Ahmet Buğra Çakıcı](https://www.youtube.com/channel/UC1O6BbuZByHe9rtFlv2Gz3g) ([Davetiye Al](https://discord.gg/VWz4PxTT))
+- Frontend Community ([Davetiye Al](https://discord.gg/XvSwsj32))
+- Crewotive ([Davetiye Al](https://discord.gg/PAqQvMTt))
+- findmentor.network ([Davetiye Al](https://discord.gg/MtUvTkUM))
+
