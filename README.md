@@ -214,6 +214,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [C++ - learnXinYminutes](https://learnxinyminutes.com/docs/tr-tr/c++-tr/)
 - [C++ En İyi Uygulamalar](https://p1v0t.gitbooks.io/cppbestpractices/content/)
 - [Türkçe C++ Kaynakları](https://github.com/vimevim/turkce-cpp-kaynaklari)
+- :movie_camera: [C++ Eğitimi](https://www.youtube.com/watch?v=tfXHvHn_X4s&list=PLK6Whnd55IH6uPjNSDd6_MCgasOgk_6Ry) - [Mert Mekatronik](https://www.youtube.com/channel/UCqMYDjUgPT1Ad-LBQaTtyXA)
 
 
 ### Crystal
@@ -553,6 +554,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Python Programlama Dili](https://medium.com/@halilozel1903/python-programlama-dili-1f1d88ef1e1d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - :movie_camera: [6 Saatlik Python Eğitimi](https://www.youtube.com/watch?v=6IWpowC2ryc) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - :movie_camera: [15 Saatlik Python Eğitim Serisi - Yakın Kampüs](https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
+- :movie_camera: [Sıfırdan İleri Seviye Profesyonel Python Yazılım Geliştiricisi Olma Kursu](https://www.youtube.com/watch?v=llIQYBIAs9A&list=PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9) - [Mert Mekatronik](https://www.youtube.com/channel/UCqMYDjUgPT1Ad-LBQaTtyXA)
 
 
 ### Rails
