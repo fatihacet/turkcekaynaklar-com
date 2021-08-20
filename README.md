@@ -553,7 +553,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Python Programlama Dili](https://medium.com/@halilozel1903/python-programlama-dili-1f1d88ef1e1d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - :movie_camera: [6 Saatlik Python Eğitimi](https://www.youtube.com/watch?v=6IWpowC2ryc) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - :movie_camera: [15 Saatlik Python Eğitim Serisi - Yakın Kampüs](https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
-- :movie_camera: [13 Saatlik Sıfırdan Python Eğitim Serisi - Mert Mekatronik](https://www.youtube.com/playlist?list=PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9)
+- :movie_camera: [13 Saatlik Sıfırdan Python Eğitim Serisi - Mert Mekatronik](https://www.youtube.com/playlist?list=PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9) - [Mert Mekatronik(https://www.youtube.com/c/MertMekatronik)
 
 
 ### Rails
