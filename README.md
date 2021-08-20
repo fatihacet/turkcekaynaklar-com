@@ -194,6 +194,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [5 Saatlik C# Eğitimi](https://www.youtube.com/watch?v=2EkMrrX9sYY) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - :movie_camera: [Codecademy C# Eğitimi [9 Kısım]](https://www.youtube.com/playlist?list=PL7rvg7Sao02sbGHbrgOI2Z-oUpVQ8prBf) - [Soner Gönül](https://www.youtube.com/c/sonergonul)
 - [Türkçe C# Kaynakları](https://github.com/vimevim/turkce-C-sharp-kaynaklari)
+- [Detaylı Microsoft C# Belgesi](https://docs.microsoft.com/tr-tr/dotnet/csharp/)
 
 
 ### Clojure
