@@ -290,6 +290,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [6 Saatlik Flutter Eğitimi](https://www.youtube.com/watch?v=oISIcfHAzm4) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - [Android Studio’ya Flutter Kurulumu](https://medium.com/@halilozel1903/android-studioya-flutter-kurulumu-73f7d4cefde)- [Halil ÖZEL](https://github.com/halilozel1903)
 - :movie_camera: [Flutter Eğitimi](https://www.youtube.com/playlist?list=PL1k5oWAuBhgUpOHXXnWpI8nQ4yCGXth5K)
+- [Flutter’da Dinamik Tema Oluşturmak](https://medium.com/developer-student-clubs/flutterda-dinamik-tema-olu%C5%9Fturmak-1325c6ff4249) - [Doğancan MAVİDENİZ](https://github.com/mavideniz)
 
 
 
@@ -553,6 +554,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Python Programlama Dili](https://medium.com/@halilozel1903/python-programlama-dili-1f1d88ef1e1d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - :movie_camera: [6 Saatlik Python Eğitimi](https://www.youtube.com/watch?v=6IWpowC2ryc) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - :movie_camera: [15 Saatlik Python Eğitim Serisi - Yakın Kampüs](https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
+- [En Çok Kullanılan Python Metod ve Fonksiyonları](https://medium.com/developer-student-clubs/en-%C3%A7ok-kullan%C4%B1lan-python-metod-ve-fonksiyonlar%C4%B1-8354a7f989ac) - [Doğancan MAVİDENİZ](https://github.com/mavideniz)
 
 
 ### Rails
@@ -664,6 +666,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [SwiftUI Temel Bileşenleri](https://medium.com/@halilozel1903/swiftui-temel-bileşenleri-5ad31ee52ee5) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [SwiftUI Nedir?](https://medium.com/@halilozel1903/swiftui-nedir-77c734ccf06b) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [iOS Interstitial Reklam](https://halilozel1903.medium.com/ios-interstitial-reklam-4e09c66e0c61) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [SwiftUI 3.0 ile Gelen Yenilikler](https://mavideniz.medium.com/swiftui-3-0-ile-gelen-yenilikler-d6dbe490ef59) - [Doğancan MAVİDENİZ](https://github.com/mavideniz)
 
 
 ### Titanium Mobile
