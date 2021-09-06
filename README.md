@@ -786,7 +786,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [REST ve RESTful Nedir?](https://medium.com/@halilozel1903/rest-ve-restful-nedir-f6c8596eb38a) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Authentication / Authorization Yazı Serisi](https://www.mehmetcemyucel.com/2020/Access-Management-1-XACML-Authorization-Authentication/) - [Mehmet Cem Yücel](https://twitter.com/mehmetcemyucel)
 - [Web, Internet ve Temel Kavramlar Eğitim İçeriği](https://medium.com/frontend-development-with-js/web-internet-ve-temel-kavramlar-e%C4%9Fitim-i%CC%87%C3%A7eri%C4%9Fi-eb2fd1f9a4de) - [Onur Dayıbaşı](https://odayibasi.medium.com/)
-- [Clean Code (Temiz Kod) Nedir ?](https://medium.com/architectural-patterns/clean-code-temiz-kod-nedir-754fc7ccd5b8) - [Onur Dayıbaşı](https://odayibasi.medium.com/)
+- [Clean Code (Temiz Kod) Nedir?](https://medium.com/architectural-patterns/clean-code-temiz-kod-nedir-754fc7ccd5b8) - [Onur Dayıbaşı](https://odayibasi.medium.com/)
 - [Front-End Geliştirme Araçları](https://aycanogut.medium.com/front-end-geli%C5%9Ftirme-ara%C3%A7lar%C4%B1-ff3dc6b4511) - [Aycan Öğüt](https://github.com/aycanogut)
 - [Icomoon ile Web-Font Icon Paketleri Oluşturma](https://aycanogut.medium.com/icomoon-ile-web-font-icon-paketleri-olu%C5%9Fturma-2f6acd98dc67) - [Aycan Öğüt](https://github.com/aycanogut)
 
@@ -883,7 +883,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Discord Grupları
 - [Kodluyoruz](https://www.kodluyoruz.org/) ([Davetiye Al](https://discord.gg/95hSpX9v))
 - [Patika LaunchPad](https://www.patika.dev/) ([Davetiye Al](https://docs.google.com/forms/d/e/1FAIpQLSeUIKgwh5sPROGRl-9OPq6qZJmSziInWW7jDlI04oG7NhupTA/viewform?fbzx=-3280402197482092813))
-- [Ahmet Buğra Çakıcı](https://www.youtube.com/channel/UC1O6BbuZByHe9rtFlv2Gz3g) ([Davetiye Al](https://discord.gg/VWz4PxTT))
+- [Ahmet Buğra Çakıcı](https://discord.gg/2DBcpdPt) ([Davetiye Al](https://discord.gg/VWz4PxTT))
 - Frontend Community ([Davetiye Al](https://discord.gg/XvSwsj32))
 - Crewotive ([Davetiye Al](https://discord.gg/PAqQvMTt))
 - findmentor.network ([Davetiye Al](https://discord.gg/MtUvTkUM))
