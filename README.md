@@ -302,7 +302,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Git - learnXinYminutes](https://learnxinyminutes.com/docs/tr-tr/git-tr/)
 - [Git, GitHub ve GitLab Nedir?](https://medium.com/@halilozel1903/git-github-ve-gitlab-nedir-e51a87e8e4e7) - [Halil ÖZEL](https://github.com/halilozel1903)
 - :movie_camera: [Yeni Başlayanlar için Git Dersleri](https://www.youtube.com/playlist?list=PL_Z0TaFYSF3IqQKPOmbigAOVMMlZ2yU4K) - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA) 
-
+- :movie_camera: [Sıfırdan Git Dersleri](https://youtube.com/playlist?list=PLHN6JcK509bOrevTCFrSMeAfBtuib4Gpg) - Kadir Kasım
 
 ### GNU/Linux
 - [Arch Linux I3WM Kurulum Sonrası Yapılandırma Ayarları (GitBook)](https://www.gitbook.com/book/mksglu/arch-linux-i3wm/details) - [Mert Köseoğlu](https://github.com/mksglu/)
