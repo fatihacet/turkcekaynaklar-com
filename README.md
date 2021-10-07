@@ -615,6 +615,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Rust
 - [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8/)
+- [Rust Turu](https://tourofrust.com/00_tr.html)
+- [Rust Dökümanlarının Çevirisi](https://github.com/RustDili/dokuman)
 
 ### RXJS
 - [RxJs- Bilinmesi Gereken Operatörler](https://medium.com/@ahmetuyar/rxjs-bilinmesi-gereken-operat%C3%B6rler-d6291dbef1d0)
