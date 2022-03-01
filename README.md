@@ -36,6 +36,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Git](#git)
 - [GNU/Linux](#gnulinux)
 - [Go](#go)
+- [Gömülü Sistemler](#gömülü-sistemler)
 - [GraphQL](#graphql)
 - [Gulp](#gulp)
 - [Haskell](#haskell)
@@ -331,6 +332,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Codecademy Go Eğitimi [6 Kısım]](https://www.youtube.com/playlist?list=PL7rvg7Sao02uUOnyKrSgVkt0UEHq17dAd) - [Soner Gönül](https://www.youtube.com/c/sonergonul)
 - :movie_camera: [Golang Echo Framework ile Web Geliştirme Eğitim Serisi](https://www.youtube.com/watch?v=P5TRNhhq00w&feature=youtu.be&list=PLHnI4uXxaT1aboTBx687QV5cLvGi7882a) - [Ahmet Buğra Çakıcı](https://www.linkedin.com/in/ahmetbcakici)
 
+### Gömülü Sistemler
+- [C İLE AVR PROGRAMLAMA (E-KİTAP)](http://www.lojikprob.com/c-ile-avr-programlama-e-kitap-indir/) - Gökhan DÖKMETAŞ
+- [AVR ile Mikrodenetleyici Uygulamaları](http://www.lojikprob.com/diger/kitap/avr-ile-mikrodenetleyici-uygulamalari-gokhan-dokmetas-ucretsiz-e-kitap/) - Gökhan DÖKMETAŞ
+- [C ile AVR Mikrodenetleyici Programlama - ATmega328p ve  Arduino (36- Kısım)](https://www.youtube.com/playlist?list=PL2dZ_nzb8WtnivT5Fyou_LrEcmR-Yy6y_) - 
+Soner Ayar
+- [C ile AVR Microcontroller Programlama - Haberleşme](https://www.youtube.com/playlist?list=PL2dZ_nzb8WtnNM4Hd1TenNSexoEciz4xp) - Soner Ayar
 
 ### GraphQL
 - [GraphQL, Relay, Apollo Stack / Veri Erişiminde yeni bir bakış açısı .](https://yazilimgunlugu.org/graphql-relay-apollo-veri-erisiminde-yeni-bir-bakis-acisi/) - [Hüseyin Dönmez](yazilimgunlugu.org)
