@@ -693,7 +693,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Veri Bilimi (Data Science)
 - [Veri Bilimine Giriş](https://www.patika.dev/egitimler/veri-bilimi-patikasi)
-
+- 🎥 [Veri Madenciliği (Hiç Bilmeyenler için)](https://youtu.be/yeXIwwDEHvA) - [Şadi Evren Şeker](http://sadievrenseker.com)
 
 ### Vim
 - [Vim Kısayolları](https://github.com/p1v0t/VimKisayollari)
