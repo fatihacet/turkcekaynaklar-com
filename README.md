@@ -183,6 +183,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Fonksiyon Çağırım Düzeni/Biçimi/Şekli Ya da Her Neyse](http://ismailkocacan.blogspot.com/2018/09/fonksiyon-cagrm-duzenibicimisekli-ya-da.html) 
 - [Offset Kavramı Ve Dinamik Dizi Yapımı (2 ve 3 Boyutlu)](http://ismailkocacan.blogspot.com/2019/11/offset-kavram-ve-dinamik-dizi-yapm-2-ve.html)
 - [Türkçe C Kaynakları](https://github.com/vimevim/turkce-c-kaynaklari)
+- [Temel C Programlama Örnekleri](https://www.evrenselkod.com/c-programlama-ornekleri/)
 
 
 ### Csharp
