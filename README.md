@@ -335,9 +335,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Gömülü Sistemler
 - [C İLE AVR PROGRAMLAMA (E-KİTAP)](http://www.lojikprob.com/c-ile-avr-programlama-e-kitap-indir/) - Gökhan DÖKMETAŞ
 - [AVR ile Mikrodenetleyici Uygulamaları](http://www.lojikprob.com/diger/kitap/avr-ile-mikrodenetleyici-uygulamalari-gokhan-dokmetas-ucretsiz-e-kitap/) - Gökhan DÖKMETAŞ
-- [C ile AVR Mikrodenetleyici Programlama - ATmega328p ve  Arduino (36- Kısım)](https://www.youtube.com/playlist?list=PL2dZ_nzb8WtnivT5Fyou_LrEcmR-Yy6y_) - 
-Soner Ayar
-- [C ile AVR Microcontroller Programlama - Haberleşme](https://www.youtube.com/playlist?list=PL2dZ_nzb8WtnNM4Hd1TenNSexoEciz4xp) - Soner Ayar
+- :movie_camera:[C ile AVR Mikrodenetleyici Programlama-ATmega328p ve Arduino (36- Kısım)](https://www.youtube.com/playlist?list=PL2dZ_nzb8WtnivT5Fyou_LrEcmR-Yy6y_) - Soner Ayar
+- :movie_camera:[C ile AVR Microcontroller Programlama-Haberleşme](https://www.youtube.com/playlist?list=PL2dZ_nzb8WtnNM4Hd1TenNSexoEciz4xp) - Soner Ayar
 
 ### GraphQL
 - [GraphQL, Relay, Apollo Stack / Veri Erişiminde yeni bir bakış açısı .](https://yazilimgunlugu.org/graphql-relay-apollo-veri-erisiminde-yeni-bir-bakis-acisi/) - [Hüseyin Dönmez](yazilimgunlugu.org)
