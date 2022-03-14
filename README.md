@@ -736,7 +736,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Xamarin
 - [Xamarin Türkiye](http://www.xamarinturkiye.com/)
-- [Xamarin Uygulama Geliştirme](http://ozaksut.com/kategori/xamarin/) - [Yiğit Özaksüt](https://twitter.com/ozaksuty)
+- [Xamarin MAUI ile Uygulama Geliştirme](https://ozaksut.com/kategori/xamarin-maui/) - [Yiğit Özaksüt](https://twitter.com/ozaksuty)
 - [Xamarin Forms Radial Progress Kullanımı](https://medium.com/@peacecwz/xamarin-forms-radial-progress-kullan%C4%B1m%C4%B1-73751aa2cffd) - [Barış Ceviz](https://github.com/peacecwz)
 
 
