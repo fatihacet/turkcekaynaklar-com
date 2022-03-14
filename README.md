@@ -117,7 +117,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Angular
 - [yazilimgunlugu.org](https://yazilimgunlugu.org/category/javascript-web-uygulama-gelistirme/angular-2-4-turkce/)
-- [Angular 2 Dersleri](http://ilkaygunel.com/blog/2017/angular-2-tutorials/)
 - [Kodumunblogu - Angular Türkçe Dersler ve Anlatımlar](https://kodumunblogu.net/category/angular)
 - [Angular'da çoklu dil nasıl yapılır?](https://kodumunblogu.net/detail/angularda-coklu-dil-i18n-nasil-yapilir)
 - [Angular Universal Kullanımı - SEO nasıl yapılır?](https://kodumunblogu.net/detail/angularda-seo-server-side-rendering-ssr-angular-universala-giris)
