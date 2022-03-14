@@ -304,9 +304,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Sıfırdan Git Dersleri](https://youtube.com/playlist?list=PLHN6JcK509bOrevTCFrSMeAfBtuib4Gpg) - Kadir Kasım
 
 ### GNU/Linux
-- [Arch Linux I3WM Kurulum Sonrası Yapılandırma Ayarları (GitBook)](https://www.gitbook.com/book/mksglu/arch-linux-i3wm/details) - [Mert Köseoğlu](https://github.com/mksglu/)
 - [Linux Manjaro 17 I3WM Topluluk Sürümü Çözümleri](https://mksglu.gitbooks.io/linux-manjaro-17-i3wm-topluluk-surumu-cozumleri/content/) - [Mert Köseoğlu](https://github.com/mksglu/)
-- [Linux Manjaro Gnome 3.22 Çözümleri](https://www.mkoseoglu.com/linux-manjaro-gnome-3-22-cozumleri) - [Mert Köseoğlu](https://github.com/mksglu/)
 - [Kali Linux ile Temel Linux Eğitimi](https://github.com/taylanbildik/Linux_Dersleri) - Taylan Özgür Bildik
 - [GNU/Linux Komutları](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf)
 - [Kali Linux Nedir?](https://medium.com/@halilozel1903/kali-linux-nedir-5cb0ac4bfb8c) - [Halil ÖZEL](https://github.com/halilozel1903)
