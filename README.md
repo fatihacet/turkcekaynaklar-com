@@ -242,7 +242,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Dart
 - [Dart Programlama Dili](https://medium.com/@halilozel1903/dart-programlama-dili-eeafb64ad300) - [Halil ÖZEL](https://github.com/halilozel1903)
-- [Dart Programlama Dili Türkçe Eğitim Kaynağı](https://dart.kaanksc.com) - [Kaan Kuşcu](https://kaanksc.com)
 
 
 ### Deep Learning
