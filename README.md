@@ -873,14 +873,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Soner Gönül](https://www.twitch.tv/sonergonul)
 
 ### Slack Grupları
-- [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye Al](https://goo.gl/forms/IZe06LgNk6Vsega83))
-- [Python İstanbul](https://pyistanbul.slack.com) ([Davetiye Al](https://pyistanbul.herokuapp.com/))
-- [Ruby Türkiye](https://rubytr.slack.com) ([Davetiye Al](http://rubytr.herokuapp.com/))
-- [İzmir Geliştirici & Tasarımcı Topluluğu](https://www.facebook.com/izmirdev/) ([Davetiye Al](https://docs.google.com/forms/d/e/1FAIpQLSdeuvyiBvhP46os0xhPJE4mnTgtHfWpfCp-595VwbES9Qpdfg/viewform))
-- [Az Mesai - Biraz Dev, biraz Ops](http://azmesai.net) ([Davetiye](https://leventyalcin.typeform.com/to/rSbcXD))
-- [açık kaynak](http://acikkaynak.info) ([Davetiye](https://acikkaynak-slack-inviter.herokuapp.com/))
+- [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye İste](https://goo.gl/forms/IZe06LgNk6Vsega83))
+- [Python İstanbul](https://pyistanbul.slack.com) ([Davetiye İste](https://pyistanbul.herokuapp.com/))
+- [Ruby Türkiye](https://rubytr.slack.com) ([Davetiye İste](http://rubytr.herokuapp.com/))
+- [Az Mesai - Biraz Dev, biraz Ops](http://azmesai.net) ([Davetiye İste](https://leventyalcin.typeform.com/to/rSbcXD))
 - [NSIstanbul- An iOS and Mac Development Community](http://www.nsistanbul.com/) ([Kayıt Ol/Giriş Yap](http://nsistanbul.slack.com))
-- [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye) ([Kayıt Ol/Giriş Yap](https://goo.gl/forms/13CuWViVwRQw970s2))
 - [DevOps Türkiye](https://medium.com/devopsturkiye) ([Kayıt Ol/Giriş Yap](https://communityinviter.com/apps/devopsturkiye/devops-tuerkiye-slack-grubu))
 
 ### Discord Grupları
