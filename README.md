@@ -138,7 +138,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [ASP.NET Mvc Blog Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJJqRRNYfVmXG7Lw1Ovjm0UQ) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - :movie_camera: [ASP.NET Mvc Haber Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJJmyzTm77FjlCJOA11SCc_Z) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - [ASP.NET Core El Kitabı](https://sahinyanlik.gitbooks.io/kisa-asp-net-core-kitabi/content/) - [Sahin Yanlik](http://www.sahinyanlik.com.tr)
-- :movie_camera: [Açık akademi ASP.NET MVC Eğitimi](https://www.acikakademi.com/portal/egitimler/aspnet-mvc-ile-ileri-seviyede-web-programlama.aspx)
 - :movie_camera: [ASP.NET MVC Dersleri](https://www.youtube.com/watch?v=-Fgpo2HvGIE&list=PLpiXyP9d3U1pUCEi8-S2pXzQchNuqJ3Kp) - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
 - :movie_camera: [ASP.NET CORE WEB API Dersleri](https://www.youtube.com/watch?v=paI5DZq79uw&list=PLpiXyP9d3U1q251izX5xLHctZEmb8REr_) - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
 - [ASP.NET Uygulamalarında IHttpClient Kullanımı](https://www.ilkayilknur.com/aspnet-core-uygulamalarinda-ihttpclientfactory-kullanimi) - [İlkay İlknur](https://www.youtube.com/user/ilkayilknur)
@@ -190,7 +189,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Csharp
 - :movie_camera: [C# ile Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLjI4XZvh1FJIKMDPS2HS05uxfNHb_KTq1) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - :movie_camera: [C# Dersleri - 10 Günde CSharp (C#)](https://www.youtube.com/playlist?list=PL2atofUpdCAV_ZlpK9mz6ul-fRYx2yXDY) - [Yazılım Hocası](https://www.youtube.com/user/yazilimhocasi)
-- :movie_camera: [Acik Akademi C# Derleri](https://www.acikakademi.com/portal/egitimler/csharp-uygulama-gelistirme.aspx)
 - [C# Dersleri](https://www.azkod.com/csharp)
 - :movie_camera: [C# Dersleri](https://www.youtube.com/watch?v=VytV9w2dAFs&list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K) - [Murat Yücedağ](https://www.youtube.com/channel/UCbkbOlw8snP93RJ2BhH44Qw)
 - :movie_camera: [5 Saatlik C# Eğitimi](https://www.youtube.com/watch?v=2EkMrrX9sYY) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
