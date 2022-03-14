@@ -884,10 +884,5 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [DevOps Türkiye](https://medium.com/devopsturkiye) ([Kayıt Ol/Giriş Yap](https://communityinviter.com/apps/devopsturkiye/devops-tuerkiye-slack-grubu))
 
 ### Discord Grupları
-- [Kodluyoruz](https://www.kodluyoruz.org/) ([Davetiye Al](https://discord.gg/95hSpX9v))
-- [Patika LaunchPad](https://www.patika.dev/) ([Davetiye Al](https://docs.google.com/forms/d/e/1FAIpQLSeUIKgwh5sPROGRl-9OPq6qZJmSziInWW7jDlI04oG7NhupTA/viewform?fbzx=-3280402197482092813))
-- [Ahmet Buğra Çakıcı](https://discord.gg/2DBcpdPt) ([Davetiye Al](https://discord.gg/VWz4PxTT))
-- Frontend Community ([Davetiye Al](https://discord.gg/XvSwsj32))
-- Crewotive ([Davetiye Al](https://discord.gg/PAqQvMTt))
-- findmentor.network ([Davetiye Al](https://discord.gg/MtUvTkUM))
+- [Find Mentor](https://findmentor.network/)  ([Davetiye](https://discord.com/invite/EDwkj6Z7W2))
 
