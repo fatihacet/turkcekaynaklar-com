@@ -229,7 +229,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Bootstrap 4 Eğitim Serisi](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-xwLUQ0-OIA46mKwYeaxXR) - [Arin Yazılım](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/feed)
 - :movie_camera: [Pratik CSS Teknikleri Serisi](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq9GTqLreY9l5MiJJm6EOkal) - [Arin Yazılım](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g/feed)
 - :movie_camera: [CSS ile Konuşma Balonu Nasıl Yapılır?](https://youtu.be/qrCd9m1FC-Q) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
-- [Bootstrap v3.3.7](http://trbootstrap.com/)
 - [CSS Stil Rehberi](https://github.com/omergulcicek/css-stil-rehberi) - [Ömer Gülçiçek](https://twitter.com/omergulcicek)
 - [CSS Grid Layout Rehberi](https://github.com/ahmetozantekin/css-grid-layout-rehberi)
 - [Sass Rehberi](https://github.com/dferhat/sass-rehberi) - [Ferhat Demir](https://twitter.com/ddemirferhat)
