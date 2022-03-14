@@ -688,7 +688,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Titanium Mobile
-- [Titanium Mobile ile Çapraz Platform Uygulama Geliştirme](http://nazrdogan.github.io/titanium%20mobile/2015/12/07/appcelerator-titanium-mobile-turkce-kitap.html)
+- [Titanium Mobile ile Çapraz Platform Uygulama Geliştirme](https://nazrdogan.github.io/blog/2015/12/07/appcelerator-titanium-mobile-turkce-kitap/)
 
 ### TypeScript
 - [A’dan Z’ye Typescript](https://medium.com/@yasinatesim/adan-z-ye-typescript-d27a1b6ff17a)
