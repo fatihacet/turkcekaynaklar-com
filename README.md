@@ -703,7 +703,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - 🎥 [Veri Madenciliği (Hiç Bilmeyenler için)](https://youtu.be/yeXIwwDEHvA) - [Şadi Evren Şeker](http://sadievrenseker.com)
 
 ### Vim
-- [Vim Kısayolları](https://github.com/p1v0t/VimKisayollari)
+- [Vim Klavye Kısayolları](https://defkey.com/tr/vim-text-editor-klavye-kisayollari)
 - :movie_camera: [Herkes için Vim! #1 Temel komutlar ve mekanikler](https://www.youtube.com/watch?v=tvRnKOA3sQs)
 - :movie_camera: [Herkes için Vim! #2 Başka temel komutlar ve mekanikler](https://www.youtube.com/watch?v=nZZsjDLMAlE)
 - :movie_camera: [Herkes için Vim! #3 Vim'i kişiselleştirmek](https://www.youtube.com/watch?v=xdOBUdDfx_Q)
