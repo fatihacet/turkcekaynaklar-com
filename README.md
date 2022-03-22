@@ -263,7 +263,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Django ile Blog Oluşturmak](https://www.youtube.com/watch?v=l1EQ2GfxmUg&list=PLh9ECzBB8tJMkq3vJ8fwAKNlwPA8d629n) - [BilgisayarKavramlari](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g)
 - [Django Nedir?](https://medium.com/@halilozel1903/django-nedir-52b29ebb7298) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [MongoDB-Django](https://medium.com/batech/mongodb-django-69e6b9d3625d) - [Murat Vuranok](https://medium.com/@mrtvrnk)
-
+- [Django’da uygulama bazlı önbelleklemeyi “context processor”lar bağlamında inceleyelim](https://suayip.medium.com/djangoda-uygulama-bazl%C4%B1-%C3%B6nbelleklemeyi-context-processor-lar-ba%C4%9Flam%C4%B1nda-inceleyelim-748c10e6872) - [Şuayip Üzülmez](https://github.com/realsuayip)
+- [Django’da ORM’a bir bakış](https://suayip.medium.com/djangoda-orm-a-bir-bak%C4%B1%C5%9F-b01f3bf3840f) - [Şuayip Üzülmez](https://github.com/realsuayip)
+- [Django ile kapsamlı bir ekşi sözlük klonu](https://github.com/realsuayip/django-sozluk) - [Şuayip Üzülmez](https://github.com/realsuayip)
 
 ### Docker
 - [Docker İpuçları](https://gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-1/) - [Gökhan Şengün](https://twitter.com/gokhansengun)
@@ -316,6 +318,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [GNU/Linux Komutları](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf)
 - [Kali Linux Nedir?](https://medium.com/@halilozel1903/kali-linux-nedir-5cb0ac4bfb8c) - [Halil ÖZEL](https://github.com/halilozel1903)
 - [Parrot Security OS Nedir?](https://medium.com/@halilozel1903/parrot-security-os-nedir-cdf172e8293b) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [iptables’e Giriş](https://suayip.medium.com/iptablese-giriş-31dbc55c04ab) - [Şuayip Üzülmez](https://github.com/realsuayip)
 
 
 ### Go
@@ -569,6 +572,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [6 Saatlik Python Eğitimi](https://www.youtube.com/watch?v=6IWpowC2ryc) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - :movie_camera: [15 Saatlik Python Eğitim Serisi - Yakın Kampüs](https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
 - [En Çok Kullanılan Python Metod ve Fonksiyonları](https://medium.com/developer-student-clubs/en-%C3%A7ok-kullan%C4%B1lan-python-metod-ve-fonksiyonlar%C4%B1-8354a7f989ac) - [Doğancan MAVİDENİZ](https://github.com/mavideniz)
+- [Python ile metaprogramlamaya bir bakış](https://suayip.medium.com/python-ile-metaprogramlamaya-bir-bak%C4%B1%C5%9F-d7771d468558) - [Şuayip Üzülmez](https://github.com/realsuayip)
 
 
 ### Rails
