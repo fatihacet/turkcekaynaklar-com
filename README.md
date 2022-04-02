@@ -77,6 +77,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Vue.js](#vuejs)
 - [WordPress](#wordpress)
 - [Xamarin](#xamarin)
+- [NestJS](#nest)
+
 - Diğer Kaynaklar
   - [Faydalı Linkler](#faydalı-linkler)
   - [Podcast Yayınları](#podcast-yayınları)
@@ -129,6 +131,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [NG Turkey](https://twitter.com/ngTurkiye)
 - :movie_camera: [Hızlandırılmış Angular Dersleri](https://www.youtube.com/playlist?list=PLSM07tMt8osNHLM_yfUnWafZ61m4FIbw1)
 - [Tailwind CSS'i Angular ile kullanmak](https://kodumunblogu.net/detail/tailwind-cssi-angular-ile-kullanmak)
+- [Angular Eğitimi](https://www.youtube.com/playlist?list=PLgLKSOtr-cJACeyo0jsJWd43JFu_Wzx2X) - Yasin Dalkılıç
 
 
 
@@ -431,6 +434,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JS ile Async Programlama Eğitim İçeriği](https://odayibasi.medium.com/js-ile-async-programlama-e%C4%9Fitim-i%CC%87%C3%A7eri%C4%9Fi-42c05667f54a) - [Onur Dayıbaşı](https://onurdayibasi.com/)
 - [Derinlemesine JS Öğren Eğitim İçeriği](https://odayibasi.medium.com/derinlemesine-js-%C3%B6%C4%9Fren-e%C4%9Fitim-i%CC%87%C3%A7eri%C4%9Fi-a9296b6938d8) - [Onur Dayıbaşı](https://onurdayibasi.com/)
 - [JS ile Meta Programlama Eğitim İçeriği](https://medium.com/frontend-development-with-js/js-ile-meta-programlama-e%C4%9Fitim-i%CC%87%C3%A7eri%C4%9Fi-276a1fd6fcee) - [Onur Dayıbaşı](https://onurdayibasi.com/)
+- [Js Eğitimi](https://www.youtube.com/playlist?list=PLgLKSOtr-cJDy8GkMjYIl0uEZYtu47tzf) - Yasin Dalkılıç
 
 
 
@@ -517,6 +521,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Node.js - HTML'den PDF Oluşturma](https://www.youtube.com/watch?v=C1LSXiV_Ldw) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - :movie_camera: [Node.js - Debugging İşlemi - VS Code - Chrome](https://youtu.be/Gr46CZcEXTg) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - :movie_camera: [Node.js Giriş](https://www.youtube.com/watch?v=dGlLoFbgmoM&list=PLHnI4uXxaT1Zd6GN-dDKB0auOBJA6BgwE) - [Ahmet Buğra Çakıcı](https://www.linkedin.com/in/ahmetbcakici)
+- [Nodejs Katmanlı Backend Eğitim](https://www.youtube.com/playlist?list=PLgLKSOtr-cJBn05YbxU7x0dd0WxG_LEX9) - Yasin Dalkılıç
+- [Nodejs](https://www.youtube.com/playlist?list=PLgLKSOtr-cJCUOySzfo8i7gFbncjCg0FF) - Yasin Dalkılıç
 
 ### OpenSSL
 - [OpenSSL CA Kılavuzu](https://github.com/zekiunal/openssl-certificate-authority-guide)
@@ -598,6 +604,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Redux Thunk’ın Kullanım Amacı](https://medium.com/batech/redux-thunk%C4%B1n-kullan%C4%B1m-amac%C4%B1-d4c068ea2a30) - [Yunus Ünver](https://twitter.com/yunusnver)
 - [React Server Components](https://www.youtube.com/watch?v=ZZrP6JcoN4E)
 - [React Çalışma Mantığı (Konseptler)](https://onurdayibasi.com/react/) - [Onur Dayıbaşı](https://onurdayibasi.com)
+- [React Eğitimi](https://www.youtube.com/playlist?list=PLgLKSOtr-cJDgwr7W5SwofoUIPH-M8c5I) - Yasin Dalkılıç
 
 
 ### React Native
@@ -729,15 +736,20 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Vue.Js Script Yapısı, Data, Methods, Created, Watch](https://mustafacagri.medium.com/vue-js-script-yap%C4%B1s%C4%B1-data-methods-created-watch-2ef93ce70488) - [Mustafa Çağrı Güven](https://github.com/mustafacagri)
 - [Vue.Js Components: Parent’ten Child’e Veri Aktarımı](https://mustafacagri.medium.com/vue-js-components-parentten-child-e-veri-aktar%C4%B1m%C4%B1-728a94f20d50) - [Mustafa Çağrı Güven](https://github.com/mustafacagri)
 - [Vue.Js v-model](https://mustafacagri.medium.com/vue-js-v-model-15669c8cac6e) - [Mustafa Çağrı Güven](https://github.com/mustafacagri)
+- [Vue Eğitimi](https://www.youtube.com/playlist?list=PLgLKSOtr-cJAIsC2EbIXac7noe6_93fXj) - Yasin Dalkılıç
 
 ### WordPress
 - :movie_camera: [WordPress Eğitim Seti: WordPress Nedir? WordPress'in Kısa Tarihi #1](https://www.youtube.com/watch?v=B3eXU1jJzH4) - [Baran Somaklı](https://twitter.com/baransomakli)
+
 
 
 ### Xamarin
 - [Xamarin Türkiye](http://www.xamarinturkiye.com/)
 - [Xamarin Uygulama Geliştirme](http://ozaksut.com/kategori/xamarin/) - [Yiğit Özaksüt](https://twitter.com/ozaksuty)
 - [Xamarin Forms Radial Progress Kullanımı](https://medium.com/@peacecwz/xamarin-forms-radial-progress-kullan%C4%B1m%C4%B1-73751aa2cffd) - [Barış Ceviz](https://github.com/peacecwz)
+
+### Nest
+- [NestJS Eğitimi](https://www.youtube.com/playlist?list=PLgLKSOtr-cJCoAoCsMLh1lkz5lCOvHNWA) - Yasin Dalkılıç
 
 
 ## Diğer Kaynaklar
@@ -879,6 +891,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Soner Gönül](https://www.youtube.com/c/sonergonul)
 - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
 - [Ahmet Buğra Çakıcı](https://www.youtube.com/user/EqualGameTR)
+- [Yasin Dalkılıç](https://www.youtube.com/channel/UCEsQUEuxqOtzYYSVJIUs22A)
+
+
 
 
 ### Twitch Kanalları
@@ -902,4 +917,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - Frontend Community ([Davetiye Al](https://discord.gg/XvSwsj32))
 - Crewotive ([Davetiye Al](https://discord.gg/PAqQvMTt))
 - findmentor.network ([Davetiye Al](https://discord.gg/MtUvTkUM))
+
+
 
