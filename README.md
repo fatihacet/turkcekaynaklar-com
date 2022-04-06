@@ -186,8 +186,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Csharp
-- :movie_camera: [C# Eğitimleri](https://www.youtube.com/playlist?list=PLQVXoXFVVtp2RYdXKWH2xnAGMjNp9oz9t) - [Gençay Yıldız](https://www.youtube.com/c/Gen%C3%A7ayY%C4%B1ld%C4%B1z)
-- :movie_camera: [Özel Ders Formatında A'dan Z'ye C# 10 Programlama Eğitimi](https://www.youtube.com/playlist?list=PLQVXoXFVVtp3e_urGZcMNAHx2Eo4Rm5Xk) - [Gençay Yıldız](https://www.youtube.com/c/Gen%C3%A7ayY%C4%B1ld%C4%B1z)
 - :movie_camera: [C# ile Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLjI4XZvh1FJIKMDPS2HS05uxfNHb_KTq1) - [Ahmet Yasin Ak](https://www.youtube.com/channel/UC06Q0ZtwUCd2uY4-2KUpUIg/feed)
 - :movie_camera: [C# Dersleri - 10 Günde CSharp (C#)](https://www.youtube.com/playlist?list=PL2atofUpdCAV_ZlpK9mz6ul-fRYx2yXDY) - [Yazılım Hocası](https://www.youtube.com/user/yazilimhocasi)
 - :movie_camera: [Acik Akademi C# Derleri](https://www.acikakademi.com/portal/egitimler/csharp-uygulama-gelistirme.aspx)
@@ -197,6 +195,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Codecademy C# Eğitimi [9 Kısım]](https://www.youtube.com/playlist?list=PL7rvg7Sao02sbGHbrgOI2Z-oUpVQ8prBf) - [Soner Gönül](https://www.youtube.com/c/sonergonul)
 - [Türkçe C# Kaynakları](https://github.com/vimevim/turkce-C-sharp-kaynaklari)
 - [Detaylı Microsoft C# Kılavuzu](https://docs.microsoft.com/tr-tr/dotnet/csharp/)
+- :movie_camera: [C# Eğitimleri](https://www.youtube.com/playlist?list=PLQVXoXFVVtp2RYdXKWH2xnAGMjNp9oz9t) - [Gençay Yıldız](https://www.youtube.com/c/Gen%C3%A7ayY%C4%B1ld%C4%B1z)
+- :movie_camera: [Özel Ders Formatında A'dan Z'ye C# 10 Programlama Eğitimi](https://www.youtube.com/playlist?list=PLQVXoXFVVtp3e_urGZcMNAHx2Eo4Rm5Xk) - [Gençay Yıldız](https://www.youtube.com/c/Gen%C3%A7ayY%C4%B1ld%C4%B1z)
+
 
 
 ### Clojure
