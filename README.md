@@ -478,6 +478,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Laravel'de Transaction Kullanımı](https://kodumunblogu.net/detail/laravelde-transaction-kullanimi)
 - [Laravel'de Swagger ile Rest Api Dökümantasyonu Hazırlama](https://kodumunblogu.net/detail/laravelde-swagger-ile-rest-api-dokumantasyonu-hazirlama)
 - [Laravel Mix Kullanımı](https://www.oktaybozaci.com/html-css/laravel-mix-kullanimi.html)
+- [Basitleştirilmiş Laravel Eğitim Serisi](https://www.youtube.com/watch?v=Pe6-in8s3pU&list=PLl4iwH7T84H9AcKe9TSP7rMfNZN-P3iTC&ab_channel=CodeigniterHocas%C4%B1)
 
 
 ### Machine Learning
