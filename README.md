@@ -130,7 +130,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [NG Turkey](https://twitter.com/ngTurkiye)
 - :movie_camera: [Hızlandırılmış Angular Dersleri](https://www.youtube.com/playlist?list=PLSM07tMt8osNHLM_yfUnWafZ61m4FIbw1)
 - [Tailwind CSS'i Angular ile kullanmak](https://kodumunblogu.net/detail/tailwind-cssi-angular-ile-kullanmak)
-
+- [1 Videoda Angular 12 ile Web Geliştirme Öğren](https://www.youtube.com/watch?v=e_FMI0WO2BU&t=868s)
+- [Angular 12 Dersleri](https://www.youtube.com/playlist?list=PLGGA89hAd_z1atRSZgsx0oXUATGWDckAU)
 
 
 ### ASP.NET
