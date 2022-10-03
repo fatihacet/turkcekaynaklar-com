@@ -438,6 +438,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [JS ile Async Programlama Eğitim İçeriği](https://odayibasi.medium.com/js-ile-async-programlama-e%C4%9Fitim-i%CC%87%C3%A7eri%C4%9Fi-42c05667f54a) - [Onur Dayıbaşı](https://onurdayibasi.com/)
 - [Derinlemesine JS Öğren Eğitim İçeriği](https://odayibasi.medium.com/derinlemesine-js-%C3%B6%C4%9Fren-e%C4%9Fitim-i%CC%87%C3%A7eri%C4%9Fi-a9296b6938d8) - [Onur Dayıbaşı](https://onurdayibasi.com/)
 - [JS ile Meta Programlama Eğitim İçeriği](https://medium.com/frontend-development-with-js/js-ile-meta-programlama-e%C4%9Fitim-i%CC%87%C3%A7eri%C4%9Fi-276a1fd6fcee) - [Onur Dayıbaşı](https://onurdayibasi.com/)
+- [JavaScript'te Fonksiyonlar](https://medium.com/@dev.isasari/javascriptte-fonksiyonlar-2b3d97b5e577) - [İsa Sarı](https://github.com/devisasari)
 
 
 
