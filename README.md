@@ -886,6 +886,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Soner Gönül](https://www.youtube.com/c/sonergonul)
 - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
 - [Ahmet Buğra Çakıcı](https://www.youtube.com/user/EqualGameTR)
+- [Yazılım İlk Adım](https://www.youtube.com/channel/UC809ldU4Pg1Hcj56i1-vsqQ)
+- [PROTOTURK](https://www.youtube.com/channel/UC1VAnqF9VLHNXngLwpov4kA)
 
 
 ### Twitch Kanalları
