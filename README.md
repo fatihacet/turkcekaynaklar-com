@@ -736,6 +736,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Vue.Js Script Yapısı, Data, Methods, Created, Watch](https://mustafacagri.medium.com/vue-js-script-yap%C4%B1s%C4%B1-data-methods-created-watch-2ef93ce70488) - [Mustafa Çağrı Güven](https://github.com/mustafacagri)
 - [Vue.Js Components: Parent’ten Child’e Veri Aktarımı](https://mustafacagri.medium.com/vue-js-components-parentten-child-e-veri-aktar%C4%B1m%C4%B1-728a94f20d50) - [Mustafa Çağrı Güven](https://github.com/mustafacagri)
 - [Vue.Js v-model](https://mustafacagri.medium.com/vue-js-v-model-15669c8cac6e) - [Mustafa Çağrı Güven](https://github.com/mustafacagri)
+- [Vue.Js’in React ve Angular’a Göre Avantajları](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) - [İsa Sarı](https://github.com/devisasari)
 
 ### WordPress
 - :movie_camera: [WordPress Eğitim Seti: WordPress Nedir? WordPress'in Kısa Tarihi #1](https://www.youtube.com/watch?v=B3eXU1jJzH4) - [Baran Somaklı](https://twitter.com/baransomakli)
