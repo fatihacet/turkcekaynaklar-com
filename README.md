@@ -833,6 +833,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [1 Proje 1 İnsan](https://open.spotify.com/show/6MxKBgJaqmgcHcZyJDKMHm)
 - [Made In Turkey](https://open.spotify.com/show/0KrspleijwAwVpD3u4vYha?si=nBIYvzp5TaWkdSbL6YRBkg)
 - [Sıfır](https://open.spotify.com/show/1kHzNwXOoppK4xlRpl0dq6?si=RCIBACNXQ-KngXJKp1Wbow)
+- [Lokalimde Çalışıyor ¯\\\_(ツ)_/¯](https://open.spotify.com/show/2XYFdbSghfwHjmh7lR4zAi?si=d510fb4f6c8c4b8b)
 
 
 ### YouTube Kanalları
