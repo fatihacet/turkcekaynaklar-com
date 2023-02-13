@@ -524,6 +524,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Node.js - HTML'den PDF Oluşturma](https://www.youtube.com/watch?v=C1LSXiV_Ldw) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - :movie_camera: [Node.js - Debugging İşlemi - VS Code - Chrome](https://youtu.be/Gr46CZcEXTg) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - :movie_camera: [Node.js Giriş](https://www.youtube.com/watch?v=dGlLoFbgmoM&list=PLHnI4uXxaT1Zd6GN-dDKB0auOBJA6BgwE) - [Ahmet Buğra Çakıcı](https://www.linkedin.com/in/ahmetbcakici)
+- [MEVN Stack Boilerplate — Node.js, Vue 3, Nuxt 3, Express, Vuetify, Pinia](https://mustafacagri.medium.com/mevn-stack-boilerplate-vue-3-nuxt-3-express-vuetify-201b13618d1a) - [Mustafa Çağrı Güven](https://github.com/mustafacagri)
 
 ### OpenSSL
 - [OpenSSL CA Kılavuzu](https://github.com/zekiunal/openssl-certificate-authority-guide)
