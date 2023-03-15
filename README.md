@@ -65,6 +65,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [RxJs](#rxjs)
+- [Sentry.io](#sentry)
 - [Sketch](#sketch)
 - [Solidity](#solidity)
 - [Sourcemod](#sourcemod)
@@ -636,6 +637,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### RXJS
 - [RxJs- Bilinmesi Gereken Operatörler](https://medium.com/@ahmetuyar/rxjs-bilinmesi-gereken-operat%C3%B6rler-d6291dbef1d0)
 
+### Sentry.io
+- [Sentry.io - Türkçe Kaynak](https://bilalkarakollu.github.io/sentry-tr/)
 
 ### Sketch
 - :movie_camera: [Sketch App (Web/Mobil Tasarım) Dersleri](https://www.youtube.com/playlist?list=PLcnWDe66aDNB1aDPMuWsVu_EeWaqv9Bdb) - [Devran Bostancioglu](https://medium.com/@dbostancioglu)
