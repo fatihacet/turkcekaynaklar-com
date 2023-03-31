@@ -466,7 +466,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Kotlin Companion Object](https://medium.com/@halilozel1903/kotlin-companion-object-e64b78b5c9d1) - [Halil ÖZEL](https://github.com/halilozel1903)
 - :movie_camera: [Kotlin Programlama Dersleri](https://www.youtube.com/playlist?list=PLBHsgdMqzYRNMwOio8neT-CmeHahix2Cw) - [Halil ÖZEL](https://www.youtube.com/channel/UCi7Yz0h9pgncXmW52JXq7YQ)
 - [Kotlin Scope Fonksiyonlar](https://medium.com/@halilozel1903/kotlin-scope-fonksiyonlar-32635a7d5569) - [Halil ÖZEL](https://github.com/halilozel1903)
-
+- [Kotlin Data Class](https://halilozel1903.medium.com/kotlin-data-class-253e288c4a52) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin Sealed Class](https://halilozel1903.medium.com/kotlin-sealed-class-dd4b45be0791) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin Set Kullanımı](https://halilozel1903.medium.com/kotlin-set-kullanımı-2c6c5587af1a) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Kotlin Coroutines Nedir?](https://halilozel1903.medium.com/kotlin-coroutines-nedir-886a8f50010c) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 ### Laravel
 - [Laravel Nedir?](https://www.sinaneldem.com.tr/laravel-framework-nedir-ve-ozellikleri-nelerdir) - [Sinan Eldem](https://twitter.com/sineld)
