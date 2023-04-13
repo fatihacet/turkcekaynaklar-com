@@ -888,6 +888,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Soner Gönül](https://www.youtube.com/c/sonergonul)
 - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
 - [Ahmet Buğra Çakıcı](https://www.youtube.com/user/EqualGameTR)
+- [Frontendship](https://www.youtube.com/@frontendship)
+
 
 
 ### Twitch Kanalları
@@ -904,6 +906,13 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye) ([Kayıt Ol/Giriş Yap](https://goo.gl/forms/13CuWViVwRQw970s2))
 - [DevOps Türkiye](https://medium.com/devopsturkiye) ([Kayıt Ol/Giriş Yap](https://communityinviter.com/apps/devopsturkiye/devops-tuerkiye-slack-grubu))
 
+### Telegram Grupları
+- [Dev İzmir](https://devizmir.com/) ([Davetiye Al](https://t.me/devizmir))
+- [açık kaynak geliştirme](https://10forward.io/) ([Davetiye Al](https://t.me/acikkaynak))
+- jstanbul [Davetiye Al](https://t.me/jstanbulGroup)
+- Yatırımcı Yazılımcılar [Davetiye Al](https://t.me/+aV7m-NOwsAY1ZTk0)
+- Hayvansever Yazılımcılar [Davetiye Al](https://web.telegram.org/z/#-1722222420)
+
 ### Discord Grupları
 - [Kodluyoruz](https://www.kodluyoruz.org/) ([Davetiye Al](https://discord.gg/95hSpX9v))
 - [Patika LaunchPad](https://www.patika.dev/) ([Davetiye Al](https://docs.google.com/forms/d/e/1FAIpQLSeUIKgwh5sPROGRl-9OPq6qZJmSziInWW7jDlI04oG7NhupTA/viewform?fbzx=-3280402197482092813))
@@ -911,4 +920,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - Frontend Community ([Davetiye Al](https://discord.gg/XvSwsj32))
 - Crewotive ([Davetiye Al](https://discord.gg/PAqQvMTt))
 - findmentor.network ([Davetiye Al](https://discord.gg/MtUvTkUM))
+- Frontendship ([Davetiye Al](https://discord.gg/frontendship))
+
 
