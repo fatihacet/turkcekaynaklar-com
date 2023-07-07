@@ -260,6 +260,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Design Patterns
 - [Strategy Design Pattern](https://medium.com/yaz%C4%B1l%C4%B1ma-dair/strategy-design-pattern-29fce07f2a9b)
+- :movie_camera: [Uygulamalı Tasarım Kalıpları Dersleri](https://www.youtube.com/playlist?list=PLLCTYkJ1vsDDoE7CJ_xfd373RKah1V0y9)
+- [Tasarım Kalıpları Giriş](https://tugrulbayrak.medium.com/design-patterns-tasarim-kaliplari-3da2018eb9c5)
+- [Tasarım Kalıpları - Örnekleriyle Birlikte](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak)
+- [Tasarım Kalıpları Çalışma Notları](https://onurdayibasi.com/oop-tasarim-oruntuleri/)
 
 ### Django
 - :movie_camera: [Django 101](https://www.youtube.com/watch?v=L-26ZJ3s6Mc&index=1&list=PLJeh-dT_Z82vvyYXmp1auK6A6e3aDlgCG&t=8s) - [Tolgahan Üzün](https://twitter.com/tlghnzn)
