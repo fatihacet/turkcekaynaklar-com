@@ -652,7 +652,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### SQL
 - :movie_camera: [SQL Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-6vvPSJssG4Jp6UqCTmWSz) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
-
+- :movie_camera: [Uygulamalarla SQL Öğreniyorum](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249) - [Ömer Çolakoğlu](https://twitter.com/omer_colakoglu/status/1687371231727603713)
 
 ### Swift
 - [Swift Türkiye](https://medium.com/swift-t%C3%BCrkiye/archive) - [Özgür Şahin](https://github.com/ozgurshn) & [Hüseyin Bagana](https://medium.com/@huseyinbagana)
