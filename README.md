@@ -9,14 +9,14 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Konu Başlıkları
   - [Android](#android)
   - [Angular](#angular)
-  - [ASP.NET](#aspnet)
   - [Arduino](#arduino)
+  - [ASP.NET](#aspnet)
   - [Bash](#bash)
   - [Bilgisayar Bilimleri](#bilgisayar-bilimleri)
   - [Blockchain](#blockchain)
   - [Bot Framework](#bot-framework)
   - [C](#c)
-  - [Csharp](#csharp)
+  - [C#](#csharp)
   - [Clojure](#clojure)
   - [CodeIgniter](#codeigniter)
   - [Cpp](#cpp)
@@ -29,8 +29,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
   - [Django](#django)
   - [Docker](#docker)
   - [Electron](#electron)
-  - [Flux](#flux)
   - [Flutter](#flutter)
+  - [Flux](#flux)
   - [Git](#git)
   - [GNU/Linux](#gnulinux)
   - [Go](#go)
@@ -46,7 +46,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
   - [Kotlin](#kotlin)
   - [Laravel](#laravel)
   - [Machine Learning](#machine-learning)
-  - [Matlab](#matlab)
+  - [MATLAB](#matlab)
   - [MongoDB](#mongodb)
   - [Nginx](#nginx)
   - [Node.js](#nodejs)
@@ -61,7 +61,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
   - [React Native](#react-native)
   - [Ruby](#ruby)
   - [Rust](#rust)
-  - [RXJS](#rxjs)
+  - [RxJs](#rxjs)
   - [Sketch](#sketch)
   - [Solidity](#solidity)
   - [Sourcemod](#sourcemod)
@@ -127,7 +127,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Hızlandırılmış Angular Dersleri](https://www.youtube.com/playlist?list=PLSM07tMt8osNHLM_yfUnWafZ61m4FIbw1)
 - [Tailwind CSS'i Angular ile kullanmak](https://kodumunblogu.net/detail/tailwind-cssi-angular-ile-kullanmak)
 
-
+### Arduino
+- [Arduino - Robotistan](https://maker.robotistan.com/kategori/arduino/)
+- [Arduino Nedir?](https://medium.com/@halilozel1903/arduino-nedir-722dbfda3fff) - [Halil ÖZEL](https://github.com/halilozel1903)
+- [Arduino Dersleri](https://www.azkod.com/arduino)
 
 ### ASP.NET
 - :movie_camera: [ASP.NET ile Basit Okul Projesi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj49bsuq6iLrg1qyZtekSCgPW) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
@@ -145,12 +148,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Asp.Net Core Uygulamalarında Autofac Kullanımı](http://www.canertosuner.com/post/asp-net-core-uygulamalarinda-farkli-di-ioc-containerlar-nasil-kullanilir) - [Caner Tosuner](http://www.canertosuner.com)
 - [Teknik Muhabbetler #3 (CQRS)](https://medium.com/mobiroller-tech/teknik-muhabbetler-3-cqrs-dfc32f44280e) - [Furkan Güngör](https://furkan-dvlp.medium.com/)
 - [Hangfire Ve .Net/.Net Core Console App ile Currency Reporter](https://gcifguvercin.medium.com/hangfire-ve-net-net-core-console-app-ile-currency-reporter-5342764b0f0f) - [Gizem Cifgüvercin](https://gcifguvercin.medium.com)
-
-
-### Arduino
-- [Arduino - Robotistan](https://maker.robotistan.com/kategori/arduino/)
-- [Arduino Nedir?](https://medium.com/@halilozel1903/arduino-nedir-722dbfda3fff) - [Halil ÖZEL](https://github.com/halilozel1903)
-- [Arduino Dersleri](https://www.azkod.com/arduino)
 
 ### Bash
 - [Bash(Shell) Rehberi](https://github.com/omergulen/bash-guide) - [Ömer Gülen](https://twitter.com/omergulenn)
@@ -276,11 +273,6 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Electron Uygulamasının, Dağıtma ve Güncelleme Senaryoları](http://www.avarekodcu.com/konu/29/electron-uygulamasinin-dagitma-ve-guncelleme-senaryolari) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 - :movie_camera: [Electron.js ile Masaüstü Uygulama Geliştirme](https://www.youtube.com/watch?v=qsM9ylyt7xw&list=PL_f2F0Oyaj48jgl98pHuoyxoTgi7gXJ-z) - [Gökhan Kandemir](https://www.youtube.com/c/kablosuzkedii)
 
-
-### Flux
-- [Karikatürler üzerinden Flux](https://medium.com/@keremciu/karikat%C3%BCrler-%C3%BCzerinden-flux-3e8ad03db2c4) - [Kerem Sevencan](https://twitter.com/keremciu)
-
-
 ### Flutter
 - :movie_camera: [Google Flutter Dersleri Dart Dersleri](https://www.youtube.com/watch?v=nAxc6zViHWo&list=PLrWGe5fM0LZ6aJG8dWFRkqchaHENPmLET)
 - [Flutter Nedir?](https://medium.com/@halilozel1903/flutter-nedir-8a3cb33fdb9d) - [Halil ÖZEL](https://github.com/halilozel1903)
@@ -290,7 +282,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Flutter Eğitimi](https://www.youtube.com/playlist?list=PL1k5oWAuBhgUpOHXXnWpI8nQ4yCGXth5K)
 - [Flutter’da Dinamik Tema Oluşturmak](https://medium.com/developer-student-clubs/flutterda-dinamik-tema-olu%C5%9Fturmak-1325c6ff4249) - [Doğancan MAVİDENİZ](https://github.com/mavideniz)
 
-
+### Flux
+- [Karikatürler üzerinden Flux](https://medium.com/@keremciu/karikat%C3%BCrler-%C3%BCzerinden-flux-3e8ad03db2c4) - [Kerem Sevencan](https://twitter.com/keremciu)
 
 ### Git
 - [Türkçe Git 101](https://aliozgur.gitbooks.io/git101/) - [Ali Özgür](https://twitter.com/aliozgur)
@@ -467,7 +460,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Makine Ögrenmesi Video Blog](https://www.youtube.com/playlist?list=PLRRY18KNZTgUQx8NT_YqCVOyb-VnB79W2)
 
 
-### Matlab
+### MATLAB
 - [MATLAB Nedir?](https://medium.com/@halilozel1903/matlab-nedir-91a904a74f45) - [Halil ÖZEL](https://github.com/halilozel1903)
 
 
