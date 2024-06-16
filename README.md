@@ -244,6 +244,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Design Patterns
 - [Strategy Design Pattern](https://medium.com/yaz%C4%B1l%C4%B1ma-dair/strategy-design-pattern-29fce07f2a9b)
+- :movie_camera: [Uygulamalı Tasarım Kalıpları Dersleri](https://www.youtube.com/playlist?list=PLLCTYkJ1vsDDoE7CJ_xfd373RKah1V0y9)
+- [Tasarım Kalıpları Giriş](https://tugrulbayrak.medium.com/design-patterns-tasarim-kaliplari-3da2018eb9c5)
+- [Tasarım Kalıpları - Örnekleriyle Birlikte](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak)
+- [Tasarım Kalıpları Çalışma Notları](https://onurdayibasi.com/oop-tasarim-oruntuleri/)
 
 ### Django
 - :movie_camera: [Django 101](https://www.youtube.com/watch?v=L-26ZJ3s6Mc&index=1&list=PLJeh-dT_Z82vvyYXmp1auK6A6e3aDlgCG&t=8s) - [Tolgahan Üzün](https://twitter.com/tlghnzn)
@@ -769,6 +773,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Clean Code (Temiz Kod) Nedir?](https://medium.com/architectural-patterns/clean-code-temiz-kod-nedir-754fc7ccd5b8) - [Onur Dayıbaşı](https://odayibasi.medium.com/)
 - [Front-End Geliştirme Araçları](https://aycanogut.medium.com/front-end-geli%C5%9Ftirme-ara%C3%A7lar%C4%B1-ff3dc6b4511) - [Aycan Öğüt](https://github.com/aycanogut)
 - [Icomoon ile Web-Font Icon Paketleri Oluşturma](https://aycanogut.medium.com/icomoon-ile-web-font-icon-paketleri-olu%C5%9Fturma-2f6acd98dc67) - [Aycan Öğüt](https://github.com/aycanogut)
+- :movie_camera: ["Bulut" Problemi](https://youtu.be/dBQbvWfRvEE?t=16391) - [Barış Büyükakyol](https://twitter.com/barisbuyukakyol)
 
 
 
