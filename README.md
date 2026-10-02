@@ -799,7 +799,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Soner Gönül](https://www.youtube.com/c/sonergonul)
 - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
 - [Ahmet Buğra Çakıcı](https://www.youtube.com/user/EqualGameTR)
-
+- [ByteBloodz](https://youtube.com/@bytebloodz)
 
 ### Twitch Kanalları
 - [Soner Gönül](https://www.twitch.tv/sonergonul)
